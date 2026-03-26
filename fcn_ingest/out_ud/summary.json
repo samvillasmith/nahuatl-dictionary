@@ -1,0 +1,10 @@
+{
+  "input_files": [
+    "data/github/ud-western-sierra-puebla/nhi_itml-ud-test.conllu",
+    "data/github/ud-highland-puebla/azz_itml-ud-test.conllu"
+  ],
+  "sentences": 2169,
+  "tokens": 19549,
+  "unique_features": 61,
+  "out_dir": "out_ud"
+}

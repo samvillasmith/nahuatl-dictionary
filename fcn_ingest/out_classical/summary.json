@@ -1,0 +1,10 @@
+{
+  "input_files": [
+    "simeon_1885_ocr_raw.txt",
+    "simeon_parsed.json"
+  ],
+  "blocks": 60663,
+  "examples": 55904,
+  "headword_candidates": 63,
+  "out_dir": "out_classical"
+}

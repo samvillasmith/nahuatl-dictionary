@@ -1,0 +1,99 @@
+{
+  "input": "nahuatl_kaikki_unified.json",
+  "input_format": "kaikki_unified",
+  "rows": 8465,
+  "out_jsonl": "out_kaikki\\fcn_lexical_rows.jsonl",
+  "out_csv": "out_kaikki\\fcn_lexical_rows.csv",
+  "variety_counts": [
+    [
+      "Classical Nahuatl",
+      5132
+    ],
+    [
+      "Central Nahuatl",
+      1855
+    ],
+    [
+      "Central Huasteca Nahuatl",
+      795
+    ],
+    [
+      "Eastern Huasteca Nahuatl",
+      683
+    ]
+  ],
+  "pos_counts": [
+    [
+      "noun",
+      6304
+    ],
+    [
+      "verb",
+      728
+    ],
+    [
+      "name",
+      641
+    ],
+    [
+      "num",
+      230
+    ],
+    [
+      "adv",
+      161
+    ],
+    [
+      "adj",
+      148
+    ],
+    [
+      "suffix",
+      73
+    ],
+    [
+      "pron",
+      67
+    ],
+    [
+      "prefix",
+      27
+    ],
+    [
+      "det",
+      23
+    ],
+    [
+      "intj",
+      21
+    ],
+    [
+      "particle",
+      17
+    ],
+    [
+      "conj",
+      11
+    ],
+    [
+      "prep",
+      7
+    ],
+    [
+      "phrase",
+      3
+    ],
+    [
+      "article",
+      2
+    ],
+    [
+      "counter",
+      1
+    ],
+    [
+      "interfix",
+      1
+    ]
+  ]
+}

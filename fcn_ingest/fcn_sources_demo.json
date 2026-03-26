@@ -1,0 +1,25 @@
+{
+  "sources": [
+    {
+      "name": "enwiktionary-pages-articles",
+      "type": "wikimedia_dump",
+      "url": "https://dumps.wikimedia.org/enwiktionary/latest/enwiktionary-latest-pages-articles.xml.bz2",
+      "license": "CC BY-SA / GFDL; verify dump/site notice",
+      "notes": "Official dump; parse locally for Nahuatl entries and templates."
+    },
+    {
+      "name": "archive-vocabulario-molina-metadata",
+      "type": "internet_archive_metadata",
+      "identifier": "vocabularioenlen00moli_0",
+      "license": "See item rights / public-domain metadata context",
+      "notes": "Get metadata before deciding which derivatives to download."
+    },
+    {
+      "name": "ud-western-sierra-puebla-readme",
+      "type": "github_raw",
+      "url": "https://raw.githubusercontent.com/UniversalDependencies/UD_Western_Sierra_Puebla_Nahuatl-ITML/master/README.md",
+      "license": "Per-treebank license; inspect repository and release license",
+      "notes": "Useful for corpus provenance and annotation notes."
+    }
+  ]
+}
