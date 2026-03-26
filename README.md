@@ -27,8 +27,8 @@ Classical Nahuatl is the shared root of every modern variety, the language of th
 ├── README.md                    # This file
 ├── simeon_parsed.json           # Full parsed Siméon dictionary (28,709 entries)
 ├── simeon_wordlist.txt          # Plain headword list (26,806 words)
-├── simeon_parser.py             # Parser — reproduce or improve the extraction
 ├── simeon_1885_ocr_raw.txt      # Raw OCR of Siméon 1885
+├── simeon_parser.py             # Parser — reproduce or improve the extraction
 ├── download_all_nahuatl.py      # Source downloader script
 │
 ├── fcn_ingest/                  # FCN source parser pipeline
@@ -37,20 +37,58 @@ Classical Nahuatl is the shared root of every modern variety, the language of th
 │   ├── fcn_sources_demo.json    # Demo configuration for ingest pipeline
 │   ├── FCN_SOURCE_PARSERS_README.md  # Parser documentation
 │   ├── README_SOURCES.txt       # Source provenance memo
+│   │
+│   │  # Wiktionary source files
 │   ├── nahuatl_kaikki_unified.json   # Unified Wiktionary data (all varieties)
 │   ├── nahuatl_kaikki_raw.jsonl      # Raw Wiktionary extract
 │   ├── kaikki_nci.jsonl         # Classical Nahuatl (Wiktionary)
 │   ├── kaikki_nhn.jsonl         # Central Nahuatl (Wiktionary)
 │   ├── kaikki_nch.jsonl         # Central Huasteca Nahuatl (Wiktionary)
 │   ├── kaikki_nhe.jsonl         # Eastern Huasteca Nahuatl (Wiktionary)
-│   ├── simeon_parsed.json       # Siméon dictionary (pipeline copy)
-│   ├── simeon_1885_ocr_raw.txt  # Raw OCR of Siméon 1885 (pipeline copy)
-│   ├── simeon_parser.py         # Siméon parser (pipeline copy)
-│   ├── simeon_wordlist.txt      # Siméon headword list (pipeline copy)
-│   ├── out_kaikki/              # Parsed Wiktionary lexical rows (8,465 rows)
-│   ├── out_ud/                  # Parsed UD grammar evidence tables
-│   ├── out_classical/           # Classical example bank (55,904 examples)
-│   └── data/ledger/             # Provenance ledger for all ingested sources
+│   │
+│   │  # Siméon source files (pipeline copies)
+│   ├── simeon_parsed.json
+│   ├── simeon_1885_ocr_raw.txt
+│   ├── simeon_parser.py
+│   ├── simeon_wordlist.txt
+│   │
+│   │  # Parsed outputs
+│   ├── out_kaikki/              # Wiktionary → FCN lexical rows
+│   │   ├── fcn_lexical_rows.csv       # 8,465 rows (3.1 MB)
+│   │   ├── fcn_lexical_rows.jsonl     # Same data, JSONL format (6.9 MB)
+│   │   └── summary.json
+│   │
+│   ├── out_classical/           # Siméon → classical example bank
+│   │   ├── classical_blocks.jsonl     # 60,663 text blocks (16.4 MB)
+│   │   ├── classical_examples.jsonl   # 55,904 examples (11.6 MB)
+│   │   ├── headword_candidates.csv    # 63 candidates (2.9 KB)
+│   │   └── summary.json
+│   │
+│   ├── out_ud/                  # UD treebanks → grammar evidence tables
+│   │   ├── sentences.jsonl            # 2,169 sentences (1.0 MB)
+│   │   ├── tokens.csv                 # 19,549 tokens
+│   │   ├── lemma_feature_counts.csv   # Lemma × feature matrix (182.4 KB)
+│   │   ├── dependency_counts.csv      # Dependency relation counts (9.6 KB)
+│   │   ├── feature_counts.csv         # Grammatical feature counts (2.7 KB)
+│   │   ├── grammar_evidence_examples.jsonl  # Example sentences per pattern (18.5 KB)
+│   │   └── summary.json
+│   │
+│   └── data/                    # Raw ingested sources with provenance
+│       ├── ledger/
+│       │   └── provenance.csv         # Legal provenance ledger for all sources
+│       ├── wikimedia/
+│       │   └── enwiktionary-pages-articles/
+│       │       └── enwiktionary-latest-pages-articles.xml.bz2  # Full Wiktionary dump
+│       ├── internet_archive/
+│       │   └── vocabularioenlen00moli_0/
+│       │       └── metadata.json      # Molina 1571 archive metadata
+│       └── github/
+│           ├── ud-western-sierra-puebla/
+│           │   └── nhi_itml-ud-test.conllu   # Western Sierra Puebla treebank
+│           ├── ud-western-sierra-puebla-readme/
+│           │   └── README.md
+│           └── ud-highland-puebla/
+│               └── azz_itml-ud-test.conllu   # Highland Puebla treebank
 │
 └── msn_word_inventory/          # Modern Standard Nahuatl word inventory workspace
     ├── nahuatl_kaikki_unified.json
@@ -94,8 +132,34 @@ https://nahuatl-language.s3.us-east-1.amazonaws.com/molina/
 | `kaikki_nhn.jsonl` (Central) | 1.6 MB | [Download](https://nahuatl-language.s3.us-east-1.amazonaws.com/molina/fcn_ingest/kaikki_nhn.jsonl) |
 | `kaikki_nch.jsonl` (Central Huasteca) | 601.5 KB | [Download](https://nahuatl-language.s3.us-east-1.amazonaws.com/molina/fcn_ingest/kaikki_nch.jsonl) |
 | `kaikki_nhe.jsonl` (Eastern Huasteca) | 484.4 KB | [Download](https://nahuatl-language.s3.us-east-1.amazonaws.com/molina/fcn_ingest/kaikki_nhe.jsonl) |
+| `enwiktionary-latest-pages-articles.xml.bz2` (full dump) | ~1.5 GB | [Download](https://nahuatl-language.s3.us-east-1.amazonaws.com/molina/fcn_ingest/data/wikimedia/enwiktionary-pages-articles/enwiktionary-latest-pages-articles.xml.bz2) |
 
-### FCN Pipeline
+> The Wiktionary dump is also available directly from [Wikimedia](https://dumps.wikimedia.org/enwiktionary/latest/).
+
+### Parsed Outputs
+
+| File | Size | Link |
+|------|------|------|
+| `out_kaikki/fcn_lexical_rows.csv` | 3.1 MB | [Download](https://nahuatl-language.s3.us-east-1.amazonaws.com/molina/fcn_ingest/out_kaikki/fcn_lexical_rows.csv) |
+| `out_kaikki/fcn_lexical_rows.jsonl` | 6.9 MB | [Download](https://nahuatl-language.s3.us-east-1.amazonaws.com/molina/fcn_ingest/out_kaikki/fcn_lexical_rows.jsonl) |
+| `out_classical/classical_blocks.jsonl` | 16.4 MB | [Download](https://nahuatl-language.s3.us-east-1.amazonaws.com/molina/fcn_ingest/out_classical/classical_blocks.jsonl) |
+| `out_classical/classical_examples.jsonl` | 11.6 MB | [Download](https://nahuatl-language.s3.us-east-1.amazonaws.com/molina/fcn_ingest/out_classical/classical_examples.jsonl) |
+| `out_classical/headword_candidates.csv` | 2.9 KB | [Download](https://nahuatl-language.s3.us-east-1.amazonaws.com/molina/fcn_ingest/out_classical/headword_candidates.csv) |
+| `out_ud/sentences.jsonl` | 1.0 MB | [Download](https://nahuatl-language.s3.us-east-1.amazonaws.com/molina/fcn_ingest/out_ud/sentences.jsonl) |
+| `out_ud/tokens.csv` | — | [Download](https://nahuatl-language.s3.us-east-1.amazonaws.com/molina/fcn_ingest/out_ud/tokens.csv) |
+| `out_ud/lemma_feature_counts.csv` | 182.4 KB | [Download](https://nahuatl-language.s3.us-east-1.amazonaws.com/molina/fcn_ingest/out_ud/lemma_feature_counts.csv) |
+| `out_ud/dependency_counts.csv` | 9.6 KB | [Download](https://nahuatl-language.s3.us-east-1.amazonaws.com/molina/fcn_ingest/out_ud/dependency_counts.csv) |
+| `out_ud/feature_counts.csv` | 2.7 KB | [Download](https://nahuatl-language.s3.us-east-1.amazonaws.com/molina/fcn_ingest/out_ud/feature_counts.csv) |
+| `out_ud/grammar_evidence_examples.jsonl` | 18.5 KB | [Download](https://nahuatl-language.s3.us-east-1.amazonaws.com/molina/fcn_ingest/out_ud/grammar_evidence_examples.jsonl) |
+
+### Universal Dependencies Treebanks
+
+| File | Size | Link |
+|------|------|------|
+| `nhi_itml-ud-test.conllu` (Western Sierra Puebla) | 1.3 MB | [Download](https://nahuatl-language.s3.us-east-1.amazonaws.com/molina/fcn_ingest/data/github/ud-western-sierra-puebla/nhi_itml-ud-test.conllu) |
+| `azz_itml-ud-test.conllu` (Highland Puebla) | — | [Download](https://nahuatl-language.s3.us-east-1.amazonaws.com/molina/fcn_ingest/data/github/ud-highland-puebla/azz_itml-ud-test.conllu) |
+
+### FCN Pipeline Scripts
 
 | File | Size | Link |
 |------|------|------|
@@ -103,8 +167,7 @@ https://nahuatl-language.s3.us-east-1.amazonaws.com/molina/
 | `fcn_legal_ingest.py` | 10.6 KB | [Download](https://nahuatl-language.s3.us-east-1.amazonaws.com/molina/fcn_ingest/fcn_legal_ingest.py) |
 | `FCN_SOURCE_PARSERS_README.md` | 2.2 KB | [Download](https://nahuatl-language.s3.us-east-1.amazonaws.com/molina/fcn_ingest/FCN_SOURCE_PARSERS_README.md) |
 | `README_SOURCES.txt` | 2.2 KB | [Download](https://nahuatl-language.s3.us-east-1.amazonaws.com/molina/fcn_ingest/README_SOURCES.txt) |
-
-> **Note:** The Wiktionary source dump (`enwiktionary-latest-pages-articles.xml.bz2`, ~1.5 GB) is not hosted here. Download it directly from [Wikimedia](https://dumps.wikimedia.org/enwiktionary/latest/).
+| `provenance.csv` | — | [Download](https://nahuatl-language.s3.us-east-1.amazonaws.com/molina/fcn_ingest/data/ledger/provenance.csv) |
 
 ## Data at a Glance
 
