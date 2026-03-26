@@ -304,4 +304,8 @@ Paris: Imprimerie Nationale, 1885.
 
 ## License
 
+<<<<<<< HEAD
 The parsed data in this repository is released under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). The source material is public domain. Wiktionary-derived data inherits CC BY-SA 3.0 / GFDL.
+=======
+The parsed data in this repository is released under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). The source material is public domain. Wiktionary-derived data inherits CC BY-SA 3.0 / GFDL.
+>>>>>>> a6244d3 (added governance documents)
