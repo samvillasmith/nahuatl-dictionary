@@ -24,33 +24,87 @@ Classical Nahuatl is the shared root of every modern variety, the language of th
 ## Repository Structure
 
 ```
-├── simeon_parsed.json          # Full parsed Siméon dictionary (28,709 entries)
+├── README.md                    # This file
+├── simeon_parsed.json           # Full parsed Siméon dictionary (28,709 entries)
 ├── simeon_wordlist.txt          # Plain headword list (26,806 words)
 ├── simeon_parser.py             # Parser — reproduce or improve the extraction
-├── amoxtli_glossary.json        # Curated philosophical/theological glossary (44 entries)
+├── simeon_1885_ocr_raw.txt      # Raw OCR of Siméon 1885
+├── download_all_nahuatl.py      # Source downloader script
 │
 ├── fcn_ingest/                  # FCN source parser pipeline
 │   ├── fcn_source_parsers.py    # Multi-source parser (Wiktionary, UD, IA, Nahuatlahtolli)
 │   ├── fcn_legal_ingest.py      # Source downloader with provenance tracking
+│   ├── fcn_sources_demo.json    # Demo configuration for ingest pipeline
+│   ├── FCN_SOURCE_PARSERS_README.md  # Parser documentation
+│   ├── README_SOURCES.txt       # Source provenance memo
+│   ├── nahuatl_kaikki_unified.json   # Unified Wiktionary data (all varieties)
+│   ├── nahuatl_kaikki_raw.jsonl      # Raw Wiktionary extract
+│   ├── kaikki_nci.jsonl         # Classical Nahuatl (Wiktionary)
+│   ├── kaikki_nhn.jsonl         # Central Nahuatl (Wiktionary)
+│   ├── kaikki_nch.jsonl         # Central Huasteca Nahuatl (Wiktionary)
+│   ├── kaikki_nhe.jsonl         # Eastern Huasteca Nahuatl (Wiktionary)
+│   ├── simeon_parsed.json       # Siméon dictionary (pipeline copy)
+│   ├── simeon_1885_ocr_raw.txt  # Raw OCR of Siméon 1885 (pipeline copy)
+│   ├── simeon_parser.py         # Siméon parser (pipeline copy)
+│   ├── simeon_wordlist.txt      # Siméon headword list (pipeline copy)
 │   ├── out_kaikki/              # Parsed Wiktionary lexical rows (8,465 rows)
 │   ├── out_ud/                  # Parsed UD grammar evidence tables
 │   ├── out_classical/           # Classical example bank (55,904 examples)
 │   └── data/ledger/             # Provenance ledger for all ingested sources
 │
 └── msn_word_inventory/          # Modern Standard Nahuatl word inventory workspace
+    ├── nahuatl_kaikki_unified.json
+    ├── nahuatl_kaikki_raw.jsonl
+    ├── kaikki_nci.jsonl
+    ├── kaikki_nch.jsonl
+    ├── kaikki_nhe.jsonl
+    ├── kaikki_nhn.jsonl
+    ├── README_SOURCES.txt
+    ├── simeon_parsed.json
+    ├── simeon_1885_ocr_raw.txt
+    ├── simeon_parser.py
+    └── simeon_wordlist.txt
 ```
 
-## Large Files (S3)
+## S3 Hosting
 
-Some source files exceed GitHub's 100 MB limit and are hosted publicly on S3:
+All files are publicly hosted on Amazon S3. The base URL is:
+
+```
+https://nahuatl-language.s3.us-east-1.amazonaws.com/molina/
+```
+
+### Core Data Files
 
 | File | Size | Link |
 |------|------|------|
-| `enwiktionary-latest-pages-articles.xml.bz2` | ~1.5 GB | [Download from S3](https://YOUR-BUCKET-NAME.s3.amazonaws.com/enwiktionary-latest-pages-articles.xml.bz2) |
-| `molina_1571_ocr_raw.txt` | — | [Download from S3](https://YOUR-BUCKET-NAME.s3.amazonaws.com/molina_1571_ocr_raw.txt) |
-| `simeon_1885_ocr_raw.txt` | — | [Download from S3](https://YOUR-BUCKET-NAME.s3.amazonaws.com/simeon_1885_ocr_raw.txt) |
+| `simeon_parsed.json` | 6.2 MB | [Download](https://nahuatl-language.s3.us-east-1.amazonaws.com/molina/simeon_parsed.json) |
+| `simeon_1885_ocr_raw.txt` | 3.2 MB | [Download](https://nahuatl-language.s3.us-east-1.amazonaws.com/molina/simeon_1885_ocr_raw.txt) |
+| `simeon_wordlist.txt` | 359.6 KB | [Download](https://nahuatl-language.s3.us-east-1.amazonaws.com/molina/simeon_wordlist.txt) |
+| `simeon_parser.py` | 13.2 KB | [Download](https://nahuatl-language.s3.us-east-1.amazonaws.com/molina/simeon_parser.py) |
+| `download_all_nahuatl.py` | 14.2 KB | [Download](https://nahuatl-language.s3.us-east-1.amazonaws.com/molina/download_all_nahuatl.py) |
 
-> **Note:** Replace the S3 links above with your actual bucket URLs. The Wiktionary dump is also available directly from [Wikimedia](https://dumps.wikimedia.org/enwiktionary/latest/).
+### Wiktionary / Kaikki Data
+
+| File | Size | Link |
+|------|------|------|
+| `nahuatl_kaikki_unified.json` | 3.9 MB | [Download](https://nahuatl-language.s3.us-east-1.amazonaws.com/molina/fcn_ingest/nahuatl_kaikki_unified.json) |
+| `nahuatl_kaikki_raw.jsonl` | 9.3 MB | [Download](https://nahuatl-language.s3.us-east-1.amazonaws.com/molina/fcn_ingest/nahuatl_kaikki_raw.jsonl) |
+| `kaikki_nci.jsonl` (Classical) | 6.2 MB | [Download](https://nahuatl-language.s3.us-east-1.amazonaws.com/molina/fcn_ingest/kaikki_nci.jsonl) |
+| `kaikki_nhn.jsonl` (Central) | 1.6 MB | [Download](https://nahuatl-language.s3.us-east-1.amazonaws.com/molina/fcn_ingest/kaikki_nhn.jsonl) |
+| `kaikki_nch.jsonl` (Central Huasteca) | 601.5 KB | [Download](https://nahuatl-language.s3.us-east-1.amazonaws.com/molina/fcn_ingest/kaikki_nch.jsonl) |
+| `kaikki_nhe.jsonl` (Eastern Huasteca) | 484.4 KB | [Download](https://nahuatl-language.s3.us-east-1.amazonaws.com/molina/fcn_ingest/kaikki_nhe.jsonl) |
+
+### FCN Pipeline
+
+| File | Size | Link |
+|------|------|------|
+| `fcn_source_parsers.py` | 39.1 KB | [Download](https://nahuatl-language.s3.us-east-1.amazonaws.com/molina/fcn_ingest/fcn_source_parsers.py) |
+| `fcn_legal_ingest.py` | 10.6 KB | [Download](https://nahuatl-language.s3.us-east-1.amazonaws.com/molina/fcn_ingest/fcn_legal_ingest.py) |
+| `FCN_SOURCE_PARSERS_README.md` | 2.2 KB | [Download](https://nahuatl-language.s3.us-east-1.amazonaws.com/molina/fcn_ingest/FCN_SOURCE_PARSERS_README.md) |
+| `README_SOURCES.txt` | 2.2 KB | [Download](https://nahuatl-language.s3.us-east-1.amazonaws.com/molina/fcn_ingest/README_SOURCES.txt) |
+
+> **Note:** The Wiktionary source dump (`enwiktionary-latest-pages-articles.xml.bz2`, ~1.5 GB) is not hosted here. Download it directly from [Wikimedia](https://dumps.wikimedia.org/enwiktionary/latest/).
 
 ## Data at a Glance
 
