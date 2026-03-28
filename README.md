@@ -152,6 +152,8 @@ https://nahuatl-language.s3.us-east-1.amazonaws.com/molina/
 | `out_ud/feature_counts.csv` | 2.7 KB | [Download](https://nahuatl-language.s3.us-east-1.amazonaws.com/molina/fcn_ingest/out_ud/feature_counts.csv) |
 | `out_ud/grammar_evidence_examples.jsonl` | 18.5 KB | [Download](https://nahuatl-language.s3.us-east-1.amazonaws.com/molina/fcn_ingest/out_ud/grammar_evidence_examples.jsonl) |
 
+| `fcn_master_lexicon_phase7_review.sqlite` | — | [Download](https://nahuatl-language.s3.us-east-1.amazonaws.com/molina/fcn_master_lexicon_phase7_review.sqlite) |
+
 ### Universal Dependencies Treebanks
 
 | File | Size | Link |
@@ -305,4 +307,3 @@ Paris: Imprimerie Nationale, 1885.
 ## License
 
 The parsed data in this repository is released under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). The source material is public domain. Wiktionary-derived data inherits CC BY-SA 3.0 / GFDL.
->>>>>>> a6244d3 (added governance documents)

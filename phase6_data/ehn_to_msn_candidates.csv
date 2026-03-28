@@ -1,0 +1,684 @@
+entry_id,source_form,source_register,source_variety,gloss_en,source_note,candidate_msn_headword,candidate_search_key,search_fallbacks_json,rule_trace
+kw::abril::2,abril,EHN_colloquial,Eastern Huasteca Nahuatl,April,rule_based_from_source_form,abril,abril,"[""abril""]",identity
+kw::acahya::1,acahya,EHN_colloquial,Eastern Huasteca Nahuatl,companion.,rule_based_from_source_form,akahya,akahya,"[""acahya"", ""acaya"", ""akahya"", ""akaya""]",hard c > k
+kw::acatl::4,acatl,EHN_colloquial,Eastern Huasteca Nahuatl,obsolete spelling of akatl,explicit_gloss_target,akatl,akatl,"[""acatl"", ""akatl""]",gloss target: akatl
+kw::achakalin::1,achakalin,EHN_colloquial,Eastern Huasteca Nahuatl,shrimp,rule_based_from_source_form,achakalin,achakalin,"[""achakalin"", ""acakalin"", ""achacalin""]",identity
+kw::achi::3,achi,EHN_colloquial,Eastern Huasteca Nahuatl,a little.,rule_based_from_source_form,achi,achi,"[""achi"", ""aci""]",identity
+kw::achtihuiehquetl::1,achtihuiehquetl,EHN_colloquial,Eastern Huasteca Nahuatl,The oldest son or daughter.,rule_based_from_source_form,achtiwiehketl,achtiwiehketl,"[""achtihuiehquetl"", ""actiuiequetl"", ""achtiwiehketl"", ""actiwieketl"", ""achtihuiehcetl""]",hu> w before vowel; qu > k before front vowel
+kw::achtohui::1,achtohui,EHN_colloquial,Eastern Huasteca Nahuatl,first.,rule_based_from_source_form,achtowi,achtowi,"[""achtohui"", ""actoui"", ""achtowi"", ""actowi""]",hu> w before vowel
+kw::achtohui::2,achtohui,EHN_colloquial,Eastern Huasteca Nahuatl,before.,rule_based_from_source_form,achtowi,achtowi,"[""achtohui"", ""actoui"", ""achtowi"", ""actowi""]",hu> w before vowel
+kw::agosto::1,agosto,EHN_colloquial,Eastern Huasteca Nahuatl,August,rule_based_from_source_form,agosto,agosto,"[""agosto""]",identity
+kw::ahacatl::1,ahacatl,EHN_colloquial,Eastern Huasteca Nahuatl,wind.,rule_based_from_source_form,ahakatl,ahakatl,"[""ahacatl"", ""aacatl"", ""ahakatl"", ""aakatl""]",hard c > k
+kw::ahacatl::2,ahacatl,EHN_colloquial,Eastern Huasteca Nahuatl,divide.,rule_based_from_source_form,ahakatl,ahakatl,"[""ahacatl"", ""aacatl"", ""ahakatl"", ""aakatl""]",hard c > k
+kw::ahahuilli::2,ahahuilli,EHN_colloquial,Eastern Huasteca Nahuatl,obsolete spelling of ahawilli,explicit_gloss_target,ahawilli,ahawilli,"[""ahahuilli"", ""aauilli"", ""ahawilli"", ""aawilli""]",gloss target: ahawilli
+kw::ahakatl::1,ahakatl,EHN_colloquial,Eastern Huasteca Nahuatl,wind,rule_based_from_source_form,ahakatl,ahakatl,"[""ahakatl"", ""aakatl"", ""ahacatl""]",identity
+kw::ahqueya::1,ahqueya,EHN_colloquial,Eastern Huasteca Nahuatl,who?,rule_based_from_source_form,ahkeya,ahkeya,"[""ahqueya"", ""aqueya"", ""ahkeya"", ""akeya"", ""ahceya""]",qu > k before front vowel
+kw::ahqui::1,ahqui,EHN_colloquial,Eastern Huasteca Nahuatl,to swim.,rule_based_from_source_form,ahki,ahki,"[""ahqui"", ""aqui"", ""ahki"", ""aki"", ""ahci""]",qu > k before front vowel
+kw::ahsi::2,ahsi,EHN_colloquial,Eastern Huasteca Nahuatl,to arrive.,rule_based_from_source_form,ahsi,ahsi,"[""ahsi"", ""asi""]",identity
+kw::ahuacacuahuitl::3,ahuacacuahuitl,EHN_colloquial,Eastern Huasteca Nahuatl,avocado tree.,rule_based_from_source_form,awakakuawitl,awakakuawitl,"[""ahuacacuahuitl"", ""auacacuauitl"", ""awakakuawitl""]",hu> w before vowel; hard c > k
+kw::ahuacatl::5,ahuacatl,EHN_colloquial,Eastern Huasteca Nahuatl,obsolete spelling of awakatl,explicit_gloss_target,awakatl,awakatl,"[""ahuacatl"", ""auacatl"", ""awakatl""]",gloss target: awakatl
+kw::ahuiyac::1,ahuiyac,EHN_colloquial,Eastern Huasteca Nahuatl,obsolete spelling of awiyak,explicit_gloss_target,awiyak,awiyak,"[""ahuiyac"", ""auiyac"", ""awiyak""]",gloss target: awiyak
+kw::akachikiwitl::1,akachikiwitl,EHN_colloquial,Eastern Huasteca Nahuatl,basquet cane,rule_based_from_source_form,akachikiwitl,akachikiwitl,"[""akachikiwitl"", ""akacikiwitl"", ""acachicihuitl""]",identity
+kw::aketzpalin::1,aketzpalin,EHN_colloquial,Eastern Huasteca Nahuatl,aligator,rule_based_from_source_form,aketspalin,aketspalin,"[""aketzpalin"", ""aketspalin"", ""acetzpalin""]",z > s
+kw::alaxox::1,alaxox,EHN_colloquial,Eastern Huasteca Nahuatl,orange,rule_based_from_source_form,alaxox,alaxox,"[""alaxox""]",identity
+kw::alaxoxtontli::1,alaxoxtontli,EHN_colloquial,Eastern Huasteca Nahuatl,mandarine,rule_based_from_source_form,alaxoxtontli,alaxoxtontli,"[""alaxoxtontli""]",identity
+kw::altepetl::5,altepetl,EHN_colloquial,Eastern Huasteca Nahuatl,"altepetl, city, town.",rule_based_from_source_form,altepetl,altepetl,"[""altepetl""]",identity
+kw::altepetlehquetl::1,altepetlehquetl,EHN_colloquial,Eastern Huasteca Nahuatl,"the inhabitant of an altepetl, town.",rule_based_from_source_form,altepetlehketl,altepetlehketl,"[""altepetlehquetl"", ""altepetlequetl"", ""altepetlehketl"", ""altepetleketl"", ""altepetlehcetl""]",qu > k before front vowel
+kw::ama::1,ama,EHN_colloquial,Eastern Huasteca Nahuatl,now,rule_based_from_source_form,ama,ama,"[""ama""]",identity
+kw::amacamanalli::1,amacamanalli,EHN_colloquial,Eastern Huasteca Nahuatl,map.,rule_based_from_source_form,amakamanalli,amakamanalli,"[""amacamanalli"", ""amakamanalli""]",hard c > k
+kw::amantzi::1,amantzi,EHN_colloquial,Eastern Huasteca Nahuatl,right now,rule_based_from_source_form,amantsi,amantsi,"[""amantzi"", ""amantsi""]",z > s
+kw::amatl::6,amatl,EHN_colloquial,Eastern Huasteca Nahuatl,paper.,rule_based_from_source_form,amatl,amatl,"[""amatl""]",identity
+kw::amatl::7,amatl,EHN_colloquial,Eastern Huasteca Nahuatl,book.,rule_based_from_source_form,amatl,amatl,"[""amatl""]",identity
+kw::amatlahcuilolli::2,amatlahcuilolli,EHN_colloquial,Eastern Huasteca Nahuatl,A letter.,rule_based_from_source_form,amatlahkuilolli,amatlahkuilolli,"[""amatlahcuilolli"", ""amatlacuilolli"", ""amatlahkuilolli"", ""amatlakuilolli""]",hard c > k
+kw::amelli::1,amelli,EHN_colloquial,Eastern Huasteca Nahuatl,well.,rule_based_from_source_form,amelli,amelli,"[""amelli""]",identity
+kw::amigo::1,amigo,EHN_colloquial,Eastern Huasteca Nahuatl,friend,rule_based_from_source_form,amigo,amigo,"[""amigo""]",identity
+kw::amohuanti::1,amohuanti,EHN_colloquial,Eastern Huasteca Nahuatl,second person; you (plural),rule_based_from_source_form,amowanti,amowanti,"[""amohuanti"", ""amouanti"", ""amowanti""]",hu> w before vowel
+kw::apipiyalotl::2,apipiyalotl,EHN_colloquial,Eastern Huasteca Nahuatl,dragonfly,rule_based_from_source_form,apipiyalotl,apipiyalotl,"[""apipiyalotl""]",identity
+kw::apolin::1,apolin,EHN_colloquial,Eastern Huasteca Nahuatl,capulin,rule_based_from_source_form,apolin,apolin,"[""apolin""]",identity
+kw::aqui::1,aqui,EHN_colloquial,Eastern Huasteca Nahuatl,to be (negative).,rule_based_from_source_form,aki,aki,"[""aqui"", ""aki"", ""aci""]",qu > k before front vowel
+kw::astatl::3,astatl,EHN_colloquial,Eastern Huasteca Nahuatl,heron.,rule_based_from_source_form,astatl,astatl,"[""astatl""]",identity
+kw::atemitl::2,atemitl,EHN_colloquial,Eastern Huasteca Nahuatl,river.,rule_based_from_source_form,atemitl,atemitl,"[""atemitl""]",identity
+kw::atl::6,atl,EHN_colloquial,Eastern Huasteca Nahuatl,water,rule_based_from_source_form,atl,atl,"[""atl""]",identity
+kw::atli::2,atli,EHN_colloquial,Eastern Huasteca Nahuatl,to drink water.,rule_based_from_source_form,atli,atli,"[""atli""]",identity
+kw::awakatl::2,awakatl,EHN_colloquial,Eastern Huasteca Nahuatl,avocado,rule_based_from_source_form,awakatl,awakatl,"[""awakatl"", ""ahuacatl""]",identity
+kw::awiyak::1,awiyak,EHN_colloquial,Eastern Huasteca Nahuatl,tasty.,rule_based_from_source_form,awiyak,awiyak,"[""awiyak"", ""ahuiyac""]",identity
+kw::awiyak::2,awiyak,EHN_colloquial,Eastern Huasteca Nahuatl,good-smelling.,rule_based_from_source_form,awiyak,awiyak,"[""awiyak"", ""ahuiyac""]",identity
+kw::ax-aqui::1,ax aqui,EHN_colloquial,Eastern Huasteca Nahuatl,nobody,rule_based_from_source_form,ax aki,ax aki,"[""ax aqui"", ""ax aki"", ""ax aci""]",qu > k before front vowel
+kw::ax-cualli::1,ax cualli,EHN_colloquial,Eastern Huasteca Nahuatl,bad.,rule_based_from_source_form,ax kualli,ax kualli,"[""ax cualli"", ""ax kualli""]",hard c > k
+kw::ax-quema::1,ax quema,EHN_colloquial,Eastern Huasteca Nahuatl,never,rule_based_from_source_form,ax kema,ax kema,"[""ax quema"", ""ax kema"", ""ax cema""]",qu > k before front vowel
+kw::ax-tleno::1,ax tleno,EHN_colloquial,Eastern Huasteca Nahuatl,you're welcome.,rule_based_from_source_form,ax tleno,ax tleno,"[""ax tleno""]",identity
+kw::ax::1,ax,EHN_colloquial,Eastern Huasteca Nahuatl,not,rule_based_from_source_form,ax,ax,"[""ax""]",identity
+kw::axcahua::1,axcahua,EHN_colloquial,Eastern Huasteca Nahuatl,sheep.,rule_based_from_source_form,axkawa,axkawa,"[""axcahua"", ""axcaua"", ""axkawa""]",hu> w before vowel; hard c > k
+kw::axcaneli::1,axcaneli,EHN_colloquial,Eastern Huasteca Nahuatl,ant.,rule_based_from_source_form,axkaneli,axkaneli,"[""axcaneli"", ""axkaneli""]",hard c > k
+kw::axtle::1,axtle,EHN_colloquial,Eastern Huasteca Nahuatl,"no, negative response.",rule_based_from_source_form,axtle,axtle,"[""axtle""]",identity
+kw::axtlen::1,axtlen,EHN_colloquial,Eastern Huasteca Nahuatl,"think nothing of it, you're welcome, don't mention it",rule_based_from_source_form,axtlen,axtlen,"[""axtlen""]",identity
+kw::aya::1,aya,EHN_colloquial,Eastern Huasteca Nahuatl,not yet,rule_based_from_source_form,aya,aya,"[""aya""]",identity
+kw::ayohtli::3,ayohtli,EHN_colloquial,Eastern Huasteca Nahuatl,"gourd, squash.",rule_based_from_source_form,ayohtli,ayohtli,"[""ayohtli"", ""ayotli""]",identity
+kw::ayotl::7,ayotl,EHN_colloquial,Eastern Huasteca Nahuatl,turtle.,rule_based_from_source_form,ayotl,ayotl,"[""ayotl""]",identity
+kw::azoltic::1,azoltic,EHN_colloquial,Eastern Huasteca Nahuatl,blue.,rule_based_from_source_form,asoltik,asoltik,"[""azoltic"", ""asoltik"", ""asoltic""]",z > s; hard c > k
+kw::burro::1,burro,EHN_colloquial,Eastern Huasteca Nahuatl,donkey.,rule_based_from_source_form,burro,burro,"[""burro""]",identity
+kw::cafe::1,cafe,EHN_colloquial,Eastern Huasteca Nahuatl,coffee,rule_based_from_source_form,kafe,kafe,"[""cafe"", ""kafe""]",hard c > k
+kw::cahualtoahui::1,cahualtoahui,EHN_colloquial,Eastern Huasteca Nahuatl,widow (female).,rule_based_from_source_form,kawaltoawi,kawaltoawi,"[""cahualtoahui"", ""caualtoaui"", ""kawaltoawi""]",hu> w before vowel; hard c > k
+kw::cahualtotlayi::1,cahualtotlayi,EHN_colloquial,Eastern Huasteca Nahuatl,widow (male).,rule_based_from_source_form,kawaltotlayi,kawaltotlayi,"[""cahualtotlayi"", ""caualtotlayi"", ""kawaltotlayi""]",hu> w before vowel; hard c > k
+kw::cahuatlehco::1,cahuatlehco,EHN_colloquial,Eastern Huasteca Nahuatl,to ride a horse.,rule_based_from_source_form,kawatlehko,kawatlehko,"[""cahuatlehco"", ""cauatleco"", ""kawatlehko"", ""kawatleko""]",hu> w before vowel; hard c > k
+kw::cahuayo::2,cahuayo,EHN_colloquial,Eastern Huasteca Nahuatl,obsolete spelling of kawayo,explicit_gloss_target,kawayo,kawayo,"[""cahuayo"", ""cauayo"", ""kawayo""]",gloss target: kawayo
+kw::calaqui::2,calaqui,EHN_colloquial,Eastern Huasteca Nahuatl,to enter.,rule_based_from_source_form,kalaki,kalaki,"[""calaqui"", ""kalaki"", ""calaci""]",qu > k before front vowel; hard c > k
+kw::calendario::1,calendario,EHN_colloquial,Eastern Huasteca Nahuatl,calendar,rule_based_from_source_form,kalendario,kalendario,"[""calendario"", ""kalendario""]",hard c > k
+kw::cali::1,cali,EHN_colloquial,Eastern Huasteca Nahuatl,alternative spelling of calli (“house”),explicit_gloss_target,kalli (“house”),kalli (“house”),"[""cali"", ""kalli (“house”)"", ""kalli (“ouse”)"", ""calli (“house”)""]",gloss target: calli (“house”); hard c > k
+kw::calli::5,calli,EHN_colloquial,Eastern Huasteca Nahuatl,house.,rule_based_from_source_form,kalli,kalli,"[""calli"", ""kalli""]",hard c > k
+kw::caltlacame::1,caltlacame,EHN_colloquial,Eastern Huasteca Nahuatl,alternative spelling of caltlacameh,explicit_gloss_target,kaltlakameh,kaltlakameh,"[""caltlacame"", ""kaltlakameh"", ""kaltlakame"", ""caltlacameh""]",gloss target: caltlacameh; hard c > k
+kw::caltlacameh::1,caltlacameh,EHN_colloquial,Eastern Huasteca Nahuatl,plural of caltlacatl,rule_based_from_source_form,kaltlakameh,kaltlakameh,"[""caltlacameh"", ""caltlacame"", ""kaltlakameh"", ""kaltlakame""]",hard c > k
+kw::caltlacatl::1,caltlacatl,EHN_colloquial,Eastern Huasteca Nahuatl,person.,rule_based_from_source_form,kaltlakatl,kaltlakatl,"[""caltlacatl"", ""kaltlakatl""]",hard c > k
+kw::camanali::1,camanali,EHN_colloquial,Eastern Huasteca Nahuatl,alternative spelling of camanalli (“word”),explicit_gloss_target,kamanalli (“word”),kamanalli (“word”),"[""camanali"", ""kamanalli (“word”)"", ""camanalli (“huord”)""]",gloss target: camanalli (“word”); hard c > k
+kw::camanalistli::1,camanalistli,EHN_colloquial,Eastern Huasteca Nahuatl,alternative spelling of camanaliztli (“story”),explicit_gloss_target,kamanalistli (“story”),kamanalistli (“story”),"[""camanalistli"", ""kamanalistli (“story”)"", ""camanalistli (“story”)""]",gloss target: camanaliztli (“story”); z > s; hard c > k
+kw::camanaliztli::1,camanaliztli,EHN_colloquial,Eastern Huasteca Nahuatl,story.,rule_based_from_source_form,kamanalistli,kamanalistli,"[""camanaliztli"", ""kamanalistli"", ""camanalistli""]",z > s; hard c > k
+kw::camanalli::2,camanalli,EHN_colloquial,Eastern Huasteca Nahuatl,word.,rule_based_from_source_form,kamanalli,kamanalli,"[""camanalli"", ""kamanalli""]",hard c > k
+kw::camanalli::3,camanalli,EHN_colloquial,Eastern Huasteca Nahuatl,language.,rule_based_from_source_form,kamanalli,kamanalli,"[""camanalli"", ""kamanalli""]",hard c > k
+kw::camanalohquetl::1,camanalohquetl,EHN_colloquial,Eastern Huasteca Nahuatl,speaker.,rule_based_from_source_form,kamanalohketl,kamanalohketl,"[""camanalohquetl"", ""camanaloquetl"", ""kamanalohketl"", ""kamanaloketl"", ""camanalohcetl""]",qu > k before front vowel; hard c > k
+kw::camanalohua::1,camanalohua,EHN_colloquial,Eastern Huasteca Nahuatl,to speak.,rule_based_from_source_form,kamanalowa,kamanalowa,"[""camanalohua"", ""camanaloua"", ""kamanalowa""]",hu> w before vowel; hard c > k
+kw::camanaltiquetl::1,camanaltiquetl,EHN_colloquial,Eastern Huasteca Nahuatl,obsolete spelling of kamanaltiketl,explicit_gloss_target,kamanaltiketl,kamanaltiketl,"[""camanaltiquetl"", ""kamanaltiketl"", ""camanalticetl""]",gloss target: kamanaltiketl
+kw::camati::1,camati,EHN_colloquial,Eastern Huasteca Nahuatl,to speak.,rule_based_from_source_form,kamati,kamati,"[""camati"", ""kamati""]",hard c > k
+kw::camohtli::3,camohtli,EHN_colloquial,Eastern Huasteca Nahuatl,sweet potato.,rule_based_from_source_form,kamohtli,kamohtli,"[""camohtli"", ""camotli"", ""kamohtli"", ""kamotli""]",hard c > k
+kw::campa::4,campa,EHN_colloquial,Eastern Huasteca Nahuatl,where,rule_based_from_source_form,kampa,kampa,"[""campa"", ""kampa""]",hard c > k
+kw::canque::1,canque,EHN_colloquial,Eastern Huasteca Nahuatl,where,rule_based_from_source_form,kanke,kanke,"[""canque"", ""kanke"", ""cance""]",qu > k before front vowel; hard c > k
+kw::canque::2,canque,EHN_colloquial,Eastern Huasteca Nahuatl,"whither, to where.",rule_based_from_source_form,kanke,kanke,"[""canque"", ""kanke"", ""cance""]",qu > k before front vowel; hard c > k
+kw::carro::1,carro,EHN_colloquial,Eastern Huasteca Nahuatl,car.,rule_based_from_source_form,karro,karro,"[""carro"", ""karro""]",hard c > k
+kw::carro::2,carro,EHN_colloquial,Eastern Huasteca Nahuatl,chariot.,rule_based_from_source_form,karro,karro,"[""carro"", ""karro""]",hard c > k
+kw::cartilla::1,cartilla,EHN_colloquial,Eastern Huasteca Nahuatl,"card, book",rule_based_from_source_form,kartilla,kartilla,"[""cartilla"", ""kartilla""]",hard c > k
+kw::caxtiltecacamanali::1,caxtiltecacamanali,EHN_colloquial,Eastern Huasteca Nahuatl,alternative spelling of caxtiltecacamanalli,explicit_gloss_target,kaxtiltekakamanalli,kaxtiltekakamanalli,"[""caxtiltecacamanali"", ""kaxtiltekakamanalli"", ""caxtiltecacamanalli""]",gloss target: caxtiltecacamanalli; hard c > k
+kw::caxtiltecacamanalli::1,caxtiltecacamanalli,EHN_colloquial,Eastern Huasteca Nahuatl,the Spanish language.,rule_based_from_source_form,kaxtiltekakamanalli,kaxtiltekakamanalli,"[""caxtiltecacamanalli"", ""kaxtiltekakamanalli""]",hard c > k
+kw::caxtolli::2,caxtolli,EHN_colloquial,Eastern Huasteca Nahuatl,fifteen.,rule_based_from_source_form,kaxtolli,kaxtolli,"[""caxtolli"", ""kaxtolli""]",hard c > k
+kw::cayochi::1,cayochi,EHN_colloquial,Eastern Huasteca Nahuatl,fox.,rule_based_from_source_form,kayochi,kayochi,"[""cayochi"", ""cayoci"", ""kayochi"", ""kayoci""]",hard c > k
+kw::ce::3,ce,EHN_colloquial,Eastern Huasteca Nahuatl,one.,rule_based_from_source_form,se,se,"[""ce"", ""se""]",soft c > s
+kw::cecuiliztli::1,cecuiliztli,EHN_colloquial,Eastern Huasteca Nahuatl,the cold.,rule_based_from_source_form,sekuilistli,sekuilistli,"[""cecuiliztli"", ""sekuilistli"", ""secuilistli""]",soft c > s; z > s; hard c > k
+kw::cenquiztoc::1,cenquiztoc,EHN_colloquial,Eastern Huasteca Nahuatl,pure.,rule_based_from_source_form,senkistok,senkistok,"[""cenquiztoc"", ""senkistok"", ""sencistoc""]",qu > k before front vowel; soft c > s; z > s; hard c > k
+kw::cequinoc::1,cequinoc,EHN_colloquial,Eastern Huasteca Nahuatl,plural of ceyoc,rule_based_from_source_form,sekinok,sekinok,"[""cequinoc"", ""sekinok"", ""secinoc""]",qu > k before front vowel; soft c > s; hard c > k
+kw::cetl::4,cetl,EHN_colloquial,Eastern Huasteca Nahuatl,ice.,rule_based_from_source_form,setl,setl,"[""cetl"", ""setl""]",soft c > s
+kw::ceyoc::1,ceyoc,EHN_colloquial,Eastern Huasteca Nahuatl,other.,rule_based_from_source_form,seyok,seyok,"[""ceyoc"", ""seyok"", ""seyoc""]",soft c > s; hard c > k
+kw::chalchokotl::2,chalchokotl,EHN_colloquial,Eastern Huasteca Nahuatl,guava,rule_based_from_source_form,chalchokotl,chalchokotl,"[""chalchokotl"", ""calcokotl"", ""chalchocotl""]",identity
+kw::chancaca::1,chancaca,EHN_colloquial,Eastern Huasteca Nahuatl,panela (solid piece of unrefined sugar).,rule_based_from_source_form,chankaka,chankaka,"[""chancaca"", ""cancaca"", ""chankaka"", ""cankaka""]",hard c > k
+kw::chapoli::3,chapoli,EHN_colloquial,Eastern Huasteca Nahuatl,grasshopper.,rule_based_from_source_form,chapoli,chapoli,"[""chapoli"", ""capoli""]",identity
+kw::chapolin::3,chapolin,EHN_colloquial,Eastern Huasteca Nahuatl,grasshopper.,rule_based_from_source_form,chapolin,chapolin,"[""chapolin"", ""capolin""]",identity
+kw::chapopohtli::1,chapopohtli,EHN_colloquial,Eastern Huasteca Nahuatl,tar.,rule_based_from_source_form,chapopohtli,chapopohtli,"[""chapopohtli"", ""capopotli""]",identity
+kw::chapopohtli::2,chapopohtli,EHN_colloquial,Eastern Huasteca Nahuatl,asphalt.,rule_based_from_source_form,chapopohtli,chapopohtli,"[""chapopohtli"", ""capopotli""]",identity
+kw::chapuli::1,chapuli,EHN_colloquial,Eastern Huasteca Nahuatl,"alternative spelling of chapoli, grasshopper",explicit_gloss_target,chapoli,chapoli,"[""chapuli"", ""capuli"", ""chapoli"", ""capoli""]",gloss target: chapoli
+kw::chicahuac::2,chicahuac,EHN_colloquial,Eastern Huasteca Nahuatl,strong.,rule_based_from_source_form,chikawak,chikawak,"[""chicahuac"", ""cicauac"", ""chikawak"", ""cikawak""]",hu> w before vowel; hard c > k
+kw::chicahualiztli::1,chicahualiztli,EHN_colloquial,Eastern Huasteca Nahuatl,strength.,rule_based_from_source_form,chikawalistli,chikawalistli,"[""chicahualiztli"", ""cicaualiztli"", ""chikawalistli"", ""cikawalistli"", ""chicahualistli""]",hu> w before vowel; z > s; hard c > k
+kw::chichi::5,chichi,EHN_colloquial,Eastern Huasteca Nahuatl,dog.,rule_based_from_source_form,chichi,chichi,"[""chichi"", ""cici""]",identity
+kw::chichiltic::3,chichiltic,EHN_colloquial,Eastern Huasteca Nahuatl,obsolete spelling of chichiltik,explicit_gloss_target,chichiltik,chichiltik,"[""chichiltic"", ""ciciltic"", ""chichiltik"", ""ciciltik""]",gloss target: chichiltik
+kw::chichiltik::3,chichiltik,EHN_colloquial,Eastern Huasteca Nahuatl,red,rule_based_from_source_form,chichiltik,chichiltik,"[""chichiltik"", ""ciciltik"", ""chichiltic""]",identity
+kw::chichimichin::2,chichimichin,EHN_colloquial,Eastern Huasteca Nahuatl,dolphin,rule_based_from_source_form,chichimichin,chichimichin,"[""chichimichin"", ""cicimicin""]",identity
+kw::chicnahui::2,chicnahui,EHN_colloquial,Eastern Huasteca Nahuatl,nine.,rule_based_from_source_form,chiknawi,chiknawi,"[""chicnahui"", ""cicnaui"", ""chiknawi"", ""ciknawi""]",hu> w before vowel; hard c > k
+kw::chicome::3,chicome,EHN_colloquial,Eastern Huasteca Nahuatl,seven.,rule_based_from_source_form,chikome,chikome,"[""chicome"", ""cicome"", ""chikome"", ""cikome""]",hard c > k
+kw::chicuace::3,chicuace,EHN_colloquial,Eastern Huasteca Nahuatl,six.,rule_based_from_source_form,chikuase,chikuase,"[""chicuace"", ""cicuace"", ""chikuase"", ""cikuase"", ""chicuase""]",soft c > s; hard c > k
+kw::chicueyi::2,chicueyi,EHN_colloquial,Eastern Huasteca Nahuatl,eight.,rule_based_from_source_form,chikueyi,chikueyi,"[""chicueyi"", ""cicueyi"", ""chikueyi"", ""cikueyi""]",hard c > k
+kw::chikotzapotl::1,chikotzapotl,EHN_colloquial,Eastern Huasteca Nahuatl,sapodilla,rule_based_from_source_form,chikotsapotl,chikotsapotl,"[""chikotzapotl"", ""cikotzapotl"", ""chikotsapotl"", ""cikotsapotl"", ""chicotzapotl""]",z > s
+kw::chilcaxitl::1,chilcaxitl,EHN_colloquial,Eastern Huasteca Nahuatl,"Molcajete, a traditional Mexican stone tool, equivalent in function to a mortar and pestle, used for grinding food.",rule_based_from_source_form,chilkaxitl,chilkaxitl,"[""chilcaxitl"", ""cilcaxitl"", ""chilkaxitl"", ""cilkaxitl""]",hard c > k
+kw::chilcoz::1,chilcoz,EHN_colloquial,Eastern Huasteca Nahuatl,orange,rule_based_from_source_form,chilkos,chilkos,"[""chilcoz"", ""cilcoz"", ""chilkos"", ""cilkos"", ""chilcos""]",z > s; hard c > k
+kw::chilli::3,chilli,EHN_colloquial,Eastern Huasteca Nahuatl,chili pepper.,rule_based_from_source_form,chilli,chilli,"[""chilli"", ""cilli""]",identity
+kw::chilxokotl::1,chilxokotl,EHN_colloquial,Eastern Huasteca Nahuatl,strawberry,rule_based_from_source_form,chilxokotl,chilxokotl,"[""chilxokotl"", ""cilxokotl"", ""chilxocotl""]",identity
+kw::chipahuac::2,chipahuac,EHN_colloquial,Eastern Huasteca Nahuatl,white.,rule_based_from_source_form,chipawak,chipawak,"[""chipahuac"", ""cipauac"", ""chipawak"", ""cipawak""]",hu> w before vowel; hard c > k
+kw::chipohtli::1,chipohtli,EHN_colloquial,Eastern Huasteca Nahuatl,tick,rule_based_from_source_form,chipohtli,chipohtli,"[""chipohtli"", ""cipotli""]",identity
+kw::chivo::1,chivo,EHN_colloquial,Eastern Huasteca Nahuatl,goat,rule_based_from_source_form,chivo,chivo,"[""chivo"", ""civo""]",identity
+kw::chocolatl::3,chocolatl,EHN_colloquial,Eastern Huasteca Nahuatl,chocolate,rule_based_from_source_form,chokolatl,chokolatl,"[""chocolatl"", ""cocolatl"", ""chokolatl"", ""cokolatl""]",hard c > k
+kw::cholohua::1,cholohua,EHN_colloquial,Eastern Huasteca Nahuatl,to flee.,rule_based_from_source_form,cholowa,cholowa,"[""cholohua"", ""coloua"", ""cholowa"", ""colowa""]",hu> w before vowel
+kw::ciento::1,ciento,EHN_colloquial,Eastern Huasteca Nahuatl,hundred.,rule_based_from_source_form,siento,siento,"[""ciento"", ""siento""]",soft c > s
+kw::cihuamizto::1,cihuamizto,EHN_colloquial,Eastern Huasteca Nahuatl,cat,rule_based_from_source_form,siwamisto,siwamisto,"[""cihuamizto"", ""ciuamizto"", ""siwamisto"", ""sihuamisto""]",hu> w before vowel; soft c > s; z > s
+kw::cihuapil::1,cihuapil,EHN_colloquial,Eastern Huasteca Nahuatl,obsolete spelling of siwapil,explicit_gloss_target,siwapil,siwapil,"[""cihuapil"", ""ciuapil"", ""siwapil"", ""sihuapil""]",gloss target: siwapil
+kw::cihuapilmeh::1,cihuapilmeh,EHN_colloquial,Eastern Huasteca Nahuatl,plural of cihuapil,rule_based_from_source_form,siwapilmeh,siwapilmeh,"[""cihuapilmeh"", ""ciuapilme"", ""siwapilmeh"", ""siwapilme"", ""sihuapilmeh""]",hu> w before vowel; soft c > s
+kw::cihuatl::4,cihuatl,EHN_colloquial,Eastern Huasteca Nahuatl,obsolete spelling of siwatl,explicit_gloss_target,siwatl,siwatl,"[""cihuatl"", ""ciuatl"", ""siwatl"", ""sihuatl""]",gloss target: siwatl
+kw::cilchilli::1,cilchilli,EHN_colloquial,Eastern Huasteca Nahuatl,pequin pepper.,rule_based_from_source_form,silchilli,silchilli,"[""cilchilli"", ""cilcilli"", ""silchilli"", ""silcilli""]",soft c > s
+kw::ciltomatl::1,ciltomatl,EHN_colloquial,Eastern Huasteca Nahuatl,tomatillo,rule_based_from_source_form,siltomatl,siltomatl,"[""ciltomatl"", ""siltomatl""]",soft c > s
+kw::cimolotl::1,cimolotl,EHN_colloquial,Eastern Huasteca Nahuatl,cob(corn).,rule_based_from_source_form,simolotl,simolotl,"[""cimolotl"", ""simolotl""]",soft c > s
+kw::cincuahuitl::1,cincuahuitl,EHN_colloquial,Eastern Huasteca Nahuatl,cuttings.,rule_based_from_source_form,sinkuawitl,sinkuawitl,"[""cincuahuitl"", ""cincuauitl"", ""sinkuawitl"", ""sincuahuitl""]",hu> w before vowel; soft c > s; hard c > k
+kw::cinolotl::1,cinolotl,EHN_colloquial,Eastern Huasteca Nahuatl,cob(corn).,rule_based_from_source_form,sinolotl,sinolotl,"[""cinolotl"", ""sinolotl""]",soft c > s
+kw::cintli::3,cintli,EHN_colloquial,Eastern Huasteca Nahuatl,corncob,rule_based_from_source_form,sintli,sintli,"[""cintli"", ""sintli""]",soft c > s
+kw::citlal-cetl::1,citlal cetl,EHN_colloquial,Eastern Huasteca Nahuatl,snow.,rule_based_from_source_form,sitlal setl,sitlal setl,"[""citlal cetl"", ""sitlal setl""]",soft c > s
+kw::cochi::3,cochi,EHN_colloquial,Eastern Huasteca Nahuatl,to sleep.,rule_based_from_source_form,kochi,kochi,"[""cochi"", ""coci"", ""kochi"", ""koci""]",hard c > k
+kw::cocoliztli::3,cocoliztli,EHN_colloquial,Eastern Huasteca Nahuatl,sickness.,rule_based_from_source_form,kokolistli,kokolistli,"[""cocoliztli"", ""kokolistli"", ""cocolistli""]",z > s; hard c > k
+kw::cocotl::2,cocotl,EHN_colloquial,Eastern Huasteca Nahuatl,"wound, sore.",rule_based_from_source_form,kokotl,kokotl,"[""cocotl"", ""kokotl""]",hard c > k
+kw::cocotl::3,cocotl,EHN_colloquial,Eastern Huasteca Nahuatl,pimple.,rule_based_from_source_form,kokotl,kokotl,"[""cocotl"", ""kokotl""]",hard c > k
+kw::cocoxquetl::2,cocoxquetl,EHN_colloquial,Eastern Huasteca Nahuatl,obsolete spelling of kokoxketl,explicit_gloss_target,kokoxketl,kokoxketl,"[""cocoxquetl"", ""kokoxketl"", ""cocoxcetl""]",gloss target: kokoxketl
+kw::cohuatl::2,cohuatl,EHN_colloquial,Eastern Huasteca Nahuatl,obsolete spelling of kowatl,explicit_gloss_target,kowatl,kowatl,"[""cohuatl"", ""couatl"", ""kowatl""]",gloss target: kowatl
+kw::comalli::3,comalli,EHN_colloquial,Eastern Huasteca Nahuatl,obsolete spelling of komalli,explicit_gloss_target,komalli,komalli,"[""comalli"", ""komalli""]",gloss target: komalli
+kw::comitl::3,comitl,EHN_colloquial,Eastern Huasteca Nahuatl,"pot, pan.",rule_based_from_source_form,komitl,komitl,"[""comitl"", ""komitl""]",hard c > k
+kw::conepiya::1,conepiya,EHN_colloquial,Eastern Huasteca Nahuatl,to have a child.,rule_based_from_source_form,konepiya,konepiya,"[""conepiya"", ""konepiya""]",hard c > k
+kw::conetl::4,conetl,EHN_colloquial,Eastern Huasteca Nahuatl,obsolete spelling of konetl,explicit_gloss_target,konetl,konetl,"[""conetl"", ""konetl""]",gloss target: konetl
+kw::costlaquemitl::1,costlaquemitl,EHN_colloquial,Eastern Huasteca Nahuatl,alternative spelling of coztlaquemitl (“pancho”),explicit_gloss_target,kostlakemitl (“pancho”),kostlakemitl (“pancho”),"[""costlaquemitl"", ""kostlakemitl (“pancho”)"", ""kostlakemitl (“panco”)"", ""costlacemitl (“pancho”)""]",gloss target: coztlaquemitl (“pancho”); qu > k before front vowel; z > s; hard c > k
+kw::coto::1,coto,EHN_colloquial,Eastern Huasteca Nahuatl,shirt.,rule_based_from_source_form,koto,koto,"[""coto"", ""koto""]",hard c > k
+kw::coxtalli::1,coxtalli,EHN_colloquial,Eastern Huasteca Nahuatl,a sack.,rule_based_from_source_form,koxtalli,koxtalli,"[""coxtalli"", ""koxtalli""]",hard c > k
+kw::coyochichi::1,coyochichi,EHN_colloquial,Eastern Huasteca Nahuatl,obsolete spelling of koyochichi,explicit_gloss_target,koyochichi,koyochichi,"[""coyochichi"", ""coyocici"", ""koyochichi"", ""koyocici""]",gloss target: koyochichi
+kw::coyotl::3,coyotl,EHN_colloquial,Eastern Huasteca Nahuatl,obsolete spelling of koyotl,explicit_gloss_target,koyotl,koyotl,"[""coyotl"", ""koyotl""]",gloss target: koyotl
+kw::coztic::3,coztic,EHN_colloquial,Eastern Huasteca Nahuatl,obsolete spelling of kostik,explicit_gloss_target,kostik,kostik,"[""coztic"", ""kostik"", ""costic""]",gloss target: kostik
+kw::coztlaquemitl::1,coztlaquemitl,EHN_colloquial,Eastern Huasteca Nahuatl,pancho.,rule_based_from_source_form,kostlakemitl,kostlakemitl,"[""coztlaquemitl"", ""kostlakemitl"", ""costlacemitl""]",qu > k before front vowel; z > s; hard c > k
+kw::cuacamohtli::1,cuacamohtli,EHN_colloquial,Eastern Huasteca Nahuatl,yuca.,rule_based_from_source_form,kuakamohtli,kuakamohtli,"[""cuacamohtli"", ""cuacamotli"", ""kuakamohtli"", ""kuakamotli""]",hard c > k
+kw::cuacarro::1,cuacarro,EHN_colloquial,Eastern Huasteca Nahuatl,car.,rule_based_from_source_form,kuakarro,kuakarro,"[""cuacarro"", ""kuakarro""]",hard c > k
+kw::cuacarro::2,cuacarro,EHN_colloquial,Eastern Huasteca Nahuatl,chariot.,rule_based_from_source_form,kuakarro,kuakarro,"[""cuacarro"", ""kuakarro""]",hard c > k
+kw::cuahuitl::4,cuahuitl,EHN_colloquial,Eastern Huasteca Nahuatl,obsolete spelling of kuawitl,explicit_gloss_target,kuawitl,kuawitl,"[""cuahuitl"", ""cuauitl"", ""kuawitl""]",gloss target: kuawitl
+kw::cualantoc::1,cualantoc,EHN_colloquial,Eastern Huasteca Nahuatl,angry,rule_based_from_source_form,kualantok,kualantok,"[""cualantoc"", ""kualantok""]",hard c > k
+kw::cualca::1,cualca,EHN_colloquial,Eastern Huasteca Nahuatl,early.,rule_based_from_source_form,kualka,kualka,"[""cualca"", ""kualka""]",hard c > k
+kw::cualli::3,cualli,EHN_colloquial,Eastern Huasteca Nahuatl,good.,rule_based_from_source_form,kualli,kualli,"[""cualli"", ""kualli""]",hard c > k
+kw::cualli::4,cualli,EHN_colloquial,Eastern Huasteca Nahuatl,well.,rule_based_from_source_form,kualli,kualli,"[""cualli"", ""kualli""]",hard c > k
+kw::cualtitoc::1,cualtitoc,EHN_colloquial,Eastern Huasteca Nahuatl,"fine, ok.",rule_based_from_source_form,kualtitok,kualtitok,"[""cualtitoc"", ""kualtitok""]",hard c > k
+kw::cuapelechi::1,cuapelechi,EHN_colloquial,Eastern Huasteca Nahuatl,obsolete spelling of kuapelechin,explicit_gloss_target,kuapelechin,kuapelechin,"[""cuapelechi"", ""cuapeleci"", ""kuapelechin"", ""kuapelecin"", ""cuapelechin""]",gloss target: kuapelechin
+kw::cuatitlamitl::1,cuatitlamitl,EHN_colloquial,Eastern Huasteca Nahuatl,forest.,rule_based_from_source_form,kuatitlamitl,kuatitlamitl,"[""cuatitlamitl"", ""kuatitlamitl""]",hard c > k
+kw::cuatitlamitl::2,cuatitlamitl,EHN_colloquial,Eastern Huasteca Nahuatl,mountain.,rule_based_from_source_form,kuatitlamitl,kuatitlamitl,"[""cuatitlamitl"", ""kuatitlamitl""]",hard c > k
+kw::cuatitlanehquetl::1,cuatitlanehquetl,EHN_colloquial,Eastern Huasteca Nahuatl,mountain inhabitant.,rule_based_from_source_form,kuatitlanehketl,kuatitlanehketl,"[""cuatitlanehquetl"", ""cuatitlanequetl"", ""kuatitlanehketl"", ""kuatitlaneketl"", ""cuatitlanehcetl""]",qu > k before front vowel; hard c > k
+kw::cuatitlanehquetl::2,cuatitlanehquetl,EHN_colloquial,Eastern Huasteca Nahuatl,forest animal,rule_based_from_source_form,kuatitlanehketl,kuatitlanehketl,"[""cuatitlanehquetl"", ""cuatitlanequetl"", ""kuatitlanehketl"", ""kuatitlaneketl"", ""cuatitlanehcetl""]",qu > k before front vowel; hard c > k
+kw::cuatlahcayotl::1,cuatlahcayotl,EHN_colloquial,Eastern Huasteca Nahuatl,fruit.,rule_based_from_source_form,kuatlahkayotl,kuatlahkayotl,"[""cuatlahcayotl"", ""cuatlacayotl"", ""kuatlahkayotl"", ""kuatlakayotl""]",hard c > k
+kw::cuatochi::1,cuatochi,EHN_colloquial,Eastern Huasteca Nahuatl,obsolete spelling of kuatochin,explicit_gloss_target,kuatochin,kuatochin,"[""cuatochi"", ""cuatoci"", ""kuatochin"", ""kuatocin"", ""cuatochin""]",gloss target: kuatochin
+kw::cuatopilli::2,cuatopilli,EHN_colloquial,Eastern Huasteca Nahuatl,rod.,rule_based_from_source_form,kuatopilli,kuatopilli,"[""cuatopilli"", ""kuatopilli""]",hard c > k
+kw::cuatopilli::3,cuatopilli,EHN_colloquial,Eastern Huasteca Nahuatl,wooden spear.,rule_based_from_source_form,kuatopilli,kuatopilli,"[""cuatopilli"", ""kuatopilli""]",hard c > k
+kw::cuaxilocuahuitl::1,cuaxilocuahuitl,EHN_colloquial,Eastern Huasteca Nahuatl,banana tree,rule_based_from_source_form,kuaxilokuawitl,kuaxilokuawitl,"[""cuaxilocuahuitl"", ""cuaxilocuauitl"", ""kuaxilokuawitl""]",hu> w before vowel; hard c > k
+kw::cuaxilomiltitla::1,cuaxilomiltitla,EHN_colloquial,Eastern Huasteca Nahuatl,banana plantation.,rule_based_from_source_form,kuaxilomiltitla,kuaxilomiltitla,"[""cuaxilomiltitla"", ""kuaxilomiltitla""]",hard c > k
+kw::cuaxilotl::1,cuaxilotl,EHN_colloquial,Eastern Huasteca Nahuatl,obsolete spelling of kuaxilotl,explicit_gloss_target,kuaxilotl,kuaxilotl,"[""cuaxilotl"", ""kuaxilotl""]",gloss target: kuaxilotl
+kw::cuecuetzi::1,cuecuetzi,EHN_colloquial,Eastern Huasteca Nahuatl,tiny.,rule_based_from_source_form,kuekuetsi,kuekuetsi,"[""cuecuetzi"", ""kuekuetsi""]",z > s; hard c > k
+kw::cueyitl::1,cueyitl,EHN_colloquial,Eastern Huasteca Nahuatl,skirt.,rule_based_from_source_form,kueyitl,kueyitl,"[""cueyitl"", ""kueyitl""]",hard c > k
+kw::cuitlapil::1,cuitlapil,EHN_colloquial,Eastern Huasteca Nahuatl,"tail, rear.",rule_based_from_source_form,kuitlapil,kuitlapil,"[""cuitlapil"", ""kuitlapil""]",hard c > k
+kw::cuitlatl::3,cuitlatl,EHN_colloquial,Eastern Huasteca Nahuatl,"excrement, feces.",rule_based_from_source_form,kuitlatl,kuitlatl,"[""cuitlatl"", ""kuitlatl""]",hard c > k
+kw::diciembre::1,diciembre,EHN_colloquial,Eastern Huasteca Nahuatl,December,rule_based_from_source_form,disiembre,disiembre,"[""diciembre"", ""disiembre""]",soft c > s
+kw::ehquetl::1,ehquetl,EHN_colloquial,Eastern Huasteca Nahuatl,being.,rule_based_from_source_form,ehketl,ehketl,"[""ehquetl"", ""equetl"", ""ehketl"", ""eketl"", ""ehcetl""]",qu > k before front vowel
+kw::ehquetl::2,ehquetl,EHN_colloquial,Eastern Huasteca Nahuatl,inhabitant.,rule_based_from_source_form,ehketl,ehketl,"[""ehquetl"", ""equetl"", ""ehketl"", ""eketl"", ""ehcetl""]",qu > k before front vowel
+kw::ehua::3,ehua,EHN_colloquial,Eastern Huasteca Nahuatl,to be from.,rule_based_from_source_form,ewa,ewa,"[""ehua"", ""eua"", ""ewa""]",hu> w before vowel
+kw::elchiqui::1,elchiqui,EHN_colloquial,Eastern Huasteca Nahuatl,rib (anatomy).,rule_based_from_source_form,elchiki,elchiki,"[""elchiqui"", ""elciqui"", ""elchiki"", ""elciki"", ""elchici""]",qu > k before front vowel
+kw::elhuicac-ehquetl::1,elhuicac ehquetl,EHN_colloquial,Eastern Huasteca Nahuatl,An angel.,rule_based_from_source_form,elwikak ehketl,elwikak ehketl,"[""elhuicac ehquetl"", ""eluicac equetl"", ""elwikak ehketl"", ""elwikak eketl"", ""elhuicac ehcetl""]",hu> w before vowel; qu > k before front vowel; hard c > k
+kw::elhuicac::1,elhuicac,EHN_colloquial,Eastern Huasteca Nahuatl,heaven.,rule_based_from_source_form,elwikak,elwikak,"[""elhuicac"", ""eluicac"", ""elwikak""]",hu> w before vowel; hard c > k
+kw::elhuicactli::1,elhuicactli,EHN_colloquial,Eastern Huasteca Nahuatl,the sky.,rule_based_from_source_form,elwikaktli,elwikaktli,"[""elhuicactli"", ""eluicactli"", ""elwikaktli""]",hu> w before vowel; hard c > k
+kw::eli::1,eli,EHN_colloquial,Eastern Huasteca Nahuatl,to be.,rule_based_from_source_form,eli,eli,"[""eli""]",identity
+kw::elotl::4,elotl,EHN_colloquial,Eastern Huasteca Nahuatl,A fresh ear of corn.,rule_based_from_source_form,elotl,elotl,"[""elotl""]",identity
+kw::eltlapal::2,eltlapal,EHN_colloquial,Eastern Huasteca Nahuatl,wing.,rule_based_from_source_form,eltlapal,eltlapal,"[""eltlapal""]",identity
+kw::eltoc::1,eltoc,EHN_colloquial,Eastern Huasteca Nahuatl,to be.,rule_based_from_source_form,eltok,eltok,"[""eltoc"", ""eltok""]",hard c > k
+kw::eltoya::1,eltoya,EHN_colloquial,Eastern Huasteca Nahuatl,very,rule_based_from_source_form,eltoya,eltoya,"[""eltoya""]",identity
+kw::enero::1,enero,EHN_colloquial,Eastern Huasteca Nahuatl,January,rule_based_from_source_form,enero,enero,"[""enero""]",identity
+kw::escuela::1,escuela,EHN_colloquial,Eastern Huasteca Nahuatl,school,rule_based_from_source_form,eskuela,eskuela,"[""escuela"", ""eskuela""]",hard c > k
+kw::espoltic::1,espoltic,EHN_colloquial,Eastern Huasteca Nahuatl,bloody.,rule_based_from_source_form,espoltik,espoltik,"[""espoltic"", ""espoltik""]",hard c > k
+kw::estado::1,estado,EHN_colloquial,Eastern Huasteca Nahuatl,state,rule_based_from_source_form,estado,estado,"[""estado""]",identity
+kw::estli::3,estli,EHN_colloquial,Eastern Huasteca Nahuatl,alternative spelling of eztli (“blood”),explicit_gloss_target,estli (“blood”),estli (“blood”),"[""estli"", ""estli (“blood”)""]",gloss target: eztli (“blood”); z > s
+kw::esxokotl::3,esxokotl,EHN_colloquial,Eastern Huasteca Nahuatl,pomegranate,rule_based_from_source_form,esxokotl,esxokotl,"[""esxokotl"", ""esxocotl""]",identity
+kw::etamalli::3,etamalli,EHN_colloquial,Eastern Huasteca Nahuatl,bean tamale.,rule_based_from_source_form,etamalli,etamalli,"[""etamalli""]",identity
+kw::etixtli::2,etixtli,EHN_colloquial,Eastern Huasteca Nahuatl,Dough made from ground beans.,rule_based_from_source_form,etixtli,etixtli,"[""etixtli""]",identity
+kw::etl::4,etl,EHN_colloquial,Eastern Huasteca Nahuatl,bean.,rule_based_from_source_form,etl,etl,"[""etl""]",identity
+kw::etzontli::1,etzontli,EHN_colloquial,Eastern Huasteca Nahuatl,a bean bush.,rule_based_from_source_form,etsontli,etsontli,"[""etzontli"", ""etsontli""]",z > s
+kw::exinachtli::1,exinachtli,EHN_colloquial,Eastern Huasteca Nahuatl,bean seed.,rule_based_from_source_form,exinachtli,exinachtli,"[""exinachtli"", ""exinactli""]",identity
+kw::expa::2,expa,EHN_colloquial,Eastern Huasteca Nahuatl,third.,rule_based_from_source_form,expa,expa,"[""expa""]",identity
+kw::eyi::4,eyi,EHN_colloquial,Eastern Huasteca Nahuatl,three,rule_based_from_source_form,eyi,eyi,"[""eyi""]",identity
+kw::eyoli::1,eyoli,EHN_colloquial,Eastern Huasteca Nahuatl,bean seed.,rule_based_from_source_form,eyoli,eyoli,"[""eyoli""]",identity
+kw::eztli::3,eztli,EHN_colloquial,Eastern Huasteca Nahuatl,obsolete spelling of estli,explicit_gloss_target,estli,estli,"[""eztli"", ""estli""]",gloss target: estli
+kw::familia::1,familia,EHN_colloquial,Eastern Huasteca Nahuatl,family,rule_based_from_source_form,familia,familia,"[""familia""]",identity
+kw::febrero::1,febrero,EHN_colloquial,Eastern Huasteca Nahuatl,February,rule_based_from_source_form,febrero,febrero,"[""febrero""]",identity
+kw::firmaroa::1,firmaroa,EHN_colloquial,Eastern Huasteca Nahuatl,to sign,rule_based_from_source_form,firmaroa,firmaroa,"[""firmaroa""]",identity
+kw::folsah::1,folsah,EHN_colloquial,Eastern Huasteca Nahuatl,bag,rule_based_from_source_form,folsah,folsah,"[""folsah"", ""folsa""]",identity
+kw::folzah::1,folzah,EHN_colloquial,Eastern Huasteca Nahuatl,bag,rule_based_from_source_form,folsah,folsah,"[""folzah"", ""folza"", ""folsah"", ""folsa""]",z > s
+kw::gobierno::1,gobierno,EHN_colloquial,Eastern Huasteca Nahuatl,government.,rule_based_from_source_form,gobierno,gobierno,"[""gobierno""]",identity
+kw::hasta::1,hasta,EHN_colloquial,Eastern Huasteca Nahuatl,until,rule_based_from_source_form,hasta,hasta,"[""hasta"", ""asta""]",identity
+kw::hora::1,hora,EHN_colloquial,Eastern Huasteca Nahuatl,hour.,rule_based_from_source_form,hora,hora,"[""hora"", ""ora""]",identity
+kw::huacax::2,huacax,EHN_colloquial,Eastern Huasteca Nahuatl,cow,rule_based_from_source_form,wakax,wakax,"[""huacax"", ""uacax"", ""wakax""]",hu> w before vowel; hard c > k
+kw::huacaxcuitlatl::1,huacaxcuitlatl,EHN_colloquial,Eastern Huasteca Nahuatl,cow manure.,rule_based_from_source_form,wakaxkuitlatl,wakaxkuitlatl,"[""huacaxcuitlatl"", ""uacaxcuitlatl"", ""wakaxkuitlatl""]",hu> w before vowel; hard c > k
+kw::huactlatlaxixtli::1,huactlatlaxixtli,EHN_colloquial,Eastern Huasteca Nahuatl,tuberculosis.,rule_based_from_source_form,waktlatlaxixtli,waktlatlaxixtli,"[""huactlatlaxixtli"", ""uactlatlaxixtli"", ""waktlatlaxixtli""]",hu> w before vowel; hard c > k
+kw::huactoc::1,huactoc,EHN_colloquial,Eastern Huasteca Nahuatl,dry.,rule_based_from_source_form,waktok,waktok,"[""huactoc"", ""uactoc"", ""waktok""]",hu> w before vowel; hard c > k
+kw::huahca::1,huahca,EHN_colloquial,Eastern Huasteca Nahuatl,then; at that time; next.,rule_based_from_source_form,wahka,wahka,"[""huahca"", ""uaca"", ""wahka"", ""waka""]",hu> w before vowel; hard c > k
+kw::huampo::1,huampo,EHN_colloquial,Eastern Huasteca Nahuatl,friend.,rule_based_from_source_form,wampo,wampo,"[""huampo"", ""uampo"", ""wampo""]",hu> w before vowel
+kw::huampoyohua::1,huampoyohua,EHN_colloquial,Eastern Huasteca Nahuatl,plural of huampo,rule_based_from_source_form,wampoyowa,wampoyowa,"[""huampoyohua"", ""uampoyoua"", ""wampoyowa""]",hu> w before vowel
+kw::huapalli::1,huapalli,EHN_colloquial,Eastern Huasteca Nahuatl,"board, plank.",rule_based_from_source_form,wapalli,wapalli,"[""huapalli"", ""uapalli"", ""wapalli""]",hu> w before vowel
+kw::huapalli::2,huapalli,EHN_colloquial,Eastern Huasteca Nahuatl,table,rule_based_from_source_form,wapalli,wapalli,"[""huapalli"", ""uapalli"", ""wapalli""]",hu> w before vowel
+kw::huehca::1,huehca,EHN_colloquial,Eastern Huasteca Nahuatl,"far away, distant.",rule_based_from_source_form,wehka,wehka,"[""huehca"", ""ueca"", ""wehka"", ""weka""]",hu> w before vowel; hard c > k
+kw::huehcapa::1,huehcapa,EHN_colloquial,Eastern Huasteca Nahuatl,above,rule_based_from_source_form,wehkapa,wehkapa,"[""huehcapa"", ""uecapa"", ""wehkapa"", ""wekapa""]",hu> w before vowel; hard c > k
+kw::huehcapan::1,huehcapan,EHN_colloquial,Eastern Huasteca Nahuatl,"lineage, ancestry",rule_based_from_source_form,wehkapan,wehkapan,"[""huehcapan"", ""uecapan"", ""wehkapan"", ""wekapan""]",hu> w before vowel; hard c > k
+kw::huehcapantic::1,huehcapantic,EHN_colloquial,Eastern Huasteca Nahuatl,tall.,rule_based_from_source_form,wehkapantik,wehkapantik,"[""huehcapantic"", ""uecapantic"", ""wehkapantik"", ""wekapantik""]",hu> w before vowel; hard c > k
+kw::huehcatla::1,huehcatla,EHN_colloquial,Eastern Huasteca Nahuatl,deep.,rule_based_from_source_form,wehkatla,wehkatla,"[""huehcatla"", ""uecatla"", ""wehkatla"", ""wekatla""]",hu> w before vowel; hard c > k
+kw::huehue::3,huehue,EHN_colloquial,Eastern Huasteca Nahuatl,husband.,rule_based_from_source_form,wewe,wewe,"[""huehue"", ""ueue"", ""wewe""]",hu> w before vowel
+kw::huehue::4,huehue,EHN_colloquial,Eastern Huasteca Nahuatl,old.,rule_based_from_source_form,wewe,wewe,"[""huehue"", ""ueue"", ""wewe""]",hu> w before vowel
+kw::huehuecafentzontli::1,huehuecafentzontli,EHN_colloquial,Eastern Huasteca Nahuatl,an old coffee tree.,rule_based_from_source_form,wewekafentsontli,wewekafentsontli,"[""huehuecafentzontli"", ""ueuecafentzontli"", ""wewekafentsontli""]",hu> w before vowel; z > s; hard c > k
+kw::huehuentzi::1,huehuentzi,EHN_colloquial,Eastern Huasteca Nahuatl,old.,rule_based_from_source_form,wewentsi,wewentsi,"[""huehuentzi"", ""ueuentzi"", ""wewentsi""]",hu> w before vowel; z > s
+kw::huehuentzi::2,huehuentzi,EHN_colloquial,Eastern Huasteca Nahuatl,old man.,rule_based_from_source_form,wewentsi,wewentsi,"[""huehuentzi"", ""ueuentzi"", ""wewentsi""]",hu> w before vowel; z > s
+kw::huehueyac::1,huehueyac,EHN_colloquial,Eastern Huasteca Nahuatl,long.,rule_based_from_source_form,weweyak,weweyak,"[""huehueyac"", ""ueueyac"", ""weweyak""]",hu> w before vowel; hard c > k
+kw::huelti::1,huelti,EHN_colloquial,Eastern Huasteca Nahuatl,sister,rule_based_from_source_form,welti,welti,"[""huelti"", ""uelti"", ""welti""]",hu> w before vowel
+kw::huetzi::2,huetzi,EHN_colloquial,Eastern Huasteca Nahuatl,to fall.,rule_based_from_source_form,wetsi,wetsi,"[""huetzi"", ""uetzi"", ""wetsi""]",hu> w before vowel; z > s
+kw::huetztoc::1,huetztoc,EHN_colloquial,Eastern Huasteca Nahuatl,fallen.,rule_based_from_source_form,wetstok,wetstok,"[""huetztoc"", ""uetztoc"", ""wetstok""]",hu> w before vowel; z > s; hard c > k
+kw::hueyatl::3,hueyatl,EHN_colloquial,Eastern Huasteca Nahuatl,river,rule_based_from_source_form,weyatl,weyatl,"[""hueyatl"", ""ueyatl"", ""weyatl""]",hu> w before vowel
+kw::hueyi-atl::2,hueyi atl,EHN_colloquial,Eastern Huasteca Nahuatl,"sea, ocean",rule_based_from_source_form,weyi atl,weyi atl,"[""hueyi atl"", ""ueyi atl"", ""weyi atl""]",hu> w before vowel
+kw::hueyi::3,hueyi,EHN_colloquial,Eastern Huasteca Nahuatl,"big, great.",rule_based_from_source_form,weyi,weyi,"[""hueyi"", ""ueyi"", ""weyi""]",hu> w before vowel
+kw::hueyinana::1,hueyinana,EHN_colloquial,Eastern Huasteca Nahuatl,grandmother.,rule_based_from_source_form,weyinana,weyinana,"[""hueyinana"", ""ueyinana"", ""weyinana""]",hu> w before vowel
+kw::hueyitata::1,hueyitata,EHN_colloquial,Eastern Huasteca Nahuatl,grandfather.,rule_based_from_source_form,weyitata,weyitata,"[""hueyitata"", ""ueyitata"", ""weyitata""]",hu> w before vowel
+kw::huica::3,huica,EHN_colloquial,Eastern Huasteca Nahuatl,to sing.,rule_based_from_source_form,wika,wika,"[""huica"", ""uica"", ""wika""]",hu> w before vowel; hard c > k
+kw::huicatl::1,huicatl,EHN_colloquial,Eastern Huasteca Nahuatl,song.,rule_based_from_source_form,wikatl,wikatl,"[""huicatl"", ""uicatl"", ""wikatl""]",hu> w before vowel; hard c > k
+kw::huihuiciquitic::1,huihuiciquitic,EHN_colloquial,Eastern Huasteca Nahuatl,thin.,rule_based_from_source_form,wiwisikitik,wiwisikitik,"[""huihuiciquitic"", ""uiuiciquitic"", ""wiwisikitik"", ""huihuisicitic""]",hu> w before vowel; qu > k before front vowel; soft c > s; hard c > k
+kw::huihuitic::1,huihuitic,EHN_colloquial,Eastern Huasteca Nahuatl,silly.,rule_based_from_source_form,wiwitik,wiwitik,"[""huihuitic"", ""uiuitic"", ""wiwitik""]",hu> w before vowel; hard c > k
+kw::huino::1,huino,EHN_colloquial,Eastern Huasteca Nahuatl,alcohol.,rule_based_from_source_form,wino,wino,"[""huino"", ""uino"", ""wino""]",hu> w before vowel
+kw::huitztli::3,huitztli,EHN_colloquial,Eastern Huasteca Nahuatl,thorn.,rule_based_from_source_form,witstli,witstli,"[""huitztli"", ""uitztli"", ""witstli""]",hu> w before vowel; z > s
+kw::iahcol::1,iahcol,EHN_colloquial,Eastern Huasteca Nahuatl,"his, her, its shoulder.",rule_based_from_source_form,iahkol,iahkol,"[""iahcol"", ""iacol"", ""iahkol"", ""iakol""]",hard c > k
+kw::iahui::1,iahui,EHN_colloquial,Eastern Huasteca Nahuatl,"his, her, its aunt.",rule_based_from_source_form,iawi,iawi,"[""iahui"", ""iaui"", ""iawi""]",hu> w before vowel
+kw::iaxca::2,iaxca,EHN_colloquial,Eastern Huasteca Nahuatl,"of him, her, it.",rule_based_from_source_form,iaxka,iaxka,"[""iaxca"", ""iaxka""]",hard c > k
+kw::ica::1,ica,EHN_colloquial,Eastern Huasteca Nahuatl,with,rule_based_from_source_form,ika,ika,"[""ica"", ""ika""]",hard c > k
+kw::icelti::1,icelti,EHN_colloquial,Eastern Huasteca Nahuatl,alone.,rule_based_from_source_form,iselti,iselti,"[""icelti"", ""iselti""]",soft c > s
+kw::icha::1,icha,EHN_colloquial,Eastern Huasteca Nahuatl,"his, her, its home.",rule_based_from_source_form,icha,icha,"[""icha"", ""ica""]",identity
+kw::ichpocatl::1,ichpocatl,EHN_colloquial,Eastern Huasteca Nahuatl,young woman.,rule_based_from_source_form,ichpokatl,ichpokatl,"[""ichpocatl"", ""icpocatl"", ""ichpokatl"", ""icpokatl""]",hard c > k
+kw::icni::1,icni,EHN_colloquial,Eastern Huasteca Nahuatl,brother,rule_based_from_source_form,ikni,ikni,"[""icni"", ""ikni""]",hard c > k
+kw::icnotzi::1,icnotzi,EHN_colloquial,Eastern Huasteca Nahuatl,orphan.,rule_based_from_source_form,iknotsi,iknotsi,"[""icnotzi"", ""iknotsi""]",z > s; hard c > k
+kw::icone::1,icone,EHN_colloquial,Eastern Huasteca Nahuatl,third-person singular possessed form of conetl (his/her/its child),rule_based_from_source_form,ikone,ikone,"[""icone"", ""ikone""]",hard c > k
+kw::iconehua::1,iconehua,EHN_colloquial,Eastern Huasteca Nahuatl,plural of icone,rule_based_from_source_form,ikonewa,ikonewa,"[""iconehua"", ""iconeua"", ""ikonewa""]",hu> w before vowel; hard c > k
+kw::ihnaloc::1,ihnaloc,EHN_colloquial,Eastern Huasteca Nahuatl,morning,rule_based_from_source_form,ihnalok,ihnalok,"[""ihnaloc"", ""inaloc"", ""ihnalok"", ""inalok""]",hard c > k
+kw::ihnalpa::1,ihnalpa,EHN_colloquial,Eastern Huasteca Nahuatl,morning.,rule_based_from_source_form,ihnalpa,ihnalpa,"[""ihnalpa"", ""inalpa""]",identity
+kw::ihquino::1,ihquino,EHN_colloquial,Eastern Huasteca Nahuatl,thus.,rule_based_from_source_form,ihkino,ihkino,"[""ihquino"", ""iquino"", ""ihkino"", ""ikino"", ""ihcino""]",qu > k before front vowel
+kw::ihuaya::1,ihuaya,EHN_colloquial,Eastern Huasteca Nahuatl,"with him, her, it.",rule_based_from_source_form,iwaya,iwaya,"[""ihuaya"", ""iuaya"", ""iwaya""]",hu> w before vowel
+kw::iichpoca::1,iichpoca,EHN_colloquial,Eastern Huasteca Nahuatl,third-person singular possessed form of ichpocatl (his/her/its young woman).,rule_based_from_source_form,iichpoka,iichpoka,"[""iichpoca"", ""iicpoca"", ""iichpoka"", ""iicpoka""]",hard c > k
+kw::iicni::1,iicni,EHN_colloquial,Eastern Huasteca Nahuatl,"his, her, its brother.",rule_based_from_source_form,iikni,iikni,"[""iicni"", ""iikni""]",hard c > k
+kw::iixtiyol::1,iixtiyol,EHN_colloquial,Eastern Huasteca Nahuatl,"his, her, its eye.",rule_based_from_source_form,iixtiyol,iixtiyol,"[""iixtiyol""]",identity
+kw::ilhuitl::3,ilhuitl,EHN_colloquial,Eastern Huasteca Nahuatl,"fiesta, festival.",rule_based_from_source_form,ilwitl,ilwitl,"[""ilhuitl"", ""iluitl"", ""ilwitl""]",hu> w before vowel
+kw::ilwikatl::1,ilwikatl,EHN_colloquial,Eastern Huasteca Nahuatl,sky,rule_based_from_source_form,ilwikatl,ilwikatl,"[""ilwikatl"", ""ilhuicatl""]",identity
+kw::ima::2,ima,EHN_colloquial,Eastern Huasteca Nahuatl,third-person singular possessed form of mayitl (his/her/its hand),rule_based_from_source_form,ima,ima,"[""ima""]",identity
+kw::imachcone::1,imachcone,EHN_colloquial,Eastern Huasteca Nahuatl,"nephew, niece",rule_based_from_source_form,imachkone,imachkone,"[""imachcone"", ""imaccone"", ""imachkone"", ""imackone""]",hard c > k
+kw::imohuanti::1,imohuanti,EHN_colloquial,Eastern Huasteca Nahuatl,second person; you (plural),rule_based_from_source_form,imowanti,imowanti,"[""imohuanti"", ""imouanti"", ""imowanti""]",hu> w before vowel
+kw::inana::1,inana,EHN_colloquial,Eastern Huasteca Nahuatl,"his, her, its mother.",rule_based_from_source_form,inana,inana,"[""inana""]",identity
+kw::inenepil::1,inenepil,EHN_colloquial,Eastern Huasteca Nahuatl,"his, her, its tongue.",rule_based_from_source_form,inenepil,inenepil,"[""inenepil""]",identity
+kw::ininhuanti::1,ininhuanti,EHN_colloquial,Eastern Huasteca Nahuatl,third person; they,rule_based_from_source_form,ininwanti,ininwanti,"[""ininhuanti"", ""ininuanti"", ""ininwanti""]",hu> w before vowel
+kw::intla::1,intla,EHN_colloquial,Eastern Huasteca Nahuatl,if,rule_based_from_source_form,intla,intla,"[""intla""]",identity
+kw::ipan::3,ipan,EHN_colloquial,Eastern Huasteca Nahuatl,in.,rule_based_from_source_form,ipan,ipan,"[""ipan""]",identity
+kw::ipohual::1,ipohual,EHN_colloquial,Eastern Huasteca Nahuatl,season,rule_based_from_source_form,ipowal,ipowal,"[""ipohual"", ""ipoual"", ""ipowal""]",hu> w before vowel
+kw::isocapa::1,isocapa,EHN_colloquial,Eastern Huasteca Nahuatl,fast.,rule_based_from_source_form,isokapa,isokapa,"[""isocapa"", ""isokapa""]",hard c > k
+kw::istatl::3,istatl,EHN_colloquial,Eastern Huasteca Nahuatl,alternative spelling of iztatl (“salt”),explicit_gloss_target,istatl (“salt”),istatl (“salt”),"[""istatl"", ""istatl (“salt”)""]",gloss target: iztatl (“salt”); z > s
+kw::itata::1,itata,EHN_colloquial,Eastern Huasteca Nahuatl,"his, her, its father.",rule_based_from_source_form,itata,itata,"[""itata""]",identity
+kw::itelpoca::1,itelpoca,EHN_colloquial,Eastern Huasteca Nahuatl,third-person singular possessed form of telpocatl (his/her/its young man).,rule_based_from_source_form,itelpoka,itelpoka,"[""itelpoca"", ""itelpoka""]",hard c > k
+kw::itlapanca::1,itlapanca,EHN_colloquial,Eastern Huasteca Nahuatl,interest.,rule_based_from_source_form,itlapanka,itlapanka,"[""itlapanca"", ""itlapanka""]",hard c > k
+kw::itztoc::1,itztoc,EHN_colloquial,Eastern Huasteca Nahuatl,to be.,rule_based_from_source_form,itstok,itstok,"[""itztoc"", ""itstok""]",z > s; hard c > k
+kw::ixcafentic::1,ixcafentic,EHN_colloquial,Eastern Huasteca Nahuatl,"coffee color, brown.",rule_based_from_source_form,ixkafentik,ixkafentik,"[""ixcafentic"", ""ixkafentik""]",hard c > k
+kw::ixhui::2,ixhui,EHN_colloquial,Eastern Huasteca Nahuatl,grandson.,rule_based_from_source_form,ixwi,ixwi,"[""ixhui"", ""ixui"", ""ixwi""]",hu> w before vowel
+kw::ixmatzahtic::1,ixmatzahtic,EHN_colloquial,Eastern Huasteca Nahuatl,pink.,rule_based_from_source_form,ixmatsahtik,ixmatsahtik,"[""ixmatzahtic"", ""ixmatzatic"", ""ixmatsahtik"", ""ixmatsatik""]",z > s; hard c > k
+kw::ixteyol::1,ixteyol,EHN_colloquial,Eastern Huasteca Nahuatl,eye.,rule_based_from_source_form,ixteyol,ixteyol,"[""ixteyol""]",identity
+kw::ixtiyol::1,ixtiyol,EHN_colloquial,Eastern Huasteca Nahuatl,eye.,rule_based_from_source_form,ixtiyol,ixtiyol,"[""ixtiyol""]",identity
+kw::iyalmilli::1,iyalmilli,EHN_colloquial,Eastern Huasteca Nahuatl,tobacco farm.,rule_based_from_source_form,iyalmilli,iyalmilli,"[""iyalmilli""]",identity
+kw::iyaquemetl::1,iyaquemetl,EHN_colloquial,Eastern Huasteca Nahuatl,insect.,rule_based_from_source_form,iyakemetl,iyakemetl,"[""iyaquemetl"", ""iyakemetl"", ""iyacemetl""]",qu > k before front vowel
+kw::iyatl::2,iyatl,EHN_colloquial,Eastern Huasteca Nahuatl,tobacco,rule_based_from_source_form,iyatl,iyatl,"[""iyatl""]",identity
+kw::iyol::1,iyol,EHN_colloquial,Eastern Huasteca Nahuatl,seed.,rule_based_from_source_form,iyol,iyol,"[""iyol""]",identity
+kw::iyolic::1,iyolic,EHN_colloquial,Eastern Huasteca Nahuatl,slow,rule_based_from_source_form,iyolik,iyolik,"[""iyolic"", ""iyolik""]",hard c > k
+kw::izhuatl::2,izhuatl,EHN_colloquial,Eastern Huasteca Nahuatl,leaf.,rule_based_from_source_form,iswatl,iswatl,"[""izhuatl"", ""izuatl"", ""iswatl"", ""ishuatl""]",hu> w before vowel; z > s
+kw::iztatl::3,iztatl,EHN_colloquial,Eastern Huasteca Nahuatl,salt.,rule_based_from_source_form,istatl,istatl,"[""iztatl"", ""istatl""]",z > s
+kw::iztlacati::2,iztlacati,EHN_colloquial,Eastern Huasteca Nahuatl,to lie.,rule_based_from_source_form,istlakati,istlakati,"[""iztlacati"", ""istlakati"", ""istlacati""]",z > s; hard c > k
+kw::julio::1,julio,EHN_colloquial,Eastern Huasteca Nahuatl,July,rule_based_from_source_form,julio,julio,"[""julio""]",identity
+kw::junio::1,junio,EHN_colloquial,Eastern Huasteca Nahuatl,June,rule_based_from_source_form,junio,junio,"[""junio""]",identity
+kw::kahtzotl::1,kahtzotl,EHN_colloquial,Eastern Huasteca Nahuatl,jicama,rule_based_from_source_form,kahtsotl,kahtsotl,"[""kahtzotl"", ""katzotl"", ""kahtsotl"", ""katsotl"", ""cahtzotl""]",z > s
+kw::kalli::2,kalli,EHN_colloquial,Eastern Huasteca Nahuatl,"alternative spelling of calli, house",explicit_gloss_target,kalli,kalli,"[""kalli"", ""calli""]",gloss target: calli; hard c > k
+kw::kamanaltiketl::1,kamanaltiketl,EHN_colloquial,Eastern Huasteca Nahuatl,speaker.,rule_based_from_source_form,kamanaltiketl,kamanaltiketl,"[""kamanaltiketl"", ""camanalticetl""]",identity
+kw::kawayoh::2,kawayoh,EHN_colloquial,Eastern Huasteca Nahuatl,horse.,rule_based_from_source_form,kawayoh,kawayoh,"[""kawayoh"", ""kawayo"", ""cahuayoh""]",identity
+kw::kawayoh::3,kawayoh,EHN_colloquial,Eastern Huasteca Nahuatl,beast.,rule_based_from_source_form,kawayoh,kawayoh,"[""kawayoh"", ""kawayo"", ""cahuayoh""]",identity
+kw::kikiyotekomitl::1,kikiyotekomitl,EHN_colloquial,Eastern Huasteca Nahuatl,passion fruit,rule_based_from_source_form,kikiyotekomitl,kikiyotekomitl,"[""kikiyotekomitl"", ""ciciyotecomitl""]",identity
+kw::kokoxketl::3,kokoxketl,EHN_colloquial,Eastern Huasteca Nahuatl,a sick person.,rule_based_from_source_form,kokoxketl,kokoxketl,"[""kokoxketl"", ""cocoxcetl""]",identity
+kw::kolotl::3,kolotl,EHN_colloquial,Eastern Huasteca Nahuatl,scorpion.,rule_based_from_source_form,kolotl,kolotl,"[""kolotl"", ""colotl""]",identity
+kw::komalli::2,komalli,EHN_colloquial,Eastern Huasteca Nahuatl,a pan used to grill tortillas.,rule_based_from_source_form,komalli,komalli,"[""komalli"", ""comalli""]",identity
+kw::konetl::1,konetl,EHN_colloquial,Eastern Huasteca Nahuatl,son.,rule_based_from_source_form,konetl,konetl,"[""konetl"", ""conetl""]",identity
+kw::kostik::3,kostik,EHN_colloquial,Eastern Huasteca Nahuatl,yellow,rule_based_from_source_form,kostik,kostik,"[""kostik"", ""costic""]",identity
+kw::kowatl::1,kowatl,EHN_colloquial,Eastern Huasteca Nahuatl,snake.,rule_based_from_source_form,kowatl,kowatl,"[""kowatl"", ""cohuatl""]",identity
+kw::koyochichi::3,koyochichi,EHN_colloquial,Eastern Huasteca Nahuatl,Coyote.,rule_based_from_source_form,koyochichi,koyochichi,"[""koyochichi"", ""koyocici"", ""coyochichi""]",identity
+kw::koyotl::4,koyotl,EHN_colloquial,Eastern Huasteca Nahuatl,foreigner.,rule_based_from_source_form,koyotl,koyotl,"[""koyotl"", ""coyotl""]",identity
+kw::kuapelechin::1,kuapelechin,EHN_colloquial,Eastern Huasteca Nahuatl,rooster.,rule_based_from_source_form,kuapelechin,kuapelechin,"[""kuapelechin"", ""kuapelecin"", ""cuapelechin""]",identity
+kw::kuatochin::1,kuatochin,EHN_colloquial,Eastern Huasteca Nahuatl,rabbit.,rule_based_from_source_form,kuatochin,kuatochin,"[""kuatochin"", ""kuatocin"", ""cuatochin""]",identity
+kw::kuawitl::1,kuawitl,EHN_colloquial,Eastern Huasteca Nahuatl,tree.,rule_based_from_source_form,kuawitl,kuawitl,"[""kuawitl"", ""cuahuitl""]",identity
+kw::kuawitl::2,kuawitl,EHN_colloquial,Eastern Huasteca Nahuatl,wood.,rule_based_from_source_form,kuawitl,kuawitl,"[""kuawitl"", ""cuahuitl""]",identity
+kw::kuaxilotl::3,kuaxilotl,EHN_colloquial,Eastern Huasteca Nahuatl,banana.,rule_based_from_source_form,kuaxilotl,kuaxilotl,"[""kuaxilotl"", ""cuaxilotl""]",identity
+kw::kuextekapan::1,Kuextekapan,EHN_colloquial,Eastern Huasteca Nahuatl,Huasteca,rule_based_from_source_form,kuextekapan,kuextekapan,"[""kuextekapan"", ""cuextecapan""]",identity
+kw::kueyitl::2,kueyitl,EHN_colloquial,Eastern Huasteca Nahuatl,skirt,rule_based_from_source_form,kueyitl,kueyitl,"[""kueyitl"", ""cueyitl""]",identity
+kw::kuitlatl::2,kuitlatl,EHN_colloquial,Eastern Huasteca Nahuatl,shit.,rule_based_from_source_form,kuitlatl,kuitlatl,"[""kuitlatl"", ""cuitlatl""]",identity
+kw::lalax::3,lalax,EHN_colloquial,Eastern Huasteca Nahuatl,Chiconamel spelling of alaxox,rule_based_from_source_form,lalax,lalax,"[""lalax""]",identity
+kw::lalax::4,lalax,EHN_colloquial,Eastern Huasteca Nahuatl,orange (fruit),rule_based_from_source_form,lalax,lalax,"[""lalax""]",identity
+kw::lalaxcuahuitl::2,lalaxcuahuitl,EHN_colloquial,Eastern Huasteca Nahuatl,orange tree.,rule_based_from_source_form,lalaxkuawitl,lalaxkuawitl,"[""lalaxcuahuitl"", ""lalaxcuauitl"", ""lalaxkuawitl""]",hu> w before vowel; hard c > k
+kw::lechi::2,lechi,EHN_colloquial,Eastern Huasteca Nahuatl,milk,rule_based_from_source_form,lechi,lechi,"[""lechi"", ""leci""]",identity
+kw::li::1,-li,EHN_colloquial,Eastern Huasteca Nahuatl,a suffix that makes nouns.,rule_based_from_source_form,-li,-li,"[""-li""]",identity
+kw::li::2,-li,EHN_colloquial,Eastern Huasteca Nahuatl,alternative spelling of -lli,explicit_gloss_target,-lli,-lli,"[""-li"", ""-lli""]",gloss target: -lli
+kw::libro::1,libro,EHN_colloquial,Eastern Huasteca Nahuatl,book,rule_based_from_source_form,libro,libro,"[""libro""]",identity
+kw::lli::2,-lli,EHN_colloquial,Eastern Huasteca Nahuatl,a suffix that makes a noun.,rule_based_from_source_form,-lli,-lli,"[""-lli""]",identity
+kw::lugar::1,lugar,EHN_colloquial,Eastern Huasteca Nahuatl,place,rule_based_from_source_form,lugar,lugar,"[""lugar""]",identity
+kw::m-dico::1,médico,EHN_colloquial,Eastern Huasteca Nahuatl,doctor,rule_based_from_source_form,médiko,mediko,"[""médico"", ""medico"", ""médiko"", ""mediko""]",hard c > k
+kw::m-s::1,más,EHN_colloquial,Eastern Huasteca Nahuatl,more,rule_based_from_source_form,más,mas,"[""más"", ""mas""]",identity
+kw::machete::1,machete,EHN_colloquial,Eastern Huasteca Nahuatl,machete.,rule_based_from_source_form,machete,machete,"[""machete"", ""macete""]",identity
+kw::macpil::1,macpil,EHN_colloquial,Eastern Huasteca Nahuatl,finger.,rule_based_from_source_form,makpil,makpil,"[""macpil"", ""makpil""]",hard c > k
+kw::macuilli::3,macuilli,EHN_colloquial,Eastern Huasteca Nahuatl,five.,rule_based_from_source_form,makuilli,makuilli,"[""macuilli"", ""makuilli""]",hard c > k
+kw::mahtlactli::3,mahtlactli,EHN_colloquial,Eastern Huasteca Nahuatl,ten.,rule_based_from_source_form,mahtlaktli,mahtlaktli,"[""mahtlactli"", ""matlactli"", ""mahtlaktli"", ""matlaktli""]",hard c > k
+kw::maneharoa::1,maneharoa,EHN_colloquial,Eastern Huasteca Nahuatl,To drive,rule_based_from_source_form,maneharoa,maneharoa,"[""maneharoa"", ""manearoa""]",identity
+kw::mangocuahuitl::1,mangocuahuitl,EHN_colloquial,Eastern Huasteca Nahuatl,mango tree.,rule_based_from_source_form,mangokuawitl,mangokuawitl,"[""mangocuahuitl"", ""mangocuauitl"", ""mangokuawitl""]",hu> w before vowel; hard c > k
+kw::manzana::1,manzana,EHN_colloquial,Eastern Huasteca Nahuatl,apple.,rule_based_from_source_form,mansana,mansana,"[""manzana"", ""mansana""]",z > s
+kw::mapachi::2,mapachi,EHN_colloquial,Eastern Huasteca Nahuatl,raccoon.,rule_based_from_source_form,mapachi,mapachi,"[""mapachi"", ""mapaci""]",identity
+kw::mapachin::2,mapachin,EHN_colloquial,Eastern Huasteca Nahuatl,raccoon,rule_based_from_source_form,mapachin,mapachin,"[""mapachin"", ""mapacin""]",identity
+kw::marzo::1,marzo,EHN_colloquial,Eastern Huasteca Nahuatl,March,rule_based_from_source_form,marso,marso,"[""marzo"", ""marso""]",z > s
+kw::mati::4,mati,EHN_colloquial,Eastern Huasteca Nahuatl,to know,rule_based_from_source_form,mati,mati,"[""mati""]",identity
+kw::matzahtli::3,matzahtli,EHN_colloquial,Eastern Huasteca Nahuatl,pineapple.,rule_based_from_source_form,matsahtli,matsahtli,"[""matzahtli"", ""matzatli"", ""matsahtli"", ""matsatli""]",z > s
+kw::matzohtli::1,matzohtli,EHN_colloquial,Eastern Huasteca Nahuatl,pineapple,rule_based_from_source_form,matsohtli,matsohtli,"[""matzohtli"", ""matzotli"", ""matsohtli"", ""matsotli""]",z > s
+kw::mayana::3,mayana,EHN_colloquial,Eastern Huasteca Nahuatl,hungry,rule_based_from_source_form,mayana,mayana,"[""mayana""]",identity
+kw::mayitl::1,mayitl,EHN_colloquial,Eastern Huasteca Nahuatl,hand.,rule_based_from_source_form,mayitl,mayitl,"[""mayitl""]",identity
+kw::mayo::1,mayo,EHN_colloquial,Eastern Huasteca Nahuatl,May,rule_based_from_source_form,mayo,mayo,"[""mayo""]",identity
+kw::mecatl::5,mecatl,EHN_colloquial,Eastern Huasteca Nahuatl,"rope, cord.",rule_based_from_source_form,mekatl,mekatl,"[""mecatl"", ""mekatl""]",hard c > k
+kw::mesa::1,mesa,EHN_colloquial,Eastern Huasteca Nahuatl,table,rule_based_from_source_form,mesa,mesa,"[""mesa""]",identity
+kw::metatl::1,metatl,EHN_colloquial,Eastern Huasteca Nahuatl,"metate, grinding stone.",rule_based_from_source_form,metatl,metatl,"[""metatl""]",identity
+kw::metztli::7,metztli,EHN_colloquial,Eastern Huasteca Nahuatl,moon,rule_based_from_source_form,metstli,metstli,"[""metztli"", ""metstli""]",z > s
+kw::metztli::8,metztli,EHN_colloquial,Eastern Huasteca Nahuatl,month,rule_based_from_source_form,metstli,metstli,"[""metztli"", ""metstli""]",z > s
+kw::metztli::9,metztli,EHN_colloquial,Eastern Huasteca Nahuatl,leg,rule_based_from_source_form,metstli,metstli,"[""metztli"", ""metstli""]",z > s
+kw::mexco::1,Mexco,EHN_colloquial,Eastern Huasteca Nahuatl,Mexico.,rule_based_from_source_form,mexko,mexko,"[""mexco"", ""mexko""]",hard c > k
+kw::mexikatl::2,mexikatl,EHN_colloquial,Eastern Huasteca Nahuatl,"Mexican, Nahuan people.",rule_based_from_source_form,mexikatl,mexikatl,"[""mexikatl"", ""mexicatl""]",identity
+kw::mexko::3,Mexko,EHN_colloquial,Eastern Huasteca Nahuatl,"Mexico (a country in North America, located south of the United States, and northwest of Guatemala and Belize from Central America)",rule_based_from_source_form,mexko,mexko,"[""mexko"", ""mexco""]",identity
+kw::miac::1,miac,EHN_colloquial,Eastern Huasteca Nahuatl,a lot.,rule_based_from_source_form,miak,miak,"[""miac"", ""miak""]",hard c > k
+kw::michi::2,michi,EHN_colloquial,Eastern Huasteca Nahuatl,fish.,rule_based_from_source_form,michi,michi,"[""michi"", ""mici""]",identity
+kw::michtlacualli::1,michtlacualli,EHN_colloquial,Eastern Huasteca Nahuatl,fish (food).,rule_based_from_source_form,michtlakualli,michtlakualli,"[""michtlacualli"", ""mictlacualli"", ""michtlakualli"", ""mictlakualli""]",hard c > k
+kw::mihcatzi::1,mihcatzi,EHN_colloquial,Eastern Huasteca Nahuatl,deadman.,rule_based_from_source_form,mihkatsi,mihkatsi,"[""mihcatzi"", ""micatzi"", ""mihkatsi"", ""mikatsi""]",z > s; hard c > k
+kw::mihquetl::1,mihquetl,EHN_colloquial,Eastern Huasteca Nahuatl,deadman.,rule_based_from_source_form,mihketl,mihketl,"[""mihquetl"", ""miquetl"", ""mihketl"", ""miketl"", ""mihcetl""]",qu > k before front vowel
+kw::milli::3,milli,EHN_colloquial,Eastern Huasteca Nahuatl,Cultivated field; milpa.,rule_based_from_source_form,milli,milli,"[""milli""]",identity
+kw::milpa::1,milpa,EHN_colloquial,Eastern Huasteca Nahuatl,cornfield.,rule_based_from_source_form,milpa,milpa,"[""milpa""]",identity
+kw::miltitla::1,miltitla,EHN_colloquial,Eastern Huasteca Nahuatl,garden.,rule_based_from_source_form,miltitla,miltitla,"[""miltitla""]",identity
+kw::miqui::3,miqui,EHN_colloquial,Eastern Huasteca Nahuatl,to die.,rule_based_from_source_form,miki,miki,"[""miqui"", ""miki"", ""mici""]",qu > k before front vowel
+kw::miquilistli::1,miquilistli,EHN_colloquial,Eastern Huasteca Nahuatl,alternative spelling of miquiliztli (“death”),explicit_gloss_target,mikilistli (“death”),mikilistli (“death”),"[""miquilistli"", ""mikilistli (“death”)"", ""mikilistli (“deat”)"", ""micilistli (“death”)""]",gloss target: miquiliztli (“death”); qu > k before front vowel; z > s
+kw::miquiliztli::3,miquiliztli,EHN_colloquial,Eastern Huasteca Nahuatl,death.,rule_based_from_source_form,mikilistli,mikilistli,"[""miquiliztli"", ""mikilistli"", ""micilistli""]",qu > k before front vowel; z > s
+kw::mistli::3,mistli,EHN_colloquial,Eastern Huasteca Nahuatl,Cat,rule_based_from_source_form,mistli,mistli,"[""mistli""]",identity
+kw::mitoniya::1,mitoniya,EHN_colloquial,Eastern Huasteca Nahuatl,to sweat.,rule_based_from_source_form,mitoniya,mitoniya,"[""mitoniya""]",identity
+kw::miyac::1,miyac,EHN_colloquial,Eastern Huasteca Nahuatl,many.,rule_based_from_source_form,miyak,miyak,"[""miyac"", ""miyak""]",hard c > k
+kw::miztli::4,miztli,EHN_colloquial,Eastern Huasteca Nahuatl,obsolete spelling of mistli,explicit_gloss_target,mistli,mistli,"[""miztli"", ""mistli""]",gloss target: mistli
+kw::mizto::3,mizto,EHN_colloquial,Eastern Huasteca Nahuatl,cat,rule_based_from_source_form,misto,misto,"[""mizto"", ""misto""]",z > s
+kw::moaxca::1,moaxca,EHN_colloquial,Eastern Huasteca Nahuatl,of you,rule_based_from_source_form,moaxka,moaxka,"[""moaxca"", ""moaxka""]",hard c > k
+kw::mococohua::1,mococohua,EHN_colloquial,Eastern Huasteca Nahuatl,to be sick.,rule_based_from_source_form,mokokowa,mokokowa,"[""mococohua"", ""mococoua"", ""mokokowa""]",hu> w before vowel; hard c > k
+kw::moztla::2,moztla,EHN_colloquial,Eastern Huasteca Nahuatl,tomorrow,rule_based_from_source_form,mostla,mostla,"[""moztla"", ""mostla""]",z > s
+kw::na::2,na,EHN_colloquial,Eastern Huasteca Nahuatl,first person; I,rule_based_from_source_form,na,na,"[""na""]",identity
+kw::nacatl::3,nacatl,EHN_colloquial,Eastern Huasteca Nahuatl,obsolete spelling of nakatl,explicit_gloss_target,nakatl,nakatl,"[""nacatl"", ""nakatl""]",gloss target: nakatl
+kw::naha::1,naha,EHN_colloquial,Eastern Huasteca Nahuatl,first person; I,rule_based_from_source_form,naha,naha,"[""naha"", ""naa""]",identity
+kw::nahui::3,nahui,EHN_colloquial,Eastern Huasteca Nahuatl,four,rule_based_from_source_form,nawi,nawi,"[""nahui"", ""naui"", ""nawi""]",hu> w before vowel
+kw::nakatl::3,nakatl,EHN_colloquial,Eastern Huasteca Nahuatl,meat,rule_based_from_source_form,nakatl,nakatl,"[""nakatl"", ""nacatl""]",identity
+kw::nane::2,nane,EHN_colloquial,Eastern Huasteca Nahuatl,Miss,rule_based_from_source_form,nane,nane,"[""nane""]",identity
+kw::ne::1,ne,EHN_colloquial,Eastern Huasteca Nahuatl,that.,rule_based_from_source_form,ne,ne,"[""ne""]",identity
+kw::ne::2,ne,EHN_colloquial,Eastern Huasteca Nahuatl,that.,rule_based_from_source_form,ne,ne,"[""ne""]",identity
+kw::neca::1,neca,EHN_colloquial,Eastern Huasteca Nahuatl,there,rule_based_from_source_form,neka,neka,"[""neca"", ""neka""]",hard c > k
+kw::nechca::1,nechca,EHN_colloquial,Eastern Huasteca Nahuatl,close to.,rule_based_from_source_form,nechka,nechka,"[""nechca"", ""necca"", ""nechka"", ""necka""]",hard c > k
+kw::nectli::2,nectli,EHN_colloquial,Eastern Huasteca Nahuatl,honey.,rule_based_from_source_form,nektli,nektli,"[""nectli"", ""nektli""]",hard c > k
+kw::nehnemi::2,nehnemi,EHN_colloquial,Eastern Huasteca Nahuatl,to walk.,rule_based_from_source_form,nehnemi,nehnemi,"[""nehnemi"", ""nenemi""]",identity
+kw::nehnemiliztli::1,nehnemiliztli,EHN_colloquial,Eastern Huasteca Nahuatl,way of life; a lifestyle.,rule_based_from_source_form,nehnemilistli,nehnemilistli,"[""nehnemiliztli"", ""nenemiliztli"", ""nehnemilistli"", ""nenemilistli""]",z > s
+kw::nel-a::1,nelía,EHN_colloquial,Eastern Huasteca Nahuatl,truly.,rule_based_from_source_form,nelía,nelia,"[""nelía"", ""nelia""]",identity
+kw::nepa::1,nepa,EHN_colloquial,Eastern Huasteca Nahuatl,there,rule_based_from_source_form,nepa,nepa,"[""nepa""]",identity
+kw::ni::1,ni,EHN_colloquial,Eastern Huasteca Nahuatl,this.,rule_based_from_source_form,ni,ni,"[""ni""]",identity
+kw::ni::2,ni,EHN_colloquial,Eastern Huasteca Nahuatl,this.,rule_based_from_source_form,ni,ni,"[""ni""]",identity
+kw::nica::1,nica,EHN_colloquial,Eastern Huasteca Nahuatl,here,rule_based_from_source_form,nika,nika,"[""nica"", ""nika""]",hard c > k
+kw::nicani::1,nicani,EHN_colloquial,Eastern Huasteca Nahuatl,here,rule_based_from_source_form,nikani,nikani,"[""nicani"", ""nikani""]",hard c > k
+kw::noaxca::1,noaxca,EHN_colloquial,Eastern Huasteca Nahuatl,of me,rule_based_from_source_form,noaxka,noaxka,"[""noaxca"", ""noaxka""]",hard c > k
+kw::nochi::1,nochi,EHN_colloquial,Eastern Huasteca Nahuatl,all.,rule_based_from_source_form,nochi,nochi,"[""nochi"", ""noci""]",identity
+kw::nochtli::4,nochtli,EHN_colloquial,Eastern Huasteca Nahuatl,prickly pear,rule_based_from_source_form,nochtli,nochtli,"[""nochtli"", ""noctli""]",identity
+kw::noha::1,noha,EHN_colloquial,Eastern Huasteca Nahuatl,still,rule_based_from_source_form,noha,noha,"[""noha"", ""noa""]",identity
+kw::nohqu-a::1,nohquía,EHN_colloquial,Eastern Huasteca Nahuatl,"also, as well.",rule_based_from_source_form,nohquía,nohquia,"[""nohquía"", ""nohquia"", ""noquia""]",identity
+kw::nohquiya::1,nohquiya,EHN_colloquial,Eastern Huasteca Nahuatl,"moreover, furthermore.",rule_based_from_source_form,nohkiya,nohkiya,"[""nohquiya"", ""noquiya"", ""nohkiya"", ""nokiya"", ""nohciya""]",qu > k before front vowel
+kw::nopa::1,nopa,EHN_colloquial,Eastern Huasteca Nahuatl,that.,rule_based_from_source_form,nopa,nopa,"[""nopa""]",identity
+kw::nopa::2,nopa,EHN_colloquial,Eastern Huasteca Nahuatl,that.,rule_based_from_source_form,nopa,nopa,"[""nopa""]",identity
+kw::nopano::1,nopano,EHN_colloquial,Eastern Huasteca Nahuatl,there,rule_based_from_source_form,nopano,nopano,"[""nopano""]",identity
+kw::noviembre::1,noviembre,EHN_colloquial,Eastern Huasteca Nahuatl,November,rule_based_from_source_form,noviembre,noviembre,"[""noviembre""]",identity
+kw::octubre::1,octubre,EHN_colloquial,Eastern Huasteca Nahuatl,October,rule_based_from_source_form,oktubre,oktubre,"[""octubre"", ""oktubre""]",hard c > k
+kw::ocuili::1,ocuili,EHN_colloquial,Eastern Huasteca Nahuatl,"worm, grub.",rule_based_from_source_form,okuili,okuili,"[""ocuili"", ""okuili""]",hard c > k
+kw::ohuaatl::1,ohuaatl,EHN_colloquial,Eastern Huasteca Nahuatl,sugarcane juice.,rule_based_from_source_form,owaatl,owaatl,"[""ohuaatl"", ""ouaatl"", ""owaatl""]",hu> w before vowel
+kw::ohuatl::2,ohuatl,EHN_colloquial,Eastern Huasteca Nahuatl,sugarcane.,rule_based_from_source_form,owatl,owatl,"[""ohuatl"", ""ouatl"", ""owatl""]",hu> w before vowel
+kw::ohui::1,ohui,EHN_colloquial,Eastern Huasteca Nahuatl,"hard, difficult.",rule_based_from_source_form,owi,owi,"[""ohui"", ""oui"", ""owi""]",hu> w before vowel
+kw::ohyoli::1,ohyoli,EHN_colloquial,Eastern Huasteca Nahuatl,jug.,rule_based_from_source_form,ohyoli,ohyoli,"[""ohyoli"", ""oyoli""]",identity
+kw::okichpil::1,okichpil,EHN_colloquial,Eastern Huasteca Nahuatl,boy,rule_based_from_source_form,okichpil,okichpil,"[""okichpil"", ""okicpil"", ""ocichpil""]",identity
+kw::okichpilmeh::1,okichpilmeh,EHN_colloquial,Eastern Huasteca Nahuatl,plural of okichpil,rule_based_from_source_form,okichpilmeh,okichpilmeh,"[""okichpilmeh"", ""okicpilme"", ""ocichpilmeh""]",identity
+kw::okichtli::1,okichtli,EHN_colloquial,Eastern Huasteca Nahuatl,"male, macho",rule_based_from_source_form,okichtli,okichtli,"[""okichtli"", ""okictli"", ""ocichtli""]",identity
+kw::olotl::4,olotl,EHN_colloquial,Eastern Huasteca Nahuatl,corncob.,rule_based_from_source_form,olotl,olotl,"[""olotl""]",identity
+kw::ome::4,ome,EHN_colloquial,Eastern Huasteca Nahuatl,two,rule_based_from_source_form,ome,ome,"[""ome""]",identity
+kw::omitl::4,omitl,EHN_colloquial,Eastern Huasteca Nahuatl,bone.,rule_based_from_source_form,omitl,omitl,"[""omitl""]",identity
+kw::ompa::2,ompa,EHN_colloquial,Eastern Huasteca Nahuatl,second.,rule_based_from_source_form,ompa,ompa,"[""ompa""]",identity
+kw::onca::1,onca,EHN_colloquial,Eastern Huasteca Nahuatl,there is.,rule_based_from_source_form,onka,onka,"[""onca"", ""onka""]",hard c > k
+kw::oquichpil::2,oquichpil,EHN_colloquial,Eastern Huasteca Nahuatl,boy.,rule_based_from_source_form,okichpil,okichpil,"[""oquichpil"", ""oquicpil"", ""okichpil"", ""okicpil"", ""ocichpil""]",qu > k before front vowel
+kw::oquichpilmeh::1,oquichpilmeh,EHN_colloquial,Eastern Huasteca Nahuatl,plural of oquichpil,rule_based_from_source_form,okichpilmeh,okichpilmeh,"[""oquichpilmeh"", ""oquicpilme"", ""okichpilmeh"", ""okicpilme"", ""ocichpilmeh""]",qu > k before front vowel
+kw::oquichtli::5,oquichtli,EHN_colloquial,Eastern Huasteca Nahuatl,man.,rule_based_from_source_form,okichtli,okichtli,"[""oquichtli"", ""oquictli"", ""okichtli"", ""okictli"", ""ocichtli""]",qu > k before front vowel
+kw::oselotl::4,oselotl,EHN_colloquial,Eastern Huasteca Nahuatl,jaguar.,rule_based_from_source_form,oselotl,oselotl,"[""oselotl""]",identity
+kw::ostotl::3,ostotl,EHN_colloquial,Eastern Huasteca Nahuatl,cave,rule_based_from_source_form,ostotl,ostotl,"[""ostotl""]",identity
+kw::ostowatl::1,ostowatl,EHN_colloquial,Eastern Huasteca Nahuatl,fox,rule_based_from_source_form,ostowatl,ostowatl,"[""ostowatl"", ""ostohuatl""]",identity
+kw::otoncamanalli::1,otoncamanalli,EHN_colloquial,Eastern Huasteca Nahuatl,the Otomi language.,rule_based_from_source_form,otonkamanalli,otonkamanalli,"[""otoncamanalli"", ""otonkamanalli""]",hard c > k
+kw::otonlalax::2,otonlalax,EHN_colloquial,Eastern Huasteca Nahuatl,mandarin orange.,rule_based_from_source_form,otonlalax,otonlalax,"[""otonlalax""]",identity
+kw::oztotl::3,oztotl,EHN_colloquial,Eastern Huasteca Nahuatl,obsolete spelling of ostotl,explicit_gloss_target,ostotl,ostotl,"[""oztotl"", ""ostotl""]",gloss target: ostotl
+kw::pahtli::2,pahtli,EHN_colloquial,Eastern Huasteca Nahuatl,medicine.,rule_based_from_source_form,pahtli,pahtli,"[""pahtli"", ""patli""]",identity
+kw::pahtli::3,pahtli,EHN_colloquial,Eastern Huasteca Nahuatl,poison.,rule_based_from_source_form,pahtli,pahtli,"[""pahtli"", ""patli""]",identity
+kw::palach::2,palach,EHN_colloquial,Eastern Huasteca Nahuatl,turkey.,rule_based_from_source_form,palach,palach,"[""palach"", ""palac""]",identity
+kw::pampa::1,pampa,EHN_colloquial,Eastern Huasteca Nahuatl,because,rule_based_from_source_form,pampa,pampa,"[""pampa""]",identity
+kw::pantzi::1,pantzi,EHN_colloquial,Eastern Huasteca Nahuatl,bread.,rule_based_from_source_form,pantsi,pantsi,"[""pantzi"", ""pantsi""]",z > s
+kw::papalotl::5,papalotl,EHN_colloquial,Eastern Huasteca Nahuatl,butterfly.,rule_based_from_source_form,papalotl,papalotl,"[""papalotl""]",identity
+kw::paquiliztli::2,paquiliztli,EHN_colloquial,Eastern Huasteca Nahuatl,joy,rule_based_from_source_form,pakilistli,pakilistli,"[""paquiliztli"", ""pakilistli"", ""pacilistli""]",qu > k before front vowel; z > s
+kw::para-tlen::1,para tlen,EHN_colloquial,Eastern Huasteca Nahuatl,why?,rule_based_from_source_form,para tlen,para tlen,"[""para tlen""]",identity
+kw::pastiya::1,pastiya,EHN_colloquial,Eastern Huasteca Nahuatl,pill.,rule_based_from_source_form,pastiya,pastiya,"[""pastiya""]",identity
+kw::patiyo::1,patiyo,EHN_colloquial,Eastern Huasteca Nahuatl,expensive.,rule_based_from_source_form,patiyo,patiyo,"[""patiyo""]",identity
+kw::patlahuac::2,patlahuac,EHN_colloquial,Eastern Huasteca Nahuatl,"wide, ample.",rule_based_from_source_form,patlawak,patlawak,"[""patlahuac"", ""patlauac"", ""patlawak""]",hu> w before vowel; hard c > k
+kw::paxalohquetl::1,paxalohquetl,EHN_colloquial,Eastern Huasteca Nahuatl,visitor.,rule_based_from_source_form,paxalohketl,paxalohketl,"[""paxalohquetl"", ""paxaloquetl"", ""paxalohketl"", ""paxaloketl"", ""paxalohcetl""]",qu > k before front vowel
+kw::pemuch::1,pemuch,EHN_colloquial,Eastern Huasteca Nahuatl,naked coral tree.,rule_based_from_source_form,pemuch,pemuch,"[""pemuch"", ""pemuc""]",identity
+kw::pero::1,pero,EHN_colloquial,Eastern Huasteca Nahuatl,"but, rather",rule_based_from_source_form,pero,pero,"[""pero""]",identity
+kw::peso::1,peso,EHN_colloquial,Eastern Huasteca Nahuatl,peso,rule_based_from_source_form,peso,peso,"[""peso""]",identity
+kw::pesohtli::1,pesohtli,EHN_colloquial,Eastern Huasteca Nahuatl,alternative spelling of pezohtli,explicit_gloss_target,pesohtli,pesohtli,"[""pesohtli"", ""pesotli""]",gloss target: pezohtli; z > s
+kw::pezohtli::3,pezohtli,EHN_colloquial,Eastern Huasteca Nahuatl,"badger, coati.",rule_based_from_source_form,pesohtli,pesohtli,"[""pezohtli"", ""pezotli"", ""pesohtli"", ""pesotli""]",z > s
+kw::pialli::1,pialli,EHN_colloquial,Eastern Huasteca Nahuatl,hello (greeting).,rule_based_from_source_form,pialli,pialli,"[""pialli""]",identity
+kw::pilconetzi::1,pilconetzi,EHN_colloquial,Eastern Huasteca Nahuatl,child,rule_based_from_source_form,pilkonetsi,pilkonetsi,"[""pilconetzi"", ""pilkonetsi""]",z > s; hard c > k
+kw::pitzo::1,pitzo,EHN_colloquial,Eastern Huasteca Nahuatl,pig.,rule_based_from_source_form,pitso,pitso,"[""pitzo"", ""pitso""]",z > s
+kw::piya::1,piya,EHN_colloquial,Eastern Huasteca Nahuatl,to have.,rule_based_from_source_form,piya,piya,"[""piya""]",identity
+kw::piyo::2,piyo,EHN_colloquial,Eastern Huasteca Nahuatl,"chicken, hen",rule_based_from_source_form,piyo,piyo,"[""piyo""]",identity
+kw::pochotl::12,pochotl,EHN_colloquial,Eastern Huasteca Nahuatl,"Kapok tree, silk-cotton tree.",rule_based_from_source_form,pochotl,pochotl,"[""pochotl"", ""pocotl""]",identity
+kw::pochotl::13,pochotl,EHN_colloquial,Eastern Huasteca Nahuatl,Ceiba pentandra.,rule_based_from_source_form,pochotl,pochotl,"[""pochotl"", ""pocotl""]",identity
+kw::poctli::3,poctli,EHN_colloquial,Eastern Huasteca Nahuatl,smoke,rule_based_from_source_form,poktli,poktli,"[""poctli"", ""poktli""]",hard c > k
+kw::poyox::1,poyox,EHN_colloquial,Eastern Huasteca Nahuatl,rooster.,rule_based_from_source_form,poyox,poyox,"[""poyox""]",identity
+kw::puerta::1,puerta,EHN_colloquial,Eastern Huasteca Nahuatl,door,rule_based_from_source_form,puerta,puerta,"[""puerta""]",identity
+kw::queha-ni::1,queha ni,EHN_colloquial,Eastern Huasteca Nahuatl,like this.,rule_based_from_source_form,keha ni,keha ni,"[""queha ni"", ""quea ni"", ""keha ni"", ""kea ni"", ""ceha ni""]",qu > k before front vowel
+kw::queha-nopa::1,queha nopa,EHN_colloquial,Eastern Huasteca Nahuatl,like that.,rule_based_from_source_form,keha nopa,keha nopa,"[""queha nopa"", ""quea nopa"", ""keha nopa"", ""kea nopa"", ""ceha nopa""]",qu > k before front vowel
+kw::queha::1,queha,EHN_colloquial,Eastern Huasteca Nahuatl,how.,rule_based_from_source_form,keha,keha,"[""queha"", ""quea"", ""keha"", ""kea"", ""ceha""]",qu > k before front vowel
+kw::queha::2,queha,EHN_colloquial,Eastern Huasteca Nahuatl,"like, as.",rule_based_from_source_form,keha,keha,"[""queha"", ""quea"", ""keha"", ""kea"", ""ceha""]",qu > k before front vowel
+kw::quehatza-tiitztoc::1,quehatza tiitztoc,EHN_colloquial,Eastern Huasteca Nahuatl,how are you?,rule_based_from_source_form,kehatsa tiitstok,kehatsa tiitstok,"[""quehatza tiitztoc"", ""queatza tiitztoc"", ""kehatsa tiitstok"", ""keatsa tiitstok"", ""cehatza tiitztoc""]",qu > k before front vowel; z > s; hard c > k
+kw::quehatza-tiya::1,quehatza tiya,EHN_colloquial,Eastern Huasteca Nahuatl,how's it going?,rule_based_from_source_form,kehatsa tiya,kehatsa tiya,"[""quehatza tiya"", ""queatza tiya"", ""kehatsa tiya"", ""keatsa tiya"", ""cehatza tiya""]",qu > k before front vowel; z > s
+kw::quehatza::1,quehatza,EHN_colloquial,Eastern Huasteca Nahuatl,how.,rule_based_from_source_form,kehatsa,kehatsa,"[""quehatza"", ""queatza"", ""kehatsa"", ""keatsa"", ""cehatza""]",qu > k before front vowel; z > s
+kw::quehatza::2,quehatza,EHN_colloquial,Eastern Huasteca Nahuatl,"like, as.",rule_based_from_source_form,kehatsa,kehatsa,"[""quehatza"", ""queatza"", ""kehatsa"", ""keatsa"", ""cehatza""]",qu > k before front vowel; z > s
+kw::queja::1,queja,EHN_colloquial,Eastern Huasteca Nahuatl,alternative spelling of queha (“how?”),explicit_gloss_target,keha (“how?”),keha (“how?”),"[""queja"", ""keha (“how?”)"", ""kea (“ow?”)"", ""ceha (“hohu?”)""]",gloss target: queha (“how?”); qu > k before front vowel
+kw::queja::2,queja,EHN_colloquial,Eastern Huasteca Nahuatl,alternative spelling of queha (“like”),explicit_gloss_target,keha (“like”),keha (“like”),"[""queja"", ""keha (“like”)"", ""kea (“like”)"", ""ceha (“lice”)""]",gloss target: queha (“like”); qu > k before front vowel
+kw::quema::1,quema,EHN_colloquial,Eastern Huasteca Nahuatl,when?,rule_based_from_source_form,kema,kema,"[""quema"", ""kema"", ""cema""]",qu > k before front vowel
+kw::quena::1,quena,EHN_colloquial,Eastern Huasteca Nahuatl,"yes, positive response.",rule_based_from_source_form,kena,kena,"[""quena"", ""kena"", ""cena""]",qu > k before front vowel
+kw::quentzi::1,quentzi,EHN_colloquial,Eastern Huasteca Nahuatl,"little, not much.",rule_based_from_source_form,kentsi,kentsi,"[""quentzi"", ""kentsi"", ""centzi""]",qu > k before front vowel; z > s
+kw::quentzi::2,quentzi,EHN_colloquial,Eastern Huasteca Nahuatl,less.,rule_based_from_source_form,kentsi,kentsi,"[""quentzi"", ""kentsi"", ""centzi""]",qu > k before front vowel; z > s
+kw::quetl::1,-quetl,EHN_colloquial,Eastern Huasteca Nahuatl,suffix that gives a noun an actor.,rule_based_from_source_form,-ketl,-ketl,"[""-quetl"", ""-ketl"", ""-cetl""]",qu > k before front vowel
+kw::quezqui::1,quezqui,EHN_colloquial,Eastern Huasteca Nahuatl,how much?,rule_based_from_source_form,keski,keski,"[""quezqui"", ""keski"", ""cesci""]",qu > k before front vowel; z > s
+kw::sehco::1,sehco,EHN_colloquial,Eastern Huasteca Nahuatl,people.,rule_based_from_source_form,sehko,sehko,"[""sehco"", ""seco"", ""sehko"", ""seko""]",hard c > k
+kw::septiembre::1,septiembre,EHN_colloquial,Eastern Huasteca Nahuatl,September,rule_based_from_source_form,septiembre,septiembre,"[""septiembre""]",identity
+kw::sinkowatl::1,sinkowatl,EHN_colloquial,Eastern Huasteca Nahuatl,bull snake,rule_based_from_source_form,sinkowatl,sinkowatl,"[""sinkowatl"", ""sincohuatl""]",identity
+kw::sintli::2,sintli,EHN_colloquial,Eastern Huasteca Nahuatl,alternative spelling of cintli (“corn”),explicit_gloss_target,sintli (“korn”),sintli (“korn”),"[""sintli"", ""sintli (“korn”)"", ""sintli (“corn”)""]",gloss target: cintli (“corn”); soft c > s; hard c > k
+kw::sitlalli::1,sitlalli,EHN_colloquial,Eastern Huasteca Nahuatl,star,rule_based_from_source_form,sitlalli,sitlalli,"[""sitlalli""]",identity
+kw::siwapil::2,siwapil,EHN_colloquial,Eastern Huasteca Nahuatl,girl.,rule_based_from_source_form,siwapil,siwapil,"[""siwapil"", ""sihuapil""]",identity
+kw::siwapilmeh::1,siwapilmeh,EHN_colloquial,Eastern Huasteca Nahuatl,plural of siwapil,rule_based_from_source_form,siwapilmeh,siwapilmeh,"[""siwapilmeh"", ""siwapilme"", ""sihuapilmeh""]",identity
+kw::siwatl::1,siwatl,EHN_colloquial,Eastern Huasteca Nahuatl,woman,rule_based_from_source_form,siwatl,siwatl,"[""siwatl"", ""sihuatl""]",identity
+kw::siya::1,siya,EHN_colloquial,Eastern Huasteca Nahuatl,chair,rule_based_from_source_form,siya,siya,"[""siya""]",identity
+kw::sokitl::3,sokitl,EHN_colloquial,Eastern Huasteca Nahuatl,mud,rule_based_from_source_form,sokitl,sokitl,"[""sokitl"", ""socitl""]",identity
+kw::soldado::1,soldado,EHN_colloquial,Eastern Huasteca Nahuatl,soldier,rule_based_from_source_form,soldado,soldado,"[""soldado""]",identity
+kw::ta::2,ta,EHN_colloquial,Eastern Huasteca Nahuatl,second person; you (singular),rule_based_from_source_form,ta,ta,"[""ta""]",identity
+kw::taha::1,taha,EHN_colloquial,Eastern Huasteca Nahuatl,second person; you (singular),rule_based_from_source_form,taha,taha,"[""taha"", ""taa""]",identity
+kw::tahtzi::1,tahtzi,EHN_colloquial,Eastern Huasteca Nahuatl,"father, priest.",rule_based_from_source_form,tahtsi,tahtsi,"[""tahtzi"", ""tatzi"", ""tahtsi"", ""tatsi""]",z > s
+kw::tamalli::3,tamalli,EHN_colloquial,Eastern Huasteca Nahuatl,tamale,rule_based_from_source_form,tamalli,tamalli,"[""tamalli""]",identity
+kw::tatahtzi::1,tatahtzi,EHN_colloquial,Eastern Huasteca Nahuatl,"father, priest.",rule_based_from_source_form,tatahtsi,tatahtsi,"[""tatahtzi"", ""tatatzi"", ""tatahtsi"", ""tatatsi""]",z > s
+kw::tate::2,tate,EHN_colloquial,Eastern Huasteca Nahuatl,sir.,rule_based_from_source_form,tate,tate,"[""tate""]",identity
+kw::taza::1,taza,EHN_colloquial,Eastern Huasteca Nahuatl,cup.,rule_based_from_source_form,tasa,tasa,"[""taza"", ""tasa""]",z > s
+kw::tecactli::3,tecactli,EHN_colloquial,Eastern Huasteca Nahuatl,"a sandal, huarache.",rule_based_from_source_form,tekaktli,tekaktli,"[""tecactli"", ""tekaktli""]",hard c > k
+kw::teccizcacahuatl::1,teccizcacahuatl,EHN_colloquial,Eastern Huasteca Nahuatl,shell.,rule_based_from_source_form,teksiskakawatl,teksiskakawatl,"[""teccizcacahuatl"", ""teccizcacauatl"", ""teksiskakawatl"", ""tecsiscacahuatl""]",hu> w before vowel; soft c > s; z > s; hard c > k
+kw::tecciztli::4,tecciztli,EHN_colloquial,Eastern Huasteca Nahuatl,egg,rule_based_from_source_form,teksistli,teksistli,"[""tecciztli"", ""teksistli"", ""tecsistli""]",soft c > s; z > s; hard c > k
+kw::tecciztli::5,tecciztli,EHN_colloquial,Eastern Huasteca Nahuatl,tilefish,rule_based_from_source_form,teksistli,teksistli,"[""tecciztli"", ""teksistli"", ""tecsistli""]",soft c > s; z > s; hard c > k
+kw::tecomahtli::1,tecomahtli,EHN_colloquial,Eastern Huasteca Nahuatl,squirrel.,rule_based_from_source_form,tekomahtli,tekomahtli,"[""tecomahtli"", ""tecomatli"", ""tekomahtli"", ""tekomatli""]",hard c > k
+kw::tecotli::1,tecotli,EHN_colloquial,Eastern Huasteca Nahuatl,"master, lord.",rule_based_from_source_form,tekotli,tekotli,"[""tecotli"", ""tekotli""]",hard c > k
+kw::tecotli::2,tecotli,EHN_colloquial,Eastern Huasteca Nahuatl,god.,rule_based_from_source_form,tekotli,tekotli,"[""tecotli"", ""tekotli""]",hard c > k
+kw::tecsistli::1,tecsistli,EHN_colloquial,Eastern Huasteca Nahuatl,alternative spelling of tecciztli (“egg”),explicit_gloss_target,teksistli (“egg”),teksistli (“egg”),"[""tecsistli"", ""teksistli (“egg”)"", ""tecsistli (“egg”)""]",gloss target: tecciztli (“egg”); soft c > s; z > s; hard c > k
+kw::tecuani::5,tecuani,EHN_colloquial,Eastern Huasteca Nahuatl,lion.,rule_based_from_source_form,tekuani,tekuani,"[""tecuani"", ""tekuani""]",hard c > k
+kw::telpocatl::1,telpocatl,EHN_colloquial,Eastern Huasteca Nahuatl,obsolete spelling of telpokatl,explicit_gloss_target,telpokatl,telpokatl,"[""telpocatl"", ""telpokatl""]",gloss target: telpokatl
+kw::telpokatl::1,telpokatl,EHN_colloquial,Eastern Huasteca Nahuatl,"young person, young man.",rule_based_from_source_form,telpokatl,telpokatl,"[""telpokatl"", ""telpocatl""]",identity
+kw::temaxokotl::2,temaxokotl,EHN_colloquial,Eastern Huasteca Nahuatl,plump,rule_based_from_source_form,temaxokotl,temaxokotl,"[""temaxokotl"", ""temaxocotl""]",identity
+kw::tepaht-a::1,tepahtía,EHN_colloquial,Eastern Huasteca Nahuatl,to cure.,rule_based_from_source_form,tepahtía,tepahtia,"[""tepahtía"", ""tepahtia"", ""tepatia""]",identity
+kw::tepahtihquetl::1,tepahtihquetl,EHN_colloquial,Eastern Huasteca Nahuatl,doctor.,rule_based_from_source_form,tepahtihketl,tepahtihketl,"[""tepahtihquetl"", ""tepatiquetl"", ""tepahtihketl"", ""tepatiketl"", ""tepahtihcetl""]",qu > k before front vowel
+kw::tepamitl::2,tepamitl,EHN_colloquial,Eastern Huasteca Nahuatl,wall,rule_based_from_source_form,tepamitl,tepamitl,"[""tepamitl""]",identity
+kw::tepamitl::3,tepamitl,EHN_colloquial,Eastern Huasteca Nahuatl,stone fence.,rule_based_from_source_form,tepamitl,tepamitl,"[""tepamitl""]",identity
+kw::tepetl::4,tepetl,EHN_colloquial,Eastern Huasteca Nahuatl,mountain,rule_based_from_source_form,tepetl,tepetl,"[""tepetl""]",identity
+kw::tepozcahuayo::1,tepozcahuayo,EHN_colloquial,Eastern Huasteca Nahuatl,bus.,rule_based_from_source_form,teposkawayo,teposkawayo,"[""tepozcahuayo"", ""tepozcauayo"", ""teposkawayo"", ""teposcahuayo""]",hu> w before vowel; z > s; hard c > k
+kw::tepozcamanalli::1,tepozcamanalli,EHN_colloquial,Eastern Huasteca Nahuatl,radio.,rule_based_from_source_form,teposkamanalli,teposkamanalli,"[""tepozcamanalli"", ""teposkamanalli"", ""teposcamanalli""]",z > s; hard c > k
+kw::tepozmecatl::2,tepozmecatl,EHN_colloquial,Eastern Huasteca Nahuatl,"wire, chain.",rule_based_from_source_form,teposmekatl,teposmekatl,"[""tepozmecatl"", ""teposmekatl"", ""teposmecatl""]",z > s; hard c > k
+kw::tepoztli::3,tepoztli,EHN_colloquial,Eastern Huasteca Nahuatl,metal.,rule_based_from_source_form,tepostli,tepostli,"[""tepoztli"", ""tepostli""]",z > s
+kw::tepoztototl::2,tepoztototl,EHN_colloquial,Eastern Huasteca Nahuatl,airplane,rule_based_from_source_form,tepostototl,tepostototl,"[""tepoztototl"", ""tepostototl""]",z > s
+kw::tequicalli::1,tequicalli,EHN_colloquial,Eastern Huasteca Nahuatl,palace.,rule_based_from_source_form,tekikalli,tekikalli,"[""tequicalli"", ""tekikalli"", ""tecicalli""]",qu > k before front vowel; hard c > k
+kw::tequitiquetl::1,tequitiquetl,EHN_colloquial,Eastern Huasteca Nahuatl,authority.,rule_based_from_source_form,tekitiketl,tekitiketl,"[""tequitiquetl"", ""tekitiketl"", ""teciticetl""]",qu > k before front vowel
+kw::tequitl::2,tequitl,EHN_colloquial,Eastern Huasteca Nahuatl,work.,rule_based_from_source_form,tekitl,tekitl,"[""tequitl"", ""tekitl"", ""tecitl""]",qu > k before front vowel
+kw::tetequipanohquetl::1,tetequipanohquetl,EHN_colloquial,Eastern Huasteca Nahuatl,servant.,rule_based_from_source_form,tetekipanohketl,tetekipanohketl,"[""tetequipanohquetl"", ""tetequipanoquetl"", ""tetekipanohketl"", ""tetekipanoketl"", ""tetecipanohcetl""]",qu > k before front vowel
+kw::tetl::6,tetl,EHN_colloquial,Eastern Huasteca Nahuatl,rock,rule_based_from_source_form,tetl,tetl,"[""tetl""]",identity
+kw::texinquetl::1,texinquetl,EHN_colloquial,Eastern Huasteca Nahuatl,hairdresser.,rule_based_from_source_form,texinketl,texinketl,"[""texinquetl"", ""texinketl"", ""texincetl""]",qu > k before front vowel
+kw::texokotl::2,texokotl,EHN_colloquial,Eastern Huasteca Nahuatl,tejocote,rule_based_from_source_form,texokotl,texokotl,"[""texokotl"", ""texocotl""]",identity
+kw::tezcatl::4,tezcatl,EHN_colloquial,Eastern Huasteca Nahuatl,mirror.,rule_based_from_source_form,teskatl,teskatl,"[""tezcatl"", ""teskatl"", ""tescatl""]",z > s; hard c > k
+kw::tianquiz::1,tianquiz,EHN_colloquial,Eastern Huasteca Nahuatl,"market, plaza.",rule_based_from_source_form,tiankis,tiankis,"[""tianquiz"", ""tiankis"", ""tiancis""]",qu > k before front vowel; z > s
+kw::tici::1,tici,EHN_colloquial,Eastern Huasteca Nahuatl,to grind.,rule_based_from_source_form,tisi,tisi,"[""tici"", ""tisi""]",soft c > s
+kw::tiocamanalohquetl::1,tiocamanalohquetl,EHN_colloquial,Eastern Huasteca Nahuatl,prophet.,rule_based_from_source_form,tiokamanalohketl,tiokamanalohketl,"[""tiocamanalohquetl"", ""tiocamanaloquetl"", ""tiokamanalohketl"", ""tiokamanaloketl"", ""tiocamanalohcetl""]",qu > k before front vowel; hard c > k
+kw::tiochicahualnextili::1,tiochicahualnextili,EHN_colloquial,Eastern Huasteca Nahuatl,miracle.,rule_based_from_source_form,tiochikawalnextili,tiochikawalnextili,"[""tiochicahualnextili"", ""tiocicaualnextili"", ""tiochikawalnextili"", ""tiocikawalnextili""]",hu> w before vowel; hard c > k
+kw::tiopa::1,tiopa,EHN_colloquial,Eastern Huasteca Nahuatl,church,rule_based_from_source_form,tiopa,tiopa,"[""tiopa""]",identity
+kw::tiopamitl::1,tiopamitl,EHN_colloquial,Eastern Huasteca Nahuatl,temple,rule_based_from_source_form,tiopamitl,tiopamitl,"[""tiopamitl""]",identity
+kw::tiotlac::1,tiotlac,EHN_colloquial,Eastern Huasteca Nahuatl,evening,rule_based_from_source_form,tiotlak,tiotlak,"[""tiotlac"", ""tiotlak""]",hard c > k
+kw::tiotlaquilti::1,tiotlaquilti,EHN_colloquial,Eastern Huasteca Nahuatl,good afternoon (greeting).,rule_based_from_source_form,tiotlakilti,tiotlakilti,"[""tiotlaquilti"", ""tiotlakilti"", ""tiotlacilti""]",qu > k before front vowel
+kw::tixtli::1,tixtli,EHN_colloquial,Eastern Huasteca Nahuatl,dough (food).,rule_based_from_source_form,tixtli,tixtli,"[""tixtli""]",identity
+kw::tizquetl::1,tizquetl,EHN_colloquial,Eastern Huasteca Nahuatl,"a miller, grinder.",rule_based_from_source_form,tisketl,tisketl,"[""tizquetl"", ""tisketl"", ""tiscetl""]",qu > k before front vowel; z > s
+kw::tl::2,-tl,EHN_colloquial,Eastern Huasteca Nahuatl,a suffix that makes nouns.,rule_based_from_source_form,-tl,-tl,"[""-tl""]",identity
+kw::tlaahuili::1,tlaahuili,EHN_colloquial,Eastern Huasteca Nahuatl,alternative spelling of tlahuilli (“tree”),explicit_gloss_target,tlawilli (“tree”),tlawilli (“tree”),"[""tlaahuili"", ""tlaauili"", ""tlawilli (“tree”)"", ""tlahuilli (“tree”)""]",gloss target: tlahuilli (“tree”); hu> w before vowel
+kw::tlacatl::6,tlacatl,EHN_colloquial,Eastern Huasteca Nahuatl,man.,rule_based_from_source_form,tlakatl,tlakatl,"[""tlacatl"", ""tlakatl""]",hard c > k
+kw::tlacehuiliztli::1,tlacehuiliztli,EHN_colloquial,Eastern Huasteca Nahuatl,peace.,rule_based_from_source_form,tlasewilistli,tlasewilistli,"[""tlacehuiliztli"", ""tlaceuiliztli"", ""tlasewilistli"", ""tlasehuilistli""]",hu> w before vowel; soft c > s; z > s
+kw::tlachiacayotl::1,tlachiacayotl,EHN_colloquial,Eastern Huasteca Nahuatl,butter.,rule_based_from_source_form,tlachiakayotl,tlachiakayotl,"[""tlachiacayotl"", ""tlaciacayotl"", ""tlachiakayotl"", ""tlaciakayotl""]",hard c > k
+kw::tlachiyaliz::1,tlachiyaliz,EHN_colloquial,Eastern Huasteca Nahuatl,likeness,rule_based_from_source_form,tlachiyalis,tlachiyalis,"[""tlachiyaliz"", ""tlaciyaliz"", ""tlachiyalis"", ""tlaciyalis""]",z > s
+kw::tlachtehquetl::1,tlachtehquetl,EHN_colloquial,Eastern Huasteca Nahuatl,thief.,rule_based_from_source_form,tlachtehketl,tlachtehketl,"[""tlachtehquetl"", ""tlactequetl"", ""tlachtehketl"", ""tlacteketl"", ""tlachtehcetl""]",qu > k before front vowel
+kw::tlacua::2,tlacua,EHN_colloquial,Eastern Huasteca Nahuatl,to eat.,rule_based_from_source_form,tlakua,tlakua,"[""tlacua"", ""tlakua""]",hard c > k
+kw::tlacualistli::1,tlacualistli,EHN_colloquial,Eastern Huasteca Nahuatl,alternative spelling of tlacualiztli (“food”),explicit_gloss_target,tlakualistli (“food”),tlakualistli (“food”),"[""tlacualistli"", ""tlakualistli (“food”)"", ""tlacualistli (“food”)""]",gloss target: tlacualiztli (“food”); z > s; hard c > k
+kw::tlacualiztli::1,tlacualiztli,EHN_colloquial,Eastern Huasteca Nahuatl,food.,rule_based_from_source_form,tlakualistli,tlakualistli,"[""tlacualiztli"", ""tlakualistli"", ""tlacualistli""]",z > s; hard c > k
+kw::tlacualli::3,tlacualli,EHN_colloquial,Eastern Huasteca Nahuatl,food.,rule_based_from_source_form,tlakualli,tlakualli,"[""tlacualli"", ""tlakualli""]",hard c > k
+kw::tlahcuilohua::1,tlahcuilohua,EHN_colloquial,Eastern Huasteca Nahuatl,to write.,rule_based_from_source_form,tlahkuilowa,tlahkuilowa,"[""tlahcuilohua"", ""tlacuiloua"", ""tlahkuilowa"", ""tlakuilowa""]",hu> w before vowel; hard c > k
+kw::tlahtohua::1,tlahtohua,EHN_colloquial,Eastern Huasteca Nahuatl,"to speak, talk.",rule_based_from_source_form,tlahtowa,tlahtowa,"[""tlahtohua"", ""tlatoua"", ""tlahtowa"", ""tlatowa""]",hu> w before vowel
+kw::tlahtolcamanalli::1,tlahtolcamanalli,EHN_colloquial,Eastern Huasteca Nahuatl,story.,rule_based_from_source_form,tlahtolkamanalli,tlahtolkamanalli,"[""tlahtolcamanalli"", ""tlatolcamanalli"", ""tlahtolkamanalli"", ""tlatolkamanalli""]",hard c > k
+kw::tlahtolcuatacani::1,tlahtolcuatacani,EHN_colloquial,Eastern Huasteca Nahuatl,a well-spoken person,rule_based_from_source_form,tlahtolkuatakani,tlahtolkuatakani,"[""tlahtolcuatacani"", ""tlatolcuatacani"", ""tlahtolkuatakani"", ""tlatolkuatakani""]",hard c > k
+kw::tlahtolli::2,tlahtolli,EHN_colloquial,Eastern Huasteca Nahuatl,word. language.,rule_based_from_source_form,tlahtolli,tlahtolli,"[""tlahtolli"", ""tlatolli""]",identity
+kw::tlahuel::1,tlahuel,EHN_colloquial,Eastern Huasteca Nahuatl,very,rule_based_from_source_form,tlawel,tlawel,"[""tlahuel"", ""tlauel"", ""tlawel""]",hu> w before vowel
+kw::tlahuelatl::1,tlahuelatl,EHN_colloquial,Eastern Huasteca Nahuatl,flood.,rule_based_from_source_form,tlawelatl,tlawelatl,"[""tlahuelatl"", ""tlauelatl"", ""tlawelatl""]",hu> w before vowel
+kw::tlahuilli::3,tlahuilli,EHN_colloquial,Eastern Huasteca Nahuatl,light.,rule_based_from_source_form,tlawilli,tlawilli,"[""tlahuilli"", ""tlauilli"", ""tlawilli""]",hu> w before vowel
+kw::tlaihiyohuiliztli::1,tlaihiyohuiliztli,EHN_colloquial,Eastern Huasteca Nahuatl,affliction.,rule_based_from_source_form,tlaihiyowilistli,tlaihiyowilistli,"[""tlaihiyohuiliztli"", ""tlaiiyouiliztli"", ""tlaihiyowilistli"", ""tlaiiyowilistli"", ""tlaihiyohuilistli""]",hu> w before vowel; z > s
+kw::tlalchi::1,tlalchi,EHN_colloquial,Eastern Huasteca Nahuatl,ground.,rule_based_from_source_form,tlalchi,tlalchi,"[""tlalchi"", ""tlalci""]",identity
+kw::tlalli::6,tlalli,EHN_colloquial,Eastern Huasteca Nahuatl,earth,rule_based_from_source_form,tlalli,tlalli,"[""tlalli""]",identity
+kw::tlalli::7,tlalli,EHN_colloquial,Eastern Huasteca Nahuatl,land,rule_based_from_source_form,tlalli,tlalli,"[""tlalli""]",identity
+kw::tlalli::8,tlalli,EHN_colloquial,Eastern Huasteca Nahuatl,country,rule_based_from_source_form,tlalli,tlalli,"[""tlalli""]",identity
+kw::tlalochtli::1,tlalochtli,EHN_colloquial,Eastern Huasteca Nahuatl,moment.,rule_based_from_source_form,tlalochtli,tlalochtli,"[""tlalochtli"", ""tlaloctli""]",identity
+kw::tlaltepactli::1,tlaltepactli,EHN_colloquial,Eastern Huasteca Nahuatl,"ground, earth",rule_based_from_source_form,tlaltepaktli,tlaltepaktli,"[""tlaltepactli"", ""tlaltepaktli""]",hard c > k
+kw::tlamacht-a::1,tlamachtía,EHN_colloquial,Eastern Huasteca Nahuatl,to teach.,rule_based_from_source_form,tlamachtía,tlamachtia,"[""tlamachtía"", ""tlamachtia"", ""tlamactia""]",identity
+kw::tlamachtihquetl::1,tlamachtihquetl,EHN_colloquial,Eastern Huasteca Nahuatl,teacher.,rule_based_from_source_form,tlamachtihketl,tlamachtihketl,"[""tlamachtihquetl"", ""tlamactiquetl"", ""tlamachtihketl"", ""tlamactiketl"", ""tlamachtihcetl""]",qu > k before front vowel
+kw::tlamamalli::1,tlamamalli,EHN_colloquial,Eastern Huasteca Nahuatl,"load, cargo.",rule_based_from_source_form,tlamamalli,tlamamalli,"[""tlamamalli""]",identity
+kw::tlamantli-xihuitl::1,tlamantli xihuitl,EHN_colloquial,Eastern Huasteca Nahuatl,grass.,rule_based_from_source_form,tlamantli xiwitl,tlamantli xiwitl,"[""tlamantli xihuitl"", ""tlamantli xiuitl"", ""tlamantli xiwitl""]",hu> w before vowel
+kw::tlamantli::1,tlamantli,EHN_colloquial,Eastern Huasteca Nahuatl,thing.,rule_based_from_source_form,tlamantli,tlamantli,"[""tlamantli""]",identity
+kw::tlamaya::1,tlamaya,EHN_colloquial,Eastern Huasteca Nahuatl,"a plain, flat land.",rule_based_from_source_form,tlamaya,tlamaya,"[""tlamaya""]",identity
+kw::tlamayamitl::1,tlamayamitl,EHN_colloquial,Eastern Huasteca Nahuatl,"field, plain.",rule_based_from_source_form,tlamayamitl,tlamayamitl,"[""tlamayamitl""]",identity
+kw::tlamocuitlahuihquetl::1,tlamocuitlahuihquetl,EHN_colloquial,Eastern Huasteca Nahuatl,shepherd.,rule_based_from_source_form,tlamokuitlawihketl,tlamokuitlawihketl,"[""tlamocuitlahuihquetl"", ""tlamocuitlauiquetl"", ""tlamokuitlawihketl"", ""tlamokuitlawiketl"", ""tlamocuitlahuihcetl""]",hu> w before vowel; qu > k before front vowel; hard c > k
+kw::tlanahuat-a::1,tlanahuatía,EHN_colloquial,Eastern Huasteca Nahuatl,kingdom.,rule_based_from_source_form,tlanawatía,tlanawatia,"[""tlanahuatía"", ""tlanahuatia"", ""tlanauatia"", ""tlanawatía"", ""tlanawatia""]",hu> w before vowel
+kw::tlanahuat-a::2,tlanahuatía,EHN_colloquial,Eastern Huasteca Nahuatl,to send.,rule_based_from_source_form,tlanawatía,tlanawatia,"[""tlanahuatía"", ""tlanahuatia"", ""tlanauatia"", ""tlanawatía"", ""tlanawatia""]",hu> w before vowel
+kw::tlanahuatihquetl::1,tlanahuatihquetl,EHN_colloquial,Eastern Huasteca Nahuatl,king.,rule_based_from_source_form,tlanawatihketl,tlanawatihketl,"[""tlanahuatihquetl"", ""tlanauatiquetl"", ""tlanawatihketl"", ""tlanawatiketl"", ""tlanahuatihcetl""]",hu> w before vowel; qu > k before front vowel
+kw::tlanahuatihquetl::2,tlanahuatihquetl,EHN_colloquial,Eastern Huasteca Nahuatl,governor.,rule_based_from_source_form,tlanawatihketl,tlanawatihketl,"[""tlanahuatihquetl"", ""tlanauatiquetl"", ""tlanawatihketl"", ""tlanawatiketl"", ""tlanahuatihcetl""]",hu> w before vowel; qu > k before front vowel
+kw::tlanaquiliztli::1,tlanaquiliztli,EHN_colloquial,Eastern Huasteca Nahuatl,"answer, response.",rule_based_from_source_form,tlanakilistli,tlanakilistli,"[""tlanaquiliztli"", ""tlanakilistli"", ""tlanacilistli""]",qu > k before front vowel; z > s
+kw::tlancoch::1,tlancoch,EHN_colloquial,Eastern Huasteca Nahuatl,teeth.,rule_based_from_source_form,tlankoch,tlankoch,"[""tlancoch"", ""tlancoc"", ""tlankoch"", ""tlankoc""]",hard c > k
+kw::tlanehtli::1,tlanehtli,EHN_colloquial,Eastern Huasteca Nahuatl,"laborer, worker.",rule_based_from_source_form,tlanehtli,tlanehtli,"[""tlanehtli"", ""tlanetli""]",identity
+kw::tlaneltilihquetl::1,tlaneltilihquetl,EHN_colloquial,Eastern Huasteca Nahuatl,witness.,rule_based_from_source_form,tlaneltilihketl,tlaneltilihketl,"[""tlaneltilihquetl"", ""tlaneltiliquetl"", ""tlaneltilihketl"", ""tlaneltiliketl"", ""tlaneltilihcetl""]",qu > k before front vowel
+kw::tlanextilihcayotl::1,tlanextilihcayotl,EHN_colloquial,Eastern Huasteca Nahuatl,"sign, wonder, miracle.",rule_based_from_source_form,tlanextilihkayotl,tlanextilihkayotl,"[""tlanextilihcayotl"", ""tlanextilicayotl"", ""tlanextilihkayotl"", ""tlanextilikayotl""]",hard c > k
+kw::tlapahuaxtli::1,tlapahuaxtli,EHN_colloquial,Eastern Huasteca Nahuatl,cooked.,rule_based_from_source_form,tlapawaxtli,tlapawaxtli,"[""tlapahuaxtli"", ""tlapauaxtli"", ""tlapawaxtli""]",hu> w before vowel
+kw::tlapechtli::3,tlapechtli,EHN_colloquial,Eastern Huasteca Nahuatl,bed.,rule_based_from_source_form,tlapechtli,tlapechtli,"[""tlapechtli"", ""tlapectli""]",identity
+kw::tlapehquetl::1,tlapehquetl,EHN_colloquial,Eastern Huasteca Nahuatl,hunter.,rule_based_from_source_form,tlapehketl,tlapehketl,"[""tlapehquetl"", ""tlapequetl"", ""tlapehketl"", ""tlapeketl"", ""tlapehcetl""]",qu > k before front vowel
+kw::tlapitzquetl::1,tlapitzquetl,EHN_colloquial,Eastern Huasteca Nahuatl,"arbiter, arbitrator.",rule_based_from_source_form,tlapitsketl,tlapitsketl,"[""tlapitzquetl"", ""tlapitsketl"", ""tlapitzcetl""]",qu > k before front vowel; z > s
+kw::tlapiyali::2,tlapiyali,EHN_colloquial,Eastern Huasteca Nahuatl,animal.,rule_based_from_source_form,tlapiyali,tlapiyali,"[""tlapiyali""]",identity
+kw::tlapohualistli::1,tlapohualistli,EHN_colloquial,Eastern Huasteca Nahuatl,alternative spelling of tlapohualiztli (“lesson”),explicit_gloss_target,tlapowalistli (“lesson”),tlapowalistli (“lesson”),"[""tlapohualistli"", ""tlapoualistli"", ""tlapowalistli (“lesson”)"", ""tlapohualistli (“lesson”)""]",gloss target: tlapohualiztli (“lesson”); hu> w before vowel; z > s
+kw::tlapohualiztli::2,tlapohualiztli,EHN_colloquial,Eastern Huasteca Nahuatl,lesson.,rule_based_from_source_form,tlapowalistli,tlapowalistli,"[""tlapohualiztli"", ""tlapoualiztli"", ""tlapowalistli"", ""tlapohualistli""]",hu> w before vowel; z > s
+kw::tlapoyahualti::1,tlapoyahualti,EHN_colloquial,Eastern Huasteca Nahuatl,good night (greeting).,rule_based_from_source_form,tlapoyawalti,tlapoyawalti,"[""tlapoyahualti"", ""tlapoyaualti"", ""tlapoyawalti""]",hu> w before vowel
+kw::tlaquemitl::1,tlaquemitl,EHN_colloquial,Eastern Huasteca Nahuatl,blanket.,rule_based_from_source_form,tlakemitl,tlakemitl,"[""tlaquemitl"", ""tlakemitl"", ""tlacemitl""]",qu > k before front vowel
+kw::tlaquetzali::1,tlaquetzali,EHN_colloquial,Eastern Huasteca Nahuatl,pitchfork.,rule_based_from_source_form,tlaketsali,tlaketsali,"[""tlaquetzali"", ""tlaketsali"", ""tlacetzali""]",qu > k before front vowel; z > s
+kw::tlaquetztli::1,tlaquetztli,EHN_colloquial,Eastern Huasteca Nahuatl,a trap.,rule_based_from_source_form,tlaketstli,tlaketstli,"[""tlaquetztli"", ""tlaketstli"", ""tlacetztli""]",qu > k before front vowel; z > s
+kw::tlatehquetl::1,tlatehquetl,EHN_colloquial,Eastern Huasteca Nahuatl,cutter.,rule_based_from_source_form,tlatehketl,tlatehketl,"[""tlatehquetl"", ""tlatequetl"", ""tlatehketl"", ""tlateketl"", ""tlatehcetl""]",qu > k before front vowel
+kw::tlatehuihcayotl::1,tlatehuihcayotl,EHN_colloquial,Eastern Huasteca Nahuatl,war,rule_based_from_source_form,tlatewihkayotl,tlatewihkayotl,"[""tlatehuihcayotl"", ""tlateuicayotl"", ""tlatewihkayotl"", ""tlatewikayotl""]",hu> w before vowel; hard c > k
+kw::tlatequipanohca::1,tlatequipanohca,EHN_colloquial,Eastern Huasteca Nahuatl,slave,rule_based_from_source_form,tlatekipanohka,tlatekipanohka,"[""tlatequipanohca"", ""tlatequipanoca"", ""tlatekipanohka"", ""tlatekipanoka"", ""tlatecipanohca""]",qu > k before front vowel; hard c > k
+kw::tlatilantli::1,tlatilantli,EHN_colloquial,Eastern Huasteca Nahuatl,state.,rule_based_from_source_form,tlatilantli,tlatilantli,"[""tlatilantli""]",identity
+kw::tlatoniya::1,tlatoniya,EHN_colloquial,Eastern Huasteca Nahuatl,to be hot.,rule_based_from_source_form,tlatoniya,tlatoniya,"[""tlatoniya""]",identity
+kw::tlatzactli::1,tlatzactli,EHN_colloquial,Eastern Huasteca Nahuatl,jail.,rule_based_from_source_form,tlatsaktli,tlatsaktli,"[""tlatzactli"", ""tlatsaktli""]",z > s; hard c > k
+kw::tlatzehtzeloltic::1,tlatzehtzeloltic,EHN_colloquial,Eastern Huasteca Nahuatl,holy.,rule_based_from_source_form,tlatsehtseloltik,tlatsehtseloltik,"[""tlatzehtzeloltic"", ""tlatzetzeloltic"", ""tlatsehtseloltik"", ""tlatsetseloltik""]",z > s; hard c > k
+kw::tlatzintla::1,tlatzintla,EHN_colloquial,Eastern Huasteca Nahuatl,"under, below",rule_based_from_source_form,tlatsintla,tlatsintla,"[""tlatzintla"", ""tlatsintla""]",z > s
+kw::tlaxahua::1,tlaxahua,EHN_colloquial,Eastern Huasteca Nahuatl,to dig.,rule_based_from_source_form,tlaxawa,tlaxawa,"[""tlaxahua"", ""tlaxaua"", ""tlaxawa""]",hu> w before vowel
+kw::tlaxahualiztli::1,tlaxahualiztli,EHN_colloquial,Eastern Huasteca Nahuatl,excavation.,rule_based_from_source_form,tlaxawalistli,tlaxawalistli,"[""tlaxahualiztli"", ""tlaxaualiztli"", ""tlaxawalistli"", ""tlaxahualistli""]",hu> w before vowel; z > s
+kw::tlaxcalli::4,tlaxcalli,EHN_colloquial,Eastern Huasteca Nahuatl,tortilla.,rule_based_from_source_form,tlaxkalli,tlaxkalli,"[""tlaxcalli"", ""tlaxkalli""]",hard c > k
+kw::tlaxcaloa::1,tlaxcaloa,EHN_colloquial,Eastern Huasteca Nahuatl,to make tortillas,rule_based_from_source_form,tlaxkaloa,tlaxkaloa,"[""tlaxcaloa"", ""tlaxkaloa""]",hard c > k
+kw::tlaxkaloa::1,tlaxkaloa,EHN_colloquial,Eastern Huasteca Nahuatl,To make tortillas,rule_based_from_source_form,tlaxkaloa,tlaxkaloa,"[""tlaxkaloa"", ""tlaxcaloa""]",identity
+kw::tlayehyecoli::1,tlayehyecoli,EHN_colloquial,Eastern Huasteca Nahuatl,a measure.,rule_based_from_source_form,tlayehyekoli,tlayehyekoli,"[""tlayehyecoli"", ""tlayeyecoli"", ""tlayehyekoli"", ""tlayeyekoli""]",hard c > k
+kw::tlayohua::1,tlayohua,EHN_colloquial,Eastern Huasteca Nahuatl,night.,rule_based_from_source_form,tlayowa,tlayowa,"[""tlayohua"", ""tlayoua"", ""tlayowa""]",hu> w before vowel
+kw::tlayohuilotl::1,tlayohuilotl,EHN_colloquial,Eastern Huasteca Nahuatl,night,rule_based_from_source_form,tlayowilotl,tlayowilotl,"[""tlayohuilotl"", ""tlayouilotl"", ""tlayowilotl""]",hu> w before vowel
+kw::tlazcamati::1,tlazcamati,EHN_colloquial,Eastern Huasteca Nahuatl,thanks.,rule_based_from_source_form,tlaskamati,tlaskamati,"[""tlazcamati"", ""tlaskamati"", ""tlascamati""]",z > s; hard c > k
+kw::tlazolli::2,tlazolli,EHN_colloquial,Eastern Huasteca Nahuatl,trash.,rule_based_from_source_form,tlasolli,tlasolli,"[""tlazolli"", ""tlasolli""]",z > s
+kw::tlen::2,tlen,EHN_colloquial,Eastern Huasteca Nahuatl,what,rule_based_from_source_form,tlen,tlen,"[""tlen""]",identity
+kw::tlen::3,tlen,EHN_colloquial,Eastern Huasteca Nahuatl,that,rule_based_from_source_form,tlen,tlen,"[""tlen""]",identity
+kw::tlenihqui::1,tlenihqui,EHN_colloquial,Eastern Huasteca Nahuatl,deal,rule_based_from_source_form,tlenihki,tlenihki,"[""tlenihqui"", ""tleniqui"", ""tlenihki"", ""tleniki"", ""tlenihci""]",qu > k before front vowel
+kw::tleno::1,tleno,EHN_colloquial,Eastern Huasteca Nahuatl,nothing.,rule_based_from_source_form,tleno,tleno,"[""tleno""]",identity
+kw::tli::2,-tli,EHN_colloquial,Eastern Huasteca Nahuatl,a suffix that makes nouns.,rule_based_from_source_form,-tli,-tli,"[""-tli""]",identity
+kw::tlilelemectli::1,tlilelemectli,EHN_colloquial,Eastern Huasteca Nahuatl,flame.,rule_based_from_source_form,tlilelemektli,tlilelemektli,"[""tlilelemectli"", ""tlilelemektli""]",hard c > k
+kw::tlitl::1,tlitl,EHN_colloquial,Eastern Huasteca Nahuatl,fire.,rule_based_from_source_form,tlitl,tlitl,"[""tlitl""]",identity
+kw::toca::2,toca,EHN_colloquial,Eastern Huasteca Nahuatl,name,rule_based_from_source_form,toka,toka,"[""toca"", ""toka""]",hard c > k
+kw::tocatl::3,tocatl,EHN_colloquial,Eastern Huasteca Nahuatl,obsolete spelling of tokatl,explicit_gloss_target,tokatl,tokatl,"[""tocatl"", ""tokatl""]",gloss target: tokatl
+kw::tocontzi::1,tocontzi,EHN_colloquial,Eastern Huasteca Nahuatl,squirrel.,rule_based_from_source_form,tokontsi,tokontsi,"[""tocontzi"", ""tokontsi""]",z > s; hard c > k
+kw::tohuanti::1,tohuanti,EHN_colloquial,Eastern Huasteca Nahuatl,first person; we,rule_based_from_source_form,towanti,towanti,"[""tohuanti"", ""touanti"", ""towanti""]",hu> w before vowel
+kw::tokatl::3,tokatl,EHN_colloquial,Eastern Huasteca Nahuatl,spider.,rule_based_from_source_form,tokatl,tokatl,"[""tokatl"", ""tocatl""]",identity
+kw::tokomahtli::1,tokomahtli,EHN_colloquial,Eastern Huasteca Nahuatl,squirrel,rule_based_from_source_form,tokomahtli,tokomahtli,"[""tokomahtli"", ""tokomatli"", ""tocomahtli""]",identity
+kw::tomatl::4,tomatl,EHN_colloquial,Eastern Huasteca Nahuatl,tomato,rule_based_from_source_form,tomatl,tomatl,"[""tomatl""]",identity
+kw::tomi::2,tomi,EHN_colloquial,Eastern Huasteca Nahuatl,money.,rule_based_from_source_form,tomi,tomi,"[""tomi""]",identity
+kw::tomin::3,tomin,EHN_colloquial,Eastern Huasteca Nahuatl,money.,rule_based_from_source_form,tomin,tomin,"[""tomin""]",identity
+kw::tonali::1,tonali,EHN_colloquial,Eastern Huasteca Nahuatl,alternative spelling of tonalli,explicit_gloss_target,tonalli,tonalli,"[""tonali"", ""tonalli""]",gloss target: tonalli
+kw::tonalli::9,tonalli,EHN_colloquial,Eastern Huasteca Nahuatl,a day,rule_based_from_source_form,tonalli,tonalli,"[""tonalli""]",identity
+kw::tonalti::1,tonalti,EHN_colloquial,Eastern Huasteca Nahuatl,good morning (greeting).,rule_based_from_source_form,tonalti,tonalti,"[""tonalti""]",identity
+kw::tonatih::2,tonatih,EHN_colloquial,Eastern Huasteca Nahuatl,sun.,rule_based_from_source_form,tonatih,tonatih,"[""tonatih"", ""tonati""]",identity
+kw::tonaya::1,tonaya,EHN_colloquial,Eastern Huasteca Nahuatl,"day, daytime",rule_based_from_source_form,tonaya,tonaya,"[""tonaya""]",identity
+kw::topitzi::1,topitzi,EHN_colloquial,Eastern Huasteca Nahuatl,lizard.,rule_based_from_source_form,topitsi,topitsi,"[""topitzi"", ""topitsi""]",z > s
+kw::torre::1,torre,EHN_colloquial,Eastern Huasteca Nahuatl,tower.,rule_based_from_source_form,torre,torre,"[""torre""]",identity
+kw::totahtzi::1,totahtzi,EHN_colloquial,Eastern Huasteca Nahuatl,priest.,rule_based_from_source_form,totahtsi,totahtsi,"[""totahtzi"", ""totatzi"", ""totahtsi"", ""totatsi""]",z > s
+kw::totoli::3,totoli,EHN_colloquial,Eastern Huasteca Nahuatl,turkey,rule_based_from_source_form,totoli,totoli,"[""totoli""]",identity
+kw::totonic::1,totonic,EHN_colloquial,Eastern Huasteca Nahuatl,hot.,rule_based_from_source_form,totonik,totonik,"[""totonic"", ""totonik""]",hard c > k
+kw::tototl::6,tototl,EHN_colloquial,Eastern Huasteca Nahuatl,bird,rule_based_from_source_form,tototl,tototl,"[""tototl""]",identity
+kw::toza::1,toza,EHN_colloquial,Eastern Huasteca Nahuatl,gopher,rule_based_from_source_form,tosa,tosa,"[""toza"", ""tosa""]",z > s
+kw::tzalantic::1,tzalantic,EHN_colloquial,Eastern Huasteca Nahuatl,clear.,rule_based_from_source_form,tsalantik,tsalantik,"[""tzalantic"", ""tsalantik""]",z > s; hard c > k
+kw::tzi::1,-tzi,EHN_colloquial,Eastern Huasteca Nahuatl,A diminutive-forming suffix.,rule_based_from_source_form,-tsi,-tsi,"[""-tzi"", ""-tsi""]",z > s
+kw::tzicatl::2,tzicatl,EHN_colloquial,Eastern Huasteca Nahuatl,ant.,rule_based_from_source_form,tsikatl,tsikatl,"[""tzicatl"", ""tsikatl""]",z > s; hard c > k
+kw::tzintlayohuilotl::1,tzintlayohuilotl,EHN_colloquial,Eastern Huasteca Nahuatl,darkness.,rule_based_from_source_form,tsintlayowilotl,tsintlayowilotl,"[""tzintlayohuilotl"", ""tzintlayouilotl"", ""tsintlayowilotl""]",hu> w before vowel; z > s
+kw::tzitzitl::1,tzitzitl,EHN_colloquial,Eastern Huasteca Nahuatl,ant.,rule_based_from_source_form,tsitsitl,tsitsitl,"[""tzitzitl"", ""tsitsitl""]",z > s
+kw::tzompilihui::2,tzompilihui,EHN_colloquial,Eastern Huasteca Nahuatl,to have a cold.,rule_based_from_source_form,tsompiliwi,tsompiliwi,"[""tzompilihui"", ""tzompiliui"", ""tsompiliwi""]",hu> w before vowel; z > s
+kw::tzonacahuili::1,tzonacahuili,EHN_colloquial,Eastern Huasteca Nahuatl,"hat, sombrero.",rule_based_from_source_form,tsonakawili,tsonakawili,"[""tzonacahuili"", ""tzonacauili"", ""tsonakawili""]",hu> w before vowel; z > s; hard c > k
+kw::tzopelatl::2,tzopelatl,EHN_colloquial,Eastern Huasteca Nahuatl,soda (drink).,rule_based_from_source_form,tsopelatl,tsopelatl,"[""tzopelatl"", ""tsopelatl""]",z > s
+kw::tzopelictli::1,tzopelictli,EHN_colloquial,Eastern Huasteca Nahuatl,sugar.,rule_based_from_source_form,tsopeliktli,tsopeliktli,"[""tzopelictli"", ""tsopeliktli""]",z > s; hard c > k
+kw::tzotzo::1,tzotzo,EHN_colloquial,Eastern Huasteca Nahuatl,bat,rule_based_from_source_form,tsotso,tsotso,"[""tzotzo"", ""tsotso""]",z > s
+kw::waleyah::1,waleyah,EHN_colloquial,Eastern Huasteca Nahuatl,watermelon,rule_based_from_source_form,waleyah,waleyah,"[""waleyah"", ""waleya"", ""hualeyah""]",identity
+kw::weyiatl::1,weyiatl,EHN_colloquial,Eastern Huasteca Nahuatl,sea,rule_based_from_source_form,weyiatl,weyiatl,"[""weyiatl"", ""hueyiatl""]",identity
+kw::xaloh::2,xaloh,EHN_colloquial,Eastern Huasteca Nahuatl,earthenware mug,rule_based_from_source_form,xaloh,xaloh,"[""xaloh"", ""xalo""]",identity
+kw::xihuitl::6,xihuitl,EHN_colloquial,Eastern Huasteca Nahuatl,grass,rule_based_from_source_form,xiwitl,xiwitl,"[""xihuitl"", ""xiuitl"", ""xiwitl""]",hu> w before vowel
+kw::xihuitl::7,xihuitl,EHN_colloquial,Eastern Huasteca Nahuatl,year,rule_based_from_source_form,xiwitl,xiwitl,"[""xihuitl"", ""xiuitl"", ""xiwitl""]",hu> w before vowel
+kw::xihuitzontli::1,xihuitzontli,EHN_colloquial,Eastern Huasteca Nahuatl,bush.,rule_based_from_source_form,xiwitsontli,xiwitsontli,"[""xihuitzontli"", ""xiuitzontli"", ""xiwitsontli""]",hu> w before vowel; z > s
+kw::xochili::1,xochili,EHN_colloquial,Eastern Huasteca Nahuatl,alternative spelling of xochilli (“jalapeño”),explicit_gloss_target,xochilli (“jalapeño”),xochilli (“jalapeno”),"[""xochili"", ""xocili"", ""xochilli (“jalapeño”)"", ""xochilli (“jalapeno”)"", ""xocilli (“jalapeno”)""]",gloss target: xochilli (“jalapeño”)
+kw::xochilli::1,xochilli,EHN_colloquial,Eastern Huasteca Nahuatl,jalapeño pepper.,rule_based_from_source_form,xochilli,xochilli,"[""xochilli"", ""xocilli""]",identity
+kw::xochimilli::1,xochimilli,EHN_colloquial,Eastern Huasteca Nahuatl,garden,rule_based_from_source_form,xochimilli,xochimilli,"[""xochimilli"", ""xocimilli""]",identity
+kw::xochitl::5,xochitl,EHN_colloquial,Eastern Huasteca Nahuatl,flower,rule_based_from_source_form,xochitl,xochitl,"[""xochitl"", ""xocitl""]",identity
+kw::xocotl::4,xocotl,EHN_colloquial,Eastern Huasteca Nahuatl,A fruit,rule_based_from_source_form,xokotl,xokotl,"[""xocotl"", ""xokotl""]",hard c > k
+kw::xokotl::5,xokotl,EHN_colloquial,Eastern Huasteca Nahuatl,plum,rule_based_from_source_form,xokotl,xokotl,"[""xokotl"", ""xocotl""]",identity
+kw::xolotl::4,xolotl,EHN_colloquial,Eastern Huasteca Nahuatl,to be afraid.,rule_based_from_source_form,xolotl,xolotl,"[""xolotl""]",identity
+kw::xonacatl::3,xonacatl,EHN_colloquial,Eastern Huasteca Nahuatl,onion.,rule_based_from_source_form,xonakatl,xonakatl,"[""xonacatl"", ""xonakatl""]",hard c > k
+kw::xopan::3,xopan,EHN_colloquial,Eastern Huasteca Nahuatl,spring (season),rule_based_from_source_form,xopan,xopan,"[""xopan""]",identity
+kw::xopepe::2,xopepe,EHN_colloquial,Eastern Huasteca Nahuatl,cockroach.,rule_based_from_source_form,xopepe,xopepe,"[""xopepe""]",identity
+kw::xopili::3,xopili,EHN_colloquial,Eastern Huasteca Nahuatl,cockroach.,rule_based_from_source_form,xopili,xopili,"[""xopili""]",identity
+kw::xoxohuic::2,xoxohuic,EHN_colloquial,Eastern Huasteca Nahuatl,green,rule_based_from_source_form,xoxowik,xoxowik,"[""xoxohuic"", ""xoxouic"", ""xoxowik""]",hu> w before vowel; hard c > k
+kw::ya::2,ya,EHN_colloquial,Eastern Huasteca Nahuatl,"third person; he, she",rule_based_from_source_form,ya,ya,"[""ya""]",identity
+kw::yacametl::1,yacametl,EHN_colloquial,Eastern Huasteca Nahuatl,insect.,rule_based_from_source_form,yakametl,yakametl,"[""yacametl"", ""yakametl""]",hard c > k
+kw::yacatzompilli::1,yacatzompilli,EHN_colloquial,Eastern Huasteca Nahuatl,a cold (sickness).,rule_based_from_source_form,yakatsompilli,yakatsompilli,"[""yacatzompilli"", ""yakatsompilli""]",z > s; hard c > k
+kw::yaha::1,yaha,EHN_colloquial,Eastern Huasteca Nahuatl,"third person; he, she",rule_based_from_source_form,yaha,yaha,"[""yaha"", ""yaa""]",identity
+kw::yahaya::1,yahaya,EHN_colloquial,Eastern Huasteca Nahuatl,"third person; he, she",rule_based_from_source_form,yahaya,yahaya,"[""yahaya"", ""yaaya""]",identity
+kw::yahua::1,yahua,EHN_colloquial,Eastern Huasteca Nahuatl,to go.,rule_based_from_source_form,yawa,yawa,"[""yahua"", ""yaua"", ""yawa""]",hu> w before vowel
+kw::yahuanti::1,yahuanti,EHN_colloquial,Eastern Huasteca Nahuatl,third person; they,rule_based_from_source_form,yawanti,yawanti,"[""yahuanti"", ""yauanti"", ""yawanti""]",hu> w before vowel
+kw::yalhuaya::1,yalhuaya,EHN_colloquial,Eastern Huasteca Nahuatl,yesterday.,rule_based_from_source_form,yalwaya,yalwaya,"[""yalhuaya"", ""yaluaya"", ""yalwaya""]",hu> w before vowel
+kw::yancuic::3,yancuic,EHN_colloquial,Eastern Huasteca Nahuatl,new.,rule_based_from_source_form,yankuik,yankuik,"[""yancuic"", ""yankuik""]",hard c > k
+kw::yayahuic::1,yayahuic,EHN_colloquial,Eastern Huasteca Nahuatl,black,rule_based_from_source_form,yayawik,yayawik,"[""yayahuic"", ""yayauic"", ""yayawik""]",hu> w before vowel; hard c > k
+kw::yeca::1,yeca,EHN_colloquial,Eastern Huasteca Nahuatl,then,rule_based_from_source_form,yeka,yeka,"[""yeca"", ""yeka""]",hard c > k
+kw::yehyectzi::1,yehyectzi,EHN_colloquial,Eastern Huasteca Nahuatl,beautiful.,rule_based_from_source_form,yehyektsi,yehyektsi,"[""yehyectzi"", ""yeyectzi"", ""yehyektsi"", ""yeyektsi""]",z > s; hard c > k
+kw::yolic-yolic::1,yolic yolic,EHN_colloquial,Eastern Huasteca Nahuatl,little by little,rule_based_from_source_form,yolik yolik,yolik yolik,"[""yolic yolic"", ""yolik yolik""]",hard c > k
+kw::yolixco::1,yolixco,EHN_colloquial,Eastern Huasteca Nahuatl,cloak.,rule_based_from_source_form,yolixko,yolixko,"[""yolixco"", ""yolixko""]",hard c > k
+kw::yolpactoc::1,yolpactoc,EHN_colloquial,Eastern Huasteca Nahuatl,happy,rule_based_from_source_form,yolpaktok,yolpaktok,"[""yolpactoc"", ""yolpaktok""]",hard c > k
+kw::yoyomitl::2,yoyomitl,EHN_colloquial,Eastern Huasteca Nahuatl,clothing.,rule_based_from_source_form,yoyomitl,yoyomitl,"[""yoyomitl""]",identity
+kw::yoyomitl::3,yoyomitl,EHN_colloquial,Eastern Huasteca Nahuatl,cloth.,rule_based_from_source_form,yoyomitl,yoyomitl,"[""yoyomitl""]",identity
+kw::zacacalli::1,zacacalli,EHN_colloquial,Eastern Huasteca Nahuatl,hay storehouse,rule_based_from_source_form,sakakalli,sakakalli,"[""zacacalli"", ""sakakalli"", ""sacacalli""]",z > s; hard c > k
+kw::zacamiztli::3,zacamiztli,EHN_colloquial,Eastern Huasteca Nahuatl,wildcat,rule_based_from_source_form,sakamistli,sakamistli,"[""zacamiztli"", ""sakamistli"", ""sacamistli""]",z > s; hard c > k
+kw::zacatl::3,zacatl,EHN_colloquial,Eastern Huasteca Nahuatl,straw,rule_based_from_source_form,sakatl,sakatl,"[""zacatl"", ""sakatl"", ""sacatl""]",z > s; hard c > k
+kw::zacatl::4,zacatl,EHN_colloquial,Eastern Huasteca Nahuatl,hay,rule_based_from_source_form,sakatl,sakatl,"[""zacatl"", ""sakatl"", ""sacatl""]",z > s; hard c > k
+kw::zampa::1,zampa,EHN_colloquial,Eastern Huasteca Nahuatl,again,rule_based_from_source_form,sampa,sampa,"[""zampa"", ""sampa""]",z > s
+kw::zan::2,zan,EHN_colloquial,Eastern Huasteca Nahuatl,Only; merely; just; but.,rule_based_from_source_form,san,san,"[""zan"", ""san""]",z > s
+kw::zayolnectli::1,zayolnectli,EHN_colloquial,Eastern Huasteca Nahuatl,honey from a bee.,rule_based_from_source_form,sayolnektli,sayolnektli,"[""zayolnectli"", ""sayolnektli"", ""sayolnectli""]",z > s; hard c > k
+kw::zayoltzi::1,zayoltzi,EHN_colloquial,Eastern Huasteca Nahuatl,bee,rule_based_from_source_form,sayoltsi,sayoltsi,"[""zayoltzi"", ""sayoltsi"", ""sayoltzi""]",z > s
+kw::zoquitl::3,zoquitl,EHN_colloquial,Eastern Huasteca Nahuatl,mud,rule_based_from_source_form,sokitl,sokitl,"[""zoquitl"", ""sokitl"", ""socitl""]",qu > k before front vowel; z > s
+kw::zoquiyo::2,zoquiyo,EHN_colloquial,Eastern Huasteca Nahuatl,dirty.,rule_based_from_source_form,sokiyo,sokiyo,"[""zoquiyo"", ""sokiyo"", ""sociyo""]",qu > k before front vowel; z > s
+kw::zozoltic::2,zozoltic,EHN_colloquial,Eastern Huasteca Nahuatl,old (thing).,rule_based_from_source_form,sosoltik,sosoltik,"[""zozoltic"", ""sosoltik"", ""sosoltic""]",z > s; hard c > k

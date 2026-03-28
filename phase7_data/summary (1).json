@@ -1,0 +1,17 @@
+{
+  "ehn_total": 683,
+  "ehn_safe": 614,
+  "ehn_unsafe": 69,
+  "ehn_verbs": 41,
+  "core_250_count": 250,
+  "core_500_count": 500,
+  "core_1000_count": 1000,
+  "core_1000_ehn_attested_count": 683,
+  "core_1000_gap_fill_count": 317,
+  "verbs_100_count": 100,
+  "verbs_100_ehn_attested_count": 41,
+  "verbs_100_gap_fill_count": 59,
+  "function_words_count": 98,
+  "social_interaction_count": 56,
+  "everyday_example_bank_count": 92
+}
