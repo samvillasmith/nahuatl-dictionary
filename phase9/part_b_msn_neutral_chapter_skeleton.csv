@@ -1,0 +1,18 @@
+part,chapter_number,chapter_title,goal,primary_example_type
+B,1,Purpose of MSN neutral,Define the written norm and its domain,editorially_normalized
+B,2,Orthographic conventions,Fix consistent written representation,editorially_normalized
+B,3,Word classes in neutral writing,Define functional categories for written explanation,editorially_normalized
+B,4,Headword and lemma normalization,Explain lemma selection and stabilized citation form,editorially_normalized
+B,5,Pronouns and reference management,Define stable written reference behavior,editorially_normalized
+B,6,Possession in neutral prose,Show possessive patterns in neutral writing,editorially_normalized
+B,7,Verb stems and finite clauses,Provide neutral written clause models,editorially_normalized
+B,8,Object and valency patterns,Describe predicate argument structure in prose,editorially_normalized
+B,9,Negation in writing,Stabilize written negation,editorially_normalized
+B,10,Questions in written dialogue and exposition,Handle questions outside purely spoken transcription,editorially_normalized
+B,11,Temporal and aspectual expression,Clarify written temporal organization,editorially_normalized
+B,12,Modification and descriptive phrasing,Define modifiers in neutral prose,editorially_normalized
+B,13,Coordination and subordination,Describe sentence linking in prose,constructed_pedagogical
+B,14,Expository sentence structure,Provide handbook and essay models,constructed_pedagogical
+B,15,Public prose style constraints,Restrict drift into speech or poetry,editorially_normalized
+B,16,Lexical borrowing and normalization policy,Explain lexical policy in neutral writing,editorially_normalized
+B,17,Cross-register contrast with EHN,Show what changes between spoken and neutral written forms,constructed_pedagogical

@@ -1,0 +1,16 @@
+part,chapter_number,chapter_title,goal,primary_example_type
+C,1,Purpose of MSN poetic,Define the elevated literary register,adapted_classical
+C,2,Relation to MSN neutral,Show what poetic elevation changes,constructed_pedagogical
+C,3,Relation to classical citation,Explain borrowing versus citation,citation_only
+C,4,Elevated lexical inventory,Define acceptable high-register diction,adapted_classical
+C,5,Vocatives and address structures,Teach literary/public address framing,adapted_classical
+C,6,Refrain particles and repeated framing,Define refrain usage,adapted_classical
+C,7,Parallelism and balancing structures,Describe poetic structural repetition,adapted_classical
+C,8,Formulaic openings and closings,Catalog literary framing formulas,adapted_classical
+C,9,Image-bearing diction,Describe symbolic and imagistic language,adapted_classical
+C,10,Line shaping and clause compression,Show how poetic lines differ from prose,constructed_pedagogical
+C,11,Repetition versus redundancy,Distinguish functional poetic repetition from clutter,constructed_pedagogical
+C,12,Adaptation from classical sources,Define modern poetic rendering rules,adapted_classical
+C,13,"Song, poem, prayer, and public-oratory distinctions",Differentiate literary modes,constructed_pedagogical
+C,14,Annotation and citation practices,Define how poetic examples must be annotated,citation_only
+C,15,What not to do in literary elevation,Prevent uncontrolled archaism and contamination,constructed_pedagogical

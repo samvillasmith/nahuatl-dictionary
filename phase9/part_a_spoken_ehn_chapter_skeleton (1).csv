@@ -1,0 +1,19 @@
+part,chapter_number,chapter_title,goal,primary_example_type
+A,1,Sound system and practical pronunciation,Define learner-usable sound inventory and reading habits,lesson_derived_modern
+A,2,Orthography and learner reading conventions,Explain how EHN is represented in FCN teaching materials,editorially_normalized
+A,3,Word classes in spoken EHN,Introduce the major functional word classes,lesson_derived_modern
+A,4,Pronouns and person reference,Map person reference in conversation,attested_modern_ehn
+A,5,Possession and possessed nouns,Explain possession patterns,lesson_derived_modern
+A,6,Intransitive verb structure,Teach subject-centered predicate patterns,lesson_derived_modern
+A,7,Transitive verb structure,Teach subject-object patterns and alignment,lesson_derived_modern
+A,8,Object marking and participant structure,Clarify object-specific and nonspecific behavior,lesson_derived_modern
+A,9,Imperatives and requests,"Cover commands, prompts, and requests",attested_modern_ehn
+A,10,Questions and interrogative structures,Teach question formation and question-response pairs,lesson_derived_modern
+A,11,Negation,Describe basic negative structures,lesson_derived_modern
+A,12,"Time, tense, aspect, and event sequencing",Describe temporal interpretation in primer-safe grammar,lesson_derived_modern
+A,13,"Location, direction, and motion",Teach spatial talk and movement,lesson_derived_modern
+A,14,Descriptions and attributes,Teach descriptive predication,lesson_derived_modern
+A,15,Everyday discourse markers,Capture common conversational framing devices,attested_modern_ehn
+A,16,Clause combining and explanations,Describe simple explanatory chaining,constructed_pedagogical
+A,17,Narrative basics,Teach event sequencing for everyday narration,lesson_derived_modern
+A,18,Conversation management,"Teach turn-taking, addressing, and interaction maintenance",constructed_pedagogical
