@@ -200,49 +200,62 @@ for row in cur.fetchall():
 
 ## S3 hosting
 
-All files are publicly hosted on Amazon S3:
+All files are publicly hosted on Amazon S3 (all links below verified live):
 
 ```
 https://nahuatl-language.s3.us-east-1.amazonaws.com/molina/
 ```
 
-### Core data files
+> **Note:** S3 paths use the original `fcn_ingest/` directory name from before the repository reorganization. The local directory is now `source_data/`. The S3 objects have not moved.
 
-| File | Link |
-|---|---|
-| `simeon_parsed.json` (6.2 MB) | [Download](https://nahuatl-language.s3.us-east-1.amazonaws.com/molina/simeon_parsed.json) |
-| `simeon_1885_ocr_raw.txt` (3.2 MB) | [Download](https://nahuatl-language.s3.us-east-1.amazonaws.com/molina/simeon_1885_ocr_raw.txt) |
-| `simeon_wordlist.txt` | [Download](https://nahuatl-language.s3.us-east-1.amazonaws.com/molina/simeon_wordlist.txt) |
-| `simeon_parser.py` | [Download](https://nahuatl-language.s3.us-east-1.amazonaws.com/molina/simeon_parser.py) |
+### Siméon 1885 dictionary
 
-### Wiktionary / Kaikki data
+| File | Size | Link |
+|---|---|---|
+| `simeon_parsed.json` | 6.2 MB | [Download](https://nahuatl-language.s3.us-east-1.amazonaws.com/molina/simeon_parsed.json) |
+| `simeon_1885_ocr_raw.txt` | 3.2 MB | [Download](https://nahuatl-language.s3.us-east-1.amazonaws.com/molina/simeon_1885_ocr_raw.txt) |
+| `simeon_wordlist.txt` | 368 KB | [Download](https://nahuatl-language.s3.us-east-1.amazonaws.com/molina/simeon_wordlist.txt) |
+| `simeon_parser.py` | 13.5 KB | [Download](https://nahuatl-language.s3.us-east-1.amazonaws.com/molina/simeon_parser.py) |
 
-| File | Link |
-|---|---|
-| `nahuatl_kaikki_unified.json` (3.9 MB) | [Download](https://nahuatl-language.s3.us-east-1.amazonaws.com/molina/fcn_ingest/nahuatl_kaikki_unified.json) |
-| `nahuatl_kaikki_raw.jsonl` (9.3 MB) | [Download](https://nahuatl-language.s3.us-east-1.amazonaws.com/molina/fcn_ingest/nahuatl_kaikki_raw.jsonl) |
-| `kaikki_nci.jsonl` Classical (6.2 MB) | [Download](https://nahuatl-language.s3.us-east-1.amazonaws.com/molina/fcn_ingest/kaikki_nci.jsonl) |
-| `kaikki_nhn.jsonl` Central (1.6 MB) | [Download](https://nahuatl-language.s3.us-east-1.amazonaws.com/molina/fcn_ingest/kaikki_nhn.jsonl) |
-| `kaikki_nch.jsonl` Central Huasteca | [Download](https://nahuatl-language.s3.us-east-1.amazonaws.com/molina/fcn_ingest/kaikki_nch.jsonl) |
-| `kaikki_nhe.jsonl` Eastern Huasteca | [Download](https://nahuatl-language.s3.us-east-1.amazonaws.com/molina/fcn_ingest/kaikki_nhe.jsonl) |
+### Wiktionary / Kaikki lexical data
 
-### Parsed outputs
+| File | Size | Variety | Link |
+|---|---|---|---|
+| `nahuatl_kaikki_unified.json` | 3.9 MB | All 4 varieties combined | [Download](https://nahuatl-language.s3.us-east-1.amazonaws.com/molina/fcn_ingest/nahuatl_kaikki_unified.json) |
+| `nahuatl_kaikki_raw.jsonl` | 9.3 MB | All 4 varieties (raw) | [Download](https://nahuatl-language.s3.us-east-1.amazonaws.com/molina/fcn_ingest/nahuatl_kaikki_raw.jsonl) |
+| `kaikki_nci.jsonl` | 6.2 MB | Classical Nahuatl (5,132 rows) | [Download](https://nahuatl-language.s3.us-east-1.amazonaws.com/molina/fcn_ingest/kaikki_nci.jsonl) |
+| `kaikki_nhn.jsonl` | 1.6 MB | Central Nahuatl (1,855 rows) | [Download](https://nahuatl-language.s3.us-east-1.amazonaws.com/molina/fcn_ingest/kaikki_nhn.jsonl) |
+| `kaikki_nch.jsonl` | 616 KB | Central Huasteca (795 rows) | [Download](https://nahuatl-language.s3.us-east-1.amazonaws.com/molina/fcn_ingest/kaikki_nch.jsonl) |
+| `kaikki_nhe.jsonl` | 496 KB | Eastern Huasteca (683 rows) | [Download](https://nahuatl-language.s3.us-east-1.amazonaws.com/molina/fcn_ingest/kaikki_nhe.jsonl) |
 
-| File | Link |
-|---|---|
-| `out_kaikki/fcn_lexical_rows.csv` (3.1 MB) | [Download](https://nahuatl-language.s3.us-east-1.amazonaws.com/molina/fcn_ingest/out_kaikki/fcn_lexical_rows.csv) |
-| `out_kaikki/fcn_lexical_rows.jsonl` (6.9 MB) | [Download](https://nahuatl-language.s3.us-east-1.amazonaws.com/molina/fcn_ingest/out_kaikki/fcn_lexical_rows.jsonl) |
-| `out_classical/classical_blocks.jsonl` (16.4 MB) | [Download](https://nahuatl-language.s3.us-east-1.amazonaws.com/molina/fcn_ingest/out_classical/classical_blocks.jsonl) |
-| `out_classical/classical_examples.jsonl` (11.6 MB) | [Download](https://nahuatl-language.s3.us-east-1.amazonaws.com/molina/fcn_ingest/out_classical/classical_examples.jsonl) |
-| `out_ud/sentences.jsonl` (1.0 MB) | [Download](https://nahuatl-language.s3.us-east-1.amazonaws.com/molina/fcn_ingest/out_ud/sentences.jsonl) |
-| `out_ud/tokens.csv` | [Download](https://nahuatl-language.s3.us-east-1.amazonaws.com/molina/fcn_ingest/out_ud/tokens.csv) |
+### FCN parsed outputs
 
-### Universal Dependencies treebanks
+| File | Size | Description | Link |
+|---|---|---|---|
+| `out_kaikki/fcn_lexical_rows.csv` | 3.1 MB | FCN lexical rows (CSV) | [Download](https://nahuatl-language.s3.us-east-1.amazonaws.com/molina/fcn_ingest/out_kaikki/fcn_lexical_rows.csv) |
+| `out_kaikki/fcn_lexical_rows.jsonl` | 6.9 MB | FCN lexical rows (JSONL) | [Download](https://nahuatl-language.s3.us-east-1.amazonaws.com/molina/fcn_ingest/out_kaikki/fcn_lexical_rows.jsonl) |
+| `out_classical/classical_blocks.jsonl` | 16.4 MB | Classical text blocks (60,663) | [Download](https://nahuatl-language.s3.us-east-1.amazonaws.com/molina/fcn_ingest/out_classical/classical_blocks.jsonl) |
+| `out_classical/classical_examples.jsonl` | 11.6 MB | Classical examples (55,904) | [Download](https://nahuatl-language.s3.us-east-1.amazonaws.com/molina/fcn_ingest/out_classical/classical_examples.jsonl) |
+| `out_classical/headword_candidates.csv` | 3 KB | Classical headword candidates | [Download](https://nahuatl-language.s3.us-east-1.amazonaws.com/molina/fcn_ingest/out_classical/headword_candidates.csv) |
+| `out_ud/sentences.jsonl` | 1.0 MB | UD sentences (2,169) | [Download](https://nahuatl-language.s3.us-east-1.amazonaws.com/molina/fcn_ingest/out_ud/sentences.jsonl) |
+| `out_ud/tokens.csv` | 3.5 MB | UD tokens (19,549) | [Download](https://nahuatl-language.s3.us-east-1.amazonaws.com/molina/fcn_ingest/out_ud/tokens.csv) |
+| `out_ud/lemma_feature_counts.csv` | 187 KB | UD lemma feature counts | [Download](https://nahuatl-language.s3.us-east-1.amazonaws.com/molina/fcn_ingest/out_ud/lemma_feature_counts.csv) |
+| `out_ud/grammar_evidence_examples.jsonl` | 18.9 KB | UD grammar evidence examples | [Download](https://nahuatl-language.s3.us-east-1.amazonaws.com/molina/fcn_ingest/out_ud/grammar_evidence_examples.jsonl) |
 
-| File | Link |
-|---|---|
-| `nhi_itml-ud-test.conllu` Western Sierra Puebla (1.3 MB) | [Download](https://nahuatl-language.s3.us-east-1.amazonaws.com/molina/fcn_ingest/data/github/ud-western-sierra-puebla/nhi_itml-ud-test.conllu) |
-| `azz_itml-ud-test.conllu` Highland Puebla | [Download](https://nahuatl-language.s3.us-east-1.amazonaws.com/molina/fcn_ingest/data/github/ud-highland-puebla/azz_itml-ud-test.conllu) |
+### Universal Dependencies treebanks (CoNLL-U)
+
+| File | Size | Link |
+|---|---|---|
+| `nhi_itml-ud-test.conllu` — Western Sierra Puebla Nahuatl | 1.3 MB | [Download](https://nahuatl-language.s3.us-east-1.amazonaws.com/molina/fcn_ingest/data/github/ud-western-sierra-puebla/nhi_itml-ud-test.conllu) |
+| `azz_itml-ud-test.conllu` — Highland Puebla Nahuatl | 1.1 MB | [Download](https://nahuatl-language.s3.us-east-1.amazonaws.com/molina/fcn_ingest/data/github/ud-highland-puebla/azz_itml-ud-test.conllu) |
+
+### Pipeline scripts
+
+| File | Size | Link |
+|---|---|---|
+| `download_all_nahuatl.py` | 14.5 KB | [Download](https://nahuatl-language.s3.us-east-1.amazonaws.com/molina/download_all_nahuatl.py) |
+| `fcn_source_parsers.py` | 39.1 KB | [Download](https://nahuatl-language.s3.us-east-1.amazonaws.com/molina/fcn_ingest/fcn_source_parsers.py) |
+| `fcn_legal_ingest.py` | 10.6 KB | [Download](https://nahuatl-language.s3.us-east-1.amazonaws.com/molina/fcn_ingest/fcn_legal_ingest.py) |
 
 ---
 
