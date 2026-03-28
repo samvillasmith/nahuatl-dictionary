@@ -257,6 +257,22 @@ https://nahuatl-language.s3.us-east-1.amazonaws.com/molina/
 | `fcn_source_parsers.py` | 39.1 KB | [Download](https://nahuatl-language.s3.us-east-1.amazonaws.com/molina/fcn_ingest/fcn_source_parsers.py) |
 | `fcn_legal_ingest.py` | 10.6 KB | [Download](https://nahuatl-language.s3.us-east-1.amazonaws.com/molina/fcn_ingest/fcn_legal_ingest.py) |
 
+### Production databases (SQLite)
+
+> **Note:** S3 paths reflect the original phased-build directory structure. The canonical local database is `curriculum/fcn_master_lexicon_phase8_6_primer.sqlite`. Earlier phase databases are build snapshots.
+
+| File | Description | Link |
+|---|---|---|
+| `fcn_master_lexicon_phase8_6_primer.sqlite` | **Canonical — 37,146 entries, 1,008 primer items, 100 lessons** | [Download](https://nahuatl-language.s3.us-east-1.amazonaws.com/molina/phase_8_6/fcn_master_lexicon_phase8_6_primer.sqlite) |
+| `fcn_master_lexicon_phase8_5_products.sqlite` | Phase 8.5 — product bundles layer | [Download](https://nahuatl-language.s3.us-east-1.amazonaws.com/molina/Phase_8_5/fcn_master_lexicon_phase8_5_products.sqlite) |
+| `fcn_master_lexicon_phase8_4_assessment.sqlite` | Phase 8.4 — assessment layer (160 items) | [Download](https://nahuatl-language.s3.us-east-1.amazonaws.com/molina/phase_8_4/fcn_master_lexicon_phase8_4_assessment.sqlite) |
+| `fcn_master_lexicon_phase8_3_exports.sqlite` | Phase 8.3 — unit exports (128 files) | [Download](https://nahuatl-language.s3.us-east-1.amazonaws.com/molina/phase_8_3_data/fcn_master_lexicon_phase8_3_exports.sqlite) |
+| `fcn_master_lexicon_phase8_2_units.sqlite` | Phase 8.2 — unit plan layer | [Download](https://nahuatl-language.s3.us-east-1.amazonaws.com/molina/phase_8_2_data/fcn_master_lexicon_phase8_2_units.sqlite) |
+| `fcn_master_lexicon_phase8_1_clean.sqlite` | Phase 8.1 — orthography-cleaned | [Download](https://nahuatl-language.s3.us-east-1.amazonaws.com/molina/phase_8_2_data/fcn_master_lexicon_phase8_1_clean.sqlite) |
+| `fcn_master_lexicon_phase8_open_only.sqlite` | Phase 8 bootstrap — open-license entries only | [Download](https://nahuatl-language.s3.us-east-1.amazonaws.com/molina/phase_8_2_data/fcn_master_lexicon_phase8_open_only.sqlite) |
+| `fcn_master_lexicon_phase8_bootstrap.sqlite` | Phase 8 bootstrap — all sources | [Download](https://nahuatl-language.s3.us-east-1.amazonaws.com/molina/phase_8_2_data/fcn_master_lexicon_phase8_bootstrap.sqlite) |
+| `fcn_master_lexicon_phase7_review.sqlite` | Phase 7 — pre-curriculum build snapshot | [Download](https://nahuatl-language.s3.us-east-1.amazonaws.com/molina/fcn_master_lexicon_phase7_review.sqlite) |
+
 ---
 
 ## Limitations
