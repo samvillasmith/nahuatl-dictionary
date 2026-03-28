@@ -151,6 +151,7 @@ https://nahuatl-language.s3.us-east-1.amazonaws.com/molina/
 | `out_ud/dependency_counts.csv` | 9.6 KB | [Download](https://nahuatl-language.s3.us-east-1.amazonaws.com/molina/fcn_ingest/out_ud/dependency_counts.csv) |
 | `out_ud/feature_counts.csv` | 2.7 KB | [Download](https://nahuatl-language.s3.us-east-1.amazonaws.com/molina/fcn_ingest/out_ud/feature_counts.csv) |
 | `out_ud/grammar_evidence_examples.jsonl` | 18.5 KB | [Download](https://nahuatl-language.s3.us-east-1.amazonaws.com/molina/fcn_ingest/out_ud/grammar_evidence_examples.jsonl) |
+| `fcn_master_lexicon_phase7_review.sqlite` | — | [Download](https://nahuatl-language.s3.us-east-1.amazonaws.com/molina/fcn_master_lexicon_phase7_review.sqlite) |
 
 ### Universal Dependencies Treebanks
 
