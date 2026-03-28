@@ -1,0 +1,11 @@
+{
+  "primer_units": 23,
+  "primer_a1_units": 13,
+  "primer_a2_units": 6,
+  "primer_b1_bridge_units": 4,
+  "primer_vocab_items": 1008,
+  "primer_constructions": 278,
+  "primer_dialogues": 22,
+  "contamination_hits": 0,
+  "contamination_status": "clean"
+}

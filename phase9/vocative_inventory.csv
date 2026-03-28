@@ -1,0 +1,6 @@
+item_id,item_text,gloss_en,addressee_type,register_status,notes
+VOC-0001,notlazotzin,beloved/dear one,personal,poetic-high,intimate elevated address
+VOC-0002,nopiltzin,dear child/my child,personal,poetic-high,familial elevated address
+VOC-0003,tocnihuan,our companions/our people,collective,neutral-high,usable in public or communal register
+VOC-0004,noteiccauh,my companion/comrade,personal,poetic-high,solidarity address
+VOC-0005,tlahtoani,speaker/lord/public voice,ceremonial/public,ceremonial,domain-restricted public/ceremonial address

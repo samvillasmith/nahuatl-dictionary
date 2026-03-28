@@ -1,0 +1,16 @@
+{
+  "assessment_items": 160,
+  "units_covered": 32,
+  "items_by_band": {
+    "A1": 65,
+    "A2": 30,
+    "B1": 65
+  },
+  "item_types": [
+    "mastery_checklist",
+    "quiz",
+    "review",
+    "speaking",
+    "writing"
+  ]
+}

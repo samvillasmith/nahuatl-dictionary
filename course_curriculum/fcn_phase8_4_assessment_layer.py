@@ -38,7 +38,7 @@ def main():
     items = []
     for u in units:
         ln = int(u["lesson_number"])
-        band = u["proficiency_band"]
+        band = u.get("target_band") or u.get("proficiency_band") or ""
         prompts = [
             ("mastery_checklist", f"Can complete the core communicative task for Unit {ln}."),
             ("quiz", f"Answer three comprehension questions for Unit {ln}."),

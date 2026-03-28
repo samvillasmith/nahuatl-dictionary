@@ -20,7 +20,6 @@ def q(conn, sql, params=()):
     return [dict(zip(cols, row)) for row in cur.fetchall()]
 
 def write_csv(path: Path, rows):
-    path.parent.mkdir(parents=True, exist_ok=True)
     if not rows:
         path.write_text("", encoding="utf-8")
         return
@@ -28,17 +27,6 @@ def write_csv(path: Path, rows):
         w = csv.DictWriter(f, fieldnames=list(rows[0].keys()))
         w.writeheader()
         w.writerows(rows)
-
-def values_to_lessons(r):
-    nums = []
-    if r.get("lessons_json"):
-        try:
-            nums = [int(x) for x in json.loads(r.get("lessons_json") or "[]") if x is not None]
-        except Exception:
-            nums = []
-    if not nums and r.get("first_lesson_number") not in (None, ""):
-        nums = [int(r["first_lesson_number"])]
-    return nums
 
 def main():
     ap = argparse.ArgumentParser()
@@ -54,32 +42,36 @@ def main():
 
     shutil.copy2(in_db, out_db)
     conn = sqlite3.connect(out_db)
-    conn.row_factory = sqlite3.Row
     conn.execute("PRAGMA foreign_keys = ON;")
     conn.executescript(SCHEMA_SQL)
 
     unit_plan = q(conn, "SELECT * FROM v_phase82_unit_plan ORDER BY lesson_number")
     vocab = q(conn, "SELECT * FROM v_phase82_vocab_priority")
     constr = q(conn, "SELECT * FROM v_phase82_construction_priority")
-    dialogues = q(conn, "SELECT * FROM v_phase82_dialogue_samples ORDER BY lesson_number, dialogue_order")
-
+    dialogues = q(conn, "SELECT * FROM v_phase82_dialogue_samples ORDER BY lesson_number")
+    # group
     by_lesson_vocab = {}
     for r in vocab:
-        for n in values_to_lessons(r):
+        nums = json.loads(r.get("lessons_json") or "[]")
+        if not nums and r.get("first_lesson_number") is not None:
+            nums = [int(r["first_lesson_number"])]
+        for n in nums:
             rr = dict(r)
             rr["lesson_number"] = int(n)
             by_lesson_vocab.setdefault(int(n), []).append(rr)
 
     by_lesson_con = {}
     for r in constr:
-        for n in values_to_lessons(r):
+        nums = json.loads(r.get("lessons_json") or "[]")
+        if not nums and r.get("first_lesson_number") is not None:
+            nums = [int(r["first_lesson_number"])]
+        for n in nums:
             rr = dict(r)
             rr["lesson_number"] = int(n)
             by_lesson_con.setdefault(int(n), []).append(rr)
-
     by_lesson_dia = {}
     for r in dialogues:
-        by_lesson_dia.setdefault(int(r["lesson_number"]), []).append(dict(r))
+        by_lesson_dia.setdefault(int(r["lesson_number"]), []).append(r)
 
     exports_root = report_dir / "unit_exports"
     (exports_root / "markdown").mkdir(parents=True, exist_ok=True)
@@ -91,25 +83,24 @@ def main():
     for idx, unit in enumerate(unit_plan, start=1):
         ln = int(unit["lesson_number"])
         title = unit.get("theme_en") or unit.get("english_lesson_title") or unit.get("spanish_lesson_title") or f"Unit {ln}"
-        band = unit.get("target_band") or ""
+        band = unit.get("target_band") or unit.get("proficiency_band") or ""
         unit_slug = f"unit_{ln:02d}"
-        lesson_overview = {
-            "communicative_goal": unit.get("communicative_goal", ""),
-            "grammar_focus": unit.get("grammar_focus", ""),
-            "theme_focus": unit.get("theme_en", ""),
-            "output_task": unit.get("output_task", ""),
-            "domain_label": unit.get("domain_label", ""),
-        }
         unit_payload = {
             "lesson_number": ln,
             "unit_title": title,
             "proficiency_band": band,
-            "english_lesson_title": unit.get("english_lesson_title", ""),
-            "spanish_lesson_title": unit.get("spanish_lesson_title", ""),
-            "lesson_overview": lesson_overview,
-            "target_vocab": by_lesson_vocab.get(ln, [])[:60],
-            "target_constructions": by_lesson_con.get(ln, [])[:30],
-            "dialogue_set": by_lesson_dia.get(ln, [])[:6],
+            "lesson_overview": {
+                "goals": [
+                    f"Complete communicative tasks for {title}",
+                    "Use target constructions in controlled interaction",
+                    "Review lesson-linked vocabulary and dialogue material"
+                ],
+                "grammar_focus": unit.get("grammar_focus",""),
+                "theme_focus": unit.get("theme_en",""),
+            },
+            "target_vocab": by_lesson_vocab.get(ln, [])[:50],
+            "target_constructions": by_lesson_con.get(ln, [])[:25],
+            "dialogue_set": by_lesson_dia.get(ln, [])[:4],
             "exercises": [
                 {"type": "substitution", "prompt": f"Use a target construction from Unit {ln} with new lexical fills."},
                 {"type": "comprehension", "prompt": f"Answer questions about the Unit {ln} dialogue set."},
@@ -121,44 +112,28 @@ def main():
                 {"type": "construction", "prompt": f"Transform a sentence using a Unit {ln} construction."},
             ],
         }
+        # JSON
         jp = exports_root / "json" / f"{unit_slug}.json"
         jp.write_text(json.dumps(unit_payload, ensure_ascii=False, indent=2), encoding="utf-8")
         manifest.append((f"EXP-{idx:04d}", ln, title, band, "json", str(jp.relative_to(report_dir))))
-
+        # markdown
         md = exports_root / "markdown" / f"{unit_slug}.md"
-        vocab_lines = "\n".join(
-            f"- {r.get('headword', r.get('surface_form', r.get('form_text','')))} — {r.get('gloss_en','')}"
-            for r in unit_payload["target_vocab"][:20]
-        )
-        con_lines = "\n".join(
-            f"- {r.get('pattern_text','')}"
-            for r in unit_payload["target_constructions"][:15]
-        )
-        dia_lines = "\n".join(
-            f"- {r.get('speaker_label','')}: {r.get('utterance_original', r.get('example_original',''))}"
-            for r in unit_payload["dialogue_set"][:4]
-        )
-        md_text = (
-            f"# Unit {ln}: {title}\n\n"
-            f"## Band\n{band}\n\n"
-            f"## Overview\n"
-            f"- communicative goal: {lesson_overview['communicative_goal']}\n"
-            f"- grammar focus: {lesson_overview['grammar_focus']}\n"
-            f"- theme focus: {lesson_overview['theme_focus']}\n"
-            f"- output task: {lesson_overview['output_task']}\n\n"
-            f"## Target vocab\n{vocab_lines}\n\n"
-            f"## Target constructions\n{con_lines}\n\n"
-            f"## Dialogue set\n{dia_lines}\n"
+        md_text = f"# Unit {ln}: {title}\n\n## Band\n{band}\n\n## Overview\n- goals: {', '.join(unit_payload['lesson_overview']['goals'])}\n\n## Target vocab\n" + "\n".join(
+            f"- {r.get('headword', r.get('surface_form', r.get('form_text','')))} — {r.get('gloss_en','')}" for r in unit_payload["target_vocab"][:20]
+        ) + "\n\n## Target constructions\n" + "\n".join(
+            f"- {r.get('pattern_text','')}" for r in unit_payload["target_constructions"][:15]
+        ) + "\n\n## Dialogue set\n" + "\n".join(
+            f"- {r.get('utterance_original', r.get('dialogue_text', r.get('example_original','')))}" for r in unit_payload["dialogue_set"][:4]
         )
         md.write_text(md_text, encoding="utf-8")
         manifest.append((f"EXP-{idx+1000:04d}", ln, title, band, "markdown", str(md.relative_to(report_dir))))
-
+        # csv vocab
         cp = exports_root / "csv" / f"{unit_slug}_vocab.csv"
         write_csv(cp, unit_payload["target_vocab"])
         manifest.append((f"EXP-{idx+2000:04d}", ln, title, band, "csv_vocab", str(cp.relative_to(report_dir))))
-
+        # printable
         pp = exports_root / "printable" / f"{unit_slug}_packet.md"
-        pp.write_text(md_text + "\n## Review items\n" + "\n".join(f"- {x['prompt']}" for x in unit_payload["quiz_review_items"]), encoding="utf-8")
+        pp.write_text(md_text + "\n\n## Review items\n" + "\n".join(f"- {x['prompt']}" for x in unit_payload["quiz_review_items"]), encoding="utf-8")
         manifest.append((f"EXP-{idx+3000:04d}", ln, title, band, "printable", str(pp.relative_to(report_dir))))
 
     conn.executemany(

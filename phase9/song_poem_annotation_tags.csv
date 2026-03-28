@@ -1,0 +1,10 @@
+tag,label,definition
+VOC,Vocative,Marks direct address to person/group/addressee
+REFRAIN,Refrain,Marks repeated line or fragment
+PARALLEL,Parallelism,Marks matched or balancing lines
+PAIR_EXPR,Paired expression,Marks dual-image or difrasismo-like unit
+CEREMONIAL,Ceremonial,Marks ritual or sacred-domain usage
+CLASSICAL_CITATION,Classical citation,Marks explicit classical carryover
+PROPOSED_LITERARY_MODERN,Proposed literary-modern,Marks FCN editorial literary extension
+NEUTRAL_HIGH,Neutral-high,Marks elevated but prose-compatible wording
+POETIC_HIGH,Poetic-high,Marks strongly lyric-coded wording

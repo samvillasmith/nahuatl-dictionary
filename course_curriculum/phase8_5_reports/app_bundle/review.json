@@ -1,0 +1,1122 @@
+[
+  {
+    "assessment_id": "ASM-01-1",
+    "lesson_number": 1,
+    "proficiency_band": "A1",
+    "item_type": "mastery_checklist",
+    "prompt": "Can complete the core communicative task for Unit 1."
+  },
+  {
+    "assessment_id": "ASM-01-2",
+    "lesson_number": 1,
+    "proficiency_band": "A1",
+    "item_type": "quiz",
+    "prompt": "Answer three comprehension questions for Unit 1."
+  },
+  {
+    "assessment_id": "ASM-01-5",
+    "lesson_number": 1,
+    "proficiency_band": "A1",
+    "item_type": "review",
+    "prompt": "Review Unit 1 against prior material in the same band."
+  },
+  {
+    "assessment_id": "ASM-01-3",
+    "lesson_number": 1,
+    "proficiency_band": "A1",
+    "item_type": "speaking",
+    "prompt": "Produce a short spoken response using Unit 1 target constructions."
+  },
+  {
+    "assessment_id": "ASM-01-4",
+    "lesson_number": 1,
+    "proficiency_band": "A1",
+    "item_type": "writing",
+    "prompt": "Write 3–5 lines using Unit 1 vocabulary and constructions."
+  },
+  {
+    "assessment_id": "ASM-02-1",
+    "lesson_number": 2,
+    "proficiency_band": "A1",
+    "item_type": "mastery_checklist",
+    "prompt": "Can complete the core communicative task for Unit 2."
+  },
+  {
+    "assessment_id": "ASM-02-2",
+    "lesson_number": 2,
+    "proficiency_band": "A1",
+    "item_type": "quiz",
+    "prompt": "Answer three comprehension questions for Unit 2."
+  },
+  {
+    "assessment_id": "ASM-02-5",
+    "lesson_number": 2,
+    "proficiency_band": "A1",
+    "item_type": "review",
+    "prompt": "Review Unit 2 against prior material in the same band."
+  },
+  {
+    "assessment_id": "ASM-02-3",
+    "lesson_number": 2,
+    "proficiency_band": "A1",
+    "item_type": "speaking",
+    "prompt": "Produce a short spoken response using Unit 2 target constructions."
+  },
+  {
+    "assessment_id": "ASM-02-4",
+    "lesson_number": 2,
+    "proficiency_band": "A1",
+    "item_type": "writing",
+    "prompt": "Write 3–5 lines using Unit 2 vocabulary and constructions."
+  },
+  {
+    "assessment_id": "ASM-03-1",
+    "lesson_number": 3,
+    "proficiency_band": "A1",
+    "item_type": "mastery_checklist",
+    "prompt": "Can complete the core communicative task for Unit 3."
+  },
+  {
+    "assessment_id": "ASM-03-2",
+    "lesson_number": 3,
+    "proficiency_band": "A1",
+    "item_type": "quiz",
+    "prompt": "Answer three comprehension questions for Unit 3."
+  },
+  {
+    "assessment_id": "ASM-03-5",
+    "lesson_number": 3,
+    "proficiency_band": "A1",
+    "item_type": "review",
+    "prompt": "Review Unit 3 against prior material in the same band."
+  },
+  {
+    "assessment_id": "ASM-03-3",
+    "lesson_number": 3,
+    "proficiency_band": "A1",
+    "item_type": "speaking",
+    "prompt": "Produce a short spoken response using Unit 3 target constructions."
+  },
+  {
+    "assessment_id": "ASM-03-4",
+    "lesson_number": 3,
+    "proficiency_band": "A1",
+    "item_type": "writing",
+    "prompt": "Write 3–5 lines using Unit 3 vocabulary and constructions."
+  },
+  {
+    "assessment_id": "ASM-04-1",
+    "lesson_number": 4,
+    "proficiency_band": "A2",
+    "item_type": "mastery_checklist",
+    "prompt": "Can complete the core communicative task for Unit 4."
+  },
+  {
+    "assessment_id": "ASM-04-2",
+    "lesson_number": 4,
+    "proficiency_band": "A2",
+    "item_type": "quiz",
+    "prompt": "Answer three comprehension questions for Unit 4."
+  },
+  {
+    "assessment_id": "ASM-04-5",
+    "lesson_number": 4,
+    "proficiency_band": "A2",
+    "item_type": "review",
+    "prompt": "Review Unit 4 against prior material in the same band."
+  },
+  {
+    "assessment_id": "ASM-04-3",
+    "lesson_number": 4,
+    "proficiency_band": "A2",
+    "item_type": "speaking",
+    "prompt": "Produce a short spoken response using Unit 4 target constructions."
+  },
+  {
+    "assessment_id": "ASM-04-4",
+    "lesson_number": 4,
+    "proficiency_band": "A2",
+    "item_type": "writing",
+    "prompt": "Write 3–5 lines using Unit 4 vocabulary and constructions."
+  },
+  {
+    "assessment_id": "ASM-05-1",
+    "lesson_number": 5,
+    "proficiency_band": "A2",
+    "item_type": "mastery_checklist",
+    "prompt": "Can complete the core communicative task for Unit 5."
+  },
+  {
+    "assessment_id": "ASM-05-2",
+    "lesson_number": 5,
+    "proficiency_band": "A2",
+    "item_type": "quiz",
+    "prompt": "Answer three comprehension questions for Unit 5."
+  },
+  {
+    "assessment_id": "ASM-05-5",
+    "lesson_number": 5,
+    "proficiency_band": "A2",
+    "item_type": "review",
+    "prompt": "Review Unit 5 against prior material in the same band."
+  },
+  {
+    "assessment_id": "ASM-05-3",
+    "lesson_number": 5,
+    "proficiency_band": "A2",
+    "item_type": "speaking",
+    "prompt": "Produce a short spoken response using Unit 5 target constructions."
+  },
+  {
+    "assessment_id": "ASM-05-4",
+    "lesson_number": 5,
+    "proficiency_band": "A2",
+    "item_type": "writing",
+    "prompt": "Write 3–5 lines using Unit 5 vocabulary and constructions."
+  },
+  {
+    "assessment_id": "ASM-06-1",
+    "lesson_number": 6,
+    "proficiency_band": "B1",
+    "item_type": "mastery_checklist",
+    "prompt": "Can complete the core communicative task for Unit 6."
+  },
+  {
+    "assessment_id": "ASM-06-2",
+    "lesson_number": 6,
+    "proficiency_band": "B1",
+    "item_type": "quiz",
+    "prompt": "Answer three comprehension questions for Unit 6."
+  },
+  {
+    "assessment_id": "ASM-06-5",
+    "lesson_number": 6,
+    "proficiency_band": "B1",
+    "item_type": "review",
+    "prompt": "Review Unit 6 against prior material in the same band."
+  },
+  {
+    "assessment_id": "ASM-06-3",
+    "lesson_number": 6,
+    "proficiency_band": "B1",
+    "item_type": "speaking",
+    "prompt": "Produce a short spoken response using Unit 6 target constructions."
+  },
+  {
+    "assessment_id": "ASM-06-4",
+    "lesson_number": 6,
+    "proficiency_band": "B1",
+    "item_type": "writing",
+    "prompt": "Write 3–5 lines using Unit 6 vocabulary and constructions."
+  },
+  {
+    "assessment_id": "ASM-07-1",
+    "lesson_number": 7,
+    "proficiency_band": "B1",
+    "item_type": "mastery_checklist",
+    "prompt": "Can complete the core communicative task for Unit 7."
+  },
+  {
+    "assessment_id": "ASM-07-2",
+    "lesson_number": 7,
+    "proficiency_band": "B1",
+    "item_type": "quiz",
+    "prompt": "Answer three comprehension questions for Unit 7."
+  },
+  {
+    "assessment_id": "ASM-07-5",
+    "lesson_number": 7,
+    "proficiency_band": "B1",
+    "item_type": "review",
+    "prompt": "Review Unit 7 against prior material in the same band."
+  },
+  {
+    "assessment_id": "ASM-07-3",
+    "lesson_number": 7,
+    "proficiency_band": "B1",
+    "item_type": "speaking",
+    "prompt": "Produce a short spoken response using Unit 7 target constructions."
+  },
+  {
+    "assessment_id": "ASM-07-4",
+    "lesson_number": 7,
+    "proficiency_band": "B1",
+    "item_type": "writing",
+    "prompt": "Write 3–5 lines using Unit 7 vocabulary and constructions."
+  },
+  {
+    "assessment_id": "ASM-08-1",
+    "lesson_number": 8,
+    "proficiency_band": "B1",
+    "item_type": "mastery_checklist",
+    "prompt": "Can complete the core communicative task for Unit 8."
+  },
+  {
+    "assessment_id": "ASM-08-2",
+    "lesson_number": 8,
+    "proficiency_band": "B1",
+    "item_type": "quiz",
+    "prompt": "Answer three comprehension questions for Unit 8."
+  },
+  {
+    "assessment_id": "ASM-08-5",
+    "lesson_number": 8,
+    "proficiency_band": "B1",
+    "item_type": "review",
+    "prompt": "Review Unit 8 against prior material in the same band."
+  },
+  {
+    "assessment_id": "ASM-08-3",
+    "lesson_number": 8,
+    "proficiency_band": "B1",
+    "item_type": "speaking",
+    "prompt": "Produce a short spoken response using Unit 8 target constructions."
+  },
+  {
+    "assessment_id": "ASM-08-4",
+    "lesson_number": 8,
+    "proficiency_band": "B1",
+    "item_type": "writing",
+    "prompt": "Write 3–5 lines using Unit 8 vocabulary and constructions."
+  },
+  {
+    "assessment_id": "ASM-09-1",
+    "lesson_number": 9,
+    "proficiency_band": "B1",
+    "item_type": "mastery_checklist",
+    "prompt": "Can complete the core communicative task for Unit 9."
+  },
+  {
+    "assessment_id": "ASM-09-2",
+    "lesson_number": 9,
+    "proficiency_band": "B1",
+    "item_type": "quiz",
+    "prompt": "Answer three comprehension questions for Unit 9."
+  },
+  {
+    "assessment_id": "ASM-09-5",
+    "lesson_number": 9,
+    "proficiency_band": "B1",
+    "item_type": "review",
+    "prompt": "Review Unit 9 against prior material in the same band."
+  },
+  {
+    "assessment_id": "ASM-09-3",
+    "lesson_number": 9,
+    "proficiency_band": "B1",
+    "item_type": "speaking",
+    "prompt": "Produce a short spoken response using Unit 9 target constructions."
+  },
+  {
+    "assessment_id": "ASM-09-4",
+    "lesson_number": 9,
+    "proficiency_band": "B1",
+    "item_type": "writing",
+    "prompt": "Write 3–5 lines using Unit 9 vocabulary and constructions."
+  },
+  {
+    "assessment_id": "ASM-10-1",
+    "lesson_number": 10,
+    "proficiency_band": "B1",
+    "item_type": "mastery_checklist",
+    "prompt": "Can complete the core communicative task for Unit 10."
+  },
+  {
+    "assessment_id": "ASM-10-2",
+    "lesson_number": 10,
+    "proficiency_band": "B1",
+    "item_type": "quiz",
+    "prompt": "Answer three comprehension questions for Unit 10."
+  },
+  {
+    "assessment_id": "ASM-10-5",
+    "lesson_number": 10,
+    "proficiency_band": "B1",
+    "item_type": "review",
+    "prompt": "Review Unit 10 against prior material in the same band."
+  },
+  {
+    "assessment_id": "ASM-10-3",
+    "lesson_number": 10,
+    "proficiency_band": "B1",
+    "item_type": "speaking",
+    "prompt": "Produce a short spoken response using Unit 10 target constructions."
+  },
+  {
+    "assessment_id": "ASM-10-4",
+    "lesson_number": 10,
+    "proficiency_band": "B1",
+    "item_type": "writing",
+    "prompt": "Write 3–5 lines using Unit 10 vocabulary and constructions."
+  },
+  {
+    "assessment_id": "ASM-11-1",
+    "lesson_number": 11,
+    "proficiency_band": "A1",
+    "item_type": "mastery_checklist",
+    "prompt": "Can complete the core communicative task for Unit 11."
+  },
+  {
+    "assessment_id": "ASM-11-2",
+    "lesson_number": 11,
+    "proficiency_band": "A1",
+    "item_type": "quiz",
+    "prompt": "Answer three comprehension questions for Unit 11."
+  },
+  {
+    "assessment_id": "ASM-11-5",
+    "lesson_number": 11,
+    "proficiency_band": "A1",
+    "item_type": "review",
+    "prompt": "Review Unit 11 against prior material in the same band."
+  },
+  {
+    "assessment_id": "ASM-11-3",
+    "lesson_number": 11,
+    "proficiency_band": "A1",
+    "item_type": "speaking",
+    "prompt": "Produce a short spoken response using Unit 11 target constructions."
+  },
+  {
+    "assessment_id": "ASM-11-4",
+    "lesson_number": 11,
+    "proficiency_band": "A1",
+    "item_type": "writing",
+    "prompt": "Write 3–5 lines using Unit 11 vocabulary and constructions."
+  },
+  {
+    "assessment_id": "ASM-12-1",
+    "lesson_number": 12,
+    "proficiency_band": "A1",
+    "item_type": "mastery_checklist",
+    "prompt": "Can complete the core communicative task for Unit 12."
+  },
+  {
+    "assessment_id": "ASM-12-2",
+    "lesson_number": 12,
+    "proficiency_band": "A1",
+    "item_type": "quiz",
+    "prompt": "Answer three comprehension questions for Unit 12."
+  },
+  {
+    "assessment_id": "ASM-12-5",
+    "lesson_number": 12,
+    "proficiency_band": "A1",
+    "item_type": "review",
+    "prompt": "Review Unit 12 against prior material in the same band."
+  },
+  {
+    "assessment_id": "ASM-12-3",
+    "lesson_number": 12,
+    "proficiency_band": "A1",
+    "item_type": "speaking",
+    "prompt": "Produce a short spoken response using Unit 12 target constructions."
+  },
+  {
+    "assessment_id": "ASM-12-4",
+    "lesson_number": 12,
+    "proficiency_band": "A1",
+    "item_type": "writing",
+    "prompt": "Write 3–5 lines using Unit 12 vocabulary and constructions."
+  },
+  {
+    "assessment_id": "ASM-13-1",
+    "lesson_number": 13,
+    "proficiency_band": "A1",
+    "item_type": "mastery_checklist",
+    "prompt": "Can complete the core communicative task for Unit 13."
+  },
+  {
+    "assessment_id": "ASM-13-2",
+    "lesson_number": 13,
+    "proficiency_band": "A1",
+    "item_type": "quiz",
+    "prompt": "Answer three comprehension questions for Unit 13."
+  },
+  {
+    "assessment_id": "ASM-13-5",
+    "lesson_number": 13,
+    "proficiency_band": "A1",
+    "item_type": "review",
+    "prompt": "Review Unit 13 against prior material in the same band."
+  },
+  {
+    "assessment_id": "ASM-13-3",
+    "lesson_number": 13,
+    "proficiency_band": "A1",
+    "item_type": "speaking",
+    "prompt": "Produce a short spoken response using Unit 13 target constructions."
+  },
+  {
+    "assessment_id": "ASM-13-4",
+    "lesson_number": 13,
+    "proficiency_band": "A1",
+    "item_type": "writing",
+    "prompt": "Write 3–5 lines using Unit 13 vocabulary and constructions."
+  },
+  {
+    "assessment_id": "ASM-14-1",
+    "lesson_number": 14,
+    "proficiency_band": "A2",
+    "item_type": "mastery_checklist",
+    "prompt": "Can complete the core communicative task for Unit 14."
+  },
+  {
+    "assessment_id": "ASM-14-2",
+    "lesson_number": 14,
+    "proficiency_band": "A2",
+    "item_type": "quiz",
+    "prompt": "Answer three comprehension questions for Unit 14."
+  },
+  {
+    "assessment_id": "ASM-14-5",
+    "lesson_number": 14,
+    "proficiency_band": "A2",
+    "item_type": "review",
+    "prompt": "Review Unit 14 against prior material in the same band."
+  },
+  {
+    "assessment_id": "ASM-14-3",
+    "lesson_number": 14,
+    "proficiency_band": "A2",
+    "item_type": "speaking",
+    "prompt": "Produce a short spoken response using Unit 14 target constructions."
+  },
+  {
+    "assessment_id": "ASM-14-4",
+    "lesson_number": 14,
+    "proficiency_band": "A2",
+    "item_type": "writing",
+    "prompt": "Write 3–5 lines using Unit 14 vocabulary and constructions."
+  },
+  {
+    "assessment_id": "ASM-15-1",
+    "lesson_number": 15,
+    "proficiency_band": "A2",
+    "item_type": "mastery_checklist",
+    "prompt": "Can complete the core communicative task for Unit 15."
+  },
+  {
+    "assessment_id": "ASM-15-2",
+    "lesson_number": 15,
+    "proficiency_band": "A2",
+    "item_type": "quiz",
+    "prompt": "Answer three comprehension questions for Unit 15."
+  },
+  {
+    "assessment_id": "ASM-15-5",
+    "lesson_number": 15,
+    "proficiency_band": "A2",
+    "item_type": "review",
+    "prompt": "Review Unit 15 against prior material in the same band."
+  },
+  {
+    "assessment_id": "ASM-15-3",
+    "lesson_number": 15,
+    "proficiency_band": "A2",
+    "item_type": "speaking",
+    "prompt": "Produce a short spoken response using Unit 15 target constructions."
+  },
+  {
+    "assessment_id": "ASM-15-4",
+    "lesson_number": 15,
+    "proficiency_band": "A2",
+    "item_type": "writing",
+    "prompt": "Write 3–5 lines using Unit 15 vocabulary and constructions."
+  },
+  {
+    "assessment_id": "ASM-16-1",
+    "lesson_number": 16,
+    "proficiency_band": "B1",
+    "item_type": "mastery_checklist",
+    "prompt": "Can complete the core communicative task for Unit 16."
+  },
+  {
+    "assessment_id": "ASM-16-2",
+    "lesson_number": 16,
+    "proficiency_band": "B1",
+    "item_type": "quiz",
+    "prompt": "Answer three comprehension questions for Unit 16."
+  },
+  {
+    "assessment_id": "ASM-16-5",
+    "lesson_number": 16,
+    "proficiency_band": "B1",
+    "item_type": "review",
+    "prompt": "Review Unit 16 against prior material in the same band."
+  },
+  {
+    "assessment_id": "ASM-16-3",
+    "lesson_number": 16,
+    "proficiency_band": "B1",
+    "item_type": "speaking",
+    "prompt": "Produce a short spoken response using Unit 16 target constructions."
+  },
+  {
+    "assessment_id": "ASM-16-4",
+    "lesson_number": 16,
+    "proficiency_band": "B1",
+    "item_type": "writing",
+    "prompt": "Write 3–5 lines using Unit 16 vocabulary and constructions."
+  },
+  {
+    "assessment_id": "ASM-17-1",
+    "lesson_number": 17,
+    "proficiency_band": "B1",
+    "item_type": "mastery_checklist",
+    "prompt": "Can complete the core communicative task for Unit 17."
+  },
+  {
+    "assessment_id": "ASM-17-2",
+    "lesson_number": 17,
+    "proficiency_band": "B1",
+    "item_type": "quiz",
+    "prompt": "Answer three comprehension questions for Unit 17."
+  },
+  {
+    "assessment_id": "ASM-17-5",
+    "lesson_number": 17,
+    "proficiency_band": "B1",
+    "item_type": "review",
+    "prompt": "Review Unit 17 against prior material in the same band."
+  },
+  {
+    "assessment_id": "ASM-17-3",
+    "lesson_number": 17,
+    "proficiency_band": "B1",
+    "item_type": "speaking",
+    "prompt": "Produce a short spoken response using Unit 17 target constructions."
+  },
+  {
+    "assessment_id": "ASM-17-4",
+    "lesson_number": 17,
+    "proficiency_band": "B1",
+    "item_type": "writing",
+    "prompt": "Write 3–5 lines using Unit 17 vocabulary and constructions."
+  },
+  {
+    "assessment_id": "ASM-18-1",
+    "lesson_number": 18,
+    "proficiency_band": "B1",
+    "item_type": "mastery_checklist",
+    "prompt": "Can complete the core communicative task for Unit 18."
+  },
+  {
+    "assessment_id": "ASM-18-2",
+    "lesson_number": 18,
+    "proficiency_band": "B1",
+    "item_type": "quiz",
+    "prompt": "Answer three comprehension questions for Unit 18."
+  },
+  {
+    "assessment_id": "ASM-18-5",
+    "lesson_number": 18,
+    "proficiency_band": "B1",
+    "item_type": "review",
+    "prompt": "Review Unit 18 against prior material in the same band."
+  },
+  {
+    "assessment_id": "ASM-18-3",
+    "lesson_number": 18,
+    "proficiency_band": "B1",
+    "item_type": "speaking",
+    "prompt": "Produce a short spoken response using Unit 18 target constructions."
+  },
+  {
+    "assessment_id": "ASM-18-4",
+    "lesson_number": 18,
+    "proficiency_band": "B1",
+    "item_type": "writing",
+    "prompt": "Write 3–5 lines using Unit 18 vocabulary and constructions."
+  },
+  {
+    "assessment_id": "ASM-19-1",
+    "lesson_number": 19,
+    "proficiency_band": "B1",
+    "item_type": "mastery_checklist",
+    "prompt": "Can complete the core communicative task for Unit 19."
+  },
+  {
+    "assessment_id": "ASM-19-2",
+    "lesson_number": 19,
+    "proficiency_band": "B1",
+    "item_type": "quiz",
+    "prompt": "Answer three comprehension questions for Unit 19."
+  },
+  {
+    "assessment_id": "ASM-19-5",
+    "lesson_number": 19,
+    "proficiency_band": "B1",
+    "item_type": "review",
+    "prompt": "Review Unit 19 against prior material in the same band."
+  },
+  {
+    "assessment_id": "ASM-19-3",
+    "lesson_number": 19,
+    "proficiency_band": "B1",
+    "item_type": "speaking",
+    "prompt": "Produce a short spoken response using Unit 19 target constructions."
+  },
+  {
+    "assessment_id": "ASM-19-4",
+    "lesson_number": 19,
+    "proficiency_band": "B1",
+    "item_type": "writing",
+    "prompt": "Write 3–5 lines using Unit 19 vocabulary and constructions."
+  },
+  {
+    "assessment_id": "ASM-20-1",
+    "lesson_number": 20,
+    "proficiency_band": "A1",
+    "item_type": "mastery_checklist",
+    "prompt": "Can complete the core communicative task for Unit 20."
+  },
+  {
+    "assessment_id": "ASM-20-2",
+    "lesson_number": 20,
+    "proficiency_band": "A1",
+    "item_type": "quiz",
+    "prompt": "Answer three comprehension questions for Unit 20."
+  },
+  {
+    "assessment_id": "ASM-20-5",
+    "lesson_number": 20,
+    "proficiency_band": "A1",
+    "item_type": "review",
+    "prompt": "Review Unit 20 against prior material in the same band."
+  },
+  {
+    "assessment_id": "ASM-20-3",
+    "lesson_number": 20,
+    "proficiency_band": "A1",
+    "item_type": "speaking",
+    "prompt": "Produce a short spoken response using Unit 20 target constructions."
+  },
+  {
+    "assessment_id": "ASM-20-4",
+    "lesson_number": 20,
+    "proficiency_band": "A1",
+    "item_type": "writing",
+    "prompt": "Write 3–5 lines using Unit 20 vocabulary and constructions."
+  },
+  {
+    "assessment_id": "ASM-21-1",
+    "lesson_number": 21,
+    "proficiency_band": "A1",
+    "item_type": "mastery_checklist",
+    "prompt": "Can complete the core communicative task for Unit 21."
+  },
+  {
+    "assessment_id": "ASM-21-2",
+    "lesson_number": 21,
+    "proficiency_band": "A1",
+    "item_type": "quiz",
+    "prompt": "Answer three comprehension questions for Unit 21."
+  },
+  {
+    "assessment_id": "ASM-21-5",
+    "lesson_number": 21,
+    "proficiency_band": "A1",
+    "item_type": "review",
+    "prompt": "Review Unit 21 against prior material in the same band."
+  },
+  {
+    "assessment_id": "ASM-21-3",
+    "lesson_number": 21,
+    "proficiency_band": "A1",
+    "item_type": "speaking",
+    "prompt": "Produce a short spoken response using Unit 21 target constructions."
+  },
+  {
+    "assessment_id": "ASM-21-4",
+    "lesson_number": 21,
+    "proficiency_band": "A1",
+    "item_type": "writing",
+    "prompt": "Write 3–5 lines using Unit 21 vocabulary and constructions."
+  },
+  {
+    "assessment_id": "ASM-22-1",
+    "lesson_number": 22,
+    "proficiency_band": "A1",
+    "item_type": "mastery_checklist",
+    "prompt": "Can complete the core communicative task for Unit 22."
+  },
+  {
+    "assessment_id": "ASM-22-2",
+    "lesson_number": 22,
+    "proficiency_band": "A1",
+    "item_type": "quiz",
+    "prompt": "Answer three comprehension questions for Unit 22."
+  },
+  {
+    "assessment_id": "ASM-22-5",
+    "lesson_number": 22,
+    "proficiency_band": "A1",
+    "item_type": "review",
+    "prompt": "Review Unit 22 against prior material in the same band."
+  },
+  {
+    "assessment_id": "ASM-22-3",
+    "lesson_number": 22,
+    "proficiency_band": "A1",
+    "item_type": "speaking",
+    "prompt": "Produce a short spoken response using Unit 22 target constructions."
+  },
+  {
+    "assessment_id": "ASM-22-4",
+    "lesson_number": 22,
+    "proficiency_band": "A1",
+    "item_type": "writing",
+    "prompt": "Write 3–5 lines using Unit 22 vocabulary and constructions."
+  },
+  {
+    "assessment_id": "ASM-23-1",
+    "lesson_number": 23,
+    "proficiency_band": "A1",
+    "item_type": "mastery_checklist",
+    "prompt": "Can complete the core communicative task for Unit 23."
+  },
+  {
+    "assessment_id": "ASM-23-2",
+    "lesson_number": 23,
+    "proficiency_band": "A1",
+    "item_type": "quiz",
+    "prompt": "Answer three comprehension questions for Unit 23."
+  },
+  {
+    "assessment_id": "ASM-23-5",
+    "lesson_number": 23,
+    "proficiency_band": "A1",
+    "item_type": "review",
+    "prompt": "Review Unit 23 against prior material in the same band."
+  },
+  {
+    "assessment_id": "ASM-23-3",
+    "lesson_number": 23,
+    "proficiency_band": "A1",
+    "item_type": "speaking",
+    "prompt": "Produce a short spoken response using Unit 23 target constructions."
+  },
+  {
+    "assessment_id": "ASM-23-4",
+    "lesson_number": 23,
+    "proficiency_band": "A1",
+    "item_type": "writing",
+    "prompt": "Write 3–5 lines using Unit 23 vocabulary and constructions."
+  },
+  {
+    "assessment_id": "ASM-24-1",
+    "lesson_number": 24,
+    "proficiency_band": "A2",
+    "item_type": "mastery_checklist",
+    "prompt": "Can complete the core communicative task for Unit 24."
+  },
+  {
+    "assessment_id": "ASM-24-2",
+    "lesson_number": 24,
+    "proficiency_band": "A2",
+    "item_type": "quiz",
+    "prompt": "Answer three comprehension questions for Unit 24."
+  },
+  {
+    "assessment_id": "ASM-24-5",
+    "lesson_number": 24,
+    "proficiency_band": "A2",
+    "item_type": "review",
+    "prompt": "Review Unit 24 against prior material in the same band."
+  },
+  {
+    "assessment_id": "ASM-24-3",
+    "lesson_number": 24,
+    "proficiency_band": "A2",
+    "item_type": "speaking",
+    "prompt": "Produce a short spoken response using Unit 24 target constructions."
+  },
+  {
+    "assessment_id": "ASM-24-4",
+    "lesson_number": 24,
+    "proficiency_band": "A2",
+    "item_type": "writing",
+    "prompt": "Write 3–5 lines using Unit 24 vocabulary and constructions."
+  },
+  {
+    "assessment_id": "ASM-25-1",
+    "lesson_number": 25,
+    "proficiency_band": "A2",
+    "item_type": "mastery_checklist",
+    "prompt": "Can complete the core communicative task for Unit 25."
+  },
+  {
+    "assessment_id": "ASM-25-2",
+    "lesson_number": 25,
+    "proficiency_band": "A2",
+    "item_type": "quiz",
+    "prompt": "Answer three comprehension questions for Unit 25."
+  },
+  {
+    "assessment_id": "ASM-25-5",
+    "lesson_number": 25,
+    "proficiency_band": "A2",
+    "item_type": "review",
+    "prompt": "Review Unit 25 against prior material in the same band."
+  },
+  {
+    "assessment_id": "ASM-25-3",
+    "lesson_number": 25,
+    "proficiency_band": "A2",
+    "item_type": "speaking",
+    "prompt": "Produce a short spoken response using Unit 25 target constructions."
+  },
+  {
+    "assessment_id": "ASM-25-4",
+    "lesson_number": 25,
+    "proficiency_band": "A2",
+    "item_type": "writing",
+    "prompt": "Write 3–5 lines using Unit 25 vocabulary and constructions."
+  },
+  {
+    "assessment_id": "ASM-26-1",
+    "lesson_number": 26,
+    "proficiency_band": "B1",
+    "item_type": "mastery_checklist",
+    "prompt": "Can complete the core communicative task for Unit 26."
+  },
+  {
+    "assessment_id": "ASM-26-2",
+    "lesson_number": 26,
+    "proficiency_band": "B1",
+    "item_type": "quiz",
+    "prompt": "Answer three comprehension questions for Unit 26."
+  },
+  {
+    "assessment_id": "ASM-26-5",
+    "lesson_number": 26,
+    "proficiency_band": "B1",
+    "item_type": "review",
+    "prompt": "Review Unit 26 against prior material in the same band."
+  },
+  {
+    "assessment_id": "ASM-26-3",
+    "lesson_number": 26,
+    "proficiency_band": "B1",
+    "item_type": "speaking",
+    "prompt": "Produce a short spoken response using Unit 26 target constructions."
+  },
+  {
+    "assessment_id": "ASM-26-4",
+    "lesson_number": 26,
+    "proficiency_band": "B1",
+    "item_type": "writing",
+    "prompt": "Write 3–5 lines using Unit 26 vocabulary and constructions."
+  },
+  {
+    "assessment_id": "ASM-27-1",
+    "lesson_number": 27,
+    "proficiency_band": "B1",
+    "item_type": "mastery_checklist",
+    "prompt": "Can complete the core communicative task for Unit 27."
+  },
+  {
+    "assessment_id": "ASM-27-2",
+    "lesson_number": 27,
+    "proficiency_band": "B1",
+    "item_type": "quiz",
+    "prompt": "Answer three comprehension questions for Unit 27."
+  },
+  {
+    "assessment_id": "ASM-27-5",
+    "lesson_number": 27,
+    "proficiency_band": "B1",
+    "item_type": "review",
+    "prompt": "Review Unit 27 against prior material in the same band."
+  },
+  {
+    "assessment_id": "ASM-27-3",
+    "lesson_number": 27,
+    "proficiency_band": "B1",
+    "item_type": "speaking",
+    "prompt": "Produce a short spoken response using Unit 27 target constructions."
+  },
+  {
+    "assessment_id": "ASM-27-4",
+    "lesson_number": 27,
+    "proficiency_band": "B1",
+    "item_type": "writing",
+    "prompt": "Write 3–5 lines using Unit 27 vocabulary and constructions."
+  },
+  {
+    "assessment_id": "ASM-28-1",
+    "lesson_number": 28,
+    "proficiency_band": "B1",
+    "item_type": "mastery_checklist",
+    "prompt": "Can complete the core communicative task for Unit 28."
+  },
+  {
+    "assessment_id": "ASM-28-2",
+    "lesson_number": 28,
+    "proficiency_band": "B1",
+    "item_type": "quiz",
+    "prompt": "Answer three comprehension questions for Unit 28."
+  },
+  {
+    "assessment_id": "ASM-28-5",
+    "lesson_number": 28,
+    "proficiency_band": "B1",
+    "item_type": "review",
+    "prompt": "Review Unit 28 against prior material in the same band."
+  },
+  {
+    "assessment_id": "ASM-28-3",
+    "lesson_number": 28,
+    "proficiency_band": "B1",
+    "item_type": "speaking",
+    "prompt": "Produce a short spoken response using Unit 28 target constructions."
+  },
+  {
+    "assessment_id": "ASM-28-4",
+    "lesson_number": 28,
+    "proficiency_band": "B1",
+    "item_type": "writing",
+    "prompt": "Write 3–5 lines using Unit 28 vocabulary and constructions."
+  },
+  {
+    "assessment_id": "ASM-29-1",
+    "lesson_number": 29,
+    "proficiency_band": "B1",
+    "item_type": "mastery_checklist",
+    "prompt": "Can complete the core communicative task for Unit 29."
+  },
+  {
+    "assessment_id": "ASM-29-2",
+    "lesson_number": 29,
+    "proficiency_band": "B1",
+    "item_type": "quiz",
+    "prompt": "Answer three comprehension questions for Unit 29."
+  },
+  {
+    "assessment_id": "ASM-29-5",
+    "lesson_number": 29,
+    "proficiency_band": "B1",
+    "item_type": "review",
+    "prompt": "Review Unit 29 against prior material in the same band."
+  },
+  {
+    "assessment_id": "ASM-29-3",
+    "lesson_number": 29,
+    "proficiency_band": "B1",
+    "item_type": "speaking",
+    "prompt": "Produce a short spoken response using Unit 29 target constructions."
+  },
+  {
+    "assessment_id": "ASM-29-4",
+    "lesson_number": 29,
+    "proficiency_band": "B1",
+    "item_type": "writing",
+    "prompt": "Write 3–5 lines using Unit 29 vocabulary and constructions."
+  },
+  {
+    "assessment_id": "ASM-30-1",
+    "lesson_number": 30,
+    "proficiency_band": "A1",
+    "item_type": "mastery_checklist",
+    "prompt": "Can complete the core communicative task for Unit 30."
+  },
+  {
+    "assessment_id": "ASM-30-2",
+    "lesson_number": 30,
+    "proficiency_band": "A1",
+    "item_type": "quiz",
+    "prompt": "Answer three comprehension questions for Unit 30."
+  },
+  {
+    "assessment_id": "ASM-30-5",
+    "lesson_number": 30,
+    "proficiency_band": "A1",
+    "item_type": "review",
+    "prompt": "Review Unit 30 against prior material in the same band."
+  },
+  {
+    "assessment_id": "ASM-30-3",
+    "lesson_number": 30,
+    "proficiency_band": "A1",
+    "item_type": "speaking",
+    "prompt": "Produce a short spoken response using Unit 30 target constructions."
+  },
+  {
+    "assessment_id": "ASM-30-4",
+    "lesson_number": 30,
+    "proficiency_band": "A1",
+    "item_type": "writing",
+    "prompt": "Write 3–5 lines using Unit 30 vocabulary and constructions."
+  },
+  {
+    "assessment_id": "ASM-31-1",
+    "lesson_number": 31,
+    "proficiency_band": "A1",
+    "item_type": "mastery_checklist",
+    "prompt": "Can complete the core communicative task for Unit 31."
+  },
+  {
+    "assessment_id": "ASM-31-2",
+    "lesson_number": 31,
+    "proficiency_band": "A1",
+    "item_type": "quiz",
+    "prompt": "Answer three comprehension questions for Unit 31."
+  },
+  {
+    "assessment_id": "ASM-31-5",
+    "lesson_number": 31,
+    "proficiency_band": "A1",
+    "item_type": "review",
+    "prompt": "Review Unit 31 against prior material in the same band."
+  },
+  {
+    "assessment_id": "ASM-31-3",
+    "lesson_number": 31,
+    "proficiency_band": "A1",
+    "item_type": "speaking",
+    "prompt": "Produce a short spoken response using Unit 31 target constructions."
+  },
+  {
+    "assessment_id": "ASM-31-4",
+    "lesson_number": 31,
+    "proficiency_band": "A1",
+    "item_type": "writing",
+    "prompt": "Write 3–5 lines using Unit 31 vocabulary and constructions."
+  },
+  {
+    "assessment_id": "ASM-32-1",
+    "lesson_number": 32,
+    "proficiency_band": "A1",
+    "item_type": "mastery_checklist",
+    "prompt": "Can complete the core communicative task for Unit 32."
+  },
+  {
+    "assessment_id": "ASM-32-2",
+    "lesson_number": 32,
+    "proficiency_band": "A1",
+    "item_type": "quiz",
+    "prompt": "Answer three comprehension questions for Unit 32."
+  },
+  {
+    "assessment_id": "ASM-32-5",
+    "lesson_number": 32,
+    "proficiency_band": "A1",
+    "item_type": "review",
+    "prompt": "Review Unit 32 against prior material in the same band."
+  },
+  {
+    "assessment_id": "ASM-32-3",
+    "lesson_number": 32,
+    "proficiency_band": "A1",
+    "item_type": "speaking",
+    "prompt": "Produce a short spoken response using Unit 32 target constructions."
+  },
+  {
+    "assessment_id": "ASM-32-4",
+    "lesson_number": 32,
+    "proficiency_band": "A1",
+    "item_type": "writing",
+    "prompt": "Write 3–5 lines using Unit 32 vocabulary and constructions."
+  }
+]

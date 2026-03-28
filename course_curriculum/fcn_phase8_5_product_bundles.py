@@ -61,9 +61,9 @@ def main():
 
     toc_lines = ["# FCN Spoken EHN Course — Textbook Bundle\n"]
     for u in units:
-        ln = int(u["lesson_number"]); title = u["unit_title"]
+        ln = int(u["lesson_number"]); title = u.get("theme_en") or u.get("english_lesson_title") or u.get("spanish_lesson_title") or f"Unit {u.get('lesson_number', '?')}"
         chapter = textbook / f"unit_{ln:02d}.md"
-        chapter.write_text(f"# Unit {ln}: {title}\n\nBand: {u['proficiency_band']}\n", encoding="utf-8")
+        chapter.write_text(f"# Unit {ln}: {title}\n\nBand: {u.get('target_band') or u.get('proficiency_band') or ''}\n", encoding="utf-8")
         toc_lines.append(f"- Unit {ln}: {title}")
     (textbook / "TOC.md").write_text("\n".join(toc_lines), encoding="utf-8")
 
@@ -75,8 +75,8 @@ def main():
     for u in units:
         teacher_payload.append({
             "lesson_number": u["lesson_number"],
-            "unit_title": u["unit_title"],
-            "proficiency_band": u["proficiency_band"],
+            "unit_title": u.get("theme_en") or u.get("english_lesson_title") or u.get("spanish_lesson_title") or f"Unit {u.get('lesson_number', '?')}",
+            "proficiency_band": u.get("target_band") or u.get("proficiency_band") or "",
             "objective": f"Teach the core communicative objective of Unit {u['lesson_number']}.",
             "pacing_note": "Single-session or double-session depending on dialogue density.",
             "answer_key_note": "See assessment/review bundle for scaffolded keys."

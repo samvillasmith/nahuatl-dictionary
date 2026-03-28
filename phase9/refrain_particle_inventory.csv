@@ -1,0 +1,5 @@
+item_id,item_text,function_label,annotation_role,register_status,notes
+REF-0001,ah,calling particle,REFRAIN_CALL,poetic-high,attention/call opening
+REF-0002,ay,lyric exclamation,REFRAIN_CALL,poetic-high,breath/emotional turn
+REF-0003,o,vocative/exclamatory particle,REFRAIN_CALL,poetic-high,address marker
+REF-0004,ma,exhortive/wish particle,REFRAIN_EXHORT,poetic-high,used in wish/exhortive force
