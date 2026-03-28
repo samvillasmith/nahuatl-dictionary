@@ -1,8 +1,8 @@
-# Phase 10 — Register Conversion Guide (Deliverable 11)
+# register_conversion/ — Rules for Moving Between Registers
 
-Phase 10 documents the rules and worked examples for converting text between the four FCN registers: EHN spoken, MSN neutral, MSN-P (poetic), and Classical citation.
+This directory documents how to convert text between the four FCN registers: EHN spoken, MSN neutral, MSN-P (poetic), and Classical citation. It provides explicit rules, worked examples, and a list of violations to avoid.
 
-## What this phase does
+## What this directory contains
 
 - Defines all four conversion directions with explicit rules
 - Provides worked example pairs for each direction
@@ -32,4 +32,4 @@ Phase 10 documents the rules and worked examples for converting text between the
 
 ## Note on deliverable numbering
 
-This phase directory is named `phase10/` but contains **Deliverable 11** (Register Conversion Guide). Deliverable 10 was an internal planning document. The deliverable number in the filename (`fcn_deliverable11_...`) is authoritative.
+This directory contains **Deliverable 11** (Register Conversion Guide). Deliverable 10 was an internal planning document that was not published. The deliverable number in the filename (`fcn_deliverable11_...`) is authoritative.

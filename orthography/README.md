@@ -1,6 +1,6 @@
-# Phase 6 — Orthography and Style Normalization
+# orthography/ — FCN Spelling Conventions and Style Manual
 
-Phase 6 applies FCN orthographic conventions to the master lexicon and establishes the style manual that governs all subsequent production.
+This directory applies the FCN orthographic standard to the master lexicon and publishes the style manual that governs all FCN production. Every word form in `../curriculum/` and `../reference_manuals/` follows the conventions established here.
 
 ## What this phase does
 
@@ -31,6 +31,6 @@ Phase 6 applies FCN orthographic conventions to the master lexicon and establish
 | `ehn_to_msn_candidates.csv` | EHN→MSN normalization candidates (123 KB) |
 | `PHASE6_README.md` | Phase documentation |
 
-## Next phase
+## Next step
 
-Phase 7 (`../phase7/`) builds the core lexicon and example bank from the normalized database.
+`../core_vocabulary/` builds the curated vocabulary sets and example bank from the normalized database.

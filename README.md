@@ -41,24 +41,24 @@ Nahuatl is spoken by approximately 1.7 million people today — the most widely 
 ## Project pipeline
 
 ```
-fcn_ingest/    Parse raw sources → lexical rows, classical examples, UD grammar evidence
-    ↓
-phase5/        Import and unify → first master lexicon SQLite
-    ↓
-phase6/        Normalize orthography → FCN conventions (k/s/w/ts/h/macrons)
-    ↓
-phase7/        Curate core vocabulary → core_ehn_250, core_ehn_500, example bank
-    ↓
-phase8/        Instructional pipeline → 37K-entry database, 32 units, 1,008 primer items
-    ↓
-phase9/        Poetic inventory → 21-item MSN-P seed (diction, vocatives, formulas)
-phase10/       Register conversion → rules and examples for all 4 conversion directions
-phase11/       Editorial QA → 6-level QA scale, validation status taxonomy
-    ↓
-phase12/       Final products → 4 reference manuals (D15–D18)
+source_data/          Parse raw sources → lexical rows, classical examples, UD grammar evidence
+      ↓
+lexicon_bootstrap/    Import and unify → first master lexicon SQLite
+      ↓
+orthography/          Normalize spelling → FCN conventions (k/s/w/ts/h/macrons)
+      ↓
+core_vocabulary/      Curate core vocab → core_ehn_250, core_ehn_500, example bank
+      ↓
+curriculum/           Instructional pipeline → 37K-entry database, 32 units, 1,008 primer items
+      ↓
+poetic_register/      Poetic inventory → 21-item MSN-P seed (diction, vocatives, formulas)
+register_conversion/  Conversion rules → EHN↔MSN↔MSN-P↔Classical examples
+editorial_qa/         QA framework → 6-level scale, validation status taxonomy
+      ↓
+reference_manuals/    Final products → 5 reference documents (D14–D18)
 ```
 
-**The production database is `phase8/fcn_master_lexicon_phase8_6_primer.sqlite`.**
+**The production database is `curriculum/fcn_master_lexicon_phase8_6_primer.sqlite`.**
 
 ---
 
@@ -66,28 +66,27 @@ phase12/       Final products → 4 reference manuals (D15–D18)
 
 | Directory | What it contains |
 |---|---|
-| `fcn_ingest/` | Source parser pipeline: Kaikki, UD, Siméon, COERLL; raw data; processed outputs |
-| `phase5/` | Master lexicon bootstrap: first unified SQLite from all sources |
-| `phase6/` | Orthographic normalization: FCN conventions, style manual |
-| `phase7/` | Core vocabulary curation: 250/500-item lists, verb list, example bank |
-| `phase8/` | **Main database and curriculum** (37K entries, 100 lessons, 128 unit exports) |
-| `phase9/` | Poetic register inventory: elevated diction, vocatives, refrain particles, formulas |
-| `phase10/` | Register conversion guide: EHN↔MSN↔MSN-P↔Classical rules and examples |
-| `phase11/` | Editorial QA and validation: QA-0 through QA-5 scale, publication blockers |
-| `phase12/` | Reference manuals: Spoken Primer (D15), MSN Manual (D16), Poetic Manual (D17), Dictionary Manual (D18) |
-| `master_source_book/` | Deliverable 14: Master Sourcebook compiling all project principles |
-| `docs/` | Founding charter, register charter, mission statements, internal premises |
-| `msn_word_inventory/` | Workspace copy of Kaikki and Siméon data (canonical in `fcn_ingest/`) |
+| `source_data/` | Raw source data and parser pipeline: Kaikki JSONL, Siméon JSON, UD treebanks, COERLL HTML, processed outputs |
+| `lexicon_bootstrap/` | First unified SQLite from all sources; database schema; import script |
+| `orthography/` | FCN orthographic conventions; style manual; normalization script |
+| `core_vocabulary/` | Curated 250/500-item EHN vocab lists; 100 essential verbs; example bank |
+| `curriculum/` | **Main database and instructional pipeline** (37K entries, 100 lessons, 128 unit exports) |
+| `poetic_register/` | MSN-P elevated register inventory: diction, vocatives, refrain particles, rhetorical formulas |
+| `register_conversion/` | Rules and worked examples for all 4 register conversion directions |
+| `editorial_qa/` | Editorial QA protocol (QA-0 through QA-5) and validation framework |
+| `reference_manuals/` | All final deliverables: Master Sourcebook (D14), Spoken Primer (D15), MSN Manual (D16), Poetic Manual (D17), Dictionary Manual (D18) |
+| `docs/` | Founding charter, register charter, mission statements, source hierarchy document |
+| `workspace_msn/` | Scratch workspace — copy of Kaikki and Siméon data; canonical versions are in `source_data/` |
 
 ### Root-level data files
 
-The Siméon files at the root (`simeon_parsed.json`, `simeon_1885_ocr_raw.txt`, `simeon_parser.py`, `simeon_wordlist.txt`) are copies of the canonical versions in `fcn_ingest/`. The `fcn_ingest/` versions are authoritative.
+`simeon_parsed.json`, `simeon_1885_ocr_raw.txt`, `simeon_parser.py`, and `simeon_wordlist.txt` are kept at root because they are the primary public-facing data files (referenced by the S3 download links below). The canonical copies for pipeline use are in `source_data/`.
 
 ---
 
-## Phase 12 manuals — important note
+## Reference manuals — important note
 
-The files in `phase12/` are **editorial reference documents**. They are not the production data. They document the schema, pedagogy, and register conventions that govern the database in `phase8/`. See `phase12/README.md` for the full explanation of what each document is and where the underlying data lives.
+The files in `reference_manuals/` are **editorial reference documents**. They are not the production data. They document the schema, pedagogy, and register conventions that govern the database in `curriculum/`. See `reference_manuals/README.md` for the full explanation.
 
 ---
 
@@ -112,7 +111,7 @@ OCR sources: [Siméon on archive.org](https://archive.org/details/dictionnairede
 ```python
 import json
 
-with open("fcn_ingest/simeon_parsed.json") as f:
+with open("simeon_parsed.json") as f:
     data = json.load(f)
 
 # Search for a word
@@ -132,7 +131,7 @@ for e in cuica_words:
 ```python
 import sqlite3
 
-conn = sqlite3.connect("phase8/fcn_master_lexicon_phase8_6_primer.sqlite")
+conn = sqlite3.connect("curriculum/fcn_master_lexicon_phase8_6_primer.sqlite")
 cur = conn.cursor()
 
 # How many entries?
@@ -144,7 +143,7 @@ cur.execute("SELECT surface_form, gloss_en, part_of_speech FROM primer_vocab LIM
 for row in cur.fetchall():
     print(row)
 
-# Get a full unit export
+# Get the full curriculum unit plan
 cur.execute("SELECT lesson_number, theme_en, target_band FROM phase82_unit_plan ORDER BY lesson_number")
 for row in cur.fetchall():
     print(row)
@@ -152,27 +151,7 @@ for row in cur.fetchall():
 
 ---
 
-## Siméon entry format
-
-```json
-{
-  "headword": "TONALLI",
-  "definition_fr": "Ardeur, chaleur du soleil, été; au fig. âme, esprit, signe de nativité...",
-  "pos": "noun",
-  "roots": ["tona"]
-}
-```
-
-- **headword** — Nahuatl word (colonial orthography)
-- **definition_fr** — Definition in French (Siméon's original language)
-- **pos** — Part of speech
-- **roots** — Morphological roots as identified by Siméon
-
----
-
 ## FCN orthographic conventions
-
-FCN uses a consistent modern orthography distinct from colonial spelling conventions:
 
 | Feature | FCN convention | Classical variant |
 |---|---|---|
@@ -235,7 +214,6 @@ https://nahuatl-language.s3.us-east-1.amazonaws.com/molina/
 | `simeon_1885_ocr_raw.txt` (3.2 MB) | [Download](https://nahuatl-language.s3.us-east-1.amazonaws.com/molina/simeon_1885_ocr_raw.txt) |
 | `simeon_wordlist.txt` | [Download](https://nahuatl-language.s3.us-east-1.amazonaws.com/molina/simeon_wordlist.txt) |
 | `simeon_parser.py` | [Download](https://nahuatl-language.s3.us-east-1.amazonaws.com/molina/simeon_parser.py) |
-| `download_all_nahuatl.py` | [Download](https://nahuatl-language.s3.us-east-1.amazonaws.com/molina/download_all_nahuatl.py) |
 
 ### Wiktionary / Kaikki data
 
@@ -272,9 +250,9 @@ https://nahuatl-language.s3.us-east-1.amazonaws.com/molina/
 
 **Siméon definitions are in French.** English and Spanish translations are on the roadmap.
 
-**OCR source material.** Siméon and Molina texts were auto-OCR'd from 19th-century scans on archive.org. They contain errors. Use with judgment; corrections are welcome as pull requests.
+**OCR source material.** Siméon and Molina texts were auto-OCR'd from 19th-century scans. They contain errors. Use with judgment; corrections are welcome as pull requests.
 
-**Colonial orthography in source data.** Siméon headwords use 16th/17th-century spelling without macrons or glottal-stop marking. FCN orthographic normalization is applied from Phase 6 onward.
+**Colonial orthography in source data.** Siméon headwords use 16th/17th-century spelling without macrons or glottal-stop marking. FCN orthographic normalization is applied in `orthography/` and forward.
 
 ---
 
@@ -286,10 +264,10 @@ https://nahuatl-language.s3.us-east-1.amazonaws.com/molina/
 - [ ] OCR error corrections in Siméon source
 - [ ] Cross-variety lemma alignment (Classical ↔ Central ↔ Huasteca)
 - [ ] Searchable dictionary website
-- [ ] Publish primer-ready exports from Phase 8 instructional track
-- [ ] Phase B/C expansion of MSN-P poetic inventory (phase9/)
+- [ ] Publish primer-ready exports from `curriculum/` instructional track
+- [ ] Phase B/C expansion of MSN-P poetic inventory (`poetic_register/`)
 - [ ] Community validation pipeline for proposed literary-modern items
-- [ ] App and textbook bundle production from Phase 8.5 outputs
+- [ ] App and textbook bundle production from `curriculum/phase8_5_reports/`
 
 ---
 

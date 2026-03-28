@@ -1,6 +1,6 @@
-# Phase 9 — Poetic Register Inventory (Deliverable 9)
+# poetic_register/ — MSN-P Elevated Register Inventory
 
-Phase 9 defines the MSN-P (MSN-Poetic) elevated register. It inventories the approved diction, structural devices, and rhetorical formulas that distinguish literary Nahuatl from written prose.
+This directory defines the MSN-P (MSN-Poetic) elevated register and contains the approved inventory of diction, devices, and rhetorical formulas that distinguish literary Nahuatl from written prose. Writers composing in the elevated register start here.
 
 ## What this phase does
 
@@ -39,8 +39,8 @@ Phase 9 defines the MSN-P (MSN-Poetic) elevated register. It inventories the app
 - `ceremonial` — domain-restricted (e.g., *tlahtoani*)
 - `proposed literary-modern` — approved with annotation pending community validation
 
-## Relationship to other phases
+## Relationship to other directories
 
-- Phase 9 inventories are consumed by `../phase12/fcn_deliverable17_poetic_nahuatl_manual.md`
-- Grammar examples from this directory are used in `../phase12/fcn_deliverable16_msn_manual.md` and D15
-- Phase A expansion to Phase B/C is described in `../phase12/fcn_deliverable17_poetic_nahuatl_manual.md` Section 11
+- These inventories are consumed by `../reference_manuals/fcn_deliverable17_poetic_nahuatl_manual.md`
+- Grammar examples are used in `../reference_manuals/fcn_deliverable16_msn_manual.md` and D15
+- Phase A expansion to Phase B/C is described in `../reference_manuals/fcn_deliverable17_poetic_nahuatl_manual.md` Section 11

@@ -1,8 +1,8 @@
-# Phase 11 — Editorial QA and Validation (Deliverables 12–13)
+# editorial_qa/ — QA Protocol and Validation Framework
 
-Phase 11 defines the quality assurance and validation framework that governs all FCN production outputs.
+This directory defines the quality assurance and validation rules that govern all FCN production outputs. Every lexicon entry and every publication-facing document is subject to this framework.
 
-## What this phase does
+## What this directory contains
 
 - Establishes the 6-level QA scale (QA-0 through QA-5)
 - Defines validation status taxonomy for lexicon entries
