@@ -1,0 +1,3 @@
+source_register,source_text,target_register,target_text,operation,note
+Classical_citation,raw classical line kept for citation,note_only,Classical citation preserved in note.,note_only_nonproductive,Do not force into EHN or neutral-modern prose.
+Classical_citation,classical-only formula with strong philological value,note_only,Retain citation + gloss + commentary only.,citation_preserved,"Used as evidence, not productive learning output."

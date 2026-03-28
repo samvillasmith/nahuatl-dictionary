@@ -1,0 +1,6 @@
+source_register,target_register,allowed,primary_use
+EHN,MSN_neutral,yes,"neutral writing, primer documentation, dictionary normalization"
+MSN_neutral,MSN_poetic,yes,"songs, poems, public literary voice"
+Classical_citation,MSN_poetic,yes_with_annotation,adapted literary rendering
+Classical_citation,note_only,yes,"philological preservation, evidence"
+Classical_citation,EHN,no_default,discouraged

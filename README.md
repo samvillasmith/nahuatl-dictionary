@@ -1,6 +1,6 @@
 # Nahuatl Dictionary Project
 
-**The first machine-readable dataset of Classical Nahuatl — 28,709 dictionary entries, 8,465 Wiktionary lexical rows, two parsed treebanks, and a growing classical example bank. Open and free.**
+**The first machine-readable dataset of Classical Nahuatl — 28,709 dictionary entries, 8,465 Wiktionary lexical rows, two parsed treebanks, a growing classical example bank, and an open instructional-track build for modern Huasteca Nahuatl. Open and free.**
 
 ---
 
@@ -12,6 +12,7 @@ A structured, machine-readable collection of Classical and Modern Nahuatl langua
 - **English Wiktionary** (via Wiktextract/Kaikki) — 8,465 lexical rows spanning Classical Nahuatl, Central Nahuatl, Central Huasteca, and Eastern Huasteca varieties.
 - **Universal Dependencies treebanks** — 2,169 sentences and 19,549 tokens of grammatically annotated modern Nahuatl (Western Sierra Puebla and Highland Puebla).
 - **Molina's *Vocabulario en lengua castellana y mexicana*** (1571) — Raw OCR text, awaiting structured parsing (~23,000 potential additional entries).
+- **Nāhuatlahtolli / open instructional-track outputs** — a crawled, cleaned, and assembled lesson corpus for open-only EHN-oriented pedagogy, including canonical lesson cleanup, unit assembly, lesson exports, assessment layers, product bundles, and a spoken EHN primer foundation.
 
 All source material is **public domain** or **CC BY-SA**. The parsed data is released under **CC BY-SA 4.0**.
 
@@ -21,9 +22,11 @@ There are 1.7 million speakers of Nahuatl varieties alive today — the most wid
 
 Classical Nahuatl is the shared root of every modern variety, the language of the surviving poetry and philosophy, and the natural foundation for a living literary standard. This project makes that foundation available to anyone with a computer.
 
+The project now also includes an **open instructional track**: a legally reusable course/data workflow built around open Huasteca Nahuatl materials, designed to support lesson sequencing, dialogue extraction, vocabulary prioritization, assessment, product bundles, and a spoken-EHN primer foundation.
+
 ## Repository Structure
 
-```
+```text
 ├── README.md                    # This file
 ├── simeon_parsed.json           # Full parsed Siméon dictionary (28,709 entries)
 ├── simeon_wordlist.txt          # Plain headword list (26,806 words)
@@ -35,80 +38,41 @@ Classical Nahuatl is the shared root of every modern variety, the language of th
 │   ├── fcn_source_parsers.py    # Multi-source parser (Wiktionary, UD, IA, Nahuatlahtolli)
 │   ├── fcn_legal_ingest.py      # Source downloader with provenance tracking
 │   ├── fcn_sources_demo.json    # Demo configuration for ingest pipeline
-│   ├── FCN_SOURCE_PARSERS_README.md  # Parser documentation
-│   ├── README_SOURCES.txt       # Source provenance memo
+│   ├── FCN_SOURCE_PARSERS_README.md
+│   ├── README_SOURCES.txt
 │   │
-│   │  # Wiktionary source files
-│   ├── nahuatl_kaikki_unified.json   # Unified Wiktionary data (all varieties)
-│   ├── nahuatl_kaikki_raw.jsonl      # Raw Wiktionary extract
-│   ├── kaikki_nci.jsonl         # Classical Nahuatl (Wiktionary)
-│   ├── kaikki_nhn.jsonl         # Central Nahuatl (Wiktionary)
-│   ├── kaikki_nch.jsonl         # Central Huasteca Nahuatl (Wiktionary)
-│   ├── kaikki_nhe.jsonl         # Eastern Huasteca Nahuatl (Wiktionary)
+│   ├── nahuatl_kaikki_unified.json
+│   ├── nahuatl_kaikki_raw.jsonl
+│   ├── kaikki_nci.jsonl
+│   ├── kaikki_nhn.jsonl
+│   ├── kaikki_nch.jsonl
+│   ├── kaikki_nhe.jsonl
 │   │
-│   │  # Siméon source files (pipeline copies)
 │   ├── simeon_parsed.json
 │   ├── simeon_1885_ocr_raw.txt
 │   ├── simeon_parser.py
 │   ├── simeon_wordlist.txt
 │   │
-│   │  # Parsed outputs
-│   ├── out_kaikki/              # Wiktionary → FCN lexical rows
-│   │   ├── fcn_lexical_rows.csv       # 8,465 rows (3.1 MB)
-│   │   ├── fcn_lexical_rows.jsonl     # Same data, JSONL format (6.9 MB)
-│   │   └── summary.json
-│   │
-│   ├── out_classical/           # Siméon → classical example bank
-│   │   ├── classical_blocks.jsonl     # 60,663 text blocks (16.4 MB)
-│   │   ├── classical_examples.jsonl   # 55,904 examples (11.6 MB)
-│   │   ├── headword_candidates.csv    # 63 candidates (2.9 KB)
-│   │   └── summary.json
-│   │
-│   ├── out_ud/                  # UD treebanks → grammar evidence tables
-│   │   ├── sentences.jsonl            # 2,169 sentences (1.0 MB)
-│   │   ├── tokens.csv                 # 19,549 tokens
-│   │   ├── lemma_feature_counts.csv   # Lemma × feature matrix (182.4 KB)
-│   │   ├── dependency_counts.csv      # Dependency relation counts (9.6 KB)
-│   │   ├── feature_counts.csv         # Grammatical feature counts (2.7 KB)
-│   │   ├── grammar_evidence_examples.jsonl  # Example sentences per pattern (18.5 KB)
-│   │   └── summary.json
-│   │
-│   └── data/                    # Raw ingested sources with provenance
-│       ├── ledger/
-│       │   └── provenance.csv         # Legal provenance ledger for all sources
-│       ├── wikimedia/
-│       │   └── enwiktionary-pages-articles/
-│       │       └── enwiktionary-latest-pages-articles.xml.bz2  # Full Wiktionary dump
-│       ├── internet_archive/
-│       │   └── vocabularioenlen00moli_0/
-│       │       └── metadata.json      # Molina 1571 archive metadata
-│       └── github/
-│           ├── ud-western-sierra-puebla/
-│           │   └── nhi_itml-ud-test.conllu   # Western Sierra Puebla treebank
-│           ├── ud-western-sierra-puebla-readme/
-│           │   └── README.md
-│           └── ud-highland-puebla/
-│               └── azz_itml-ud-test.conllu   # Highland Puebla treebank
+│   ├── out_kaikki/
+│   ├── out_classical/
+│   ├── out_ud/
+│   └── data/
 │
-└── msn_word_inventory/          # Modern Standard Nahuatl word inventory workspace
-    ├── nahuatl_kaikki_unified.json
-    ├── nahuatl_kaikki_raw.jsonl
-    ├── kaikki_nci.jsonl
-    ├── kaikki_nch.jsonl
-    ├── kaikki_nhe.jsonl
-    ├── kaikki_nhn.jsonl
-    ├── README_SOURCES.txt
-    ├── simeon_parsed.json
-    ├── simeon_1885_ocr_raw.txt
-    ├── simeon_parser.py
-    └── simeon_wordlist.txt
+├── msn_word_inventory/          # Modern Standard Nahuatl word inventory workspace
+│
+├── phase8_data/                 # Working directory snapshot for open instructional-track builds
+├── phase_8_2_data/              # Phase 8 bootstrap / open-only / cleanup / unit-assembly SQLite outputs
+├── phase_8_3_data/              # Phase 8.3 exports + Phase 8.4 assessment SQLite outputs
+├── phase_8_4/                   # Phase 8.4 assessment script + DB snapshot
+├── Phase_8_5/                   # Phase 8.5 product-bundle DB
+└── phase_8_6/                   # Phase 8.6 spoken EHN primer DB
 ```
 
 ## S3 Hosting
 
 All files are publicly hosted on Amazon S3. The base URL is:
 
-```
+```text
 https://nahuatl-language.s3.us-east-1.amazonaws.com/molina/
 ```
 
@@ -151,7 +115,44 @@ https://nahuatl-language.s3.us-east-1.amazonaws.com/molina/
 | `out_ud/dependency_counts.csv` | 9.6 KB | [Download](https://nahuatl-language.s3.us-east-1.amazonaws.com/molina/fcn_ingest/out_ud/dependency_counts.csv) |
 | `out_ud/feature_counts.csv` | 2.7 KB | [Download](https://nahuatl-language.s3.us-east-1.amazonaws.com/molina/fcn_ingest/out_ud/feature_counts.csv) |
 | `out_ud/grammar_evidence_examples.jsonl` | 18.5 KB | [Download](https://nahuatl-language.s3.us-east-1.amazonaws.com/molina/fcn_ingest/out_ud/grammar_evidence_examples.jsonl) |
-| `fcn_master_lexicon_phase7_review.sqlite` | — | [Download](https://nahuatl-language.s3.us-east-1.amazonaws.com/molina/fcn_master_lexicon_phase7_review.sqlite) |
+| `fcn_master_lexicon_phase7_review.sqlite` | 100.2 MB | [Download](https://nahuatl-language.s3.us-east-1.amazonaws.com/molina/fcn_master_lexicon_phase7_review.sqlite) |
+
+### Phase 8 Instructional Track Outputs
+
+#### Phase 8.2 data
+
+| File | Size | Link |
+|------|------|------|
+| `phase_8_2_data/fcn_master_lexicon_phase8_bootstrap.sqlite` | 99.5 MB | [Download](https://nahuatl-language.s3.us-east-1.amazonaws.com/molina/phase_8_2_data/fcn_master_lexicon_phase8_bootstrap.sqlite) |
+| `phase_8_2_data/fcn_master_lexicon_phase8_open_only.sqlite` | 101.8 MB | [Download](https://nahuatl-language.s3.us-east-1.amazonaws.com/molina/phase_8_2_data/fcn_master_lexicon_phase8_open_only.sqlite) |
+| `phase_8_2_data/fcn_master_lexicon_phase8_1_clean.sqlite` | 101.8 MB | [Download](https://nahuatl-language.s3.us-east-1.amazonaws.com/molina/phase_8_2_data/fcn_master_lexicon_phase8_1_clean.sqlite) |
+| `phase_8_2_data/fcn_master_lexicon_phase8_2_units.sqlite` | 102.1 MB | [Download](https://nahuatl-language.s3.us-east-1.amazonaws.com/molina/phase_8_2_data/fcn_master_lexicon_phase8_2_units.sqlite) |
+
+#### Phase 8.3 data
+
+| File | Size | Link |
+|------|------|------|
+| `phase_8_3_data/fcn_master_lexicon_phase8_3_exports.sqlite` | 102.1 MB | [Download](https://nahuatl-language.s3.us-east-1.amazonaws.com/molina/phase_8_3_data/fcn_master_lexicon_phase8_3_exports.sqlite) |
+| `phase_8_3_data/fcn_master_lexicon_phase8_4_assessment.sqlite` | 102.1 MB | [Download](https://nahuatl-language.s3.us-east-1.amazonaws.com/molina/phase_8_3_data/fcn_master_lexicon_phase8_4_assessment.sqlite) |
+
+#### Phase 8.4 data
+
+| File | Size | Link |
+|------|------|------|
+| `phase_8_4/fcn_master_lexicon_phase8_4_assessment.sqlite` | 102.1 MB | [Download](https://nahuatl-language.s3.us-east-1.amazonaws.com/molina/phase_8_4/fcn_master_lexicon_phase8_4_assessment.sqlite) |
+| `phase_8_4/fcn_phase8_4_assessment_layer.py` | 2.5 KB | [Download](https://nahuatl-language.s3.us-east-1.amazonaws.com/molina/phase_8_4/fcn_phase8_4_assessment_layer.py) |
+
+#### Phase 8.5 data
+
+| File | Size | Link |
+|------|------|------|
+| `Phase_8_5/fcn_master_lexicon_phase8_5_products.sqlite` | — | [Download](https://nahuatl-language.s3.us-east-1.amazonaws.com/molina/Phase_8_5/fcn_master_lexicon_phase8_5_products.sqlite) |
+
+#### Phase 8.6 data
+
+| File | Size | Link |
+|------|------|------|
+| `phase_8_6/fcn_master_lexicon_phase8_6_primer.sqlite` | — | [Download](https://nahuatl-language.s3.us-east-1.amazonaws.com/molina/phase_8_6/fcn_master_lexicon_phase8_6_primer.sqlite) |
 
 ### Universal Dependencies Treebanks
 
@@ -283,7 +284,7 @@ OCR sources: [Siméon on archive.org](https://archive.org/details/dictionnairede
 
 ## Citation
 
-```
+```text
 Sam Itzli, "Nahuatl Dictionary Project," GitHub, 2026.
 https://github.com/samvillasmith/nahuatl-dictionary
 
@@ -302,6 +303,8 @@ Paris: Imprimerie Nationale, 1885.
 - [ ] Parse Molina's 1571 *Vocabulario* directly (~23,000 additional entries)
 - [ ] Integrate Nahuatlahtolli modern grammar examples
 - [ ] Cross-variety lemma alignment (Classical ↔ Central ↔ Huasteca)
+- [ ] Publish primer-ready exports from the Phase 8 instructional track
+- [ ] Expand app/textbook bundles from the open instructional pipeline
 
 ## License
 

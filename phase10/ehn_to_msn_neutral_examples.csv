@@ -1,0 +1,6 @@
+source_register,source_text,target_register,target_text,operation,note
+EHN,siwatl,MSN_neutral,siwatl,orthographic_only,Already aligned to MSN-style phonemic spelling.
+EHN,kuawitl,MSN_neutral,kuawitl,orthographic_only,Canonical w/k spelling retained.
+EHN,akatl,MSN_neutral,akatl,orthographic_only,Stable neutral headword form.
+EHN,Quēn moxēloa tōnatiuh?,MSN_neutral,Quēn moxēloa tōnatiuh?,spoken_to_written_stabilization,Lesson-style spoken material preserved in neutral writing where already teachable.
+EHN,Ximoquētza!,MSN_neutral,Ximoquētza!,spoken_to_written_stabilization,Imperative preserved; no poetic elevation.
