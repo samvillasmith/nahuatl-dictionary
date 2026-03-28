@@ -1,0 +1,301 @@
+priority_id,construction_label,pattern_text,proficiency_band,first_lesson_number,lesson_frequency,occurrence_count,avg_confidence,lessons_json,example_original
+FCN-CP-00002,Construction 42,For example the word cōuhqui she bought something is pronounced as cōhquī,A1,1,1,1,0.6,[1],"For example, the word “cōuhqui” (she bought something) is pronounced as “cōhquī,” emphazising the first vowel and silencing the “u.”"
+FCN-CP-00003,Construction 41,For example the word teuctli lord sir is pronounced as tēktli emphasizing,A1,1,1,1,0.6079,[1],"For example, the word “teuctli” (lord/sir) is pronounced as “tēktli,” emphasizing the first vowel and silencing the “u.”"
+FCN-CP-00004,Construction 45,Tlamanextilli tlen tentzilincayotl Examples of vowels,A1,1,1,1,0.95,[1],Tlamanextilli tlen tentzilincayotl (Examples of vowels)
+FCN-CP-00005,Construction 44,Tlamānēxtilli tlen tēntlatzacuilcayōtl Examples of Consonants,A1,1,1,1,0.95,[1],Tlamānēxtilli tlen tēntlatzacuilcayōtl (Examples of Consonants)
+FCN-CP-00001,Construction 43,ch m n p t y l cu uc qu hu uh,A1,1,1,1,0.8618,[1],ch m n p t y l cu uc qu hu uh h x tl tz z
+FCN-CP-00006,Construction 46,A Hello good day teacher,A1,2,1,1,0.65,[2],"A: Hello, good day teacher."
+FCN-CP-00007,Construction 47,Totlahtlaniliz huan totlahtol tlen ica tlamachtiliztli Our questions and phrases for class,A1,2,1,1,0.95,[2],Totlahtlaniliz huan totlahtol tlen ica tlamachtiliztli (Our questions and phrases for class)
+FCN-CP-00008,Construction 54,A Ah cualtitoc na nicān Mexco niēhua Huan ta tlen ticchīhua niāan,A1,3,1,1,0.95,[3],"A: Ah cualtitoc, na nicān Mexco niēhua. Huan ta ¿tlen ticchīhua niāan Mexco?"
+FCN-CP-00009,Construction 51,A Na notōcah Juana Cānin tiēhua,A1,3,1,1,0.95,[3],A: Na notōcah Juana. ¿Cānin tiēhua?
+FCN-CP-00010,Construction 58,A Ohh cualtitoc teipan timoittazceh,A1,3,1,1,0.65,[3],"A: Ohh, cualtitoc, teipan timoittazceh."
+FCN-CP-00011,Construction 49,A Piyalli quēniuhqui motōcah,A1,3,1,1,0.95,[3],"A: Piyalli, ¿quēniuhqui motōcah?"
+FCN-CP-00012,Construction 64,All absolute non-possessed nouns are marked by their respective suffixes tl tli,A1,3,1,1,0.5833,[3],"All absolute, non-possessed, nouns are marked by their respective suffixes (tl, tli, li, n, or ø)."
+FCN-CP-00013,Construction 55,B Na nimomachtia huan nitlamachtia pan caltlamachticān tlen UNAM,A1,3,1,1,0.95,[3],B: Na nimomachtia huan nitlamachtia pan caltlamachticān tlen UNAM.
+FCN-CP-00014,Construction 57,B Na nitlamachtia Nahuatl,A1,3,1,1,0.95,[3],B: Na nitlamachtia Nahuatl.
+FCN-CP-00015,Construction 52,B Na niēhua Tecomate Chicōntepēc,A1,3,1,1,0.95,[3],"B: Na niēhua Tecomate, Chicōntepēc."
+FCN-CP-00016,Construction 50,B Piyalli na notōcah Paty Huan ta,A1,3,1,1,0.8786,[3],"B: Piyalli, na notōcah Paty. ¿Huan ta?"
+FCN-CP-00017,Construction 73,Cihuāmeh They are women,A1,3,1,1,0.95,[3],(ø)Cihuāmeh “They are women”
+FCN-CP-00018,Construction 70,Cihuātl He she is a woman,A1,3,1,1,0.7833,[3],(ø)Cihuātl “He/she is a woman”
+FCN-CP-00019,Construction 48,Comiendo Tacos en Chic ntepēc CC BY Martin the Hunter,A1,3,1,1,0.95,[3],Comiendo Tacos en Chicøntepēc CC BY Martin the Hunter
+FCN-CP-00021,Construction 56,I am a student and I teach at the school of the,A1,3,1,1,0.6038,[3],I am a student and I teach at the school of the UNAM.
+FCN-CP-00022,Construction 53,I am from Tecomate Chicontepec,A1,3,1,1,0.65,[3],"I am from Tecomate, Chicontepec."
+FCN-CP-00023,Construction 72,Incihuāmeh You all are women,A1,3,1,1,0.85,[3],Incihuāmeh “You all are women”
+FCN-CP-00024,Construction 78,Inmācēhualmeh You all are indigenous,A1,3,1,1,0.85,[3],Inmācēhualmeh “You all are indigenous”
+FCN-CP-00025,Construction 76,Mācēhualli He she is indigenous,A1,3,1,1,0.85,[3],(ø)Mācēhualli “He/she is indigenous”
+FCN-CP-00027,Construction 79,Mācēhualmeh They are indigenous,A1,3,1,1,0.95,[3],(ø)Mācēhualmeh “They are indigenous”
+FCN-CP-00029,Construction 74,Nimācēhualli I am indigenous,A1,3,1,1,0.95,[3],Nimācēhualli “I am indigenous”
+FCN-CP-00033,Construction 71,Ticihuāmeh We are women,A1,3,1,1,0.95,[3],Ticihuāmeh “We are women”
+FCN-CP-00034,Construction 69,Ticihuātl You are a woman,A1,3,1,1,0.85,[3],Ticihuātl “You are a woman”
+FCN-CP-00035,Construction 75,Timācēhualli You are indigenous,A1,3,1,1,0.95,[3],Timācēhualli “You are indigenous”
+FCN-CP-00036,Construction 77,Timācēhualmeh We are indigenous,A1,3,1,1,0.95,[3],Timācēhualmeh “We are indigenous”
+FCN-CP-00037,Construction 63,Tlamānēxtilli tlatōcaxtiliztli tlen ax quipiya ītecoh Examples of absolute nouns,A1,3,1,1,0.95,[3],Tlamānēxtilli tlatōcaxtiliztli tlen ax quipiya ītecoh (Examples of absolute nouns)
+FCN-CP-00038,Construction 68,Tlamānēxtilli tlatōcaxtiliztli tlen ax quipiya ītecoh tlen tlatzinpeuhquetl Examples of nouns with,A1,3,1,1,0.95,[3],Tlamānēxtilli tlatōcaxtiliztli tlen ax quipiya ītecoh tlen tlatzinpeuhquetl (Examples of nouns with subject markers)
+FCN-CP-00039,Construction 59,Tlatocaxtiliztli tlen axquipiya itecoh Absolute Nouns,A1,3,1,1,0.95,[3],Tlatocaxtiliztli tlen axquipiya itecoh (Absolute Nouns)
+FCN-CP-00020,Construction 66,cōmalli comalmeh pans,A1,3,1,1,0.95,[3],(ø)cōmalli / comalmeh “pans”
+FCN-CP-00026,Construction 65,mācēhualmeh indigenous person,A1,3,1,1,0.95,[3],(ø)mācēhualmeh “indigenous person”
+FCN-CP-00028,Construction 60,ni noun base tl tli li n,A1,3,1,1,0.7357,[3],ni – (noun base) – tl /tli /li /n /ø
+FCN-CP-00030,Construction 62,noun base tl tli li n,A1,3,1,1,0.7833,[3],ø – (noun base) – tl /tli /li /n /ø
+FCN-CP-00031,Construction 67,tepōztli tepōzmeh machines metals,A1,3,1,1,0.95,[3],"(ø)tepōztli / tepōzmeh “machines, metals”"
+FCN-CP-00032,Construction 61,ti noun base tl tli li n,A1,3,1,1,0.7357,[3],ti – (noun base) – tl /tli /li /n /ø
+FCN-CP-00040,Construction 100,Eltoc chiucnahui āmoxtli,A1,4,1,1,0.95,[4],Eltoc chiucnahui āmoxtli.
+FCN-CP-00041,Construction 93,Eltoc mācuilli cuaxilotl huan īīxnēzca cōztic,A1,4,1,1,0.95,[4],Eltoc mācuilli cuaxilotl huan īīxnēzca cōztic.
+FCN-CP-00042,Construction 90,Eltoc ēyi tēcciztli cē īīxnēzca tzictic,A1,4,1,1,0.95,[4],"Eltoc ēyi tēcciztli, cē īīxnēzca tzictic"
+FCN-CP-00043,Construction 104,Huēyi tlapōhualiztli Big numbers,A2,4,1,1,0.95,[4],Huēyi tlapōhualiztli (Big numbers)
+FCN-CP-00044,Construction 102,Niquitta mahtlactli ezferaz,A2,4,1,1,0.95,[4],Niquitta mahtlactli ezferaz.
+FCN-CP-00045,Construction 95,Oncah chicuacē alaxox huan īīxnēzca āchīlcōz,A1,4,1,1,0.95,[4],Oncah chicuacē alaxox huan īīxnēzca āchīlcōz.
+FCN-CP-00046,Construction 98,Oncah chicuēyi chalchocotl huan īīxnēzca cōztic,A1,4,1,1,0.95,[4],Oncah chicuēyi chalchocotl huan īīxnēzca cōztic.
+FCN-CP-00047,Construction 88,Oncah ōme chichiquilli huan īixnēzca xoxoctīc,A1,4,1,1,0.95,[4],Oncah ōme chichiquilli huan īixnēzca xoxoctīc.
+FCN-CP-00048,Construction 91,Quezqui ahāhuilli eltoc,A1,4,1,1,0.95,[4],¿Quezqui ahāhuilli eltoc?
+FCN-CP-00049,Construction 94,Quezqui alaxox oncah huan tlen īīxnezca,A1,4,1,1,0.95,[4],¿Quezqui alaxox oncah huan tlen īīxnezca?
+FCN-CP-00050,Construction 87,Quezqui chichiquilli oncah huan tlen īīxnēzca,A1,4,1,1,0.95,[4],¿Quezqui chichiquilli oncah huan tlen īīxnēzca?
+FCN-CP-00051,Construction 101,Quezqui ezferaz tiquitta,A2,4,1,1,0.95,[4],¿Quezqui ezferaz tiquitta?
+FCN-CP-00052,Construction 86,Quezqui tlaxcalli etloc pan cōmalli,A1,4,1,1,0.95,[4],¿Quezqui tlaxcalli etloc pan cōmalli?
+FCN-CP-00053,Construction 89,Quezqui tēcciztli eltoc huan tlen īīxnēzca,A1,4,1,1,0.95,[4],¿Quezqui tēcciztli eltoc huan tlen īīxnēzca?
+FCN-CP-00054,Construction 80,Quēn moillia īxnēzcayōtl How to say the names of basic colors,A1,4,1,1,0.7227,[4],Quēn moillia īxnēzcayōtl (How to say the names of basic colors)
+FCN-CP-00055,Construction 97,Quēzqui chalchocotl oncah huan tlen īīxnēzca,A1,4,1,1,0.95,[4],¿Quēzqui chalchocotl oncah huan tlen īīxnēzca?
+FCN-CP-00056,Construction 92,Quēzqui cuaxilotl eltoc huan tlen īīxnezca,A1,4,1,1,0.95,[4],¿Quēzqui cuaxilotl eltoc huan tlen īīxnezca?
+FCN-CP-00057,Construction 96,Quēzqui manzanaz eltoc pan cuamezah,A1,4,1,1,0.95,[4],¿Quēzqui manzanaz eltoc pan cuamezah?
+FCN-CP-00058,Construction 107,Quēzqui xīhuitl ticpiya How old are you Quēzqui tlicolli nicpiya How many,A2,4,1,1,0.7756,[4],¿Quēzqui xīhuitl ticpiya? How old are you? ¿Quēzqui tlicolli nicpiya? How many pencils/pens do I have? ¿Tlen īīxnēzca tlicolli? What color is the pencil/pen? ¿Quēzqui xōchitl quipiya? How many flowers does she have? ¿Tlen īīxnēzca xōchitl? What color is the flower?
+FCN-CP-00059,Construction 99,Quēzqui āmoxtli eltoc pan īxcopincayōtl,A1,4,1,1,0.95,[4],¿Quēzqui āmoxtli eltoc pan īxcopincayōtl?
+FCN-CP-00060,Construction 81,Tlahtlaniliztli ica ixnezcayotl Questions with the colors,A1,4,1,1,0.8786,[4],Tlahtlaniliztli ica ixnezcayotl (Questions with the colors)
+FCN-CP-00061,Construction 85,Tlahtlaniliztli īcā tlapōhualiztli Questions with the numbers,A1,4,1,1,0.95,[4],Tlahtlaniliztli īcā tlapōhualiztli (Questions with the numbers)
+FCN-CP-00062,Construction 103,Tlapōhualiztli mahtlactli huan cē cēmpohualli The names of the numbers -,A2,4,1,1,0.95,[4],"Tlapōhualiztli: mahtlactli huan cē — cēmpohualli (The names of the numbers, 11-20)"
+FCN-CP-00063,Construction 84,Tlapōhualiztli ītōcah yonce mahtlactli The numbers -,A1,4,1,1,0.95,[4],"Tlapōhualiztli ītōcah, yonce — mahtlactli (The numbers, 0-10)"
+FCN-CP-00064,Construction 82,Tlen īxnēzcayōtl ticāmati,A1,4,1,1,0.95,[4],¿Tlen īxnēzcayōtl ticāmati?
+FCN-CP-00065,Construction 83,Tlen īīxnēzca mopantalon,A1,4,1,1,0.95,[4],¿Tlen īīxnēzca mopantalon?
+FCN-CP-00066,Construction 106,Xicnanquili tlahtlaniliztli Respond to these questions,A2,4,1,1,0.95,[4],Xicnanquili tlahtlaniliztli (Respond to these questions)
+FCN-CP-00067,Construction 105,ōmpōhualli fourty x,A2,4,1,1,0.95,[4],ōmpōhualli “fourty” (2 x 20)
+FCN-CP-00068,Construction 111,A Na nocca nimomachtihquetl Nimomachtia tlapōhualiztli,A2,5,1,1,0.95,[5],A: Na nocca nimomachtihquetl. Nimomachtia tlapōhualiztli.
+FCN-CP-00069,Construction 109,A Piyali Catalina tlen titequiti ta,A2,5,1,1,0.7833,[5],"A: Piyali Catalina, ¿tlen titequiti ta?"
+FCN-CP-00070,Construction 112,B Cualtitoc nocca mītzpolohua,A2,5,1,1,0.95,[5],"B: Cualtitoc, nocca mītzpolohua."
+FCN-CP-00071,Construction 113,B I teach Nahuatl And you,A2,5,1,1,0.7833,[5],B: I teach Nahuatl. And you?
+FCN-CP-00072,Construction 110,B Nitlamachtia nāhuatl Huan ta,A2,5,1,1,0.95,[5],B: Nitlamachtia nāhuatl. ¿Huan ta?
+FCN-CP-00073,Construction 127,Here we present other titles related to professions,A2,5,1,1,0.575,[5],Here we present other titles related to professions:
+FCN-CP-00087,Construction 128,Tlamachtihquetl teacher tlamachtia to teach tlamachtianih teachers,A2,5,1,1,0.95,[5],Tlamachtihquetl (teacher) → tlamachtia (to teach) → tlamachtianih (teachers)
+FCN-CP-00088,Construction 108,Xōchipitzāhuatl Instrumental con El Tr o Colatl n del T o Laco,A2,5,1,1,0.6375,[5],Xōchipitzāhuatl Instrumental con El Trío Colatlán del Tío Laco CC BY Annette Fradera
+FCN-CP-00074,Construction 119,inmomachtianih you all are students,A2,5,1,1,0.65,[5],inmomachtianih “you all are students”
+FCN-CP-00075,Construction 125,intlachpānanih you all are street sweepers,A2,5,1,1,0.7833,[5],intlachpānanih “you all are street sweepers”
+FCN-CP-00076,Construction 120,momachtianih they are students,A2,5,1,1,0.7,[5],momachtianih “they are students”
+FCN-CP-00077,Construction 117,momachtihquetl he she is a student,A2,5,1,1,0.6167,[5],momachtihquetl “he/she is a student”
+FCN-CP-00078,Construction 115,nimomachtihquetl I am a student,A2,5,1,1,0.65,[5],nimomachtihquetl “I am a student”
+FCN-CP-00079,Construction 121,nitlachpānquetl I am a street sweeper,A2,5,1,1,0.7833,[5],nitlachpānquetl “I am a street sweeper”
+FCN-CP-00080,Construction 118,timomachtianih we are students,A2,5,1,1,0.7,[5],timomachtianih “we are students”
+FCN-CP-00081,Construction 116,timomachtihquetl you are a student,A2,5,1,1,0.65,[5],timomachtihquetl “you are a student”
+FCN-CP-00082,Construction 124,titlachpānanih we are street sweepers,A2,5,1,1,0.85,[5],titlachpānanih “we are street sweepers”
+FCN-CP-00083,Construction 122,titlachpānquetl you are a street sweeper,A2,5,1,1,0.7833,[5],titlachpānquetl “you are a street sweeper”
+FCN-CP-00084,Construction 114,tlachpana to sweep tlachpānquetl one who sweeps tlachpanānih those who sweep,A2,5,1,1,0.8136,[5],tlachpana (to sweep) → tlachpānquetl (one who sweeps) → tlachpanānih (those who sweep)
+FCN-CP-00085,Construction 126,tlachpānanih they are street sweepers,A2,5,1,1,0.85,[5],tlachpānanih “they are street sweepers”
+FCN-CP-00086,Construction 123,tlachpānquetl he she is a street sweeper,A2,5,1,1,0.7357,[5],tlachpānquetl “he/she is a street sweeper”
+FCN-CP-00089,Construction 136,Māltia to bathe shower,A2,6,1,1,0.95,[6],"/Māltia/ “to bathe, shower”"
+FCN-CP-00090,Construction 135,Na nicōchi pan mahtlactli huan ōme cāhuitl,A2,6,1,1,0.95,[6],Na nicōchi pan mahtlactli huan ōme cāhuitl.”
+FCN-CP-00091,Construction 133,Nimomachtia nāhuatl I study Nahuatl,A2,6,1,1,0.95,[6],Nimomachtia nāhuatl. “I study Nahuatl.”
+FCN-CP-00092,Construction 132,Nitequiti caltlamachtiloyan I work at school,A2,6,1,1,0.95,[6],Nitequiti caltlamachtiloyan. “I work at school.”
+FCN-CP-00093,Construction 134,Nitlamachtia nāhuatl īcā yāhuatzinco I teach Nahuatl in the morning,A2,6,1,1,0.95,[6],Nitlamachtia nāhuatl īcā yāhuatzinco. “I teach Nahuatl in the morning.”
+FCN-CP-00094,Construction 131,Niēhua Mexco I am from Mexico,A2,6,1,1,0.7833,[6],Niēhua Mexco. “I am from Mexico.”
+FCN-CP-00095,Construction 129,Tlamānēxtilli ahāhuiltiliztli tlen tlachīhualiztli huan cē tlahtolpāmitl Example with the conjugation of,A2,6,1,1,0.95,[6],Tlamānēxtilli ahāhuiltiliztli tlen tlachīhualiztli huan cē tlahtolpāmitl (Example with the conjugation of verbs and a sentence)
+FCN-CP-00096,Construction 130,ēhua to be from come from,A2,6,1,1,0.7833,[6],"/ēhua/ “to be from, come from”"
+FCN-CP-00097,Construction 143,Answer the following questions,A2,7,1,1,0.7,[7],Answer the following questions:
+FCN-CP-00098,Construction 148,Answer the following questions,A2,7,1,1,0.7,[7],Answer the following questions:
+FCN-CP-00099,Construction 154,Answer the following questions,A2,7,1,1,0.7,[7],Answer the following questions:
+FCN-CP-00100,Construction 159,Choose the correct answer,A2,7,1,1,0.7,[7],Choose the correct answer:
+FCN-CP-00103,Construction 150,Maria chīlli huan,A2,7,1,1,0.95,[7],"Maria _________ chīlli, ____________ huan _______________."
+FCN-CP-00104,Construction 147,Maria tlahcōtona tlacualchīhua huanya inanān inanān quimāna etl huan Maria quitehtequi chīlli,A2,7,1,1,0.95,[7],"Maria tlahcōtona tlacualchīhua huanya inanān, inanān quimāna etl huan Maria quitehtequi chīlli, colantoh huan cebollah. Quēmman iuccicca etl inanān quitzoyōnia, huan Maria pēhua tlatehtēca. Teipan tlacuāh."
+FCN-CP-00105,Construction 137,Mercado de Chicontepec CC BY COERLL Nahuatl,A2,7,1,1,0.7357,[7],Mercado de Chicontepec CC BY COERLL Nahuatl
+FCN-CP-00107,Construction 158,Pan tlayōhua niccuā cē pantzin huan nicōni cafen teipan nicchīhua chāntequitl huan,A2,7,1,1,0.95,[7],"Pan tlayōhua niccuā cē pantzin huan nicōni cafen, teipan nicchīhua chāntequitl huan quēmman niman nitlami nouhquiya nitlahtzoma cē quēntzin. Quēmman nicochihza niquitta tlamāhuizolli."
+FCN-CP-00108,Construction 153,Ram n quēmman itztoc mīllah cemilhuitl huan quēmman quinequi mocuapaz īchān zan,A2,7,1,1,0.95,[7],Ramón quēmman itztoc mīllah cemilhuitl huan quēmman quinequi mocuapaz īchān zan quiitta ītōnal īcā tōnatiuh cānin eltoc huan moilliz eltoc nahui cāhuitl tiotlac. Inihhuantin axcanah mocahcayāhuah. Huan quēmman ax quīza tōnatiuh nouhquiya inihhuantin quinehnehuiah zan iuhquinon.
+FCN-CP-00109,Construction 149,Tlahcotōna Maria huanya,A2,7,1,1,0.95,[7],Tlahcotōna _____________Maria huanya __________.
+FCN-CP-00110,Construction 141,Tlamānēxtilli Ce Example One,A2,7,1,1,0.95,[7],Tlamānēxtilli Ce (Example One)
+FCN-CP-00112,Construction 157,Tlamānēxtilli Nahui Example Four,A2,7,1,1,0.95,[7],Tlamānēxtilli Nahui (Example Four)
+FCN-CP-00111,Construction 146,Tlamānēxtilli me Example Two,A2,7,1,1,0.95,[7],Tlamānēxtilli Ōme (Example Two)
+FCN-CP-00113,Construction 152,Tlamānēxtilli yi Example Three,A2,7,1,1,0.95,[7],Tlamānēxtilli Ēyi (Example Three)
+FCN-CP-00116,Construction 144,Tlen cāhuitl mēhua Juana,A2,7,1,1,0.95,[7],Tlen cāhuitl mēhua Juana?
+FCN-CP-00117,Construction 160,Tlen niccuā tlayōhua a tlaxcalli b pantzin huan chocolātl c pantzin huan,A2,7,1,1,0.95,[7],1. Tlen niccuā tlayōhua? a) tlaxcalli b) pantzin huan chocolātl c) pantzin huan cafen 2. Tlen nicchīhua teipan quēmman tlami niccuā pantzin huan cafen? a) nitlahtzoma b) chāntequitl c) tlamāhuizoa 3. Tlen nicchīhua quēmman nicochihza? a) tlahtzoma b) tlamāhuizoa c) tlacuā
+FCN-CP-00118,Construction 145,Tlen quichīhua Juana achtohui,A2,7,1,1,0.95,[7],Tlen quichīhua Juana achtohui?
+FCN-CP-00119,Construction 155,Tlen quichīhua Ram n para quimatiz tlen cāhuitl,A2,7,1,1,0.95,[7],Tlen quichīhua Ramón para quimatiz tlen cāhuitl?
+FCN-CP-00120,Construction 156,Tlen quiitta Ram n quēmman quinequi mocuapaz īchān,A2,7,1,1,0.95,[7],Tlen quiitta Ramón quēmman quinequi mocuapaz īchān?
+FCN-CP-00101,Construction 151,cquiya quitzoyōnia etl,A2,7,1,1,0.95,[7],Ācquiya quitzoyōnia etl? _________________.
+FCN-CP-00102,Construction 142,cā yāhuatzinco Juana mēhua pan chicuacē cāhuitl tlen achtohui quichīhua mīxxamia huan,A2,7,1,1,0.95,[7],"Īcā yāhuatzinco Juana mēhua pan chicuacē cāhuitl tlen achtohui quichīhua mīxxamia huan motlancochpahpāca. Teipan quimāna īcafen noque molōni, ya mopatla, quēmman eltocca īcafen quiōni."
+FCN-CP-00106,Construction 140,nelyāhuatzinco very early,A2,7,1,1,0.95,[7],nelyāhuatzinco “very early”
+FCN-CP-00114,Construction 139,tlapoyauhcan it is evening,A2,7,1,1,0.7,[7],tlapoyauhcan “it is evening”
+FCN-CP-00115,Construction 138,tlayo huaya it is almost night,A2,7,1,1,0.7833,[7],tlayo9huaya “it is almost night”
+FCN-CP-00121,Construction 176,Answer the following questions,A2,8,1,1,0.7,[8],Answer the following questions
+FCN-CP-00122,Construction 174,Felipe yohui mīllah huanya īchichi,A2,8,1,1,0.95,[8],Felipe yohui mīllah huanya īchichi.
+FCN-CP-00126,Construction 172,Mar a quicocōa īicxi pampa momāquilih,A2,8,1,1,0.95,[8],María quicocōa īicxi pampa momāquilih.
+FCN-CP-00127,Construction 171,Mi children go to school everyday,A2,8,1,1,0.7833,[8],Mi children go to school everyday.
+FCN-CP-00129,Construction 161,Motocaxtilli tlen quipoz iteco Possessive pronouns,A2,8,1,1,0.7833,[8],Motocaxtilli tlen quipoz iteco (Possessive pronouns)
+FCN-CP-00131,Construction 170,Noconēhuan mohmōztlah yohuih caltlamachtiloyan,A2,8,1,1,0.95,[8],Noconēhuan mohmōztlah yohuih caltlamachtiloyan.
+FCN-CP-00132,Construction 173,Nopitzohuan quicuāh miac cīntli,A2,8,1,1,0.95,[8],Nopitzohuan quicuāh miac cīntli.
+FCN-CP-00133,Construction 178,Quēniuhqui ītōcah tlamantli tlen eltoc tlatlahco moihti,A2,8,1,1,0.95,[8],2. Quēniuhqui ītōcah tlamantli tlen eltoc tlatlahco moihti?
+FCN-CP-00134,Construction 177,Quēniuhqui ītōcah tlen īcā tinehnemi,A2,8,1,1,0.95,[8],1. Quēniuhqui ītōcah tlen īcā tinehnemi?
+FCN-CP-00135,Construction 180,Quēniuhqui ītōcah totlācayo tlen īcā ticcui cē tlamantli,A2,8,1,1,0.95,[8],4. Quēniuhqui ītōcah totlācayo tlen īcā ticcui cē tlamantli?
+FCN-CP-00136,Construction 169,Tlamānēxtilli īcā cequin pāmeh Examples with sentences,A2,8,1,1,0.95,[8],Tlamānēxtilli īcā cequin pāmeh (Examples with sentences)
+FCN-CP-00137,Construction 168,Tlamānēxtilli īcā tlahtolli Example with words,A2,8,1,1,0.95,[8],Tlamānēxtilli īcā tlahtolli (Example with words)
+FCN-CP-00138,Construction 181,Tlen itōcah tlen īcā titlacuāh,A2,8,1,1,0.95,[8],5. Tlen itōcah tlen īcā titlacuāh?
+FCN-CP-00139,Construction 175,Tlen ītōcah achi tlen totlācayo What are the names of the parts,A2,8,1,1,0.85,[8],¿Tlen ītōcah achi tlen totlācayo? (What are the names of the parts of our body?)
+FCN-CP-00140,Construction 179,Tlen ītōcah tlen eltoc īixco toquechcuayo,A2,8,1,1,0.95,[8],3. Tlen ītōcah tlen eltoc īixco toquechcuayo?
+FCN-CP-00123,Construction 164,i substantive base uh hui,A2,8,1,1,0.85,[8],i – (substantive base) – ø /uh /hui
+FCN-CP-00124,Construction 167,inin substantive base hua,A2,8,1,1,0.7,[8],inin – (substantive base) – hua
+FCN-CP-00125,Construction 166,inmo substantive base hua,A2,8,1,1,0.7,[8],inmo – (substantive base) – hua
+FCN-CP-00128,Construction 163,mo substantive base uh hui,A2,8,1,1,0.85,[8],mo – (substantive base) – ø /uh /hui
+FCN-CP-00130,Construction 162,no substantive base uh hui,A2,8,1,1,0.85,[8],no – (substantive base) – ø /uh /hui
+FCN-CP-00141,Construction 165,to substantive base hua,A2,8,1,1,0.7,[8],to – (substantive base) – hua
+FCN-CP-00142,Construction 201,Answer the following questions,A2,9,1,1,0.7,[9],Answer the following questions
+FCN-CP-00143,Construction 208,Find the following words in this word search,A2,9,1,1,0.575,[9],Find the following words in this word search.
+FCN-CP-00156,Construction 207,Quezqui mochochohuan ticpiya,A2,9,1,1,0.95,[9],Quezqui mochochohuan ticpiya?
+FCN-CP-00157,Construction 206,Quezqui momimihuan ticpiya,A2,9,1,1,0.95,[9],Quezqui momimihuan ticpiya?
+FCN-CP-00158,Construction 205,Quezqui mopipihuan ticpiya,A2,9,1,1,0.95,[9],Quezqui mopipihuan ticpiya?
+FCN-CP-00159,Construction 203,Quēniuhqui inintōcah motatahhuan,A2,9,1,1,0.95,[9],Quēniuhqui inintōcah motatahhuan?
+FCN-CP-00160,Construction 202,Quēniuhqui inintōcah mototatahhuan,A2,9,1,1,0.95,[9],Quēniuhqui inintōcah mototatahhuan?
+FCN-CP-00161,Construction 204,Quēniuhquin inintōcah moicnihuan huan quezqui xīhuitl quipiyah,A2,9,1,1,0.95,[9],Quēniuhquin inintōcah moicnihuan huan quezqui xīhuitl quipiyah?
+FCN-CP-00162,Construction 182,Tlamānēxtilli īcā cequin motōcaxtilli tlen quipōz īteco Examples with some possessive pronouns,A2,9,1,1,0.95,[9],Tlamānēxtilli īcā cequin motōcaxtilli tlen quipōz īteco (Examples with some possessive pronouns)
+FCN-CP-00144,Construction 188,ininchochohuan their younger siblings,A2,9,1,1,0.7,[9],ininchochohuan “their younger siblings”
+FCN-CP-00145,Construction 194,ininicnihuan their siblings,A2,9,1,1,0.7833,[9],ininicnihuan “their siblings”
+FCN-CP-00146,Construction 199,ininmachicnihuan their cousins,A2,9,1,1,0.7833,[9],ininmachicnihuan “their cousins”
+FCN-CP-00147,Construction 190,inintlayihuan their uncles,A2,9,1,1,0.7833,[9],inintlayihuan “their uncles”
+FCN-CP-00148,Construction 187,inmochochohuan your plural younger siblings,A2,9,1,1,0.65,[9],inmochochohuan “your (plural) younger siblings”
+FCN-CP-00149,Construction 193,inmoicnihuan you all’s siblings,A2,9,1,1,0.7,[9],inmoicnihuan “you all’s siblings”
+FCN-CP-00150,Construction 198,inmomachicnihuan your plural cousins,A2,9,1,1,0.7,[9],inmomachicnihuan “your (plural) cousins”
+FCN-CP-00151,Construction 189,inmotlayihuan your plural uncles,A2,9,1,1,0.7,[9],inmotlayihuan “your (plural) uncles”
+FCN-CP-00152,Construction 184,mochocho your younger sibling,A2,9,1,1,0.7,[9],mochocho “your younger sibling”
+FCN-CP-00153,Construction 195,momachicniuh your cousin,A2,9,1,1,0.7833,[9],momachicniuh “your cousin”
+FCN-CP-00154,Construction 183,nochocho my younger sibling,A2,9,1,1,0.7,[9],nochocho “my younger sibling”
+FCN-CP-00155,Construction 200,nochocho my younger sibling,A2,9,1,1,0.7,[9],nochocho “my younger sibling”
+FCN-CP-00163,Construction 186,tochochohuan our younger siblings,A2,9,1,1,0.7,[9],tochochohuan “our younger siblings”
+FCN-CP-00164,Construction 192,toicnihuan our siblings,A2,9,1,1,0.7833,[9],toicnihuan “our siblings”
+FCN-CP-00165,Construction 197,tomachicnihuan our cousins,A2,9,1,1,0.7833,[9],tomachicnihuan “our cousins”
+FCN-CP-00166,Construction 185,īchocho his her younger sibling,A2,9,1,1,0.85,[9],īchocho “his/her younger sibling”
+FCN-CP-00167,Construction 191,īicniuh his her sibling,A2,9,1,1,0.95,[9],īicniuh “his/her sibling”
+FCN-CP-00168,Construction 196,īmachicniuh his her cousin,A2,9,1,1,0.95,[9],īmachicniuh “his/her cousin”
+FCN-CP-00169,Construction 210,Alaxtic huan huehueyac Straight and long,A2,10,1,1,0.7833,[10],Alaxtic huan huehueyac (Straight and long)
+FCN-CP-00170,Construction 229,Delia īīxnēzca īxtiyol xoxoctic Xōchitl īīxnēzca īxtiyōl cafentic Lola īīxnēzca iixtiyol tzictic,B1,10,1,1,0.95,[10],Delia īīxnēzca īxtiyol xoxoctic Xōchitl īīxnēzca īxtiyōl cafentic Lola īīxnēzca iixtiyol tzictic Noīxnēzca noīxtiyōl yayahuīc
+FCN-CP-00171,Construction 233,Delia īīxtiyōl,B1,10,1,1,0.95,[10],4. Delia īīxtiyōl _________ __________.
+FCN-CP-00174,Construction 231,Lola īīxnēzca,B1,10,1,1,0.95,[10],2. Lola ___________ īīxnēzca __________.
+FCN-CP-00175,Construction 217,Mar a Quēniuhqui motlachiyaliz ta,A2,10,1,1,0.95,[10],María ¿Quēniuhqui motlachiyaliz ta?
+FCN-CP-00176,Construction 218,Na nel nihuahcapantic huan achi nitomāhuac,A2,10,1,1,0.95,[10],Na nel nihuahcapantic huan achi nitomāhuac.
+FCN-CP-00177,Construction 212,Na niechcapantzin I am short,A2,10,1,1,0.65,[10],Na niechcapantzin “I am short”
+FCN-CP-00178,Construction 213,Na nihuahcapantic I am tall,A2,10,1,1,0.65,[10],Na nihuahcapantic “I am tall”
+FCN-CP-00179,Construction 215,Na nihuahcapantic I am tall,A2,10,1,1,0.65,[10],Na nihuahcapantic “I am tall”
+FCN-CP-00180,Construction 214,Na nitomāhuac I am thick fat,A2,10,1,1,0.7833,[10],Na nitomāhuac “I am thick/fat”
+FCN-CP-00181,Construction 230,Na noīxtiyōl īīxnēzca xoxoctic,B1,10,1,1,0.95,[10],1. Na noīxtiyōl īīxnēzca xoxoctic.
+FCN-CP-00182,Construction 220,Quēniuhqui ītlachiyaliz ya,A2,10,1,1,0.95,[10],¿Quēniuhqui ītlachiyaliz ya?
+FCN-CP-00183,Construction 209,Sones de Carnaval CC BY Chicometepetl,A2,10,1,1,0.6167,[10],Sones de Carnaval CC BY Chicometepetl
+FCN-CP-00184,Construction 216,Tequitl ce Xiquiihtoa cehcen īīxnēzca Activity One Say the appearance of each,A2,10,1,1,0.8346,[10],Tequitl ce: Xiquiihtoa cehcen īīxnēzca (Activity One: Say the appearance of each one)
+FCN-CP-00185,Construction 228,Tequitl ēyi Xiquiihtoa cehcen īīxnēzca īxtiyōl Activity Three Say the eye color,B1,10,1,1,0.9167,[10],Tequitl ēyi: Xiquiihtoa cehcen īīxnēzca īxtiyōl (Activity Three: Say the eye color of each one)
+FCN-CP-00186,Construction 221,Tequitl ōme Xiquiihtoa cehcen īīxnēzca i tzoncal Activity Two Say the hair,B1,10,1,1,0.8875,[10],Tequitl ōme: Xiquiihtoa cehcen īīxnēzca i7tzoncal (Activity Two: Say the hair color of each one)
+FCN-CP-00187,Construction 211,Tlamānēxtilli tlen yancuīc tlahtolli huan pāmeh Examples of new words and sentences,A2,10,1,1,0.95,[10],Tlamānēxtilli tlen yancuīc tlahtolli huan pāmeh (Examples of new words and sentences)
+FCN-CP-00188,Construction 227,Tlen īīxnēzca ītzoncal Delia,B1,10,1,1,0.95,[10],¿Tlen īīxnēzca ītzoncal Delia?
+FCN-CP-00189,Construction 225,Tlen īīxnēzca ītzoncal Lola,B1,10,1,1,0.95,[10],¿Tlen īīxnēzca ītzoncal Lola?
+FCN-CP-00190,Construction 226,Tlen īīxnēzca ītzoncal Mar a,B1,10,1,1,0.95,[10],¿Tlen īīxnēzca ītzoncal María?
+FCN-CP-00191,Construction 223,Tlen īīxnēzca ītzoncal Xōchitl What color is the hair of Xochitl,B1,10,1,1,0.95,[10],¿Tlen īīxnēzca ītzoncal Xōchitl? (¿What color is the hair of Xochitl?)
+FCN-CP-00193,Construction 232,Xochitl īīxnēzca,B1,10,1,1,0.95,[10],3. Xochitl ___________ īīxnēzca ___________.
+FCN-CP-00194,Construction 219,Xōchitl Quēniuhqui motlachiyaliz ta,A2,10,1,1,0.95,[10],"Xōchitl, ¿Quēniuhqui motlachiyaliz ta?"
+FCN-CP-00195,Construction 224,Xōchitl īīxnēzca ītzoncal yayahuīc Xochitl’s hair is black,B1,10,1,1,0.95,[10],—Xōchitl īīxnēzca ītzoncal yayahuīc. (Xochitl’s hair is black)
+FCN-CP-00172,Construction 236,echcapantzin short of stature,B1,10,1,1,0.7,[10],echcapantzin “short” (of stature)
+FCN-CP-00173,Construction 235,huahcapantic tall of stature,B1,10,1,1,0.7,[10],huahcapantic “tall” (of stature)
+FCN-CP-00192,Construction 234,totlachiyaliz our appearance,B1,10,1,1,0.7833,[10],totlachiyaliz “our appearance”
+FCN-CP-00196,Construction 222,yayahuīc chocoxtic cafentic chīchīltic Xōchitl Lola Mar a Delia,B1,10,1,1,0.95,[10],yayahuīc chocoxtic cafentic chīchīltic Xōchitl Lola María Delia
+FCN-CP-00197,Construction 256,A Niyōhua Cihuātl īcā tlācatl,B1,11,1,1,0.95,[11],A: Niyōhua (Cihuātl īcā tlācatl)
+FCN-CP-00198,Construction 242,A Pampa nicnequi niquittaz tlan hueliz tinēchpalehuia,B1,11,1,1,0.95,[11],A: Pampa nicnequi niquittaz tlan hueliz tinēchpalehuia.
+FCN-CP-00199,Construction 239,A Quēna niquittati noichpōcauh,B1,11,1,1,0.95,[11],"A: Quēna, niquittati noichpōcauh."
+FCN-CP-00200,Construction 245,A Then we will see each other later,B1,11,1,1,0.575,[11],A: Then we will see each other later.
+FCN-CP-00201,Construction 240,A Tlen ticchīhuaz mōztla,B1,11,1,1,0.95,[11],A: ¿Tlen ticchīhuaz mōztla?
+FCN-CP-00202,Construction 238,B Aah they greet each other tipaxaloti,B1,11,1,1,0.5929,[11],"B: Aah (they greet each other), ¿tipaxaloti?"
+FCN-CP-00203,Construction 244,B Axcanah nihueliz mōztla,B1,11,1,1,0.95,[11],B: Axcanah nihueliz mōztla.
+FCN-CP-00204,Construction 243,B Huan tlen ticchīhuaz,B1,11,1,1,0.95,[11],B: ¿Huan tlen ticchīhuaz?
+FCN-CP-00205,Construction 241,B Mōztla nipixcaz quēnque,B1,11,1,1,0.95,[11],"B: Mōztla nipixcaz, ¿quēnque?"
+FCN-CP-00206,Construction 246,B We will see each other,B1,11,1,1,0.6167,[11],B: We will see each other.
+FCN-CP-00207,Construction 237,In this lesson we will learn Nahuatl greetings People in Nahua towns,B1,11,1,1,0.575,[11],"In this lesson we will learn Nahuatl greetings. People in Nahua towns of Chicontepec, greet each other by hand and they do not look each other in the eyes, especially between a man and a woman. In general, adults do not say each other’s firsts names when greeting."
+FCN-CP-00208,Construction 254,Mācēhualli cihuātl tlanānquilia quihtoa A woman responds by saying,B1,11,1,1,0.95,[11],Mācēhualli cihuātl tlanānquilia quihtoa (A woman responds by saying)
+FCN-CP-00209,Construction 253,Mācēhualli tlen tēnāhuatihtēhua quihtoa The person saying farewell says,B1,11,1,1,0.95,[11],Mācēhualli tlen tēnāhuatihtēhua quihtoa (The person saying farewell says)
+FCN-CP-00210,Construction 247,Quēmman motlahpaloah moilliah When you greet you say,B1,11,1,1,0.825,[11],Quēmman motlahpaloah moilliah (When you greet you say)
+FCN-CP-00211,Construction 252,Quēmman mācēhualli zan quināhuatihtēhua cē ācahya īnechca quiillia When you say farewell,B1,11,1,1,0.8711,[11],"Quēmman mācēhualli zan quināhuatihtēhua cē ācahya īnechca quiillia (When you say farewell to someone near to you, you say)"
+FCN-CP-00212,Construction 251,Timociahcāhua Quēna Nimociahcahua,B1,11,1,1,0.95,[11],¿Timociahcāhua? Quēna. Nimociahcahua.
+FCN-CP-00213,Construction 250,Titequiti Quēna nitequiti,B1,11,1,1,0.95,[11],"¿Titequiti? Quēna, nitequiti."
+FCN-CP-00214,Construction 255,Titlanānquilia cequin tlahtlanliztli Respond to the following greetings,B1,11,1,1,0.95,[11],Titlanānquilia cequin tlahtlanliztli (Respond to the following greetings)
+FCN-CP-00215,Construction 249,Tlen inquichīhuah Titlahtzomah,B1,11,1,1,0.95,[11],¿Tlen inquichīhuah? Titlahtzomah.
+FCN-CP-00216,Construction 248,Tlen ticchīhua Nitlahtzoma,B1,11,1,1,0.95,[11],¿Tlen ticchīhua? Nitlahtzoma.
+FCN-CP-00217,Construction 263,Intequitizceh You plural will work,B1,12,1,1,0.65,[12],Intequitizceh “You (plural) will work”
+FCN-CP-00218,Construction 257,Ixcacuatitlan Veracruz CC BY COERLL Nahuatl,B1,12,1,1,0.7833,[12],Ixcacuatitlan Veracruz CC BY COERLL Nahuatl
+FCN-CP-00219,Construction 269,Juan īchān māltizceh tlayōhua,B1,12,1,1,0.95,[12],Juan īchān māltizceh tlayōhua.
+FCN-CP-00220,Construction 268,Mar a huanya ichocho tlachpanāzceh mōztla,B1,12,1,1,0.95,[12],María huanya ichocho tlachpanāzceh mōztla.
+FCN-CP-00221,Construction 271,Mario mihtōtiz huanya īyōltzin pan tlaixpiyalli,B1,12,1,1,0.95,[12],Mario mihtōtiz huanya īyōltzin pan tlaixpiyalli.
+FCN-CP-00222,Construction 267,My brother will run in the school,B1,12,1,1,0.5929,[12],“My brother will run in the school.”
+FCN-CP-00223,Construction 273,Mōztla īcā yāhuatzinco nimēhuaz nitlacuāz huan nimopatlaz huanya nochocho Teipan tiyāzceh caltlamachtihcān,B1,12,1,1,0.95,[12],"Mōztla īcā yāhuatzinco nimēhuaz, nitlacuāz huan nimopatlaz huanya nochocho. Teipan tiyāzceh caltlamachtihcān. Ne caltlamachtihcān tinehnemizceh huan timotlalozceh. Teipan nochocho huan na timocuapazceh īcā tiotlac huan timāltizceh tochān."
+FCN-CP-00224,Construction 270,Nochocho huan na nochipa tinehnemizceh īcā tiotlac,B1,12,1,1,0.95,[12],Nochocho huan na nochipa tinehnemizceh īcā tiotlac.
+FCN-CP-00225,Construction 266,Nochocho motlaloz pan caltlamachtihcān,B1,12,1,1,0.95,[12],Nochocho motlaloz pan caltlamachtihcān.
+FCN-CP-00226,Construction 261,Tequitiz She he will work,B1,12,1,1,0.65,[12],Tequitiz “She/he will work”
+FCN-CP-00227,Construction 264,Tequitizceh They will work,B1,12,1,1,0.7,[12],Tequitizceh “They will work”
+FCN-CP-00228,Construction 272,Tequitl tlen momachtianih Exercise for the students,B1,12,1,1,0.8786,[12],Tequitl tlen momachtianih (Exercise for the students)
+FCN-CP-00229,Construction 260,Titequitiz You will work,B1,12,1,1,0.7,[12],Titequitiz “You will work”
+FCN-CP-00230,Construction 262,Titequitizceh We will work,B1,12,1,1,0.7,[12],Titequitizceh “We will work”
+FCN-CP-00231,Construction 258,Tlachīhualiztli tlen Panoz Verbs in future or indefinite tense,B1,12,1,1,0.7833,[12],Tlachīhualiztli tlen Panoz (Verbs in future or indefinite tense)
+FCN-CP-00232,Construction 259,Tlamanēxtilli tlen ahāhuitiliztli tlen tlachīhualiztli Example of conjugation of verbs,B1,12,1,1,0.95,[12],Tlamanēxtilli tlen ahāhuitiliztli tlen tlachīhualiztli (Example of conjugation of verbs)
+FCN-CP-00233,Construction 265,Tlamānēxtilli tlen tlahtolāamitl pan tlachīhualiztli tlen panoz Examples of sentences in future,B1,12,1,1,0.9115,[12],Tlamānēxtilli tlen tlahtolāamitl pan tlachīhualiztli tlen panoz (Examples of sentences in future tense)
+FCN-CP-00234,Construction 292,Conjugate the following verbs with each object marker above then write one,B1,13,1,1,0.5833,[13],"Conjugate the following verbs with each object marker above, then write one sentence for each."
+FCN-CP-00235,Construction 274,Cē tlapōhualiztli A story,B1,13,1,1,0.95,[13],Cē tlapōhualiztli (A story)
+FCN-CP-00236,Construction 281,In qui base verbal h,B1,13,1,1,0.65,[13],In – qui – (base verbal) – h
+FCN-CP-00237,Construction 291,Inihhuantin nēchmācah alaxox tlen quitequih cacalicān,B1,13,1,1,0.95,[13],Inihhuantin nēchmācah alaxox tlen quitequih cacalicān.
+FCN-CP-00238,Construction 289,Inmohuantin ahachica inquimāquiliah inmoconēuh,B1,13,1,1,0.95,[13],Inmohuantin ahachica inquimāquiliah inmoconēuh.
+FCN-CP-00239,Construction 276,Look at the examples of qui below,B1,13,1,1,0.5929,[13],Look at the examples of /qui/ below:
+FCN-CP-00240,Construction 284,Mitz base verbal,B1,13,1,1,0.7833,[13],ø – Mitz – (base verbal) – ø
+FCN-CP-00241,Construction 283,Nech base verbal,B1,13,1,1,0.7833,[13],ø – Nech – (base verbal) – ø
+FCN-CP-00242,Construction 277,Ni qui base verbal,B1,13,1,1,0.7,[13],Ni – qui – (base verbal) – ø
+FCN-CP-00243,Construction 275,Nonanān tēchmāca cafen yāhuatzinco ticōnih huanya notatah quēmman titlamih notatah quicui īmacheteh,B1,13,1,1,0.95,[13],"Nonanān tēchmāca cafen yāhuatzinco, ticōnih huanya notatah, quēmman titlamih notatah quicui īmacheteh, īmorral, ītzonecahuil, īāuh huan yohui mīllah. Notatah nehnemi cē cāhuitl huan ahci īmīllah huan pēhua tequiti cemilhuitl. Tohhuantin īconēhuan tiyohuih caltlamachtihcān, tlamachtianih tēchmachtiah caztiah tlahtolli. Nonanān mocāhua tochān pēhua tlachpāna, tlaxcalchīhua huan tlahcotōna yohui tēchtlamāca."
+FCN-CP-00244,Construction 279,Qui base verbal,B1,13,1,1,0.7833,[13],ø – Qui – (base verbal) – ø
+FCN-CP-00245,Construction 282,Qui base verbal h,B1,13,1,1,0.7,[13],ø – Qui – (base verbal) – h
+FCN-CP-00246,Construction 286,Quin base verbal,B1,13,1,1,0.7833,[13],ø – Quin – (base verbal) – ø
+FCN-CP-00247,Construction 285,Tech base verbal,B1,13,1,1,0.7833,[13],ø – Tech – (base verbal) – ø
+FCN-CP-00248,Construction 278,Ti qui base verbal,B1,13,1,1,0.7,[13],Ti – qui – (base verbal) – ø
+FCN-CP-00249,Construction 280,Ti qui base verbal h,B1,13,1,1,0.65,[13],Ti – qui – (base verbal) – h
+FCN-CP-00250,Construction 287,Tlamanēxtilli ahāhuiltiliztli tlen tlachi hualiztli huan cē tlahtolpāmitl Example with the conjugation,B1,13,1,1,0.95,[13],Tlamanēxtilli ahāhuiltiliztli tlen tlachi7hualiztli huan cē tlahtolpāmitl (Example with the conjugation of verbs and a sentence)
+FCN-CP-00251,Construction 288,Tohhuantin nochipa timītzittah quēmman tiyāuh caltlamachtihcān,B1,13,1,1,0.95,[13],Tohhuantin nochipa timītzittah quēmman tiyāuh caltlamachtihcān.
+FCN-CP-00252,Construction 290,You all hit your child all the time,B1,13,1,1,0.575,[13],“You all hit your child all the time.”
+FCN-CP-00255,Construction 295,Tlamanēxtilli tlen ahāhuiltiliztli tlen tlachīhualiztli tlen panoc Example of the conjugation of,B1,14,1,1,0.95,[14],Tlamanēxtilli tlen ahāhuiltiliztli tlen tlachīhualiztli tlen panoc (Example of the conjugation of verbs)
+FCN-CP-00253,Construction 294,in verbal base queh,B1,14,1,1,0.7,[14],in – (verbal base) – queh
+FCN-CP-00254,Construction 293,ti verbal base queh,B1,14,1,1,0.7,[14],ti – (verbal base) – queh
+FCN-CP-00256,Construction 312,Huelqueh They were able,B1,15,1,1,0.7,[15],Huelqueh “They were able”
+FCN-CP-00257,Construction 309,Huelqui She he was able,B1,15,1,1,0.65,[15],Huelqui “She/he was able”
+FCN-CP-00259,Construction 346,Innehnenqueh You plural walked,B1,15,1,1,0.7,[15],Innehnenqueh “You (plural) walked”
+FCN-CP-00260,Construction 327,Inquiahcoucqueh You plural preserved put away something,B1,15,1,1,0.5929,[15],"Inquiahcoucqueh “You (plural) preserved, put away” (something)"
+FCN-CP-00261,Construction 321,Inquicōuhqueh You plural bought something,B1,15,1,1,0.85,[15],Inquicōuhqueh “You (plural) bought” (something)
+FCN-CP-00262,Construction 311,Inquihuelqueh You plural were able,B1,15,1,1,0.65,[15],Inquihuelqueh “You (plural) were able”
+FCN-CP-00263,Construction 333,Inquipixqueh You plural had something,B1,15,1,1,0.65,[15],Inquipixqueh “You (plural) had” (something)
+FCN-CP-00264,Construction 338,Inquitecqueh You plural cut something,B1,15,1,1,0.85,[15],Inquitecqueh “You (plural) cut” (something)
+FCN-CP-00265,Construction 306,Inquitōcqueh You plural planted corn,B1,15,1,1,0.85,[15],Inquitōcqueh “You (plural) planted corn”
+FCN-CP-00266,Construction 301,Inquīzqueh You plural went out,B1,15,1,1,0.85,[15],Inquīzqueh “You (plural) went out”
+FCN-CP-00267,Construction 343,Intizqueh You plural ground corn,B1,15,1,1,0.65,[15],Intizqueh “You (plural) ground corn”
+FCN-CP-00268,Construction 345,Nehnenqui She he walked,B1,15,1,1,0.7,[15],Nehnenqui “She/he walked”
+FCN-CP-00269,Construction 315,Nicahcocui I preserve put away something,B1,15,1,1,0.6167,[15],"Nicahcocui “I preserve, put away” (something)"
+FCN-CP-00270,Construction 316,Nicahcoucqui I preserved put away something,B1,15,1,1,0.6167,[15],"Nicahcoucqui “I preserved, put away” (something)"
+FCN-CP-00271,Construction 323,Nicahcoucqui I preserved put away something,B1,15,1,1,0.6167,[15],"Nicahcoucqui “I preserved, put away” (something)"
+FCN-CP-00272,Construction 314,Niccōhua I buy something,B1,15,1,1,0.95,[15],Niccōhua “I buy” (something)
+FCN-CP-00273,Construction 302,Nictōcqui I planted cord,B1,15,1,1,0.95,[15],Nictōcqui “I planted cord”
+FCN-CP-00274,Construction 328,Quiahcoucqueh They preserved put away something,B1,15,1,1,0.6167,[15],"Quiahcoucqueh “They preserved, put away” (something)"
+FCN-CP-00275,Construction 325,Quiahcoucqui She he preserved put away something,B1,15,1,1,0.5929,[15],"Quiahcoucqui “She/he preserved, put away” (something)"
+FCN-CP-00276,Construction 322,Quicōuhqueh They bought something,B1,15,1,1,0.95,[15],Quicōuhqueh “They bought” (something)
+FCN-CP-00277,Construction 319,Quicōuhqui She he bought something,B1,15,1,1,0.85,[15],Quicōuhqui “She/he bought” (something)
+FCN-CP-00278,Construction 334,Quipixqueh They had something,B1,15,1,1,0.7,[15],Quipixqueh “They had” (something)
+FCN-CP-00279,Construction 331,Quipixqui She he had something,B1,15,1,1,0.65,[15],Quipixqui “She/he had” (something)
+FCN-CP-00280,Construction 339,Quitecqueh They cut something,B1,15,1,1,0.95,[15],Quitecqueh “They cut” (something)
+FCN-CP-00281,Construction 336,Quitecqui She he cut something,B1,15,1,1,0.85,[15],Quitecqui “She/he cut” (something)
+FCN-CP-00282,Construction 307,Quitōcqueh They planted corn,B1,15,1,1,0.95,[15],Quitōcqueh “They planted corn”
+FCN-CP-00283,Construction 304,Quitōcqui She he planted corn,B1,15,1,1,0.85,[15],Quitōcqui “She/he planted corn”
+FCN-CP-00284,Construction 300,Quīzqui She he went out,B1,15,1,1,0.85,[15],Quīzqui “She/he went out”
+FCN-CP-00285,Construction 298,Some Class verbs change drastically especially those ending in hu and cu,B1,15,1,1,0.6239,[15],"Some Class 2 verbs change drastically, especially those ending in /hu/ and /cu/ and those whose last consonant is /y/, /qu/, /c/, or /m/."
+FCN-CP-00287,Construction 326,Ticahcoucqueh We preserved put away something,B1,15,1,1,0.6167,[15],"Ticahcoucqueh “We preserved, put away” (something)"
+FCN-CP-00288,Construction 324,Ticahcoucqui You preserved put away something,B1,15,1,1,0.6167,[15],"Ticahcoucqui “You preserved, put away” (something)"
+FCN-CP-00289,Construction 320,Ticcōuhqueh We bought something,B1,15,1,1,0.95,[15],Ticcōuhqueh “We bought” (something)
+FCN-CP-00290,Construction 318,Ticcōuhqui You bought something,B1,15,1,1,0.95,[15],Ticcōuhqui “You bought” (something)
+FCN-CP-00291,Construction 332,Ticpixqueh We had something,B1,15,1,1,0.7,[15],Ticpixqueh “We had” (something)
+FCN-CP-00292,Construction 330,Ticpixqui You had something,B1,15,1,1,0.7,[15],Ticpixqui “You had” (something)
+FCN-CP-00293,Construction 337,Tictecqueh We cut something,B1,15,1,1,0.95,[15],Tictecqueh “We cut” (something)
+FCN-CP-00294,Construction 335,Tictecqui You cut something,B1,15,1,1,0.95,[15],Tictecqui “You cut” (something)
+FCN-CP-00295,Construction 305,Tictōcqueh We planted corn,B1,15,1,1,0.95,[15],Tictōcqueh “We planted corn”
+FCN-CP-00296,Construction 303,Tictōcqui You planted corn,B1,15,1,1,0.95,[15],Tictōcqui “You planted corn”
+FCN-CP-00297,Construction 310,Tihuelqueh We were able,B1,15,1,1,0.7,[15],Tihuelqueh “We were able”
+FCN-CP-00298,Construction 308,Tihuelqui You were able,B1,15,1,1,0.7,[15],Tihuelqui “You were able”
+FCN-CP-00299,Construction 342,Tiquizqueh We ground corn,B1,15,1,1,0.7,[15],Tiquizqueh “We ground corn”
+FCN-CP-00300,Construction 340,Titizqui You ground corn,B1,15,1,1,0.7,[15],Titizqui “You ground corn”
+FCN-CP-00301,Construction 344,Tizqueh She he ground corn,B1,15,1,1,0.65,[15],Tizqueh “She/he ground corn”
+FCN-CP-00302,Construction 341,Tizqui She he ground corn,B1,15,1,1,0.65,[15],Tizqui “She/he ground corn”

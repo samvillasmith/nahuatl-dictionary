@@ -1,0 +1,37 @@
+priority_id,headword,gloss_en,part_of_speech,first_lesson_number,lesson_frequency,occurrence_count,linked_entry_count,avg_confidence,lessons_json,lesson_number
+FCN-VP-00001,tlen,alternative spelling of tlein,pron,1,32,32,1,0.9,"[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32]",5
+FCN-VP-00002,huan,and,conj,2,24,24,1,0.9,"[2, 3, 4, 5, 6, 7, 9, 10, 11, 12, 13, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 29, 31]",5
+FCN-VP-00003,nahuatl,something having a clear and pleasant sound.,noun,1,16,16,1,0.9,"[1, 2, 3, 4, 5, 6, 7, 9, 11, 12, 14, 15, 16, 20, 28, 29]",5
+FCN-VP-00033,cualtitoc,"fine, ok.",intj,3,4,4,1,0.9,"[3, 5, 19, 27]",5
+FCN-VP-00038,tlapōhualiztli,,,4,4,4,0,0.4,"[4, 5, 13, 31]",5
+FCN-VP-00040,change,,,5,4,4,0,0.4,"[5, 15, 25, 31]",5
+FCN-VP-00062,nimomachtia,,,3,3,3,0,0.4,"[3, 5, 6]",5
+FCN-VP-00063,nitlamachtia,,,3,3,3,0,0.4,"[3, 5, 6]",5
+FCN-VP-00064,teach,,,3,3,3,0,0.4,"[3, 5, 6]",5
+FCN-VP-00102,teacher,,,2,2,2,0,0.4,"[2, 5]",5
+FCN-VP-00118,momachtianih,,,5,2,2,0,0.4,"[5, 12]",5
+FCN-VP-00119,nāhuatl,,,5,2,2,0,0.4,"[5, 6]",5
+FCN-VP-00120,titequiti,,,5,2,2,0,0.4,"[5, 11]",5
+FCN-VP-00286,-hquetl,,,5,1,1,0,0.4,[5],5
+FCN-VP-00287,colatl,,,5,1,1,0,0.4,[5],5
+FCN-VP-00288,inmomachtianih,,,5,1,1,0,0.4,[5],5
+FCN-VP-00289,intlachpānanih,,,5,1,1,0,0.4,[5],5
+FCN-VP-00290,momachtia,,,5,1,1,0,0.4,[5],5
+FCN-VP-00291,momachtihquetl,,,5,1,1,0,0.4,[5],5
+FCN-VP-00292,mītzpolohua,,,5,1,1,0,0.4,[5],5
+FCN-VP-00293,nimomachtihquetl,,,5,1,1,0,0.4,[5],5
+FCN-VP-00294,nitlachpānquetl,,,5,1,1,0,0.4,[5],5
+FCN-VP-00295,teachers,,,5,1,1,0,0.4,[5],5
+FCN-VP-00296,timomachtianih,,,5,1,1,0,0.4,[5],5
+FCN-VP-00297,timomachtihquetl,,,5,1,1,0,0.4,[5],5
+FCN-VP-00298,titlachpānanih,,,5,1,1,0,0.4,[5],5
+FCN-VP-00299,titlachpānquetl,,,5,1,1,0,0.4,[5],5
+FCN-VP-00300,titles,,,5,1,1,0,0.4,[5],5
+FCN-VP-00301,tlachpana,,,5,1,1,0,0.4,[5],5
+FCN-VP-00302,tlachpanānih,,,5,1,1,0,0.4,[5],5
+FCN-VP-00303,tlachpānanih,,,5,1,1,0,0.4,[5],5
+FCN-VP-00304,tlachpānquetl,,,5,1,1,0,0.4,[5],5
+FCN-VP-00305,tlamachtia,,,5,1,1,0,0.4,[5],5
+FCN-VP-00306,tlamachtianih,,,5,1,1,0,0.4,[5],5
+FCN-VP-00307,tlamachtihquetl,teacher.,noun,5,1,1,1,0.9,[5],5
+FCN-VP-00308,xōchipitzāhuatl,,,5,1,1,0,0.4,[5],5

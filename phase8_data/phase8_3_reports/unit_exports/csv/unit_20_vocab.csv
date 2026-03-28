@@ -1,0 +1,57 @@
+priority_id,headword,gloss_en,part_of_speech,first_lesson_number,lesson_frequency,occurrence_count,linked_entry_count,avg_confidence,lessons_json,lesson_number
+FCN-VP-00001,tlen,alternative spelling of tlein,pron,1,32,32,1,0.9,"[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32]",20
+FCN-VP-00002,huan,and,conj,2,24,24,1,0.9,"[2, 3, 4, 5, 6, 7, 9, 10, 11, 12, 13, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 29, 31]",20
+FCN-VP-00003,nahuatl,something having a clear and pleasant sound.,noun,1,16,16,1,0.9,"[1, 2, 3, 4, 5, 6, 7, 9, 11, 12, 14, 15, 16, 20, 28, 29]",20
+FCN-VP-00004,tequitl,work,noun,10,16,16,1,0.9,"[10, 12, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 31]",20
+FCN-VP-00007,which,,,4,13,13,0,0.4,"[4, 9, 15, 16, 18, 19, 20, 21, 22, 23, 26, 28, 30]",20
+FCN-VP-00009,tlamanēxtilli,,,12,12,12,0,0.4,"[12, 13, 14, 15, 16, 17, 19, 20, 23, 24, 25, 32]",20
+FCN-VP-00011,ōme,,,4,11,11,0,0.4,"[4, 6, 10, 18, 19, 20, 23, 27, 28, 29, 31]",20
+FCN-VP-00012,ahāhuiltiliztli,,,6,9,9,0,0.4,"[6, 13, 14, 15, 16, 17, 20, 24, 25]",20
+FCN-VP-00023,quipiya,,,3,6,6,0,0.4,"[3, 4, 20, 22, 27, 29]",20
+FCN-VP-00032,tlamanextilli,,,1,4,4,0,0.4,"[1, 17, 20, 26]",20
+FCN-VP-00053,ahahuiltiliztli,,,17,4,4,0,0.4,"[17, 20, 26, 28]",20
+FCN-VP-00065,tlatōcaxtiliztli,,,3,3,3,0,0.4,"[3, 20, 23]",20
+FCN-VP-00096,little,,,20,3,3,0,0.4,"[20, 21, 23]",20
+FCN-VP-00109,ītecoh,,,3,2,2,0,0.4,"[3, 20]",20
+FCN-VP-00136,hui,,,8,2,2,0,0.4,"[8, 20]",20
+FCN-VP-00141,quipoz,,,8,2,2,0,0.4,"[8, 20]",20
+FCN-VP-00178,-huan,Used to form the plural of animate nouns in the possessive form.,suffix,20,2,2,1,0.9,"[20, 23]",20
+FCN-VP-00603,-hui,,,20,1,1,0,0.4,[20],20
+FCN-VP-00604,-tzin,"An honorific or caressive suffix; denotes fondness, respect, reverence or submission on behalf of the speaker.",suffix,20,1,1,1,0.9,[20],20
+FCN-VP-00605,-tzitzin,,,20,1,1,0,0.4,[20],20
+FCN-VP-00606,-uh,,,20,1,1,0,0.4,[20],20
+FCN-VP-00607,ininpilahuihuan,,,20,1,1,0,0.4,[20],20
+FCN-VP-00608,ininpilcinhuan,,,20,1,1,0,0.4,[20],20
+FCN-VP-00609,ininpilcuaxilouhuan,,,20,1,1,0,0.4,[20],20
+FCN-VP-00610,ininpilicxihuan,,,20,1,1,0,0.4,[20],20
+FCN-VP-00611,ininpiltonanahuan,,,20,1,1,0,0.4,[20],20
+FCN-VP-00612,ininpiltzipiuh,,,20,1,1,0,0.4,[20],20
+FCN-VP-00613,inmopilahuihuan,,,20,1,1,0,0.4,[20],20
+FCN-VP-00614,inmopilcinhuan,,,20,1,1,0,0.4,[20],20
+FCN-VP-00615,inmopilcuaxilouhuan,,,20,1,1,0,0.4,[20],20
+FCN-VP-00616,inmopilicxihuan,,,20,1,1,0,0.4,[20],20
+FCN-VP-00617,inmopiltonanahuan,,,20,1,1,0,0.4,[20],20
+FCN-VP-00618,inmopiltzipiuh,,,20,1,1,0,0.4,[20],20
+FCN-VP-00619,inpilchichitzitzin,,,20,1,1,0,0.4,[20],20
+FCN-VP-00620,inpilcihuātzitzin,,,20,1,1,0,0.4,[20],20
+FCN-VP-00621,inpilpapalotzitzin,,,20,1,1,0,0.4,[20],20
+FCN-VP-00622,inpilxilitzitzin,,,20,1,1,0,0.4,[20],20
+FCN-VP-00623,inpiyaltzitzin,,,20,1,1,0,0.4,[20],20
+FCN-VP-00624,ipilcuaxilouh,,,20,1,1,0,0.4,[20],20
+FCN-VP-00625,ipiltzipiuh,,,20,1,1,0,0.4,[20],20
+FCN-VP-00626,ipolahui,,,20,1,1,0,0.4,[20],20
+FCN-VP-00627,mopilahui,,,20,1,1,0,0.4,[20],20
+FCN-VP-00628,mopilcuaxilouh,,,20,1,1,0,0.4,[20],20
+FCN-VP-00629,mopiltzipiuh,,,20,1,1,0,0.4,[20],20
+FCN-VP-00630,nipilcihuātzin,,,20,1,1,0,0.4,[20],20
+FCN-VP-00631,tipilchichitzin,,,20,1,1,0,0.4,[20],20
+FCN-VP-00632,tipilcihuātzin,,,20,1,1,0,0.4,[20],20
+FCN-VP-00633,tipilcihuātzitzin,,,20,1,1,0,0.4,[20],20
+FCN-VP-00634,tipilpapalotzin,,,20,1,1,0,0.4,[20],20
+FCN-VP-00635,tipilxilitzin,,,20,1,1,0,0.4,[20],20
+FCN-VP-00636,titlapiyaltzin,,,20,1,1,0,0.4,[20],20
+FCN-VP-00637,topilahuihuan,,,20,1,1,0,0.4,[20],20
+FCN-VP-00638,topilcinhuan,,,20,1,1,0,0.4,[20],20
+FCN-VP-00639,topiltonanahuan,,,20,1,1,0,0.4,[20],20
+FCN-VP-00640,tzin,,,20,1,1,0,0.4,[20],20
+FCN-VP-00641,tzitzin,,,20,1,1,0,0.4,[20],20

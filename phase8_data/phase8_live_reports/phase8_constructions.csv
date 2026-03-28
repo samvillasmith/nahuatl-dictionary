@@ -1,0 +1,351 @@
+construction_id,proficiency_band,domain_label,pattern_text,example_original,confidence
+FCN-CXN-000001,A1,Language,The Nahuatl presented in this curriculum comes from the Huasteca region in,"The Nahuatl presented in this curriculum comes from the Huasteca region in the state of Veracruz, Mexico, where one can find a municipality called Chicontepec (Figure 1 & 2). Various historical communities of Nahuatl-speaking peoples live in this region. In the same way that the Nahuatl language continues to be important for the municipality of Chicontepec, Nahua customs and traditions influence the lives of the people who live here. The objective of this material is to serve as a revitalization tool for Nahuatl language learning.",0.5720000000000001
+FCN-CXN-000002,A1,Language,Nahuatl has not been fully standardized and until the present-day various groups,"Nahuatl has not been fully standardized and until the present-day, various groups have developed their own style and variants of Nahuatl writing and teaching. While this online curriculum focuses on Nahuatl from the Huasteca area, we also introduce variants from the Mexican state of Hidalgo and Morelos. Some 1.5 million speakers of Nahuatl live in Mexico today.",0.5929
+FCN-CXN-000003,A1,Language,HOW TO USE THE ONLINE CURRICULUM,HOW TO USE THE ONLINE CURRICULUM,0.6167
+FCN-CXN-000004,A1,Team,Sabina Cruz de la Cruz ehua pan ce pilaltepetzin Tecomate Chicontepec Veracruz,"Sabina Cruz de la Cruz , ehua pan ce pilaltepetzin Tecomate, Chicontepec; Veracruz, nahuatlahtoa. Momachtihqui pan caltlamachtiloyan tlen Universidad Autónoma de Zacatecas (UAZ), Momachtihqui tlen Derecho. Ce tlamachtihquetl tlen Educacion Historica pan caltlamachtiloyan tlen Centro de Actualización del Magisterio de Zacatecas. Tlamachtihquetl tlen nahuatl pan Departamento tlen Antropologia pan caltlamachtiloyan tlen Tulane, New Orleans, Louisiana, Estados Unidos. Tlamachtihquetl tlen nahuatl pan Departamento tlen “Teresa Lozano Long Institute of Latin American Studies and Collections” LLILAS Benson, pan caltlamchtiloyan tlen Texas, Austin, Estados Unidos. Tlamachtihquetl huan tlatemohquetl pan Instituto de Docencia e Investigación Etnológica de Zacatecas. (IDIEZ).",0.7663
+FCN-CXN-000005,A1,Team,Catalina Cruz de la Cruz euhqui pan ce tonatiuh tlen Septiembre pan,"Catalina Cruz de la Cruz , euhqui pan ce tonatiuh tlen Septiembre pan 1984 pan pilaltepetzin Tecomate, Chicontepec, tlatitlantoc Veracruz. Momachtih preescolar hasta la preparatoria pan pilaltepetzin Tecomate. Momachtih pan Caltlamachtiloyan tlen Zacatecas, Unidad Académica de Derecho. Nouhquiya tequitic quen tlamachtihquetl huan tlatehtemouhquetl pan Instituto de Docencia e Investigación Etnológica de Zacatecas (IDIEZ). Nouhquiya momachtih pan Unidad Académica de Docencia Superior, quipiya Maestría en investigaciones Humanísticas y Educativas.",0.7556
+FCN-CXN-000006,A1,Resources,Many have written about Nahuatl from the Huasteca Here are a few,Many have written about Nahuatl from the Huasteca. Here are a few resources:,0.6038
+FCN-CXN-000007,A1,Resources,John Sullivan and others Tlahtolxitlauhcayotl Diccionario n huatl de Chicontepec Veracruz Link,"John Sullivan and others, Tlahtolxitlauhcayotl, (Diccionario náhuatl de Chicontepec Veracruz) Link for this: https://www.academia.edu/34987634/Tlahtolxitlauhcayotl._Chicontepec_Veracruz",0.6881
+FCN-CXN-000008,A1,Resources,Colonial and Modern Nahuatl Dictionary Link for this https nahuatl uoregon edu,Colonial and Modern Nahuatl Dictionary. Link for this: https://nahuatl.uoregon.edu/content/welcome-nahuatl-dictionary,0.6643
+FCN-CXN-000009,A1,Units,Tlamachtiliztli Piltlahcuiloltzitzin The Alphabet,Tlamachtiliztli 1 Piltlahcuiloltzitzin (The Alphabet),0.95
+FCN-CXN-000010,A1,Units,Tlamachtiliztli Tlahtlaniliztli Questions,Tlamachtiliztli 2 Tlahtlaniliztli (Questions).,0.95
+FCN-CXN-000011,A1,Units,Tlamachtiliztli Quēniuhqui motōcah What is your name,Tlamachtiliztli 3 ¿Quēniuhqui motōcah? (What is your name?),0.95
+FCN-CXN-000012,A1,Units,Tlamachtiliztli xnēzcayotl huan tlapōhualiztli Colors and Numbers,Tlamachtiliztli 4 Īxnēzcayotl huan tlapōhualiztli (Colors and Numbers),0.95
+FCN-CXN-000013,A1,Units,Tlamachtiliztli Cehcen inintequiuh The Professions,Tlamachtiliztli 5 Cehcen inintequiuh (The Professions),0.8500000000000001
+FCN-CXN-000014,A1,Units,Tlamachtiliztli Tlachīhualiztli tlen ax quimānēxtia cē tlamantli Intransitive Verbs,Tlamachtiliztli 6 Tlachīhualiztli tlen ax quimānēxtia cē tlamantli (Intransitive Verbs),0.95
+FCN-CXN-000015,A1,Units,Tlamachtiliztli Quēn moxēloa tōnatiuh How to divide up the day,Tlamachtiliztli 7 Quēn moxēloa tōnatiuh (How to divide up the day),0.95
+FCN-CXN-000016,A1,Units,Tlamachtiliztli Noyōllo Possessive markers,Tlamachtiliztli 8 Noyōllo (Possessive markers),0.95
+FCN-CXN-000017,A1,Units,Tlamachtiliztli Tēiīxmatcacuahuitl The Family,Tlamachtiliztli 9 Tēiīxmatcacuahuitl (The Family),0.95
+FCN-CXN-000018,A1,Units,Tlamachtiliztli Notlachiyaliz My Appearance,Tlamachtiliztli 10 Notlachiyaliz (My Appearance),0.95
+FCN-CXN-000019,A1,Units,Tlamachtiliztli Quēmman motlahpaloa huan monāhuatihtēhua When you greet and say farewell,Tlamachtiliztli 11 Quēmman motlahpaloa huan monāhuatihtēhua (When you greet and say farewell),0.95
+FCN-CXN-000020,A1,Units,Tlamachtiliztli Tlachīhualiztli tlen panoz Future tense and indefinite verbs,Tlamachtiliztli 12 Tlachīhualiztli tlen panoz (Future tense and indefinite verbs),0.8944000000000001
+FCN-CXN-000021,A1,Units,Tlamachtiliztli Tlachīhualiztli tlen quimānēxtia ācquiya quīchihua cē tlamantli Verbs with specific object,Tlamachtiliztli 13 Tlachīhualiztli tlen quimānēxtia ācquiya quīchihua cē tlamantli (Verbs with specific object),0.95
+FCN-CXN-000022,A1,Units,Tlamachtiliztli Tlachīhualiztli tlen panoc Part Past Tense Verbs Part,Tlamachtiliztli 14 Tlachīhualiztli tlen panoc Part 1 (Past Tense Verbs Part 1),0.8944000000000001
+FCN-CXN-000023,A1,Units,Tlamachtiliztli Tlachīhualiztli tlen panoc Part Past Tense Verbs Part,"Tlamachtiliztli 15 Tlachīhualiztli tlen panoc, Part 2 (Past Tense Verbs Part 2)",0.8944000000000001
+FCN-CXN-000024,A1,Units,Tlamachtiliztli Tlachīhualiztli tlen panoc Part Past Tense Verbs Part,Tlamachtiliztli 16 Tlachīhualiztli tlen panoc. Part 3 (Past Tense Verbs Part 3),0.8944000000000001
+FCN-CXN-000025,A1,Units,Tlamachtiliztli Na nimocehuia pan cuaciyah I Sit in the Chair,Tlamachtiliztli 17 Na nimocehuia pan cuaciyah (I Sit in the Chair),0.8500000000000001
+FCN-CXN-000026,A1,Units,Tlamachtiliztli Tlen nicāmati huan tlen ax nicāmati What I Like and Do,Tlamachtiliztli 18 Tlen nicāmati huan tlen ax nicāmati (What I Like and Do Not Like),0.95
+FCN-CXN-000027,A1,Units,Tlamachtiliztli Ximoquētza Stand Up,Tlamachtiliztli 19 Ximoquētza (Stand Up!),0.95
+FCN-CXN-000028,A1,Units,Tlamachtiliztli Tlahtoltēcpānalitzli -pil huan -tzin The Grammar of -pil and -tzin,Tlamachtiliztli 20 Tlahtoltēcpānalitzli -pil huan -tzin (The Grammar of -pil and -tzin),0.95
+FCN-CXN-000029,A1,Units,Tlamachtiliztli Tlen ticpiyah pan millah What We Have in the Field,Tlamachtiliztli 21 Tlen ticpiyah pan millah (What We Have in the Field),0.6318
+FCN-CXN-000030,A1,Units,Tlamachtiliztli Tomīllah huah totlacualiz Our Cornfield and Our Food,Tlamachtiliztli 22 Tomīllah huah totlacualiz (Our Cornfield and Our Food),0.95
+FCN-CXN-000031,A1,Units,Tlamachtiliztli Tlen eltoc calihtic What is Inside the House,Tlamachtiliztli 23 Tlen eltoc calihtic (What is Inside the House),0.6722
+FCN-CXN-000032,A1,Units,Tlamachtiliztli Niihhuia pan āltepētl Part I Had Gone to the City Part,"Tlamachtiliztli 24 Niihhuia pan āltepētl, Part 1 (I Had Gone to the City Part 1)",0.7833
+FCN-CXN-000033,A1,Units,Tlamachtiliztli Niihhuia pan altepētl Part I Had Gone to the City Part,Tlamachtiliztli 25 Niihhuia pan altepētl Part 2 (I Had Gone to the City Part 2),0.7833
+FCN-CXN-000034,A1,Units,Tlamachtiliztli Niquicōhuaco cē tlaxcalyoyomitl I Came to Buy a Tortilla Napkin,Tlamachtiliztli 26 Niquicōhuaco cē tlaxcalyoyomitl (I Came to Buy a Tortilla Napkin),0.9045000000000001
+FCN-CXN-000035,A1,Units,Tlamachtiliztli Namantzin eltoc tiānquiz It’s market day today,Tlamachtiliztli 27 Namantzin eltoc tiānquiz (It’s market day today!),0.95
+FCN-CXN-000036,A1,Units,Tlamachtiliztli Nipanoyaya mochān I Was Passing By Your House,Tlamachtiliztli 28 Nipanoyaya mochān (I Was Passing By Your House),0.7833
+FCN-CXN-000037,A1,Units,Tlamachtiliztli Tlen cocōliztli tiquixmati What Illnesses Do You Know,Tlamachtiliztli 29 ¿Tlen cocōliztli tiquixmati? (What Illnesses Do You Know?),0.95
+FCN-CXN-000038,A1,Units,Tlamachtiliztli -zquia -tozquia The conditional Part,"Tlamachtiliztli 30 -zquia, -tozquia (The conditional, Part 1)",0.95
+FCN-CXN-000039,A1,Units,Tlamachtiliztli Tlacotōntli huan tlaochpanāliztli Cleansing ceremonies the conditional Part,"Tlamachtiliztli 31 Tlacotōntli huan tlaochpanāliztli: Cleansing ceremonies, the conditional. Part 2)",0.95
+FCN-CXN-000040,A1,Units,Tlamachtiliztli Tē- and tla- Non-specific object markers Part,"Tlamachtiliztli 32 Tē- and tla-: Non-specific object markers, Part 1",0.95
+FCN-CXN-000041,A1,Tlamachtiliztli 1 Piltlahcuiloltzitzin (The Alphabet),For example the word teuctli lord sir is pronounced as tēktli emphasizing,"For example, the word “teuctli” (lord/sir) is pronounced as “tēktli,” emphasizing the first vowel and silencing the “u.”",0.6079
+FCN-CXN-000042,A1,Tlamachtiliztli 1 Piltlahcuiloltzitzin (The Alphabet),For example the word cōuhqui she bought something is pronounced as cōhquī,"For example, the word “cōuhqui” (she bought something) is pronounced as “cōhquī,” emphazising the first vowel and silencing the “u.”",0.6
+FCN-CXN-000043,A1,Tlamachtiliztli 1 Piltlahcuiloltzitzin (The Alphabet),ch m n p t y l cu uc qu hu uh,ch m n p t y l cu uc qu hu uh h x tl tz z,0.8618
+FCN-CXN-000044,A1,Tlamachtiliztli 1 Piltlahcuiloltzitzin (The Alphabet),Tlamānēxtilli tlen tēntlatzacuilcayōtl Examples of Consonants,Tlamānēxtilli tlen tēntlatzacuilcayōtl (Examples of Consonants),0.95
+FCN-CXN-000045,A1,Tlamachtiliztli 1 Piltlahcuiloltzitzin (The Alphabet),Tlamanextilli tlen tentzilincayotl Examples of vowels,Tlamanextilli tlen tentzilincayotl (Examples of vowels),0.95
+FCN-CXN-000046,A1,Tlamachtiliztli 2 Tlahtlaniliztli (Questions).,A Hello good day teacher,"A: Hello, good day teacher.",0.65
+FCN-CXN-000047,A1,Tlamachtiliztli 2 Tlahtlaniliztli (Questions).,Totlahtlaniliz huan totlahtol tlen ica tlamachtiliztli Our questions and phrases for class,Totlahtlaniliz huan totlahtol tlen ica tlamachtiliztli (Our questions and phrases for class),0.95
+FCN-CXN-000048,A1,Tlamachtiliztli 3 ¿Quēniuhqui motōcah? (What is your name?),Comiendo Tacos en Chic ntepēc CC BY Martin the Hunter,Comiendo Tacos en Chicøntepēc CC BY Martin the Hunter,0.95
+FCN-CXN-000049,A1,Tlamachtiliztli 3 ¿Quēniuhqui motōcah? (What is your name?),A Piyalli quēniuhqui motōcah,"A: Piyalli, ¿quēniuhqui motōcah?",0.95
+FCN-CXN-000050,A1,Tlamachtiliztli 3 ¿Quēniuhqui motōcah? (What is your name?),B Piyalli na notōcah Paty Huan ta,"B: Piyalli, na notōcah Paty. ¿Huan ta?",0.8786
+FCN-CXN-000051,A1,Tlamachtiliztli 3 ¿Quēniuhqui motōcah? (What is your name?),A Na notōcah Juana Cānin tiēhua,A: Na notōcah Juana. ¿Cānin tiēhua?,0.95
+FCN-CXN-000052,A1,Tlamachtiliztli 3 ¿Quēniuhqui motōcah? (What is your name?),B Na niēhua Tecomate Chicōntepēc,"B: Na niēhua Tecomate, Chicōntepēc.",0.95
+FCN-CXN-000053,A1,Tlamachtiliztli 3 ¿Quēniuhqui motōcah? (What is your name?),I am from Tecomate Chicontepec,"I am from Tecomate, Chicontepec.",0.65
+FCN-CXN-000054,A1,Tlamachtiliztli 3 ¿Quēniuhqui motōcah? (What is your name?),A Ah cualtitoc na nicān Mexco niēhua Huan ta tlen ticchīhua niāan,"A: Ah cualtitoc, na nicān Mexco niēhua. Huan ta ¿tlen ticchīhua niāan Mexco?",0.95
+FCN-CXN-000055,A1,Tlamachtiliztli 3 ¿Quēniuhqui motōcah? (What is your name?),B Na nimomachtia huan nitlamachtia pan caltlamachticān tlen UNAM,B: Na nimomachtia huan nitlamachtia pan caltlamachticān tlen UNAM.,0.95
+FCN-CXN-000056,A1,Tlamachtiliztli 3 ¿Quēniuhqui motōcah? (What is your name?),I am a student and I teach at the school of the,I am a student and I teach at the school of the UNAM.,0.6038
+FCN-CXN-000057,A1,Tlamachtiliztli 3 ¿Quēniuhqui motōcah? (What is your name?),B Na nitlamachtia Nahuatl,B: Na nitlamachtia Nahuatl.,0.95
+FCN-CXN-000058,A1,Tlamachtiliztli 3 ¿Quēniuhqui motōcah? (What is your name?),A Ohh cualtitoc teipan timoittazceh,"A: Ohh, cualtitoc, teipan timoittazceh.",0.65
+FCN-CXN-000059,A1,Tlamachtiliztli 3 ¿Quēniuhqui motōcah? (What is your name?),Tlatocaxtiliztli tlen axquipiya itecoh Absolute Nouns,Tlatocaxtiliztli tlen axquipiya itecoh (Absolute Nouns),0.95
+FCN-CXN-000060,A1,Tlamachtiliztli 3 ¿Quēniuhqui motōcah? (What is your name?),ni noun base tl tli li n,ni – (noun base) – tl /tli /li /n /ø,0.7357
+FCN-CXN-000061,A1,Tlamachtiliztli 3 ¿Quēniuhqui motōcah? (What is your name?),ti noun base tl tli li n,ti – (noun base) – tl /tli /li /n /ø,0.7357
+FCN-CXN-000062,A1,Tlamachtiliztli 3 ¿Quēniuhqui motōcah? (What is your name?),noun base tl tli li n,ø – (noun base) – tl /tli /li /n /ø,0.7833
+FCN-CXN-000063,A1,Tlamachtiliztli 3 ¿Quēniuhqui motōcah? (What is your name?),Tlamānēxtilli tlatōcaxtiliztli tlen ax quipiya ītecoh Examples of absolute nouns,Tlamānēxtilli tlatōcaxtiliztli tlen ax quipiya ītecoh (Examples of absolute nouns),0.95
+FCN-CXN-000064,A1,Tlamachtiliztli 3 ¿Quēniuhqui motōcah? (What is your name?),All absolute non-possessed nouns are marked by their respective suffixes tl tli,"All absolute, non-possessed, nouns are marked by their respective suffixes (tl, tli, li, n, or ø).",0.5833
+FCN-CXN-000065,A1,Tlamachtiliztli 3 ¿Quēniuhqui motōcah? (What is your name?),mācēhualmeh indigenous person,(ø)mācēhualmeh “indigenous person”,0.95
+FCN-CXN-000066,A1,Tlamachtiliztli 3 ¿Quēniuhqui motōcah? (What is your name?),cōmalli comalmeh pans,(ø)cōmalli / comalmeh “pans”,0.95
+FCN-CXN-000067,A1,Tlamachtiliztli 3 ¿Quēniuhqui motōcah? (What is your name?),tepōztli tepōzmeh machines metals,"(ø)tepōztli / tepōzmeh “machines, metals”",0.95
+FCN-CXN-000068,A1,Tlamachtiliztli 3 ¿Quēniuhqui motōcah? (What is your name?),Tlamānēxtilli tlatōcaxtiliztli tlen ax quipiya ītecoh tlen tlatzinpeuhquetl Examples of nouns with,Tlamānēxtilli tlatōcaxtiliztli tlen ax quipiya ītecoh tlen tlatzinpeuhquetl (Examples of nouns with subject markers),0.95
+FCN-CXN-000069,A1,Tlamachtiliztli 3 ¿Quēniuhqui motōcah? (What is your name?),Ticihuātl You are a woman,Ticihuātl “You are a woman”,0.8500000000000001
+FCN-CXN-000070,A1,Tlamachtiliztli 3 ¿Quēniuhqui motōcah? (What is your name?),Cihuātl He she is a woman,(ø)Cihuātl “He/she is a woman”,0.7833
+FCN-CXN-000071,A1,Tlamachtiliztli 3 ¿Quēniuhqui motōcah? (What is your name?),Ticihuāmeh We are women,Ticihuāmeh “We are women”,0.95
+FCN-CXN-000072,A1,Tlamachtiliztli 3 ¿Quēniuhqui motōcah? (What is your name?),Incihuāmeh You all are women,Incihuāmeh “You all are women”,0.8500000000000001
+FCN-CXN-000073,A1,Tlamachtiliztli 3 ¿Quēniuhqui motōcah? (What is your name?),Cihuāmeh They are women,(ø)Cihuāmeh “They are women”,0.95
+FCN-CXN-000074,A1,Tlamachtiliztli 3 ¿Quēniuhqui motōcah? (What is your name?),Nimācēhualli I am indigenous,Nimācēhualli “I am indigenous”,0.95
+FCN-CXN-000075,A1,Tlamachtiliztli 3 ¿Quēniuhqui motōcah? (What is your name?),Timācēhualli You are indigenous,Timācēhualli “You are indigenous”,0.95
+FCN-CXN-000076,A1,Tlamachtiliztli 3 ¿Quēniuhqui motōcah? (What is your name?),Mācēhualli He she is indigenous,(ø)Mācēhualli “He/she is indigenous”,0.8500000000000001
+FCN-CXN-000077,A1,Tlamachtiliztli 3 ¿Quēniuhqui motōcah? (What is your name?),Timācēhualmeh We are indigenous,Timācēhualmeh “We are indigenous”,0.95
+FCN-CXN-000078,A1,Tlamachtiliztli 3 ¿Quēniuhqui motōcah? (What is your name?),Inmācēhualmeh You all are indigenous,Inmācēhualmeh “You all are indigenous”,0.8500000000000001
+FCN-CXN-000079,A1,Tlamachtiliztli 3 ¿Quēniuhqui motōcah? (What is your name?),Mācēhualmeh They are indigenous,(ø)Mācēhualmeh “They are indigenous”,0.95
+FCN-CXN-000080,A1,Tlamachtiliztli 4 Īxnēzcayotl huan tlapōhualiztli (Colors and Numbers),Quēn moillia īxnēzcayōtl How to say the names of basic colors,Quēn moillia īxnēzcayōtl (How to say the names of basic colors),0.7227
+FCN-CXN-000081,A1,Tlamachtiliztli 4 Īxnēzcayotl huan tlapōhualiztli (Colors and Numbers),Tlahtlaniliztli ica ixnezcayotl Questions with the colors,Tlahtlaniliztli ica ixnezcayotl (Questions with the colors),0.8786
+FCN-CXN-000082,A1,Tlamachtiliztli 4 Īxnēzcayotl huan tlapōhualiztli (Colors and Numbers),Tlen īxnēzcayōtl ticāmati,¿Tlen īxnēzcayōtl ticāmati?,0.95
+FCN-CXN-000083,A1,Tlamachtiliztli 4 Īxnēzcayotl huan tlapōhualiztli (Colors and Numbers),Tlen īīxnēzca mopantalon,¿Tlen īīxnēzca mopantalon?,0.95
+FCN-CXN-000084,A1,Tlamachtiliztli 4 Īxnēzcayotl huan tlapōhualiztli (Colors and Numbers),Tlapōhualiztli ītōcah yonce mahtlactli The numbers -,"Tlapōhualiztli ītōcah, yonce — mahtlactli (The numbers, 0-10)",0.95
+FCN-CXN-000085,A1,Tlamachtiliztli 4 Īxnēzcayotl huan tlapōhualiztli (Colors and Numbers),Tlahtlaniliztli īcā tlapōhualiztli Questions with the numbers,Tlahtlaniliztli īcā tlapōhualiztli (Questions with the numbers),0.95
+FCN-CXN-000086,A1,Tlamachtiliztli 4 Īxnēzcayotl huan tlapōhualiztli (Colors and Numbers),Quezqui tlaxcalli etloc pan cōmalli,¿Quezqui tlaxcalli etloc pan cōmalli?,0.95
+FCN-CXN-000087,A1,Tlamachtiliztli 4 Īxnēzcayotl huan tlapōhualiztli (Colors and Numbers),Quezqui chichiquilli oncah huan tlen īīxnēzca,¿Quezqui chichiquilli oncah huan tlen īīxnēzca?,0.95
+FCN-CXN-000088,A1,Tlamachtiliztli 4 Īxnēzcayotl huan tlapōhualiztli (Colors and Numbers),Oncah ōme chichiquilli huan īixnēzca xoxoctīc,Oncah ōme chichiquilli huan īixnēzca xoxoctīc.,0.95
+FCN-CXN-000089,A1,Tlamachtiliztli 4 Īxnēzcayotl huan tlapōhualiztli (Colors and Numbers),Quezqui tēcciztli eltoc huan tlen īīxnēzca,¿Quezqui tēcciztli eltoc huan tlen īīxnēzca?,0.95
+FCN-CXN-000090,A1,Tlamachtiliztli 4 Īxnēzcayotl huan tlapōhualiztli (Colors and Numbers),Eltoc ēyi tēcciztli cē īīxnēzca tzictic,"Eltoc ēyi tēcciztli, cē īīxnēzca tzictic",0.95
+FCN-CXN-000091,A1,Tlamachtiliztli 4 Īxnēzcayotl huan tlapōhualiztli (Colors and Numbers),Quezqui ahāhuilli eltoc,¿Quezqui ahāhuilli eltoc?,0.95
+FCN-CXN-000092,A1,Tlamachtiliztli 4 Īxnēzcayotl huan tlapōhualiztli (Colors and Numbers),Quēzqui cuaxilotl eltoc huan tlen īīxnezca,¿Quēzqui cuaxilotl eltoc huan tlen īīxnezca?,0.95
+FCN-CXN-000093,A1,Tlamachtiliztli 4 Īxnēzcayotl huan tlapōhualiztli (Colors and Numbers),Eltoc mācuilli cuaxilotl huan īīxnēzca cōztic,Eltoc mācuilli cuaxilotl huan īīxnēzca cōztic.,0.95
+FCN-CXN-000094,A1,Tlamachtiliztli 4 Īxnēzcayotl huan tlapōhualiztli (Colors and Numbers),Quezqui alaxox oncah huan tlen īīxnezca,¿Quezqui alaxox oncah huan tlen īīxnezca?,0.95
+FCN-CXN-000095,A1,Tlamachtiliztli 4 Īxnēzcayotl huan tlapōhualiztli (Colors and Numbers),Oncah chicuacē alaxox huan īīxnēzca āchīlcōz,Oncah chicuacē alaxox huan īīxnēzca āchīlcōz.,0.95
+FCN-CXN-000096,A1,Tlamachtiliztli 4 Īxnēzcayotl huan tlapōhualiztli (Colors and Numbers),Quēzqui manzanaz eltoc pan cuamezah,¿Quēzqui manzanaz eltoc pan cuamezah?,0.95
+FCN-CXN-000097,A1,Tlamachtiliztli 4 Īxnēzcayotl huan tlapōhualiztli (Colors and Numbers),Quēzqui chalchocotl oncah huan tlen īīxnēzca,¿Quēzqui chalchocotl oncah huan tlen īīxnēzca?,0.95
+FCN-CXN-000098,A1,Tlamachtiliztli 4 Īxnēzcayotl huan tlapōhualiztli (Colors and Numbers),Oncah chicuēyi chalchocotl huan īīxnēzca cōztic,Oncah chicuēyi chalchocotl huan īīxnēzca cōztic.,0.95
+FCN-CXN-000099,A1,Tlamachtiliztli 4 Īxnēzcayotl huan tlapōhualiztli (Colors and Numbers),Quēzqui āmoxtli eltoc pan īxcopincayōtl,¿Quēzqui āmoxtli eltoc pan īxcopincayōtl?,0.95
+FCN-CXN-000100,A1,Tlamachtiliztli 4 Īxnēzcayotl huan tlapōhualiztli (Colors and Numbers),Eltoc chiucnahui āmoxtli,Eltoc chiucnahui āmoxtli.,0.95
+FCN-CXN-000101,A2,Tlamachtiliztli 4 Īxnēzcayotl huan tlapōhualiztli (Colors and Numbers),Quezqui ezferaz tiquitta,¿Quezqui ezferaz tiquitta?,0.95
+FCN-CXN-000102,A2,Tlamachtiliztli 4 Īxnēzcayotl huan tlapōhualiztli (Colors and Numbers),Niquitta mahtlactli ezferaz,Niquitta mahtlactli ezferaz.,0.95
+FCN-CXN-000103,A2,Tlamachtiliztli 4 Īxnēzcayotl huan tlapōhualiztli (Colors and Numbers),Tlapōhualiztli mahtlactli huan cē cēmpohualli The names of the numbers -,"Tlapōhualiztli: mahtlactli huan cē — cēmpohualli (The names of the numbers, 11-20)",0.95
+FCN-CXN-000104,A2,Tlamachtiliztli 4 Īxnēzcayotl huan tlapōhualiztli (Colors and Numbers),Huēyi tlapōhualiztli Big numbers,Huēyi tlapōhualiztli (Big numbers),0.95
+FCN-CXN-000105,A2,Tlamachtiliztli 4 Īxnēzcayotl huan tlapōhualiztli (Colors and Numbers),ōmpōhualli fourty x,ōmpōhualli “fourty” (2 x 20),0.95
+FCN-CXN-000106,A2,Tlamachtiliztli 4 Īxnēzcayotl huan tlapōhualiztli (Colors and Numbers),Xicnanquili tlahtlaniliztli Respond to these questions,Xicnanquili tlahtlaniliztli (Respond to these questions),0.95
+FCN-CXN-000107,A2,Tlamachtiliztli 4 Īxnēzcayotl huan tlapōhualiztli (Colors and Numbers),Quēzqui xīhuitl ticpiya How old are you Quēzqui tlicolli nicpiya How many,¿Quēzqui xīhuitl ticpiya? How old are you? ¿Quēzqui tlicolli nicpiya? How many pencils/pens do I have? ¿Tlen īīxnēzca tlicolli? What color is the pencil/pen? ¿Quēzqui xōchitl quipiya? How many flowers does she have? ¿Tlen īīxnēzca xōchitl? What color is the flower?,0.7756000000000001
+FCN-CXN-000108,A2,Tlamachtiliztli 5 Cehcen inintequiuh (The Professions),Xōchipitzāhuatl Instrumental con El Tr o Colatl n del T o Laco,Xōchipitzāhuatl Instrumental con El Trío Colatlán del Tío Laco CC BY Annette Fradera,0.6375
+FCN-CXN-000109,A2,Tlamachtiliztli 5 Cehcen inintequiuh (The Professions),A Piyali Catalina tlen titequiti ta,"A: Piyali Catalina, ¿tlen titequiti ta?",0.7833
+FCN-CXN-000110,A2,Tlamachtiliztli 5 Cehcen inintequiuh (The Professions),B Nitlamachtia nāhuatl Huan ta,B: Nitlamachtia nāhuatl. ¿Huan ta?,0.95
+FCN-CXN-000111,A2,Tlamachtiliztli 5 Cehcen inintequiuh (The Professions),A Na nocca nimomachtihquetl Nimomachtia tlapōhualiztli,A: Na nocca nimomachtihquetl. Nimomachtia tlapōhualiztli.,0.95
+FCN-CXN-000112,A2,Tlamachtiliztli 5 Cehcen inintequiuh (The Professions),B Cualtitoc nocca mītzpolohua,"B: Cualtitoc, nocca mītzpolohua.",0.95
+FCN-CXN-000113,A2,Tlamachtiliztli 5 Cehcen inintequiuh (The Professions),B I teach Nahuatl And you,B: I teach Nahuatl. And you?,0.7833
+FCN-CXN-000114,A2,Tlamachtiliztli 5 Cehcen inintequiuh (The Professions),tlachpana to sweep tlachpānquetl one who sweeps tlachpanānih those who sweep,tlachpana (to sweep) → tlachpānquetl (one who sweeps) → tlachpanānih (those who sweep),0.8136
+FCN-CXN-000115,A2,Tlamachtiliztli 5 Cehcen inintequiuh (The Professions),nimomachtihquetl I am a student,nimomachtihquetl “I am a student”,0.65
+FCN-CXN-000116,A2,Tlamachtiliztli 5 Cehcen inintequiuh (The Professions),timomachtihquetl you are a student,timomachtihquetl “you are a student”,0.65
+FCN-CXN-000117,A2,Tlamachtiliztli 5 Cehcen inintequiuh (The Professions),momachtihquetl he she is a student,momachtihquetl “he/she is a student”,0.6167
+FCN-CXN-000118,A2,Tlamachtiliztli 5 Cehcen inintequiuh (The Professions),timomachtianih we are students,timomachtianih “we are students”,0.7
+FCN-CXN-000119,A2,Tlamachtiliztli 5 Cehcen inintequiuh (The Professions),inmomachtianih you all are students,inmomachtianih “you all are students”,0.65
+FCN-CXN-000120,A2,Tlamachtiliztli 5 Cehcen inintequiuh (The Professions),momachtianih they are students,momachtianih “they are students”,0.7
+FCN-CXN-000121,A2,Tlamachtiliztli 5 Cehcen inintequiuh (The Professions),nitlachpānquetl I am a street sweeper,nitlachpānquetl “I am a street sweeper”,0.7833
+FCN-CXN-000122,A2,Tlamachtiliztli 5 Cehcen inintequiuh (The Professions),titlachpānquetl you are a street sweeper,titlachpānquetl “you are a street sweeper”,0.7833
+FCN-CXN-000123,A2,Tlamachtiliztli 5 Cehcen inintequiuh (The Professions),tlachpānquetl he she is a street sweeper,tlachpānquetl “he/she is a street sweeper”,0.7357
+FCN-CXN-000124,A2,Tlamachtiliztli 5 Cehcen inintequiuh (The Professions),titlachpānanih we are street sweepers,titlachpānanih “we are street sweepers”,0.8500000000000001
+FCN-CXN-000125,A2,Tlamachtiliztli 5 Cehcen inintequiuh (The Professions),intlachpānanih you all are street sweepers,intlachpānanih “you all are street sweepers”,0.7833
+FCN-CXN-000126,A2,Tlamachtiliztli 5 Cehcen inintequiuh (The Professions),tlachpānanih they are street sweepers,tlachpānanih “they are street sweepers”,0.8500000000000001
+FCN-CXN-000127,A2,Tlamachtiliztli 5 Cehcen inintequiuh (The Professions),Here we present other titles related to professions,Here we present other titles related to professions:,0.575
+FCN-CXN-000128,A2,Tlamachtiliztli 5 Cehcen inintequiuh (The Professions),Tlamachtihquetl teacher tlamachtia to teach tlamachtianih teachers,Tlamachtihquetl (teacher) → tlamachtia (to teach) → tlamachtianih (teachers),0.95
+FCN-CXN-000129,A2,Tlamachtiliztli 6 Tlachīhualiztli tlen ax quimānēxtia cē tlamantli (Intransitive Verbs),Tlamānēxtilli ahāhuiltiliztli tlen tlachīhualiztli huan cē tlahtolpāmitl Example with the conjugation of,Tlamānēxtilli ahāhuiltiliztli tlen tlachīhualiztli huan cē tlahtolpāmitl (Example with the conjugation of verbs and a sentence),0.95
+FCN-CXN-000130,A2,Tlamachtiliztli 6 Tlachīhualiztli tlen ax quimānēxtia cē tlamantli (Intransitive Verbs),ēhua to be from come from,"/ēhua/ “to be from, come from”",0.7833
+FCN-CXN-000131,A2,Tlamachtiliztli 6 Tlachīhualiztli tlen ax quimānēxtia cē tlamantli (Intransitive Verbs),Niēhua Mexco I am from Mexico,Niēhua Mexco. “I am from Mexico.”,0.7833
+FCN-CXN-000132,A2,Tlamachtiliztli 6 Tlachīhualiztli tlen ax quimānēxtia cē tlamantli (Intransitive Verbs),Nitequiti caltlamachtiloyan I work at school,Nitequiti caltlamachtiloyan. “I work at school.”,0.95
+FCN-CXN-000133,A2,Tlamachtiliztli 6 Tlachīhualiztli tlen ax quimānēxtia cē tlamantli (Intransitive Verbs),Nimomachtia nāhuatl I study Nahuatl,Nimomachtia nāhuatl. “I study Nahuatl.”,0.95
+FCN-CXN-000134,A2,Tlamachtiliztli 6 Tlachīhualiztli tlen ax quimānēxtia cē tlamantli (Intransitive Verbs),Nitlamachtia nāhuatl īcā yāhuatzinco I teach Nahuatl in the morning,Nitlamachtia nāhuatl īcā yāhuatzinco. “I teach Nahuatl in the morning.”,0.95
+FCN-CXN-000135,A2,Tlamachtiliztli 6 Tlachīhualiztli tlen ax quimānēxtia cē tlamantli (Intransitive Verbs),Na nicōchi pan mahtlactli huan ōme cāhuitl,Na nicōchi pan mahtlactli huan ōme cāhuitl.”,0.95
+FCN-CXN-000136,A2,Tlamachtiliztli 6 Tlachīhualiztli tlen ax quimānēxtia cē tlamantli (Intransitive Verbs),Māltia to bathe shower,"/Māltia/ “to bathe, shower”",0.95
+FCN-CXN-000137,A2,Tlamachtiliztli 7 Quēn moxēloa tōnatiuh (How to divide up the day),Mercado de Chicontepec CC BY COERLL Nahuatl,Mercado de Chicontepec CC BY COERLL Nahuatl,0.7357
+FCN-CXN-000138,A2,Tlamachtiliztli 7 Quēn moxēloa tōnatiuh (How to divide up the day),tlayo huaya it is almost night,tlayo9huaya “it is almost night”,0.7833
+FCN-CXN-000139,A2,Tlamachtiliztli 7 Quēn moxēloa tōnatiuh (How to divide up the day),tlapoyauhcan it is evening,tlapoyauhcan “it is evening”,0.7
+FCN-CXN-000140,A2,Tlamachtiliztli 7 Quēn moxēloa tōnatiuh (How to divide up the day),nelyāhuatzinco very early,nelyāhuatzinco “very early”,0.95
+FCN-CXN-000141,A2,Tlamachtiliztli 7 Quēn moxēloa tōnatiuh (How to divide up the day),Tlamānēxtilli Ce Example One,Tlamānēxtilli Ce (Example One),0.95
+FCN-CXN-000142,A2,Tlamachtiliztli 7 Quēn moxēloa tōnatiuh (How to divide up the day),cā yāhuatzinco Juana mēhua pan chicuacē cāhuitl tlen achtohui quichīhua mīxxamia huan,"Īcā yāhuatzinco Juana mēhua pan chicuacē cāhuitl tlen achtohui quichīhua mīxxamia huan motlancochpahpāca. Teipan quimāna īcafen noque molōni, ya mopatla, quēmman eltocca īcafen quiōni.",0.95
+FCN-CXN-000143,A2,Tlamachtiliztli 7 Quēn moxēloa tōnatiuh (How to divide up the day),Answer the following questions,Answer the following questions:,0.7
+FCN-CXN-000144,A2,Tlamachtiliztli 7 Quēn moxēloa tōnatiuh (How to divide up the day),Tlen cāhuitl mēhua Juana,Tlen cāhuitl mēhua Juana?,0.95
+FCN-CXN-000145,A2,Tlamachtiliztli 7 Quēn moxēloa tōnatiuh (How to divide up the day),Tlen quichīhua Juana achtohui,Tlen quichīhua Juana achtohui?,0.95
+FCN-CXN-000146,A2,Tlamachtiliztli 7 Quēn moxēloa tōnatiuh (How to divide up the day),Tlamānēxtilli me Example Two,Tlamānēxtilli Ōme (Example Two),0.95
+FCN-CXN-000147,A2,Tlamachtiliztli 7 Quēn moxēloa tōnatiuh (How to divide up the day),Maria tlahcōtona tlacualchīhua huanya inanān inanān quimāna etl huan Maria quitehtequi chīlli,"Maria tlahcōtona tlacualchīhua huanya inanān, inanān quimāna etl huan Maria quitehtequi chīlli, colantoh huan cebollah. Quēmman iuccicca etl inanān quitzoyōnia, huan Maria pēhua tlatehtēca. Teipan tlacuāh.",0.95
+FCN-CXN-000148,A2,Tlamachtiliztli 7 Quēn moxēloa tōnatiuh (How to divide up the day),Answer the following questions,Answer the following questions:,0.7
+FCN-CXN-000149,A2,Tlamachtiliztli 7 Quēn moxēloa tōnatiuh (How to divide up the day),Tlahcotōna Maria huanya,Tlahcotōna _____________Maria huanya __________.,0.95
+FCN-CXN-000150,A2,Tlamachtiliztli 7 Quēn moxēloa tōnatiuh (How to divide up the day),Maria chīlli huan,"Maria _________ chīlli, ____________ huan _______________.",0.95
+FCN-CXN-000151,A2,Tlamachtiliztli 7 Quēn moxēloa tōnatiuh (How to divide up the day),cquiya quitzoyōnia etl,Ācquiya quitzoyōnia etl? _________________.,0.95
+FCN-CXN-000152,A2,Tlamachtiliztli 7 Quēn moxēloa tōnatiuh (How to divide up the day),Tlamānēxtilli yi Example Three,Tlamānēxtilli Ēyi (Example Three),0.95
+FCN-CXN-000153,A2,Tlamachtiliztli 7 Quēn moxēloa tōnatiuh (How to divide up the day),Ram n quēmman itztoc mīllah cemilhuitl huan quēmman quinequi mocuapaz īchān zan,Ramón quēmman itztoc mīllah cemilhuitl huan quēmman quinequi mocuapaz īchān zan quiitta ītōnal īcā tōnatiuh cānin eltoc huan moilliz eltoc nahui cāhuitl tiotlac. Inihhuantin axcanah mocahcayāhuah. Huan quēmman ax quīza tōnatiuh nouhquiya inihhuantin quinehnehuiah zan iuhquinon.,0.95
+FCN-CXN-000154,A2,Tlamachtiliztli 7 Quēn moxēloa tōnatiuh (How to divide up the day),Answer the following questions,Answer the following questions:,0.7
+FCN-CXN-000155,A2,Tlamachtiliztli 7 Quēn moxēloa tōnatiuh (How to divide up the day),Tlen quichīhua Ram n para quimatiz tlen cāhuitl,Tlen quichīhua Ramón para quimatiz tlen cāhuitl?,0.95
+FCN-CXN-000156,A2,Tlamachtiliztli 7 Quēn moxēloa tōnatiuh (How to divide up the day),Tlen quiitta Ram n quēmman quinequi mocuapaz īchān,Tlen quiitta Ramón quēmman quinequi mocuapaz īchān?,0.95
+FCN-CXN-000157,A2,Tlamachtiliztli 7 Quēn moxēloa tōnatiuh (How to divide up the day),Tlamānēxtilli Nahui Example Four,Tlamānēxtilli Nahui (Example Four),0.95
+FCN-CXN-000158,A2,Tlamachtiliztli 7 Quēn moxēloa tōnatiuh (How to divide up the day),Pan tlayōhua niccuā cē pantzin huan nicōni cafen teipan nicchīhua chāntequitl huan,"Pan tlayōhua niccuā cē pantzin huan nicōni cafen, teipan nicchīhua chāntequitl huan quēmman niman nitlami nouhquiya nitlahtzoma cē quēntzin. Quēmman nicochihza niquitta tlamāhuizolli.",0.95
+FCN-CXN-000159,A2,Tlamachtiliztli 7 Quēn moxēloa tōnatiuh (How to divide up the day),Choose the correct answer,Choose the correct answer:,0.7
+FCN-CXN-000160,A2,Tlamachtiliztli 7 Quēn moxēloa tōnatiuh (How to divide up the day),Tlen niccuā tlayōhua a tlaxcalli b pantzin huan chocolātl c pantzin huan,1. Tlen niccuā tlayōhua? a) tlaxcalli b) pantzin huan chocolātl c) pantzin huan cafen 2. Tlen nicchīhua teipan quēmman tlami niccuā pantzin huan cafen? a) nitlahtzoma b) chāntequitl c) tlamāhuizoa 3. Tlen nicchīhua quēmman nicochihza? a) tlahtzoma b) tlamāhuizoa c) tlacuā,0.95
+FCN-CXN-000161,A2,Tlamachtiliztli 8 Noyōllo (Possessive markers),Motocaxtilli tlen quipoz iteco Possessive pronouns,Motocaxtilli tlen quipoz iteco (Possessive pronouns),0.7833
+FCN-CXN-000162,A2,Tlamachtiliztli 8 Noyōllo (Possessive markers),no substantive base uh hui,no – (substantive base) – ø /uh /hui,0.8500000000000001
+FCN-CXN-000163,A2,Tlamachtiliztli 8 Noyōllo (Possessive markers),mo substantive base uh hui,mo – (substantive base) – ø /uh /hui,0.8500000000000001
+FCN-CXN-000164,A2,Tlamachtiliztli 8 Noyōllo (Possessive markers),i substantive base uh hui,i – (substantive base) – ø /uh /hui,0.8500000000000001
+FCN-CXN-000165,A2,Tlamachtiliztli 8 Noyōllo (Possessive markers),to substantive base hua,to – (substantive base) – hua,0.7
+FCN-CXN-000166,A2,Tlamachtiliztli 8 Noyōllo (Possessive markers),inmo substantive base hua,inmo – (substantive base) – hua,0.7
+FCN-CXN-000167,A2,Tlamachtiliztli 8 Noyōllo (Possessive markers),inin substantive base hua,inin – (substantive base) – hua,0.7
+FCN-CXN-000168,A2,Tlamachtiliztli 8 Noyōllo (Possessive markers),Tlamānēxtilli īcā tlahtolli Example with words,Tlamānēxtilli īcā tlahtolli (Example with words),0.95
+FCN-CXN-000169,A2,Tlamachtiliztli 8 Noyōllo (Possessive markers),Tlamānēxtilli īcā cequin pāmeh Examples with sentences,Tlamānēxtilli īcā cequin pāmeh (Examples with sentences),0.95
+FCN-CXN-000170,A2,Tlamachtiliztli 8 Noyōllo (Possessive markers),Noconēhuan mohmōztlah yohuih caltlamachtiloyan,Noconēhuan mohmōztlah yohuih caltlamachtiloyan.,0.95
+FCN-CXN-000171,A2,Tlamachtiliztli 8 Noyōllo (Possessive markers),Mi children go to school everyday,Mi children go to school everyday.,0.7833
+FCN-CXN-000172,A2,Tlamachtiliztli 8 Noyōllo (Possessive markers),Mar a quicocōa īicxi pampa momāquilih,María quicocōa īicxi pampa momāquilih.,0.95
+FCN-CXN-000173,A2,Tlamachtiliztli 8 Noyōllo (Possessive markers),Nopitzohuan quicuāh miac cīntli,Nopitzohuan quicuāh miac cīntli.,0.95
+FCN-CXN-000174,A2,Tlamachtiliztli 8 Noyōllo (Possessive markers),Felipe yohui mīllah huanya īchichi,Felipe yohui mīllah huanya īchichi.,0.95
+FCN-CXN-000175,A2,Tlamachtiliztli 8 Noyōllo (Possessive markers),Tlen ītōcah achi tlen totlācayo What are the names of the parts,¿Tlen ītōcah achi tlen totlācayo? (What are the names of the parts of our body?),0.8500000000000001
+FCN-CXN-000176,A2,Tlamachtiliztli 8 Noyōllo (Possessive markers),Answer the following questions,Answer the following questions,0.7
+FCN-CXN-000177,A2,Tlamachtiliztli 8 Noyōllo (Possessive markers),Quēniuhqui ītōcah tlen īcā tinehnemi,1. Quēniuhqui ītōcah tlen īcā tinehnemi?,0.95
+FCN-CXN-000178,A2,Tlamachtiliztli 8 Noyōllo (Possessive markers),Quēniuhqui ītōcah tlamantli tlen eltoc tlatlahco moihti,2. Quēniuhqui ītōcah tlamantli tlen eltoc tlatlahco moihti?,0.95
+FCN-CXN-000179,A2,Tlamachtiliztli 8 Noyōllo (Possessive markers),Tlen ītōcah tlen eltoc īixco toquechcuayo,3. Tlen ītōcah tlen eltoc īixco toquechcuayo?,0.95
+FCN-CXN-000180,A2,Tlamachtiliztli 8 Noyōllo (Possessive markers),Quēniuhqui ītōcah totlācayo tlen īcā ticcui cē tlamantli,4. Quēniuhqui ītōcah totlācayo tlen īcā ticcui cē tlamantli?,0.95
+FCN-CXN-000181,A2,Tlamachtiliztli 8 Noyōllo (Possessive markers),Tlen itōcah tlen īcā titlacuāh,5. Tlen itōcah tlen īcā titlacuāh?,0.95
+FCN-CXN-000182,A2,Tlamachtiliztli 9 Tēiīxmatcacuahuitl (The Family),Tlamānēxtilli īcā cequin motōcaxtilli tlen quipōz īteco Examples with some possessive pronouns,Tlamānēxtilli īcā cequin motōcaxtilli tlen quipōz īteco (Examples with some possessive pronouns),0.95
+FCN-CXN-000183,A2,Tlamachtiliztli 9 Tēiīxmatcacuahuitl (The Family),nochocho my younger sibling,nochocho “my younger sibling”,0.7
+FCN-CXN-000184,A2,Tlamachtiliztli 9 Tēiīxmatcacuahuitl (The Family),mochocho your younger sibling,mochocho “your younger sibling”,0.7
+FCN-CXN-000185,A2,Tlamachtiliztli 9 Tēiīxmatcacuahuitl (The Family),īchocho his her younger sibling,īchocho “his/her younger sibling”,0.8500000000000001
+FCN-CXN-000186,A2,Tlamachtiliztli 9 Tēiīxmatcacuahuitl (The Family),tochochohuan our younger siblings,tochochohuan “our younger siblings”,0.7
+FCN-CXN-000187,A2,Tlamachtiliztli 9 Tēiīxmatcacuahuitl (The Family),inmochochohuan your plural younger siblings,inmochochohuan “your (plural) younger siblings”,0.65
+FCN-CXN-000188,A2,Tlamachtiliztli 9 Tēiīxmatcacuahuitl (The Family),ininchochohuan their younger siblings,ininchochohuan “their younger siblings”,0.7
+FCN-CXN-000189,A2,Tlamachtiliztli 9 Tēiīxmatcacuahuitl (The Family),inmotlayihuan your plural uncles,inmotlayihuan “your (plural) uncles”,0.7
+FCN-CXN-000190,A2,Tlamachtiliztli 9 Tēiīxmatcacuahuitl (The Family),inintlayihuan their uncles,inintlayihuan “their uncles”,0.7833
+FCN-CXN-000191,A2,Tlamachtiliztli 9 Tēiīxmatcacuahuitl (The Family),īicniuh his her sibling,īicniuh “his/her sibling”,0.95
+FCN-CXN-000192,A2,Tlamachtiliztli 9 Tēiīxmatcacuahuitl (The Family),toicnihuan our siblings,toicnihuan “our siblings”,0.7833
+FCN-CXN-000193,A2,Tlamachtiliztli 9 Tēiīxmatcacuahuitl (The Family),inmoicnihuan you all’s siblings,inmoicnihuan “you all’s siblings”,0.7
+FCN-CXN-000194,A2,Tlamachtiliztli 9 Tēiīxmatcacuahuitl (The Family),ininicnihuan their siblings,ininicnihuan “their siblings”,0.7833
+FCN-CXN-000195,A2,Tlamachtiliztli 9 Tēiīxmatcacuahuitl (The Family),momachicniuh your cousin,momachicniuh “your cousin”,0.7833
+FCN-CXN-000196,A2,Tlamachtiliztli 9 Tēiīxmatcacuahuitl (The Family),īmachicniuh his her cousin,īmachicniuh “his/her cousin”,0.95
+FCN-CXN-000197,A2,Tlamachtiliztli 9 Tēiīxmatcacuahuitl (The Family),tomachicnihuan our cousins,tomachicnihuan “our cousins”,0.7833
+FCN-CXN-000198,A2,Tlamachtiliztli 9 Tēiīxmatcacuahuitl (The Family),inmomachicnihuan your plural cousins,inmomachicnihuan “your (plural) cousins”,0.7
+FCN-CXN-000199,A2,Tlamachtiliztli 9 Tēiīxmatcacuahuitl (The Family),ininmachicnihuan their cousins,ininmachicnihuan “their cousins”,0.7833
+FCN-CXN-000200,A2,Tlamachtiliztli 9 Tēiīxmatcacuahuitl (The Family),nochocho my younger sibling,nochocho “my younger sibling”,0.7
+FCN-CXN-000201,A2,Tlamachtiliztli 9 Tēiīxmatcacuahuitl (The Family),Answer the following questions,Answer the following questions,0.7
+FCN-CXN-000202,A2,Tlamachtiliztli 9 Tēiīxmatcacuahuitl (The Family),Quēniuhqui inintōcah mototatahhuan,Quēniuhqui inintōcah mototatahhuan?,0.95
+FCN-CXN-000203,A2,Tlamachtiliztli 9 Tēiīxmatcacuahuitl (The Family),Quēniuhqui inintōcah motatahhuan,Quēniuhqui inintōcah motatahhuan?,0.95
+FCN-CXN-000204,A2,Tlamachtiliztli 9 Tēiīxmatcacuahuitl (The Family),Quēniuhquin inintōcah moicnihuan huan quezqui xīhuitl quipiyah,Quēniuhquin inintōcah moicnihuan huan quezqui xīhuitl quipiyah?,0.95
+FCN-CXN-000205,A2,Tlamachtiliztli 9 Tēiīxmatcacuahuitl (The Family),Quezqui mopipihuan ticpiya,Quezqui mopipihuan ticpiya?,0.95
+FCN-CXN-000206,A2,Tlamachtiliztli 9 Tēiīxmatcacuahuitl (The Family),Quezqui momimihuan ticpiya,Quezqui momimihuan ticpiya?,0.95
+FCN-CXN-000207,A2,Tlamachtiliztli 9 Tēiīxmatcacuahuitl (The Family),Quezqui mochochohuan ticpiya,Quezqui mochochohuan ticpiya?,0.95
+FCN-CXN-000208,A2,Tlamachtiliztli 9 Tēiīxmatcacuahuitl (The Family),Find the following words in this word search,Find the following words in this word search.,0.575
+FCN-CXN-000209,A2,Tlamachtiliztli 10 Notlachiyaliz (My Appearance),Sones de Carnaval CC BY Chicometepetl,Sones de Carnaval CC BY Chicometepetl,0.6167
+FCN-CXN-000210,A2,Tlamachtiliztli 10 Notlachiyaliz (My Appearance),Alaxtic huan huehueyac Straight and long,Alaxtic huan huehueyac (Straight and long),0.7833
+FCN-CXN-000211,A2,Tlamachtiliztli 10 Notlachiyaliz (My Appearance),Tlamānēxtilli tlen yancuīc tlahtolli huan pāmeh Examples of new words and sentences,Tlamānēxtilli tlen yancuīc tlahtolli huan pāmeh (Examples of new words and sentences),0.95
+FCN-CXN-000212,A2,Tlamachtiliztli 10 Notlachiyaliz (My Appearance),Na niechcapantzin I am short,Na niechcapantzin “I am short”,0.65
+FCN-CXN-000213,A2,Tlamachtiliztli 10 Notlachiyaliz (My Appearance),Na nihuahcapantic I am tall,Na nihuahcapantic “I am tall”,0.65
+FCN-CXN-000214,A2,Tlamachtiliztli 10 Notlachiyaliz (My Appearance),Na nitomāhuac I am thick fat,Na nitomāhuac “I am thick/fat”,0.7833
+FCN-CXN-000215,A2,Tlamachtiliztli 10 Notlachiyaliz (My Appearance),Na nihuahcapantic I am tall,Na nihuahcapantic “I am tall”,0.65
+FCN-CXN-000216,A2,Tlamachtiliztli 10 Notlachiyaliz (My Appearance),Tequitl ce Xiquiihtoa cehcen īīxnēzca Activity One Say the appearance of each,Tequitl ce: Xiquiihtoa cehcen īīxnēzca (Activity One: Say the appearance of each one),0.8346
+FCN-CXN-000217,A2,Tlamachtiliztli 10 Notlachiyaliz (My Appearance),Mar a Quēniuhqui motlachiyaliz ta,María ¿Quēniuhqui motlachiyaliz ta?,0.95
+FCN-CXN-000218,A2,Tlamachtiliztli 10 Notlachiyaliz (My Appearance),Na nel nihuahcapantic huan achi nitomāhuac,Na nel nihuahcapantic huan achi nitomāhuac.,0.95
+FCN-CXN-000219,A2,Tlamachtiliztli 10 Notlachiyaliz (My Appearance),Xōchitl Quēniuhqui motlachiyaliz ta,"Xōchitl, ¿Quēniuhqui motlachiyaliz ta?",0.95
+FCN-CXN-000220,A2,Tlamachtiliztli 10 Notlachiyaliz (My Appearance),Quēniuhqui ītlachiyaliz ya,¿Quēniuhqui ītlachiyaliz ya?,0.95
+FCN-CXN-000221,B1,Tlamachtiliztli 10 Notlachiyaliz (My Appearance),Tequitl ōme Xiquiihtoa cehcen īīxnēzca i tzoncal Activity Two Say the hair,Tequitl ōme: Xiquiihtoa cehcen īīxnēzca i7tzoncal (Activity Two: Say the hair color of each one),0.8875
+FCN-CXN-000222,B1,Tlamachtiliztli 10 Notlachiyaliz (My Appearance),yayahuīc chocoxtic cafentic chīchīltic Xōchitl Lola Mar a Delia,yayahuīc chocoxtic cafentic chīchīltic Xōchitl Lola María Delia,0.95
+FCN-CXN-000223,B1,Tlamachtiliztli 10 Notlachiyaliz (My Appearance),Tlen īīxnēzca ītzoncal Xōchitl What color is the hair of Xochitl,¿Tlen īīxnēzca ītzoncal Xōchitl? (¿What color is the hair of Xochitl?),0.95
+FCN-CXN-000224,B1,Tlamachtiliztli 10 Notlachiyaliz (My Appearance),Xōchitl īīxnēzca ītzoncal yayahuīc Xochitl’s hair is black,—Xōchitl īīxnēzca ītzoncal yayahuīc. (Xochitl’s hair is black),0.95
+FCN-CXN-000225,B1,Tlamachtiliztli 10 Notlachiyaliz (My Appearance),Tlen īīxnēzca ītzoncal Lola,¿Tlen īīxnēzca ītzoncal Lola?,0.95
+FCN-CXN-000226,B1,Tlamachtiliztli 10 Notlachiyaliz (My Appearance),Tlen īīxnēzca ītzoncal Mar a,¿Tlen īīxnēzca ītzoncal María?,0.95
+FCN-CXN-000227,B1,Tlamachtiliztli 10 Notlachiyaliz (My Appearance),Tlen īīxnēzca ītzoncal Delia,¿Tlen īīxnēzca ītzoncal Delia?,0.95
+FCN-CXN-000228,B1,Tlamachtiliztli 10 Notlachiyaliz (My Appearance),Tequitl ēyi Xiquiihtoa cehcen īīxnēzca īxtiyōl Activity Three Say the eye color,Tequitl ēyi: Xiquiihtoa cehcen īīxnēzca īxtiyōl (Activity Three: Say the eye color of each one),0.9167000000000001
+FCN-CXN-000229,B1,Tlamachtiliztli 10 Notlachiyaliz (My Appearance),Delia īīxnēzca īxtiyol xoxoctic Xōchitl īīxnēzca īxtiyōl cafentic Lola īīxnēzca iixtiyol tzictic,Delia īīxnēzca īxtiyol xoxoctic Xōchitl īīxnēzca īxtiyōl cafentic Lola īīxnēzca iixtiyol tzictic Noīxnēzca noīxtiyōl yayahuīc,0.95
+FCN-CXN-000230,B1,Tlamachtiliztli 10 Notlachiyaliz (My Appearance),Na noīxtiyōl īīxnēzca xoxoctic,1. Na noīxtiyōl īīxnēzca xoxoctic.,0.95
+FCN-CXN-000231,B1,Tlamachtiliztli 10 Notlachiyaliz (My Appearance),Lola īīxnēzca,2. Lola ___________ īīxnēzca __________.,0.95
+FCN-CXN-000232,B1,Tlamachtiliztli 10 Notlachiyaliz (My Appearance),Xochitl īīxnēzca,3. Xochitl ___________ īīxnēzca ___________.,0.95
+FCN-CXN-000233,B1,Tlamachtiliztli 10 Notlachiyaliz (My Appearance),Delia īīxtiyōl,4. Delia īīxtiyōl _________ __________.,0.95
+FCN-CXN-000234,B1,Tlamachtiliztli 10 Notlachiyaliz (My Appearance),totlachiyaliz our appearance,totlachiyaliz “our appearance”,0.7833
+FCN-CXN-000235,B1,Tlamachtiliztli 10 Notlachiyaliz (My Appearance),huahcapantic tall of stature,huahcapantic “tall” (of stature),0.7
+FCN-CXN-000236,B1,Tlamachtiliztli 10 Notlachiyaliz (My Appearance),echcapantzin short of stature,echcapantzin “short” (of stature),0.7
+FCN-CXN-000237,B1,Tlamachtiliztli 11 Quēmman motlahpaloa huan monāhuatihtēhua (When you greet and say farewell),In this lesson we will learn Nahuatl greetings People in Nahua towns,"In this lesson we will learn Nahuatl greetings. People in Nahua towns of Chicontepec, greet each other by hand and they do not look each other in the eyes, especially between a man and a woman. In general, adults do not say each other’s firsts names when greeting.",0.575
+FCN-CXN-000238,B1,Tlamachtiliztli 11 Quēmman motlahpaloa huan monāhuatihtēhua (When you greet and say farewell),B Aah they greet each other tipaxaloti,"B: Aah (they greet each other), ¿tipaxaloti?",0.5929
+FCN-CXN-000239,B1,Tlamachtiliztli 11 Quēmman motlahpaloa huan monāhuatihtēhua (When you greet and say farewell),A Quēna niquittati noichpōcauh,"A: Quēna, niquittati noichpōcauh.",0.95
+FCN-CXN-000240,B1,Tlamachtiliztli 11 Quēmman motlahpaloa huan monāhuatihtēhua (When you greet and say farewell),A Tlen ticchīhuaz mōztla,A: ¿Tlen ticchīhuaz mōztla?,0.95
+FCN-CXN-000241,B1,Tlamachtiliztli 11 Quēmman motlahpaloa huan monāhuatihtēhua (When you greet and say farewell),B Mōztla nipixcaz quēnque,"B: Mōztla nipixcaz, ¿quēnque?",0.95
+FCN-CXN-000242,B1,Tlamachtiliztli 11 Quēmman motlahpaloa huan monāhuatihtēhua (When you greet and say farewell),A Pampa nicnequi niquittaz tlan hueliz tinēchpalehuia,A: Pampa nicnequi niquittaz tlan hueliz tinēchpalehuia.,0.95
+FCN-CXN-000243,B1,Tlamachtiliztli 11 Quēmman motlahpaloa huan monāhuatihtēhua (When you greet and say farewell),B Huan tlen ticchīhuaz,B: ¿Huan tlen ticchīhuaz?,0.95
+FCN-CXN-000244,B1,Tlamachtiliztli 11 Quēmman motlahpaloa huan monāhuatihtēhua (When you greet and say farewell),B Axcanah nihueliz mōztla,B: Axcanah nihueliz mōztla.,0.95
+FCN-CXN-000245,B1,Tlamachtiliztli 11 Quēmman motlahpaloa huan monāhuatihtēhua (When you greet and say farewell),A Then we will see each other later,A: Then we will see each other later.,0.575
+FCN-CXN-000246,B1,Tlamachtiliztli 11 Quēmman motlahpaloa huan monāhuatihtēhua (When you greet and say farewell),B We will see each other,B: We will see each other.,0.6167
+FCN-CXN-000247,B1,Tlamachtiliztli 11 Quēmman motlahpaloa huan monāhuatihtēhua (When you greet and say farewell),Quēmman motlahpaloah moilliah When you greet you say,Quēmman motlahpaloah moilliah (When you greet you say),0.825
+FCN-CXN-000248,B1,Tlamachtiliztli 11 Quēmman motlahpaloa huan monāhuatihtēhua (When you greet and say farewell),Tlen ticchīhua Nitlahtzoma,¿Tlen ticchīhua? Nitlahtzoma.,0.95
+FCN-CXN-000249,B1,Tlamachtiliztli 11 Quēmman motlahpaloa huan monāhuatihtēhua (When you greet and say farewell),Tlen inquichīhuah Titlahtzomah,¿Tlen inquichīhuah? Titlahtzomah.,0.95
+FCN-CXN-000250,B1,Tlamachtiliztli 11 Quēmman motlahpaloa huan monāhuatihtēhua (When you greet and say farewell),Titequiti Quēna nitequiti,"¿Titequiti? Quēna, nitequiti.",0.95
+FCN-CXN-000251,B1,Tlamachtiliztli 11 Quēmman motlahpaloa huan monāhuatihtēhua (When you greet and say farewell),Timociahcāhua Quēna Nimociahcahua,¿Timociahcāhua? Quēna. Nimociahcahua.,0.95
+FCN-CXN-000252,B1,Tlamachtiliztli 11 Quēmman motlahpaloa huan monāhuatihtēhua (When you greet and say farewell),Quēmman mācēhualli zan quināhuatihtēhua cē ācahya īnechca quiillia When you say farewell,"Quēmman mācēhualli zan quināhuatihtēhua cē ācahya īnechca quiillia (When you say farewell to someone near to you, you say)",0.8711
+FCN-CXN-000253,B1,Tlamachtiliztli 11 Quēmman motlahpaloa huan monāhuatihtēhua (When you greet and say farewell),Mācēhualli tlen tēnāhuatihtēhua quihtoa The person saying farewell says,Mācēhualli tlen tēnāhuatihtēhua quihtoa (The person saying farewell says),0.95
+FCN-CXN-000254,B1,Tlamachtiliztli 11 Quēmman motlahpaloa huan monāhuatihtēhua (When you greet and say farewell),Mācēhualli cihuātl tlanānquilia quihtoa A woman responds by saying,Mācēhualli cihuātl tlanānquilia quihtoa (A woman responds by saying),0.95
+FCN-CXN-000255,B1,Tlamachtiliztli 11 Quēmman motlahpaloa huan monāhuatihtēhua (When you greet and say farewell),Titlanānquilia cequin tlahtlanliztli Respond to the following greetings,Titlanānquilia cequin tlahtlanliztli (Respond to the following greetings),0.95
+FCN-CXN-000256,B1,Tlamachtiliztli 11 Quēmman motlahpaloa huan monāhuatihtēhua (When you greet and say farewell),A Niyōhua Cihuātl īcā tlācatl,A: Niyōhua (Cihuātl īcā tlācatl),0.95
+FCN-CXN-000257,B1,Tlamachtiliztli 12 Tlachīhualiztli tlen panoz (Future tense and indefinite verbs),Ixcacuatitlan Veracruz CC BY COERLL Nahuatl,Ixcacuatitlan Veracruz CC BY COERLL Nahuatl,0.7833
+FCN-CXN-000258,B1,Tlamachtiliztli 12 Tlachīhualiztli tlen panoz (Future tense and indefinite verbs),Tlachīhualiztli tlen Panoz Verbs in future or indefinite tense,Tlachīhualiztli tlen Panoz (Verbs in future or indefinite tense),0.7833
+FCN-CXN-000259,B1,Tlamachtiliztli 12 Tlachīhualiztli tlen panoz (Future tense and indefinite verbs),Tlamanēxtilli tlen ahāhuitiliztli tlen tlachīhualiztli Example of conjugation of verbs,Tlamanēxtilli tlen ahāhuitiliztli tlen tlachīhualiztli (Example of conjugation of verbs),0.95
+FCN-CXN-000260,B1,Tlamachtiliztli 12 Tlachīhualiztli tlen panoz (Future tense and indefinite verbs),Titequitiz You will work,Titequitiz “You will work”,0.7
+FCN-CXN-000261,B1,Tlamachtiliztli 12 Tlachīhualiztli tlen panoz (Future tense and indefinite verbs),Tequitiz She he will work,Tequitiz “She/he will work”,0.65
+FCN-CXN-000262,B1,Tlamachtiliztli 12 Tlachīhualiztli tlen panoz (Future tense and indefinite verbs),Titequitizceh We will work,Titequitizceh “We will work”,0.7
+FCN-CXN-000263,B1,Tlamachtiliztli 12 Tlachīhualiztli tlen panoz (Future tense and indefinite verbs),Intequitizceh You plural will work,Intequitizceh “You (plural) will work”,0.65
+FCN-CXN-000264,B1,Tlamachtiliztli 12 Tlachīhualiztli tlen panoz (Future tense and indefinite verbs),Tequitizceh They will work,Tequitizceh “They will work”,0.7
+FCN-CXN-000265,B1,Tlamachtiliztli 12 Tlachīhualiztli tlen panoz (Future tense and indefinite verbs),Tlamānēxtilli tlen tlahtolāamitl pan tlachīhualiztli tlen panoz Examples of sentences in future,Tlamānēxtilli tlen tlahtolāamitl pan tlachīhualiztli tlen panoz (Examples of sentences in future tense),0.9115
+FCN-CXN-000266,B1,Tlamachtiliztli 12 Tlachīhualiztli tlen panoz (Future tense and indefinite verbs),Nochocho motlaloz pan caltlamachtihcān,Nochocho motlaloz pan caltlamachtihcān.,0.95
+FCN-CXN-000267,B1,Tlamachtiliztli 12 Tlachīhualiztli tlen panoz (Future tense and indefinite verbs),My brother will run in the school,“My brother will run in the school.”,0.5929
+FCN-CXN-000268,B1,Tlamachtiliztli 12 Tlachīhualiztli tlen panoz (Future tense and indefinite verbs),Mar a huanya ichocho tlachpanāzceh mōztla,María huanya ichocho tlachpanāzceh mōztla.,0.95
+FCN-CXN-000269,B1,Tlamachtiliztli 12 Tlachīhualiztli tlen panoz (Future tense and indefinite verbs),Juan īchān māltizceh tlayōhua,Juan īchān māltizceh tlayōhua.,0.95
+FCN-CXN-000270,B1,Tlamachtiliztli 12 Tlachīhualiztli tlen panoz (Future tense and indefinite verbs),Nochocho huan na nochipa tinehnemizceh īcā tiotlac,Nochocho huan na nochipa tinehnemizceh īcā tiotlac.,0.95
+FCN-CXN-000271,B1,Tlamachtiliztli 12 Tlachīhualiztli tlen panoz (Future tense and indefinite verbs),Mario mihtōtiz huanya īyōltzin pan tlaixpiyalli,Mario mihtōtiz huanya īyōltzin pan tlaixpiyalli.,0.95
+FCN-CXN-000272,B1,Tlamachtiliztli 12 Tlachīhualiztli tlen panoz (Future tense and indefinite verbs),Tequitl tlen momachtianih Exercise for the students,Tequitl tlen momachtianih (Exercise for the students),0.8786
+FCN-CXN-000273,B1,Tlamachtiliztli 12 Tlachīhualiztli tlen panoz (Future tense and indefinite verbs),Mōztla īcā yāhuatzinco nimēhuaz nitlacuāz huan nimopatlaz huanya nochocho Teipan tiyāzceh caltlamachtihcān,"Mōztla īcā yāhuatzinco nimēhuaz, nitlacuāz huan nimopatlaz huanya nochocho. Teipan tiyāzceh caltlamachtihcān. Ne caltlamachtihcān tinehnemizceh huan timotlalozceh. Teipan nochocho huan na timocuapazceh īcā tiotlac huan timāltizceh tochān.",0.95
+FCN-CXN-000274,B1,Tlamachtiliztli 13 Tlachīhualiztli tlen quimānēxtia ācquiya quīchihua cē tlamantli (Verbs with specific object),Cē tlapōhualiztli A story,Cē tlapōhualiztli (A story),0.95
+FCN-CXN-000275,B1,Tlamachtiliztli 13 Tlachīhualiztli tlen quimānēxtia ācquiya quīchihua cē tlamantli (Verbs with specific object),Nonanān tēchmāca cafen yāhuatzinco ticōnih huanya notatah quēmman titlamih notatah quicui īmacheteh,"Nonanān tēchmāca cafen yāhuatzinco, ticōnih huanya notatah, quēmman titlamih notatah quicui īmacheteh, īmorral, ītzonecahuil, īāuh huan yohui mīllah. Notatah nehnemi cē cāhuitl huan ahci īmīllah huan pēhua tequiti cemilhuitl. Tohhuantin īconēhuan tiyohuih caltlamachtihcān, tlamachtianih tēchmachtiah caztiah tlahtolli. Nonanān mocāhua tochān pēhua tlachpāna, tlaxcalchīhua huan tlahcotōna yohui tēchtlamāca.",0.95
+FCN-CXN-000276,B1,Tlamachtiliztli 13 Tlachīhualiztli tlen quimānēxtia ācquiya quīchihua cē tlamantli (Verbs with specific object),Look at the examples of qui below,Look at the examples of /qui/ below:,0.5929
+FCN-CXN-000277,B1,Tlamachtiliztli 13 Tlachīhualiztli tlen quimānēxtia ācquiya quīchihua cē tlamantli (Verbs with specific object),Ni qui base verbal,Ni – qui – (base verbal) – ø,0.7
+FCN-CXN-000278,B1,Tlamachtiliztli 13 Tlachīhualiztli tlen quimānēxtia ācquiya quīchihua cē tlamantli (Verbs with specific object),Ti qui base verbal,Ti – qui – (base verbal) – ø,0.7
+FCN-CXN-000279,B1,Tlamachtiliztli 13 Tlachīhualiztli tlen quimānēxtia ācquiya quīchihua cē tlamantli (Verbs with specific object),Qui base verbal,ø – Qui – (base verbal) – ø,0.7833
+FCN-CXN-000280,B1,Tlamachtiliztli 13 Tlachīhualiztli tlen quimānēxtia ācquiya quīchihua cē tlamantli (Verbs with specific object),Ti qui base verbal h,Ti – qui – (base verbal) – h,0.65
+FCN-CXN-000281,B1,Tlamachtiliztli 13 Tlachīhualiztli tlen quimānēxtia ācquiya quīchihua cē tlamantli (Verbs with specific object),In qui base verbal h,In – qui – (base verbal) – h,0.65
+FCN-CXN-000282,B1,Tlamachtiliztli 13 Tlachīhualiztli tlen quimānēxtia ācquiya quīchihua cē tlamantli (Verbs with specific object),Qui base verbal h,ø – Qui – (base verbal) – h,0.7
+FCN-CXN-000283,B1,Tlamachtiliztli 13 Tlachīhualiztli tlen quimānēxtia ācquiya quīchihua cē tlamantli (Verbs with specific object),Nech base verbal,ø – Nech – (base verbal) – ø,0.7833
+FCN-CXN-000284,B1,Tlamachtiliztli 13 Tlachīhualiztli tlen quimānēxtia ācquiya quīchihua cē tlamantli (Verbs with specific object),Mitz base verbal,ø – Mitz – (base verbal) – ø,0.7833
+FCN-CXN-000285,B1,Tlamachtiliztli 13 Tlachīhualiztli tlen quimānēxtia ācquiya quīchihua cē tlamantli (Verbs with specific object),Tech base verbal,ø – Tech – (base verbal) – ø,0.7833
+FCN-CXN-000286,B1,Tlamachtiliztli 13 Tlachīhualiztli tlen quimānēxtia ācquiya quīchihua cē tlamantli (Verbs with specific object),Quin base verbal,ø – Quin – (base verbal) – ø,0.7833
+FCN-CXN-000287,B1,Tlamachtiliztli 13 Tlachīhualiztli tlen quimānēxtia ācquiya quīchihua cē tlamantli (Verbs with specific object),Tlamanēxtilli ahāhuiltiliztli tlen tlachi hualiztli huan cē tlahtolpāmitl Example with the conjugation,Tlamanēxtilli ahāhuiltiliztli tlen tlachi7hualiztli huan cē tlahtolpāmitl (Example with the conjugation of verbs and a sentence),0.95
+FCN-CXN-000288,B1,Tlamachtiliztli 13 Tlachīhualiztli tlen quimānēxtia ācquiya quīchihua cē tlamantli (Verbs with specific object),Tohhuantin nochipa timītzittah quēmman tiyāuh caltlamachtihcān,Tohhuantin nochipa timītzittah quēmman tiyāuh caltlamachtihcān.,0.95
+FCN-CXN-000289,B1,Tlamachtiliztli 13 Tlachīhualiztli tlen quimānēxtia ācquiya quīchihua cē tlamantli (Verbs with specific object),Inmohuantin ahachica inquimāquiliah inmoconēuh,Inmohuantin ahachica inquimāquiliah inmoconēuh.,0.95
+FCN-CXN-000290,B1,Tlamachtiliztli 13 Tlachīhualiztli tlen quimānēxtia ācquiya quīchihua cē tlamantli (Verbs with specific object),You all hit your child all the time,“You all hit your child all the time.”,0.575
+FCN-CXN-000291,B1,Tlamachtiliztli 13 Tlachīhualiztli tlen quimānēxtia ācquiya quīchihua cē tlamantli (Verbs with specific object),Inihhuantin nēchmācah alaxox tlen quitequih cacalicān,Inihhuantin nēchmācah alaxox tlen quitequih cacalicān.,0.95
+FCN-CXN-000292,B1,Tlamachtiliztli 13 Tlachīhualiztli tlen quimānēxtia ācquiya quīchihua cē tlamantli (Verbs with specific object),Conjugate the following verbs with each object marker above then write one,"Conjugate the following verbs with each object marker above, then write one sentence for each.",0.5833
+FCN-CXN-000293,B1,Tlamachtiliztli 14 Tlachīhualiztli tlen panoc Part 1 (Past Tense Verbs Part 1),ti verbal base queh,ti – (verbal base) – queh,0.7
+FCN-CXN-000294,B1,Tlamachtiliztli 14 Tlachīhualiztli tlen panoc Part 1 (Past Tense Verbs Part 1),in verbal base queh,in – (verbal base) – queh,0.7
+FCN-CXN-000295,B1,Tlamachtiliztli 14 Tlachīhualiztli tlen panoc Part 1 (Past Tense Verbs Part 1),Tlamanēxtilli tlen ahāhuiltiliztli tlen tlachīhualiztli tlen panoc Example of the conjugation of,Tlamanēxtilli tlen ahāhuiltiliztli tlen tlachīhualiztli tlen panoc (Example of the conjugation of verbs),0.95
+FCN-CXN-000296,B1,"Tlamachtiliztli 15 Tlachīhualiztli tlen panoc, Part 2 (Past Tense Verbs Part 2)",ti verbal base queh,ti – (verbal base) – queh,0.7
+FCN-CXN-000297,B1,"Tlamachtiliztli 15 Tlachīhualiztli tlen panoc, Part 2 (Past Tense Verbs Part 2)",in verbal base queh,in – (verbal base) – queh,0.7
+FCN-CXN-000298,B1,"Tlamachtiliztli 15 Tlachīhualiztli tlen panoc, Part 2 (Past Tense Verbs Part 2)",Some Class verbs change drastically especially those ending in hu and cu,"Some Class 2 verbs change drastically, especially those ending in /hu/ and /cu/ and those whose last consonant is /y/, /qu/, /c/, or /m/.",0.6239
+FCN-CXN-000299,B1,"Tlamachtiliztli 15 Tlachīhualiztli tlen panoc, Part 2 (Past Tense Verbs Part 2)",Tlamanēxtilli tlen ahāhuiltiliztli tlen tlachīhualiztli Example of the conjugation of verbs,Tlamanēxtilli tlen ahāhuiltiliztli tlen tlachīhualiztli (Example of the conjugation of verbs),0.95
+FCN-CXN-000300,B1,"Tlamachtiliztli 15 Tlachīhualiztli tlen panoc, Part 2 (Past Tense Verbs Part 2)",Quīzqui She he went out,Quīzqui “She/he went out”,0.8500000000000001
+FCN-CXN-000301,B1,"Tlamachtiliztli 15 Tlachīhualiztli tlen panoc, Part 2 (Past Tense Verbs Part 2)",Inquīzqueh You plural went out,Inquīzqueh “You (plural) went out”,0.8500000000000001
+FCN-CXN-000302,B1,"Tlamachtiliztli 15 Tlachīhualiztli tlen panoc, Part 2 (Past Tense Verbs Part 2)",Nictōcqui I planted cord,Nictōcqui “I planted cord”,0.95
+FCN-CXN-000303,B1,"Tlamachtiliztli 15 Tlachīhualiztli tlen panoc, Part 2 (Past Tense Verbs Part 2)",Tictōcqui You planted corn,Tictōcqui “You planted corn”,0.95
+FCN-CXN-000304,B1,"Tlamachtiliztli 15 Tlachīhualiztli tlen panoc, Part 2 (Past Tense Verbs Part 2)",Quitōcqui She he planted corn,Quitōcqui “She/he planted corn”,0.8500000000000001
+FCN-CXN-000305,B1,"Tlamachtiliztli 15 Tlachīhualiztli tlen panoc, Part 2 (Past Tense Verbs Part 2)",Tictōcqueh We planted corn,Tictōcqueh “We planted corn”,0.95
+FCN-CXN-000306,B1,"Tlamachtiliztli 15 Tlachīhualiztli tlen panoc, Part 2 (Past Tense Verbs Part 2)",Inquitōcqueh You plural planted corn,Inquitōcqueh “You (plural) planted corn”,0.8500000000000001
+FCN-CXN-000307,B1,"Tlamachtiliztli 15 Tlachīhualiztli tlen panoc, Part 2 (Past Tense Verbs Part 2)",Quitōcqueh They planted corn,Quitōcqueh “They planted corn”,0.95
+FCN-CXN-000308,B1,"Tlamachtiliztli 15 Tlachīhualiztli tlen panoc, Part 2 (Past Tense Verbs Part 2)",Tihuelqui You were able,Tihuelqui “You were able”,0.7
+FCN-CXN-000309,B1,"Tlamachtiliztli 15 Tlachīhualiztli tlen panoc, Part 2 (Past Tense Verbs Part 2)",Huelqui She he was able,Huelqui “She/he was able”,0.65
+FCN-CXN-000310,B1,"Tlamachtiliztli 15 Tlachīhualiztli tlen panoc, Part 2 (Past Tense Verbs Part 2)",Tihuelqueh We were able,Tihuelqueh “We were able”,0.7
+FCN-CXN-000311,B1,"Tlamachtiliztli 15 Tlachīhualiztli tlen panoc, Part 2 (Past Tense Verbs Part 2)",Inquihuelqueh You plural were able,Inquihuelqueh “You (plural) were able”,0.65
+FCN-CXN-000312,B1,"Tlamachtiliztli 15 Tlachīhualiztli tlen panoc, Part 2 (Past Tense Verbs Part 2)",Huelqueh They were able,Huelqueh “They were able”,0.7
+FCN-CXN-000313,B1,"Tlamachtiliztli 15 Tlachīhualiztli tlen panoc, Part 2 (Past Tense Verbs Part 2)",Verbs with the last syllables hu and cu,1.Verbs with the last syllables /hu/ and /cu/,0.7
+FCN-CXN-000314,B1,"Tlamachtiliztli 15 Tlachīhualiztli tlen panoc, Part 2 (Past Tense Verbs Part 2)",Niccōhua I buy something,Niccōhua “I buy” (something),0.95
+FCN-CXN-000315,B1,"Tlamachtiliztli 15 Tlachīhualiztli tlen panoc, Part 2 (Past Tense Verbs Part 2)",Nicahcocui I preserve put away something,"Nicahcocui “I preserve, put away” (something)",0.6167
+FCN-CXN-000316,B1,"Tlamachtiliztli 15 Tlachīhualiztli tlen panoc, Part 2 (Past Tense Verbs Part 2)",Nicahcoucqui I preserved put away something,"Nicahcoucqui “I preserved, put away” (something)",0.6167
+FCN-CXN-000317,B1,"Tlamachtiliztli 15 Tlachīhualiztli tlen panoc, Part 2 (Past Tense Verbs Part 2)",Tlamanēxtilli tlen ahāhuiltiliztli tlen tlachīhualiztli Example of the conjugation of verbs,Tlamanēxtilli tlen ahāhuiltiliztli tlen tlachīhualiztli (Example of the conjugation of verbs),0.95
+FCN-CXN-000318,B1,"Tlamachtiliztli 15 Tlachīhualiztli tlen panoc, Part 2 (Past Tense Verbs Part 2)",Ticcōuhqui You bought something,Ticcōuhqui “You bought” (something),0.95
+FCN-CXN-000319,B1,"Tlamachtiliztli 15 Tlachīhualiztli tlen panoc, Part 2 (Past Tense Verbs Part 2)",Quicōuhqui She he bought something,Quicōuhqui “She/he bought” (something),0.8500000000000001
+FCN-CXN-000320,B1,"Tlamachtiliztli 15 Tlachīhualiztli tlen panoc, Part 2 (Past Tense Verbs Part 2)",Ticcōuhqueh We bought something,Ticcōuhqueh “We bought” (something),0.95
+FCN-CXN-000321,B1,"Tlamachtiliztli 15 Tlachīhualiztli tlen panoc, Part 2 (Past Tense Verbs Part 2)",Inquicōuhqueh You plural bought something,Inquicōuhqueh “You (plural) bought” (something),0.8500000000000001
+FCN-CXN-000322,B1,"Tlamachtiliztli 15 Tlachīhualiztli tlen panoc, Part 2 (Past Tense Verbs Part 2)",Quicōuhqueh They bought something,Quicōuhqueh “They bought” (something),0.95
+FCN-CXN-000323,B1,"Tlamachtiliztli 15 Tlachīhualiztli tlen panoc, Part 2 (Past Tense Verbs Part 2)",Nicahcoucqui I preserved put away something,"Nicahcoucqui “I preserved, put away” (something)",0.6167
+FCN-CXN-000324,B1,"Tlamachtiliztli 15 Tlachīhualiztli tlen panoc, Part 2 (Past Tense Verbs Part 2)",Ticahcoucqui You preserved put away something,"Ticahcoucqui “You preserved, put away” (something)",0.6167
+FCN-CXN-000325,B1,"Tlamachtiliztli 15 Tlachīhualiztli tlen panoc, Part 2 (Past Tense Verbs Part 2)",Quiahcoucqui She he preserved put away something,"Quiahcoucqui “She/he preserved, put away” (something)",0.5929
+FCN-CXN-000326,B1,"Tlamachtiliztli 15 Tlachīhualiztli tlen panoc, Part 2 (Past Tense Verbs Part 2)",Ticahcoucqueh We preserved put away something,"Ticahcoucqueh “We preserved, put away” (something)",0.6167
+FCN-CXN-000327,B1,"Tlamachtiliztli 15 Tlachīhualiztli tlen panoc, Part 2 (Past Tense Verbs Part 2)",Inquiahcoucqueh You plural preserved put away something,"Inquiahcoucqueh “You (plural) preserved, put away” (something)",0.5929
+FCN-CXN-000328,B1,"Tlamachtiliztli 15 Tlachīhualiztli tlen panoc, Part 2 (Past Tense Verbs Part 2)",Quiahcoucqueh They preserved put away something,"Quiahcoucqueh “They preserved, put away” (something)",0.6167
+FCN-CXN-000329,B1,"Tlamachtiliztli 15 Tlachīhualiztli tlen panoc, Part 2 (Past Tense Verbs Part 2)",Tlamanēxtilli tlen ahāhuiltiliztli tlen tlachīhualiztli Example of the conjugation of verbs,Tlamanēxtilli tlen ahāhuiltiliztli tlen tlachīhualiztli (Example of the conjugation of verbs),0.95
+FCN-CXN-000330,B1,"Tlamachtiliztli 15 Tlachīhualiztli tlen panoc, Part 2 (Past Tense Verbs Part 2)",Ticpixqui You had something,Ticpixqui “You had” (something),0.7
+FCN-CXN-000331,B1,"Tlamachtiliztli 15 Tlachīhualiztli tlen panoc, Part 2 (Past Tense Verbs Part 2)",Quipixqui She he had something,Quipixqui “She/he had” (something),0.65
+FCN-CXN-000332,B1,"Tlamachtiliztli 15 Tlachīhualiztli tlen panoc, Part 2 (Past Tense Verbs Part 2)",Ticpixqueh We had something,Ticpixqueh “We had” (something),0.7
+FCN-CXN-000333,B1,"Tlamachtiliztli 15 Tlachīhualiztli tlen panoc, Part 2 (Past Tense Verbs Part 2)",Inquipixqueh You plural had something,Inquipixqueh “You (plural) had” (something),0.65
+FCN-CXN-000334,B1,"Tlamachtiliztli 15 Tlachīhualiztli tlen panoc, Part 2 (Past Tense Verbs Part 2)",Quipixqueh They had something,Quipixqueh “They had” (something),0.7
+FCN-CXN-000335,B1,"Tlamachtiliztli 15 Tlachīhualiztli tlen panoc, Part 2 (Past Tense Verbs Part 2)",Tictecqui You cut something,Tictecqui “You cut” (something),0.95
+FCN-CXN-000336,B1,"Tlamachtiliztli 15 Tlachīhualiztli tlen panoc, Part 2 (Past Tense Verbs Part 2)",Quitecqui She he cut something,Quitecqui “She/he cut” (something),0.8500000000000001
+FCN-CXN-000337,B1,"Tlamachtiliztli 15 Tlachīhualiztli tlen panoc, Part 2 (Past Tense Verbs Part 2)",Tictecqueh We cut something,Tictecqueh “We cut” (something),0.95
+FCN-CXN-000338,B1,"Tlamachtiliztli 15 Tlachīhualiztli tlen panoc, Part 2 (Past Tense Verbs Part 2)",Inquitecqueh You plural cut something,Inquitecqueh “You (plural) cut” (something),0.8500000000000001
+FCN-CXN-000339,B1,"Tlamachtiliztli 15 Tlachīhualiztli tlen panoc, Part 2 (Past Tense Verbs Part 2)",Quitecqueh They cut something,Quitecqueh “They cut” (something),0.95
+FCN-CXN-000340,B1,"Tlamachtiliztli 15 Tlachīhualiztli tlen panoc, Part 2 (Past Tense Verbs Part 2)",Titizqui You ground corn,Titizqui “You ground corn”,0.7
+FCN-CXN-000341,B1,"Tlamachtiliztli 15 Tlachīhualiztli tlen panoc, Part 2 (Past Tense Verbs Part 2)",Tizqui She he ground corn,Tizqui “She/he ground corn”,0.65
+FCN-CXN-000342,B1,"Tlamachtiliztli 15 Tlachīhualiztli tlen panoc, Part 2 (Past Tense Verbs Part 2)",Tiquizqueh We ground corn,Tiquizqueh “We ground corn”,0.7
+FCN-CXN-000343,B1,"Tlamachtiliztli 15 Tlachīhualiztli tlen panoc, Part 2 (Past Tense Verbs Part 2)",Intizqueh You plural ground corn,Intizqueh “You (plural) ground corn”,0.65
+FCN-CXN-000344,B1,"Tlamachtiliztli 15 Tlachīhualiztli tlen panoc, Part 2 (Past Tense Verbs Part 2)",Tizqueh She he ground corn,Tizqueh “She/he ground corn”,0.65
+FCN-CXN-000345,B1,"Tlamachtiliztli 15 Tlachīhualiztli tlen panoc, Part 2 (Past Tense Verbs Part 2)",Nehnenqui She he walked,Nehnenqui “She/he walked”,0.7
+FCN-CXN-000346,B1,"Tlamachtiliztli 15 Tlachīhualiztli tlen panoc, Part 2 (Past Tense Verbs Part 2)",Innehnenqueh You plural walked,Innehnenqueh “You (plural) walked”,0.7
+FCN-CXN-000347,B1,Tlamachtiliztli 16 Tlachīhualiztli tlen panoc. Part 3 (Past Tense Verbs Part 3),Account of the feast of lōtlamaliztli CC BY Chicometepetl,Account of the feast of Ēlōtlamaliztli CC BY Chicometepetl,0.7833
+FCN-CXN-000348,B1,Tlamachtiliztli 16 Tlachīhualiztli tlen panoc. Part 3 (Past Tense Verbs Part 3),ni verbal base h hqui,ni – (verbal base) – h/hqui,0.65
+FCN-CXN-000349,B1,Tlamachtiliztli 16 Tlachīhualiztli tlen panoc. Part 3 (Past Tense Verbs Part 3),ti verbal base h hqui,ti – (verbal base) – h/hqui,0.65
+FCN-CXN-000350,B1,Tlamachtiliztli 16 Tlachīhualiztli tlen panoc. Part 3 (Past Tense Verbs Part 3),verbal base h hqui,ø – (verbal base) – h/hqui,0.7

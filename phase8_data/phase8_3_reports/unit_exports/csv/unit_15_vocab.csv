@@ -1,0 +1,55 @@
+priority_id,headword,gloss_en,part_of_speech,first_lesson_number,lesson_frequency,occurrence_count,linked_entry_count,avg_confidence,lessons_json,lesson_number
+FCN-VP-00001,tlen,alternative spelling of tlein,pron,1,32,32,1,0.9,"[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32]",15
+FCN-VP-00003,nahuatl,something having a clear and pleasant sound.,noun,1,16,16,1,0.9,"[1, 2, 3, 4, 5, 6, 7, 9, 11, 12, 14, 15, 16, 20, 28, 29]",15
+FCN-VP-00007,which,,,4,13,13,0,0.4,"[4, 9, 15, 16, 18, 19, 20, 21, 22, 23, 26, 28, 30]",15
+FCN-VP-00008,tlachīhualiztli,,,6,12,12,0,0.4,"[6, 12, 14, 15, 16, 17, 19, 23, 24, 25, 28, 31]",15
+FCN-VP-00009,tlamanēxtilli,,,12,12,12,0,0.4,"[12, 13, 14, 15, 16, 17, 19, 20, 23, 24, 25, 32]",15
+FCN-VP-00012,ahāhuiltiliztli,,,6,9,9,0,0.4,"[6, 13, 14, 15, 16, 17, 20, 24, 25]",15
+FCN-VP-00040,change,,,5,4,4,0,0.4,"[5, 15, 25, 31]",15
+FCN-VP-00083,cut,,,13,3,3,0,0.4,"[13, 15, 22]",15
+FCN-VP-00160,queh,,,14,2,2,0,0.4,"[14, 15]",15
+FCN-VP-00161,-qui,person or thing that does an action indicated by the root verb; used to form an agent noun.,suffix,15,2,2,1,0.9,"[15, 26]",15
+FCN-VP-00162,quīzqui,,,15,2,2,0,0.4,"[15, 31]",15
+FCN-VP-00451,-queh,Used to form the plural of absolutive noun forms.,suffix,15,1,1,1,0.9,[15],15
+FCN-VP-00452,huelqueh,,,15,1,1,0,0.4,[15],15
+FCN-VP-00453,huelqui,,,15,1,1,0,0.4,[15],15
+FCN-VP-00454,innehnenqueh,,,15,1,1,0,0.4,[15],15
+FCN-VP-00455,inquiahcoucqueh,,,15,1,1,0,0.4,[15],15
+FCN-VP-00456,inquicōuhqueh,,,15,1,1,0,0.4,[15],15
+FCN-VP-00457,inquihuelqueh,,,15,1,1,0,0.4,[15],15
+FCN-VP-00458,inquipixqueh,,,15,1,1,0,0.4,[15],15
+FCN-VP-00459,inquitecqueh,,,15,1,1,0,0.4,[15],15
+FCN-VP-00460,inquitōcqueh,,,15,1,1,0,0.4,[15],15
+FCN-VP-00461,inquīzqueh,,,15,1,1,0,0.4,[15],15
+FCN-VP-00462,intizqueh,,,15,1,1,0,0.4,[15],15
+FCN-VP-00463,nehnenqui,,,15,1,1,0,0.4,[15],15
+FCN-VP-00464,nicahcocui,,,15,1,1,0,0.4,[15],15
+FCN-VP-00465,nicahcoucqui,,,15,1,1,0,0.4,[15],15
+FCN-VP-00466,niccōhua,,,15,1,1,0,0.4,[15],15
+FCN-VP-00467,nictōcqui,,,15,1,1,0,0.4,[15],15
+FCN-VP-00468,quiahcoucqueh,,,15,1,1,0,0.4,[15],15
+FCN-VP-00469,quiahcoucqui,,,15,1,1,0,0.4,[15],15
+FCN-VP-00470,quicōuhqueh,,,15,1,1,0,0.4,[15],15
+FCN-VP-00471,quicōuhqui,,,15,1,1,0,0.4,[15],15
+FCN-VP-00472,quipixqueh,,,15,1,1,0,0.4,[15],15
+FCN-VP-00473,quipixqui,,,15,1,1,0,0.4,[15],15
+FCN-VP-00474,quitecqueh,,,15,1,1,0,0.4,[15],15
+FCN-VP-00475,quitecqui,,,15,1,1,0,0.4,[15],15
+FCN-VP-00476,quitōcqueh,,,15,1,1,0,0.4,[15],15
+FCN-VP-00477,quitōcqui,,,15,1,1,0,0.4,[15],15
+FCN-VP-00478,ticahcoucqueh,,,15,1,1,0,0.4,[15],15
+FCN-VP-00479,ticahcoucqui,,,15,1,1,0,0.4,[15],15
+FCN-VP-00480,ticcōuhqueh,,,15,1,1,0,0.4,[15],15
+FCN-VP-00481,ticcōuhqui,,,15,1,1,0,0.4,[15],15
+FCN-VP-00482,ticpixqueh,,,15,1,1,0,0.4,[15],15
+FCN-VP-00483,ticpixqui,,,15,1,1,0,0.4,[15],15
+FCN-VP-00484,tictecqueh,,,15,1,1,0,0.4,[15],15
+FCN-VP-00485,tictecqui,,,15,1,1,0,0.4,[15],15
+FCN-VP-00486,tictōcqueh,,,15,1,1,0,0.4,[15],15
+FCN-VP-00487,tictōcqui,,,15,1,1,0,0.4,[15],15
+FCN-VP-00488,tihuelqueh,,,15,1,1,0,0.4,[15],15
+FCN-VP-00489,tihuelqui,,,15,1,1,0,0.4,[15],15
+FCN-VP-00490,tiquizqueh,,,15,1,1,0,0.4,[15],15
+FCN-VP-00491,titizqui,,,15,1,1,0,0.4,[15],15
+FCN-VP-00492,tizqueh,,,15,1,1,0,0.4,[15],15
+FCN-VP-00493,tizqui,,,15,1,1,0,0.4,[15],15

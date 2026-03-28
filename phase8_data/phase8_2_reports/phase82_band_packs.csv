@@ -1,0 +1,5 @@
+pack_code,pack_label,target_band,lesson_numbers_json,lesson_count,focus_description
+A1_CORE,A1 Core Units,A1,"[1, 2, 3, 11, 12, 13, 20, 21, 22, 23, 30, 31, 32]",13,"Foundational pronunciation, interaction, and core everyday routines."
+A2_EXPANSION,A2 Expansion Units,A2,"[4, 5, 14, 15, 24, 25]",6,Expanded descriptive and transactional capacity in familiar domains.
+B1_CONVERSATION,B1 Conversation Units,B1,"[6, 7, 8, 9, 10, 16, 17, 18, 19, 26, 27, 28, 29]",13,"Longer guided conversations, narration, and morphosyntactic expansion."
+B2_BRIDGE,B2 Bridge Units,B2,"[6, 7, 8, 9, 10, 16, 19, 29]",8,Bridge pack built from the densest B1 lessons for extended controlled speaking.

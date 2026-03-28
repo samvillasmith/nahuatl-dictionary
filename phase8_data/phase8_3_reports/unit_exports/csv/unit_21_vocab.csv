@@ -1,0 +1,61 @@
+priority_id,headword,gloss_en,part_of_speech,first_lesson_number,lesson_frequency,occurrence_count,linked_entry_count,avg_confidence,lessons_json,lesson_number
+FCN-VP-00001,tlen,alternative spelling of tlein,pron,1,32,32,1,0.9,"[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32]",21
+FCN-VP-00002,huan,and,conj,2,24,24,1,0.9,"[2, 3, 4, 5, 6, 7, 9, 10, 11, 12, 13, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 29, 31]",21
+FCN-VP-00004,tequitl,work,noun,10,16,16,1,0.9,"[10, 12, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 31]",21
+FCN-VP-00006,cequin,,,8,14,14,0,0.4,"[8, 9, 11, 17, 19, 21, 24, 25, 26, 27, 29, 30, 31, 32]",21
+FCN-VP-00007,which,,,4,13,13,0,0.4,"[4, 9, 15, 16, 18, 19, 20, 21, 22, 23, 26, 28, 30]",21
+FCN-VP-00010,questions,,,2,11,11,0,0.4,"[2, 4, 7, 8, 9, 18, 19, 21, 22, 29, 31]",21
+FCN-VP-00015,chicontepec,"Chicontepec (the largest city in the state of Veracruz, Mexico)",name,3,7,7,1,0.9,"[3, 7, 11, 21, 22, 27, 32]",21
+FCN-VP-00020,tlamantli,thing.,noun,8,7,7,1,0.9,"[8, 19, 21, 22, 27, 29, 31]",21
+FCN-VP-00021,each,,,10,7,7,0,0.4,"[10, 11, 13, 17, 21, 27, 29]",21
+FCN-VP-00025,achtohui,first.,adj,7,6,6,1,0.9,"[7, 19, 21, 22, 29, 31]",21
+FCN-VP-00037,quezqui,how much?,adv,4,4,4,1,0.9,"[4, 9, 21, 27]",21
+FCN-VP-00041,itztoc,to be.,verb,7,4,4,1,0.9,"[7, 21, 24, 30]",21
+FCN-VP-00051,tiotlac,evening,noun,12,4,4,1,0.9,"[12, 21, 22, 24]",21
+FCN-VP-00056,noque,,,19,4,4,0,0.4,"[19, 21, 22, 31]",21
+FCN-VP-00058,monequi,,,21,4,4,0,0.4,"[21, 22, 29, 31]",21
+FCN-VP-00059,xiquihcuilo,,,21,4,4,0,0.4,"[21, 22, 29, 31]",21
+FCN-VP-00069,tlahtlaniliztli,,,4,3,3,0,0.4,"[4, 21, 31]",21
+FCN-VP-00071,etl,bean,noun,7,3,3,1,0.9,"[7, 21, 22]",21
+FCN-VP-00094,queniuhqui,,,19,3,3,0,0.4,"[19, 21, 22]",21
+FCN-VP-00096,little,,,20,3,3,0,0.4,"[20, 21, 23]",21
+FCN-VP-00097,tlahco,,,21,3,3,0,0.4,"[21, 22, 31]",21
+FCN-VP-00101,unique,,,1,2,2,0,0.4,"[1, 21]",21
+FCN-VP-00168,tequtil,,,18,2,2,0,0.4,"[18, 21]",21
+FCN-VP-00179,cintli,corncob,noun,21,2,2,1,0.9,"[21, 22]",21
+FCN-VP-00180,cualcan,,,21,2,2,0,0.4,"[21, 24]",21
+FCN-VP-00181,exchange,,,21,2,2,0,0.4,"[21, 27]",21
+FCN-VP-00182,macehualli,a commoner; a subject; a vassal,noun,21,2,2,1,0.9,"[21, 22]",21
+FCN-VP-00183,mochihua,,,21,2,2,0,0.4,"[21, 22]",21
+FCN-VP-00184,petlayoh,,,21,2,2,0,0.4,"[21, 22]",21
+FCN-VP-00185,quemman,,,21,2,2,0,0.4,"[21, 22]",21
+FCN-VP-00186,quen,how (in what manner),adv,21,2,2,1,0.9,"[21, 24]",21
+FCN-VP-00187,tihuallauh,,,21,2,2,0,0.4,"[21, 22]",21
+FCN-VP-00188,tiquixmati,,,21,2,2,0,0.4,"[21, 29]",21
+FCN-VP-00189,tlacatl,"a person, a human being",noun,21,2,2,1,0.9,"[21, 22]",21
+FCN-VP-00190,tlahtolpamitl,,,21,2,2,0,0.4,"[21, 26]",21
+FCN-VP-00191,xihuitl,year,noun,21,2,2,1,0.9,"[21, 22]",21
+FCN-VP-00192,xinachtli,Seed.,noun,21,2,2,1,0.9,"[21, 22]",21
+FCN-VP-00642,cequinon,,,21,1,1,0,0.4,[21],21
+FCN-VP-00643,chichimequetl,,,21,1,1,0,0.4,[21],21
+FCN-VP-00644,cuahuehhueloa,,,21,1,1,0,0.4,[21],21
+FCN-VP-00645,cuaquixtia,,,21,1,1,0,0.4,[21],21
+FCN-VP-00646,emecatl,,,21,1,1,0,0.4,[21],21
+FCN-VP-00647,huatl,,,21,1,1,0,0.4,[21],21
+FCN-VP-00648,huehuentzin,,,21,1,1,0,0.4,[21],21
+FCN-VP-00649,hueli,,,21,1,1,0,0.4,[21],21
+FCN-VP-00650,ipohual,season,noun,21,1,1,1,0.9,[21],21
+FCN-VP-00651,itequiuh,,,21,1,1,0,0.4,[21],21
+FCN-VP-00652,march,,,21,1,1,0,0.4,[21],21
+FCN-VP-00653,moaquechia,,,21,1,1,0,0.4,[21],21
+FCN-VP-00654,moaquechiz,,,21,1,1,0,0.4,[21],21
+FCN-VP-00655,mochihchihua,,,21,1,1,0,0.4,[21],21
+FCN-VP-00656,mocui,,,21,1,1,0,0.4,[21],21
+FCN-VP-00657,moquixtia,,,21,1,1,0,0.4,[21],21
+FCN-VP-00658,neletl,,,21,1,1,0,0.4,[21],21
+FCN-VP-00659,occurs,,,21,1,1,0,0.4,[21],21
+FCN-VP-00660,patzcalli,,,21,1,1,0,0.4,[21],21
+FCN-VP-00661,pilatzin,,,21,1,1,0,0.4,[21],21
+FCN-VP-00662,pilchiquitzin,,,21,1,1,0,0.4,[21],21
+FCN-VP-00663,pilcintzin,,,21,1,1,0,0.4,[21],21
+FCN-VP-00664,pilmolcatzin,,,21,1,1,0,0.4,[21],21

@@ -1,0 +1,16 @@
+{
+  "total_lesson_pages": 100,
+  "lesson_like_pages": 74,
+  "canonical_lesson_pages": 64,
+  "english_core_pages": 32,
+  "spanish_parallel_pages": 32,
+  "unique_lesson_numbers": 32,
+  "dropped_noise_pages": 26,
+  "dropped_duplicate_pages": 10,
+  "canonical_vocab_items_bilingual": 3799,
+  "canonical_vocab_items_english": 1893,
+  "canonical_dialogues_bilingual": 176,
+  "canonical_dialogues_english": 88,
+  "canonical_constructions_bilingual": 310,
+  "canonical_constructions_english": 310
+}

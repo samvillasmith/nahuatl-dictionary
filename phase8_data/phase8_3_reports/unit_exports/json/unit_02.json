@@ -1,0 +1,202 @@
+{
+  "lesson_number": 2,
+  "unit_title": "Questions",
+  "proficiency_band": "A1",
+  "english_lesson_title": "Tlamachtiliztli 2 Tlahtlaniliztli (Questions).",
+  "spanish_lesson_title": "Tlamachtiliztli 2 Tlahtlaniliztli (Preguntas)",
+  "lesson_overview": {
+    "communicative_goal": "Ask and answer simple information questions in everyday exchanges.",
+    "grammar_focus": "Interrogative patterns and short-answer structures.",
+    "theme_focus": "Questions",
+    "output_task": "Complete a short guided dialogue and mini self-introduction on Questions.",
+    "domain_label": "interaction"
+  },
+  "target_vocab": [
+    {
+      "priority_id": "FCN-VP-00001",
+      "headword": "tlen",
+      "gloss_en": "alternative spelling of tlein",
+      "part_of_speech": "pron",
+      "first_lesson_number": 1,
+      "lesson_frequency": 32,
+      "occurrence_count": 32,
+      "linked_entry_count": 1,
+      "avg_confidence": 0.9,
+      "lessons_json": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32]",
+      "lesson_number": 2
+    },
+    {
+      "priority_id": "FCN-VP-00002",
+      "headword": "huan",
+      "gloss_en": "and",
+      "part_of_speech": "conj",
+      "first_lesson_number": 2,
+      "lesson_frequency": 24,
+      "occurrence_count": 24,
+      "linked_entry_count": 1,
+      "avg_confidence": 0.9,
+      "lessons_json": "[2, 3, 4, 5, 6, 7, 9, 10, 11, 12, 13, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 29, 31]",
+      "lesson_number": 2
+    },
+    {
+      "priority_id": "FCN-VP-00003",
+      "headword": "nahuatl",
+      "gloss_en": "something having a clear and pleasant sound.",
+      "part_of_speech": "noun",
+      "first_lesson_number": 1,
+      "lesson_frequency": 16,
+      "occurrence_count": 16,
+      "linked_entry_count": 1,
+      "avg_confidence": 0.9,
+      "lessons_json": "[1, 2, 3, 4, 5, 6, 7, 9, 11, 12, 14, 15, 16, 20, 28, 29]",
+      "lesson_number": 2
+    },
+    {
+      "priority_id": "FCN-VP-00010",
+      "headword": "questions",
+      "gloss_en": "",
+      "part_of_speech": "",
+      "first_lesson_number": 2,
+      "lesson_frequency": 11,
+      "occurrence_count": 11,
+      "linked_entry_count": 0,
+      "avg_confidence": 0.4,
+      "lessons_json": "[2, 4, 7, 8, 9, 18, 19, 21, 22, 29, 31]",
+      "lesson_number": 2
+    },
+    {
+      "priority_id": "FCN-VP-00102",
+      "headword": "teacher",
+      "gloss_en": "",
+      "part_of_speech": "",
+      "first_lesson_number": 2,
+      "lesson_frequency": 2,
+      "occurrence_count": 2,
+      "linked_entry_count": 0,
+      "avg_confidence": 0.4,
+      "lessons_json": "[2, 5]",
+      "lesson_number": 2
+    },
+    {
+      "priority_id": "FCN-VP-00231",
+      "headword": "tlamachtiliztli",
+      "gloss_en": "",
+      "part_of_speech": "",
+      "first_lesson_number": 2,
+      "lesson_frequency": 1,
+      "occurrence_count": 1,
+      "linked_entry_count": 0,
+      "avg_confidence": 0.4,
+      "lessons_json": "[2]",
+      "lesson_number": 2
+    },
+    {
+      "priority_id": "FCN-VP-00232",
+      "headword": "totlahtlaniliz",
+      "gloss_en": "",
+      "part_of_speech": "",
+      "first_lesson_number": 2,
+      "lesson_frequency": 1,
+      "occurrence_count": 1,
+      "linked_entry_count": 0,
+      "avg_confidence": 0.4,
+      "lessons_json": "[2]",
+      "lesson_number": 2
+    },
+    {
+      "priority_id": "FCN-VP-00233",
+      "headword": "totlahtol",
+      "gloss_en": "first-person plural possessive singular of tlahtōlli; (it is) our language; way of speaking.",
+      "part_of_speech": "noun",
+      "first_lesson_number": 2,
+      "lesson_frequency": 1,
+      "occurrence_count": 1,
+      "linked_entry_count": 1,
+      "avg_confidence": 0.9,
+      "lessons_json": "[2]",
+      "lesson_number": 2
+    }
+  ],
+  "target_constructions": [
+    {
+      "priority_id": "FCN-CP-00006",
+      "construction_label": "Construction 46",
+      "pattern_text": "A Hello good day teacher",
+      "proficiency_band": "A1",
+      "first_lesson_number": 2,
+      "lesson_frequency": 1,
+      "occurrence_count": 1,
+      "avg_confidence": 0.65,
+      "lessons_json": "[2]",
+      "example_original": "A: Hello, good day teacher.",
+      "lesson_number": 2
+    },
+    {
+      "priority_id": "FCN-CP-00007",
+      "construction_label": "Construction 47",
+      "pattern_text": "Totlahtlaniliz huan totlahtol tlen ica tlamachtiliztli Our questions and phrases for class",
+      "proficiency_band": "A1",
+      "first_lesson_number": 2,
+      "lesson_frequency": 1,
+      "occurrence_count": 1,
+      "avg_confidence": 0.95,
+      "lessons_json": "[2]",
+      "example_original": "Totlahtlaniliz huan totlahtol tlen ica tlamachtiliztli (Our questions and phrases for class)",
+      "lesson_number": 2
+    }
+  ],
+  "dialogue_set": [
+    {
+      "sample_id": "FCN-DS-02-01",
+      "lesson_number": 2,
+      "lesson_unit_id": "FCN-LSN-0011",
+      "lesson_title": "Tlamachtiliztli 2 Tlahtlaniliztli (Questions).",
+      "dialogue_order": 1,
+      "speaker_label": "A",
+      "utterance_original": "Hello, good day teacher.",
+      "utterance_normalized": "Hello, good day teacher.",
+      "translation_en": null,
+      "communicative_function": "Tlamachtiliztli 2 Tlahtlaniliztli (Questions)."
+    },
+    {
+      "sample_id": "FCN-DS-02-02",
+      "lesson_number": 2,
+      "lesson_unit_id": "FCN-LSN-0011",
+      "lesson_title": "Tlamachtiliztli 2 Tlahtlaniliztli (Questions).",
+      "dialogue_order": 1,
+      "speaker_label": "B",
+      "utterance_original": "Hello, good day student.",
+      "utterance_normalized": "Hello, good day student.",
+      "translation_en": null,
+      "communicative_function": "Tlamachtiliztli 2 Tlahtlaniliztli (Questions)."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "substitution",
+      "prompt": "Use a target construction from Unit 2 with new lexical fills."
+    },
+    {
+      "type": "comprehension",
+      "prompt": "Answer questions about the Unit 2 dialogue set."
+    },
+    {
+      "type": "production",
+      "prompt": "Produce a short response using Unit 2 vocabulary."
+    }
+  ],
+  "quiz_review_items": [
+    {
+      "type": "recall",
+      "prompt": "Recall five Unit 2 vocabulary items."
+    },
+    {
+      "type": "dialogue",
+      "prompt": "Complete one missing line from a Unit 2 dialogue."
+    },
+    {
+      "type": "construction",
+      "prompt": "Transform a sentence using a Unit 2 construction."
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+priority_id,headword,gloss_en,part_of_speech,first_lesson_number,lesson_frequency,occurrence_count,linked_entry_count,avg_confidence,lessons_json,lesson_number
+FCN-VP-00001,tlen,alternative spelling of tlein,pron,1,32,32,1,0.9,"[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32]",18
+FCN-VP-00002,huan,and,conj,2,24,24,1,0.9,"[2, 3, 4, 5, 6, 7, 9, 10, 11, 12, 13, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 29, 31]",18
+FCN-VP-00004,tequitl,work,noun,10,16,16,1,0.9,"[10, 12, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 31]",18
+FCN-VP-00007,which,,,4,13,13,0,0.4,"[4, 9, 15, 16, 18, 19, 20, 21, 22, 23, 26, 28, 30]",18
+FCN-VP-00010,questions,,,2,11,11,0,0.4,"[2, 4, 7, 8, 9, 18, 19, 21, 22, 29, 31]",18
+FCN-VP-00011,ōme,,,4,11,11,0,0.4,"[4, 6, 10, 18, 19, 20, 23, 27, 28, 29, 31]",18
+FCN-VP-00016,quēniuhqui,,,3,7,7,0,0.4,"[3, 8, 9, 10, 18, 19, 31]",18
+FCN-VP-00030,tlacualli,Food.,noun,18,5,5,1,0.9,"[18, 19, 22, 25, 31]",18
+FCN-VP-00035,chichiquilli,Harpoon.,noun,4,4,4,1,0.9,"[4, 18, 24, 27]",18
+FCN-VP-00054,chilli,chili pepper,noun,18,4,4,1,0.9,"[18, 19, 22, 27]",18
+FCN-VP-00068,quēn,,,4,3,3,0,0.4,"[4, 18, 22]",18
+FCN-VP-00080,quēnque,,,11,3,3,0,0.4,"[11, 18, 22]",18
+FCN-VP-00089,chicken,,,18,3,3,0,0.4,"[18, 27, 31]",18
+FCN-VP-00111,ticāmati,,,4,2,2,0,0.4,"[4, 18]",18
+FCN-VP-00128,pantzin,,,7,2,2,0,0.4,"[7, 18]",18
+FCN-VP-00166,catlinya,,,18,2,2,0,0.4,"[18, 22]",18
+FCN-VP-00167,chīltlaxcalli,,,18,2,2,0,0.4,"[18, 19]",18
+FCN-VP-00168,tequtil,,,18,2,2,0,0.4,"[18, 21]",18
+FCN-VP-00169,tlacualiztli,food.,noun,18,2,2,1,0.9,"[18, 22]",18
+FCN-VP-00551,camohtli,"the edible tuber of the sweet potato plant, Ipomoea batatas",noun,18,1,1,1,0.9,[18],18
+FCN-VP-00552,chacahrroh,,,18,1,1,0,0.4,[18],18
+FCN-VP-00553,chi,,,18,1,1,0,0.4,[18],18
+FCN-VP-00554,ltlacualli,,,18,1,1,0,0.4,[18],18
+FCN-VP-00555,momachilia,,,18,1,1,0,0.4,[18],18
+FCN-VP-00556,nicchīhuaz,,,18,1,1,0,0.4,[18],18
+FCN-VP-00557,niccuāz,,,18,1,1,0,0.4,[18],18
+FCN-VP-00558,nicāmati,,,18,1,1,0,0.4,[18],18
+FCN-VP-00559,quesadilla,,,18,1,1,0,0.4,[18],18
+FCN-VP-00560,ticachilia,,,18,1,1,0,0.4,[18],18
+FCN-VP-00561,tlaneuccalaquilli,,,18,1,1,0,0.4,[18],18
+FCN-VP-00562,totōnic,,,18,1,1,0,0.4,[18],18
+FCN-VP-00563,tēntlazcayōtl,,,18,1,1,0,0.4,[18],18
+FCN-VP-00564,xamitl,adobe,noun,18,1,1,1,0.9,[18],18
+FCN-VP-00565,yamaxtli,,,18,1,1,0,0.4,[18],18
+FCN-VP-00566,īahhuiyāca,,,18,1,1,0,0.4,[18],18

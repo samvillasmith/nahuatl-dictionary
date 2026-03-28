@@ -1,0 +1,65 @@
+lesson_number,locale,lesson_title,proficiency_band,vocab_count,dialogue_count,construction_count
+1,en,Tlamachtiliztli 1 Piltlahcuiloltzitzin (The Alphabet),A1,17,0,5
+1,es,Tlamachtiliztli 1 Piltlahcuiloltzitzin (El alfabeto).,A1,23,0,0
+2,en,Tlamachtiliztli 2 Tlahtlaniliztli (Questions).,A1,8,2,2
+2,es,Tlamachtiliztli 2 Tlahtlaniliztli (Preguntas),A1,9,3,0
+3,en,Tlamachtiliztli 3 ¿Quēniuhqui motōcah? (What is your name?),A1,53,8,32
+3,es,Tlamachtiliztli 3 ¿Quēniuhqui motōcah? (¿Cómo te llamas?),A1,56,9,0
+4,en,Tlamachtiliztli 4 Īxnēzcayotl huan tlapōhualiztli (Colors and Numbers),A2,50,2,28
+4,es,Tlamachtiliztli 4 Īxnēzcayōtl huan tlapōhualiztli (Los colores y los números),A2,49,1,0
+5,en,Tlamachtiliztli 5 Cehcen inintequiuh (The Professions),A2,36,8,21
+5,es,Tlamachtiliztli 5 Cehcen inin tequiuh (Las profesiones),A2,35,9,0
+6,en,Tlamachtiliztli 6 Tlachīhualiztli tlen ax quimānēxtia cē tlamantli (Intransitive Verbs),B1,24,0,8
+6,es,Tlamachtiliztli 6 Tlachīhualiztli tlen ax quimānēxtia cē tlamantli (Los verbos intransitivos),B1,27,0,0
+7,en,Tlamachtiliztli 7 Quēn moxēloa tōnatiuh (How to divide up the day),B1,58,0,24
+7,es,Tlamachtiliztli 7 Quēn moxeloa tōnatiuh (Cómo se divide el día),B1,59,0,0
+8,en,Tlamachtiliztli 8 Noyōllo (Possessive markers),B1,38,0,21
+8,es,Tlamachtiliztli 8 Noyōllo (Marcadores posesivos),B1,41,1,0
+9,en,Tlamachtiliztli 9 Tēiīxmatcacuahuitl (The Family),B1,41,0,27
+9,es,Tlamachtiliztli 9 Tēīxmatcacuahuitl (La familia),B1,38,0,0
+10,en,Tlamachtiliztli 10 Notlachiyaliz (My Appearance),B1,38,4,28
+10,es,Tlamachtiliztli 10 Notlachiyaliz (Mi apariencia),B1,36,5,0
+11,en,Tlamachtiliztli 11 Quēmman motlahpaloa huan monāhuatihtēhua (When you greet and say farewell),A1,43,19,20
+11,es,Tlamachtiliztli 11 Quēmman motlahpaloa huan monāhuatihtēhua (Cuando se saluda y se despide),A1,46,12,0
+12,en,Tlamachtiliztli 12 Tlachīhualiztli tlen panoz (Future tense and indefinite verbs),A1,39,0,17
+12,es,Tlamachtiliztli 12 Tlachīhualiztli tlen panoz (Verbos en tiempo futuro e indefinido),A1,45,0,0
+13,en,Tlamachtiliztli 13 Tlachīhualiztli tlen quimānēxtia ācquiya quīchihua cē tlamantli (Verbs with specific object),A1,43,0,19
+13,es,Tlamachtiliztli 13 Tlachīhualiztli tlen quimanēxtia ācquiya quichīhua cē tlamantli (Verbos con objetos específicos),A1,42,0,0
+14,en,Tlamachtiliztli 14 Tlachīhualiztli tlen panoc Part 1 (Past Tense Verbs Part 1),A2,6,0,3
+14,es,Tlamachtiliztli 14 Tlachīhualiztli tlen panoc. Parte 1 (Verbos en tiempo pretérito Parte 1),A2,11,0,0
+15,en,"Tlamachtiliztli 15 Tlachīhualiztli tlen panoc, Part 2 (Past Tense Verbs Part 2)",A2,54,0,51
+15,es,Tlamachtiliztli 15 Tlachīhualiztli tlen panoc. Parte 2 (Verbos en tiempo pretérito Parte 2),A2,59,0,0
+16,en,Tlamachtiliztli 16 Tlachīhualiztli tlen panoc. Part 3 (Past Tense Verbs Part 3),B1,55,0,4
+16,es,Tlamachtiliztli 16 Tlachīhualiztli tlen panoc. Parte 3 (Verbos en tiempo pretérito Parte 3),B1,61,0,0
+17,en,Tlamachtiliztli 17 Na nimocehuia pan cuaciyah (I Sit in the Chair),B1,26,3,0
+17,es,Tlamachtiliztli 17 Na nimocēhuia pan cuaciyah (Yo me siento en la silla),B1,36,3,0
+18,en,Tlamachtiliztli 18 Tlen nicāmati huan tlen ax nicāmati (What I Like and Do Not Like),B1,35,3,0
+18,es,Tlamachtiliztli 18 Tlen nicāmati huan tlen ax nicāmati (Que me gusta y no me gusta hacer),B1,30,3,0
+19,en,Tlamachtiliztli 19 Ximoquētza (Stand Up!),B1,82,14,0
+19,es,Tlamachtiliztli 19 Ximoquētza (¡Levántate!),B1,71,13,0
+20,en,Tlamachtiliztli 20 Tlahtoltēcpānalitzli -pil huan -tzin (The Grammar of -pil and -tzin),A1,56,2,0
+20,es,Tlamachtiliztli 20 Tlahtoltēcpanalitzli -pil huan -tzin (La gramática del -pil y -tzin),A1,60,2,0
+21,en,Tlamachtiliztli 21 Tlen ticpiyah pan millah (What We Have in the Field),A1,77,4,0
+21,es,Tlamachtiliztli 21 Tlen ticpiyah pan mīllah (Lo que tenemos en la milpa),A1,87,7,0
+22,en,Tlamachtiliztli 22 Tomīllah huah totlacualiz (Our Cornfield and Our Food),A1,224,5,0
+22,es,Tlamachtiliztli 22 Tomillāh huah totlacualiz (Nuestra milpa y nuestra comida),A1,228,5,0
+23,en,Tlamachtiliztli 23 Tlen eltoc calihtic (What is Inside the House),A1,91,2,0
+23,es,Tlamachtiliztli 23 Tlen eltoc calihtic (Que hay dentro de la casa),A1,96,3,0
+24,en,"Tlamachtiliztli 24 Niihhuia pan āltepētl, Part 1 (I Had Gone to the City Part 1)",A2,120,1,0
+24,es,Tlamachtiliztli 24 Niihhuia pan āltepētl Part 1 (Yo había ido a la ciudad Part 1),A2,93,1,0
+25,en,Tlamachtiliztli 25 Niihhuia pan altepētl Part 2 (I Had Gone to the City Part 2),A2,74,1,0
+25,es,Tlamachtiliztli 25 Niihhuia pan āltepētl Parte 2 (Yo había ido a la ciudad Parte 2),A2,65,1,0
+26,en,Tlamachtiliztli 26 Niquicōhuaco cē tlaxcalyoyomitl (I Came to Buy a Tortilla Napkin),B1,43,1,0
+26,es,Tlamachtiliztli 26 Niquicōhuaco cē tlaxcalyoyomitl (Yo vine a comprar una servilleta de tortillas),B1,48,1,0
+27,en,Tlamachtiliztli 27 Namantzin eltoc tiānquiz (It’s market day today!),B1,62,1,0
+27,es,Tlamachtiliztli 27 Namantzin eltoc tiānquiz (Ahorita hay mercado),B1,62,1,0
+28,en,Tlamachtiliztli 28 Nipanoyaya mochān (I Was Passing By Your House),B1,81,3,0
+28,es,Tlamachtiliztli 28 Nipanoyaya mochān (Yo pasaba por tu casa),B1,66,3,0
+29,en,Tlamachtiliztli 29 ¿Tlen cocōliztli tiquixmati? (What Illnesses Do You Know?),B1,107,3,0
+29,es,Tlamachtiliztli 29 ¿Tlen cocōliztli tiquixmati? (¿Cuáles enfermedades conoces?),B1,104,3,0
+30,en,"Tlamachtiliztli 30 -zquia, -tozquia (The conditional, Part 1)",A1,38,0,0
+30,es,Tlamachtiliztli 30 Los sufijos -zquia y -tozquia (El modo condicional Parte 1),A1,47,0,0
+31,en,"Tlamachtiliztli 31 Tlacotōntli huan tlaochpanāliztli: Cleansing ceremonies, the conditional. Part 2)",A1,139,2,0
+31,es,Tlamachtiliztli 31 Tlacotōntli huan Tlaochpānaliztli (Las ceremonias de limpia. El condicional Parte 2),A1,142,2,0
+32,en,"Tlamachtiliztli 32 Tē- and tla-: Non-specific object markers, Part 1",A1,35,0,0
+32,es,Tlamachtiliztli 32 Tē- y tla- (Objetos no específicos. Parte 1),A1,34,0,0

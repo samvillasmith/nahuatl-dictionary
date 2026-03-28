@@ -1,0 +1,44 @@
+priority_id,headword,gloss_en,part_of_speech,first_lesson_number,lesson_frequency,occurrence_count,linked_entry_count,avg_confidence,lessons_json,lesson_number
+FCN-VP-00001,tlen,alternative spelling of tlein,pron,1,32,32,1,0.9,"[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32]",11
+FCN-VP-00002,huan,and,conj,2,24,24,1,0.9,"[2, 3, 4, 5, 6, 7, 9, 10, 11, 12, 13, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 29, 31]",11
+FCN-VP-00003,nahuatl,something having a clear and pleasant sound.,noun,1,16,16,1,0.9,"[1, 2, 3, 4, 5, 6, 7, 9, 11, 12, 14, 15, 16, 20, 28, 29]",11
+FCN-VP-00005,īcā,,,4,14,14,0,0.4,"[4, 6, 7, 8, 9, 11, 12, 19, 22, 23, 27, 29, 31, 32]",11
+FCN-VP-00006,cequin,,,8,14,14,0,0.4,"[8, 9, 11, 17, 19, 21, 24, 25, 26, 27, 29, 30, 31, 32]",11
+FCN-VP-00015,chicontepec,"Chicontepec (the largest city in the state of Veracruz, Mexico)",name,3,7,7,1,0.9,"[3, 7, 11, 21, 22, 27, 32]",11
+FCN-VP-00019,quēmman,,,7,7,7,0,0.4,"[7, 11, 13, 19, 22, 29, 31]",11
+FCN-VP-00021,each,,,10,7,7,0,0.4,"[10, 11, 13, 17, 21, 27, 29]",11
+FCN-VP-00034,mācēhualli,,,3,4,4,0,0.4,"[3, 11, 29, 31]",11
+FCN-VP-00048,hueliz,,,11,4,4,0,0.4,"[11, 22, 29, 31]",11
+FCN-VP-00049,quēna,,,11,4,4,0,0.4,"[11, 19, 27, 31]",11
+FCN-VP-00050,tlan,,,11,4,4,0,0.4,"[11, 22, 29, 31]",11
+FCN-VP-00061,cihuātl,,,3,3,3,0,0.4,"[3, 11, 22]",11
+FCN-VP-00079,mōztla,,,11,3,3,0,0.4,"[11, 12, 26]",11
+FCN-VP-00080,quēnque,,,11,3,3,0,0.4,"[11, 18, 22]",11
+FCN-VP-00108,ticchīhua,,,3,2,2,0,0.4,"[3, 11]",11
+FCN-VP-00120,titequiti,,,5,2,2,0,0.4,"[5, 11]",11
+FCN-VP-00123,nitequiti,,,6,2,2,0,0.4,"[6, 11]",11
+FCN-VP-00127,nitlahtzoma,,,7,2,2,0,0.4,"[7, 11]",11
+FCN-VP-00152,nahua,,,11,2,2,0,0.4,"[11, 22]",11
+FCN-VP-00153,tlācatl,,,11,2,2,0,0.4,"[11, 22]",11
+FCN-VP-00154,īnechca,,,11,2,2,0,0.4,"[11, 25]",11
+FCN-VP-00390,inquichīhuah,,,11,1,1,0,0.4,[11],11
+FCN-VP-00391,motlahpaloah,,,11,1,1,0,0.4,[11],11
+FCN-VP-00392,nicnequi,,,11,1,1,0,0.4,[11],11
+FCN-VP-00393,nihueliz,,,11,1,1,0,0.4,[11],11
+FCN-VP-00394,nimociahcahua,,,11,1,1,0,0.4,[11],11
+FCN-VP-00395,niquittati,,,11,1,1,0,0.4,[11],11
+FCN-VP-00396,niquittaz,,,11,1,1,0,0.4,[11],11
+FCN-VP-00397,niyōhua,,,11,1,1,0,0.4,[11],11
+FCN-VP-00398,noichpōcauh,,,11,1,1,0,0.4,[11],11
+FCN-VP-00399,quihtoa,,,11,1,1,0,0.4,[11],11
+FCN-VP-00400,quiillia,,,11,1,1,0,0.4,[11],11
+FCN-VP-00401,quināhuatihtēhua,,,11,1,1,0,0.4,[11],11
+FCN-VP-00402,ticchīhuaz,,,11,1,1,0,0.4,[11],11
+FCN-VP-00403,timociahcāhua,,,11,1,1,0,0.4,[11],11
+FCN-VP-00404,tinēchpalehuia,,,11,1,1,0,0.4,[11],11
+FCN-VP-00405,titlahtzomah,,,11,1,1,0,0.4,[11],11
+FCN-VP-00406,titlanānquilia,,,11,1,1,0,0.4,[11],11
+FCN-VP-00407,tlahtlanliztli,,,11,1,1,0,0.4,[11],11
+FCN-VP-00408,tlanānquilia,,,11,1,1,0,0.4,[11],11
+FCN-VP-00409,tēnāhuatihtēhua,,,11,1,1,0,0.4,[11],11
+FCN-VP-00410,ācahya,,,11,1,1,0,0.4,[11],11

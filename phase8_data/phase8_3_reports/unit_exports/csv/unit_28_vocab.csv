@@ -1,0 +1,61 @@
+priority_id,headword,gloss_en,part_of_speech,first_lesson_number,lesson_frequency,occurrence_count,linked_entry_count,avg_confidence,lessons_json,lesson_number
+FCN-VP-00001,tlen,alternative spelling of tlein,pron,1,32,32,1,0.9,"[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32]",28
+FCN-VP-00003,nahuatl,something having a clear and pleasant sound.,noun,1,16,16,1,0.9,"[1, 2, 3, 4, 5, 6, 7, 9, 11, 12, 14, 15, 16, 20, 28, 29]",28
+FCN-VP-00004,tequitl,work,noun,10,16,16,1,0.9,"[10, 12, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 31]",28
+FCN-VP-00007,which,,,4,13,13,0,0.4,"[4, 9, 15, 16, 18, 19, 20, 21, 22, 23, 26, 28, 30]",28
+FCN-VP-00008,tlachīhualiztli,,,6,12,12,0,0.4,"[6, 12, 14, 15, 16, 17, 19, 23, 24, 25, 28, 31]",28
+FCN-VP-00011,ōme,,,4,11,11,0,0.4,"[4, 6, 10, 18, 19, 20, 23, 27, 28, 29, 31]",28
+FCN-VP-00017,ēyi,,,4,7,7,0,0.4,"[4, 10, 19, 23, 27, 28, 29]",28
+FCN-VP-00031,tlahuel,very,adv,19,5,5,1,0.9,"[19, 22, 28, 30, 32]",28
+FCN-VP-00043,nahui,four,num,7,4,4,1,0.9,"[7, 19, 22, 28]",28
+FCN-VP-00053,ahahuiltiliztli,,,17,4,4,0,0.4,"[17, 20, 26, 28]",28
+FCN-VP-00084,hualiztli,,,13,3,3,0,0.4,"[13, 17, 28]",28
+FCN-VP-00088,tlachihualiztli,verb.,noun,17,3,3,1,0.9,"[17, 26, 28]",28
+FCN-VP-00195,huasteca,,,22,2,2,0,0.4,"[22, 28]",28
+FCN-VP-00211,changes,,,25,2,2,0,0.4,"[25, 28]",28
+FCN-VP-00212,quiāmati,,,28,2,2,0,0.4,"[28, 32]",28
+FCN-VP-01069,cānah,,,28,1,1,0,0.4,[28],28
+FCN-VP-01070,huahcauhquiya,,,28,1,1,0,0.4,[28],28
+FCN-VP-01071,inmotlaloyayah,,,28,1,1,0,0.4,[28],28
+FCN-VP-01072,inquicuāyayah,,,28,1,1,0,0.4,[28],28
+FCN-VP-01073,inquicāhuyayah,,,28,1,1,0,0.4,[28],28
+FCN-VP-01074,inquiilliyayah,,,28,1,1,0,0.4,[28],28
+FCN-VP-01075,inquiittayayah,,,28,1,1,0,0.4,[28],28
+FCN-VP-01076,inquimāmāyayah,,,28,1,1,0,0.4,[28],28
+FCN-VP-01077,inquipayayah,,,28,1,1,0,0.4,[28],28
+FCN-VP-01078,inquipoloyayah,,,28,1,1,0,0.4,[28],28
+FCN-VP-01079,inquiāmatiyayah,,,28,1,1,0,0.4,[28],28
+FCN-VP-01080,inquiōniyayah,,,28,1,1,0,0.4,[28],28
+FCN-VP-01081,ināmiquiyayah,,,28,1,1,0,0.4,[28],28
+FCN-VP-01082,miquiyaya,,,28,1,1,0,0.4,[28],28
+FCN-VP-01083,miquiyayah,,,28,1,1,0,0.4,[28],28
+FCN-VP-01084,motlaloyaya,,,28,1,1,0,0.4,[28],28
+FCN-VP-01085,motlaloyayah,,,28,1,1,0,0.4,[28],28
+FCN-VP-01086,nacatl,Meat; flesh.,noun,28,1,1,1,0.9,[28],28
+FCN-VP-01087,niccuāyaya,,,28,1,1,0,0.4,[28],28
+FCN-VP-01088,niccāhuayaya,,,28,1,1,0,0.4,[28],28
+FCN-VP-01089,nicmāmāyaya,,,28,1,1,0,0.4,[28],28
+FCN-VP-01090,nicāmatiyaya,,,28,1,1,0,0.4,[28],28
+FCN-VP-01091,nicōniyaya,,,28,1,1,0,0.4,[28],28
+FCN-VP-01092,nimotlaloyaya,,,28,1,1,0,0.4,[28],28
+FCN-VP-01093,niquilliyaya,,,28,1,1,0,0.4,[28],28
+FCN-VP-01094,niquittayaya,,,28,1,1,0,0.4,[28],28
+FCN-VP-01095,niāmiquiyaya,,,28,1,1,0,0.4,[28],28
+FCN-VP-01096,occur,,,28,1,1,0,0.4,[28],28
+FCN-VP-01097,quicuāyaya,,,28,1,1,0,0.4,[28],28
+FCN-VP-01098,quicuāyayah,,,28,1,1,0,0.4,[28],28
+FCN-VP-01099,quicāhuyaya,,,28,1,1,0,0.4,[28],28
+FCN-VP-01100,quicāhuyayah,,,28,1,1,0,0.4,[28],28
+FCN-VP-01101,quiittayaya,,,28,1,1,0,0.4,[28],28
+FCN-VP-01102,quiittayayah,,,28,1,1,0,0.4,[28],28
+FCN-VP-01103,quilliyaya,,,28,1,1,0,0.4,[28],28
+FCN-VP-01104,quilliyayah,,,28,1,1,0,0.4,[28],28
+FCN-VP-01105,quimāmāyaya,,,28,1,1,0,0.4,[28],28
+FCN-VP-01106,quimāmāyayah,,,28,1,1,0,0.4,[28],28
+FCN-VP-01107,quipayaya,,,28,1,1,0,0.4,[28],28
+FCN-VP-01108,quipayayah,,,28,1,1,0,0.4,[28],28
+FCN-VP-01109,quipoloyaya,,,28,1,1,0,0.4,[28],28
+FCN-VP-01110,quipoloyayah,,,28,1,1,0,0.4,[28],28
+FCN-VP-01111,quiāmatiyaya,,,28,1,1,0,0.4,[28],28
+FCN-VP-01112,quiāmatiyayah,,,28,1,1,0,0.4,[28],28
+FCN-VP-01113,quiōniyaya,,,28,1,1,0,0.4,[28],28

@@ -1,0 +1,39 @@
+priority_id,headword,gloss_en,part_of_speech,first_lesson_number,lesson_frequency,occurrence_count,linked_entry_count,avg_confidence,lessons_json,lesson_number
+FCN-VP-00001,tlen,alternative spelling of tlein,pron,1,32,32,1,0.9,"[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32]",30
+FCN-VP-00006,cequin,,,8,14,14,0,0.4,"[8, 9, 11, 17, 19, 21, 24, 25, 26, 27, 29, 30, 31, 32]",30
+FCN-VP-00007,which,,,4,13,13,0,0.4,"[4, 9, 15, 16, 18, 19, 20, 21, 22, 23, 26, 28, 30]",30
+FCN-VP-00031,tlahuel,very,adv,19,5,5,1,0.9,"[19, 22, 28, 30, 32]",30
+FCN-VP-00041,itztoc,to be.,verb,7,4,4,1,0.9,"[7, 21, 24, 30]",30
+FCN-VP-00057,ātl,,,19,4,4,0,0.4,"[19, 22, 25, 30]",30
+FCN-VP-00122,māltia,,,6,2,2,0,0.4,"[6, 30]",30
+FCN-VP-00207,tiitztozquiah,,,24,2,2,0,0.4,"[24, 30]",30
+FCN-VP-00215,-tozquia,,,30,2,2,0,0.4,"[30, 31]",30
+FCN-VP-00216,-zquia,,,30,2,2,0,0.4,"[30, 31]",30
+FCN-VP-00217,tozquia,,,30,2,2,0,0.4,"[30, 31]",30
+FCN-VP-00218,zquia,,,30,2,2,0,0.4,"[30, 31]",30
+FCN-VP-01209,chōca,,,30,1,1,0,0.4,[30],30
+FCN-VP-01210,cuapa,,,30,1,1,0,0.4,[30],30
+FCN-VP-01211,icuaptozquia,,,30,1,1,0,0.4,[30],30
+FCN-VP-01212,imāltihtozquia,,,30,1,1,0,0.4,[30],30
+FCN-VP-01213,inmāltihtozquiah,,,30,1,1,0,0.4,[30],30
+FCN-VP-01214,inmāltizquiah,,,30,1,1,0,0.4,[30],30
+FCN-VP-01215,māltihtozquiah,,,30,1,1,0,0.4,[30],30
+FCN-VP-01216,māltizquia,,,30,1,1,0,0.4,[30],30
+FCN-VP-01217,māltizquiah,,,30,1,1,0,0.4,[30],30
+FCN-VP-01218,nichōcazquia,,,30,1,1,0,0.4,[30],30
+FCN-VP-01219,nicuapazquia,,,30,1,1,0,0.4,[30],30
+FCN-VP-01220,nicōnitozquia,,,30,1,1,0,0.4,[30],30
+FCN-VP-01221,nimāltihtozquia,,,30,1,1,0,0.4,[30],30
+FCN-VP-01222,nimāltiz,,,30,1,1,0,0.4,[30],30
+FCN-VP-01223,nimāltizquia,,,30,1,1,0,0.4,[30],30
+FCN-VP-01224,niquittazquia,,,30,1,1,0,0.4,[30],30
+FCN-VP-01225,ticōnizquiah,,,30,1,1,0,0.4,[30],30
+FCN-VP-01226,timāltihtozquia,,,30,1,1,0,0.4,[30],30
+FCN-VP-01227,timāltihtozquiah,,,30,1,1,0,0.4,[30],30
+FCN-VP-01228,timāltizquia,,,30,1,1,0,0.4,[30],30
+FCN-VP-01229,timāltizquiah,,,30,1,1,0,0.4,[30],30
+FCN-VP-01230,tlaceceya,,,30,1,1,0,0.4,[30],30
+FCN-VP-01231,tlamanēxtili,,,30,1,1,0,0.4,[30],30
+FCN-VP-01232,toqueh,,,30,1,1,0,0.4,[30],30
+FCN-VP-01233,zquiah,,,30,1,1,0,0.4,[30],30
+FCN-VP-01234,āxoncayaya,,,30,1,1,0,0.4,[30],30

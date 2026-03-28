@@ -1,0 +1,56 @@
+priority_id,headword,gloss_en,part_of_speech,first_lesson_number,lesson_frequency,occurrence_count,linked_entry_count,avg_confidence,lessons_json,lesson_number
+FCN-VP-00001,tlen,alternative spelling of tlein,pron,1,32,32,1,0.9,"[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32]",16
+FCN-VP-00003,nahuatl,something having a clear and pleasant sound.,noun,1,16,16,1,0.9,"[1, 2, 3, 4, 5, 6, 7, 9, 11, 12, 14, 15, 16, 20, 28, 29]",16
+FCN-VP-00007,which,,,4,13,13,0,0.4,"[4, 9, 15, 16, 18, 19, 20, 21, 22, 23, 26, 28, 30]",16
+FCN-VP-00008,tlachīhualiztli,,,6,12,12,0,0.4,"[6, 12, 14, 15, 16, 17, 19, 23, 24, 25, 28, 31]",16
+FCN-VP-00009,tlamanēxtilli,,,12,12,12,0,0.4,"[12, 13, 14, 15, 16, 17, 19, 20, 23, 24, 25, 32]",16
+FCN-VP-00012,ahāhuiltiliztli,,,6,9,9,0,0.4,"[6, 13, 14, 15, 16, 17, 20, 24, 25]",16
+FCN-VP-00149,chicometepetl,,,10,2,2,0,0.4,"[10, 16]",16
+FCN-VP-00494,-hqueh,,,16,1,1,0,0.4,[16],16
+FCN-VP-00495,-hqui,,,16,1,1,0,0.4,[16],16
+FCN-VP-00496,choloh,third-person singular preterite indicative of choloa,verb,16,1,1,1,0.9,[16],16
+FCN-VP-00497,cholohqueh,third-person plural preterite indicative of choloa,verb,16,1,1,1,0.9,[16],16
+FCN-VP-00498,cholohqui,,,16,1,1,0,0.4,[16],16
+FCN-VP-00499,cuamachilia,,,16,1,1,0,0.4,[16],16
+FCN-VP-00500,hqueh,,,16,1,1,0,0.4,[16],16
+FCN-VP-00501,hqui,,,16,1,1,0,0.4,[16],16
+FCN-VP-00502,incholohqueh,,,16,1,1,0,0.4,[16],16
+FCN-VP-00503,inquillihqueh,,,16,1,1,0,0.4,[16],16
+FCN-VP-00504,inquimachtihqueh,,,16,1,1,0,0.4,[16],16
+FCN-VP-00505,inquimāmāhqueh,,,16,1,1,0,0.4,[16],16
+FCN-VP-00506,inquimāquilihqueh,,,16,1,1,0,0.4,[16],16
+FCN-VP-00507,inquitohqueh,,,16,1,1,0,0.4,[16],16
+FCN-VP-00508,intlacuāhqueh,,,16,1,1,0,0.4,[16],16
+FCN-VP-00509,lōtlamaliztli,,,16,1,1,0,0.4,[16],16
+FCN-VP-00510,quihtoh,,,16,1,1,0,0.4,[16],16
+FCN-VP-00511,quihtohqueh,,,16,1,1,0,0.4,[16],16
+FCN-VP-00512,quihtohqui,,,16,1,1,0,0.4,[16],16
+FCN-VP-00513,quillih,,,16,1,1,0,0.4,[16],16
+FCN-VP-00514,quillihqueh,,,16,1,1,0,0.4,[16],16
+FCN-VP-00515,quillihqui,,,16,1,1,0,0.4,[16],16
+FCN-VP-00516,quimachtih,,,16,1,1,0,0.4,[16],16
+FCN-VP-00517,quimachtihqueh,,,16,1,1,0,0.4,[16],16
+FCN-VP-00518,quimachtihqui,,,16,1,1,0,0.4,[16],16
+FCN-VP-00519,quimaquilih,,,16,1,1,0,0.4,[16],16
+FCN-VP-00520,quimāmāhqueh,,,16,1,1,0,0.4,[16],16
+FCN-VP-00521,quimāmāhqui,,,16,1,1,0,0.4,[16],16
+FCN-VP-00522,quimāquilihqueh,,,16,1,1,0,0.4,[16],16
+FCN-VP-00523,quimāquilihqui,,,16,1,1,0,0.4,[16],16
+FCN-VP-00524,ticholoh,second-person singular preterite indicative of choloa,verb,16,1,1,1,0.9,[16],16
+FCN-VP-00525,ticholohqueh,first-person plural preterite indicative of choloa,verb,16,1,1,1,0.9,[16],16
+FCN-VP-00526,ticholohqui,,,16,1,1,0,0.4,[16],16
+FCN-VP-00527,ticmachtih,,,16,1,1,0,0.4,[16],16
+FCN-VP-00528,ticmachtihqui,,,16,1,1,0,0.4,[16],16
+FCN-VP-00529,ticmaquilih,,,16,1,1,0,0.4,[16],16
+FCN-VP-00530,ticmāmāhqueh,,,16,1,1,0,0.4,[16],16
+FCN-VP-00531,ticmāmāhqui,,,16,1,1,0,0.4,[16],16
+FCN-VP-00532,ticmāquilihqueh,,,16,1,1,0,0.4,[16],16
+FCN-VP-00533,ticmāquilihqui,,,16,1,1,0,0.4,[16],16
+FCN-VP-00534,tiquihtoh,,,16,1,1,0,0.4,[16],16
+FCN-VP-00535,tiquihtohqueh,,,16,1,1,0,0.4,[16],16
+FCN-VP-00536,tiquihtohqui,,,16,1,1,0,0.4,[16],16
+FCN-VP-00537,tiquillih,,,16,1,1,0,0.4,[16],16
+FCN-VP-00538,tiquillihqueh,,,16,1,1,0,0.4,[16],16
+FCN-VP-00539,tiquillihqui,,,16,1,1,0,0.4,[16],16
+FCN-VP-00540,tiquimachtihqueh,,,16,1,1,0,0.4,[16],16
+FCN-VP-00541,tlaxcaloa,to make tortillas,verb,16,1,1,1,0.9,[16],16

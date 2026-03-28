@@ -1,0 +1,76 @@
+{
+  "phase": "Phase 8",
+  "policy": "open_only",
+  "sources": [
+    {
+      "source_id": "FCN-SRC-NHTL-001",
+      "source_file": "nahuatlahtolli-course",
+      "source_type": "course_html",
+      "upstream_title": "Nāhuatlahtolli",
+      "provenance_note": "Open lesson/course source for modern Huasteca Nahuatl. Parse only openly licensed lesson text and course structure.",
+      "license": "CC BY-SA",
+      "project_role": "Modern EHN lesson/dialogue backbone",
+      "authority_domain": "Modern Huasteca pedagogy and example bank",
+      "canonical_status": "Canonical open lesson source",
+      "notes": "Verify per-asset media terms separately before mirroring audio/video.",
+      "root_urls": [
+        "https://tlahtolli.coerll.utexas.edu/"
+      ],
+      "crawl_rules": {
+        "same_host_only": true,
+        "max_depth": 2,
+        "include_if_url_contains": [],
+        "exclude_if_url_contains": [
+          "wp-admin",
+          "feed",
+          "comment",
+          ".css",
+          ".js",
+          ".png",
+          ".jpg",
+          ".jpeg",
+          ".gif",
+          ".svg",
+          ".ico",
+          ".pdf",
+          ".mp3",
+          ".mp4",
+          "mailto:"
+        ]
+      }
+    },
+    {
+      "source_id": "FCN-SRC-KAIK-001",
+      "source_file": "nahuatl_kaikki_unified.json",
+      "source_type": "lexical_json",
+      "upstream_title": "Kaikki / Wiktionary Nahuatl Unified",
+      "provenance_note": "Existing FCN lexical base.",
+      "license": "CC BY-SA 3.0 / GFDL",
+      "project_role": "Lexical alignment and comparative support",
+      "authority_domain": "Lexicon",
+      "canonical_status": "Canonical intake source"
+    },
+    {
+      "source_id": "FCN-SRC-SIMN-001",
+      "source_file": "simeon_parsed.json",
+      "source_type": "dictionary_json",
+      "upstream_title": "Siméon Parsed Dictionary",
+      "provenance_note": "Existing classical reference layer.",
+      "license": "Public domain source / FCN derived parse",
+      "project_role": "Reference, root-family support, literary expansion",
+      "authority_domain": "Classical reference",
+      "canonical_status": "Canonical reference source"
+    },
+    {
+      "source_id": "FCN-SRC-UD-001",
+      "source_file": "out_ud",
+      "source_type": "grammar_tables",
+      "upstream_title": "UD Grammar Evidence",
+      "provenance_note": "Existing FCN grammar evidence tables.",
+      "license": "See upstream treebank license",
+      "project_role": "Grammar evidence and construction support",
+      "authority_domain": "Grammar evidence",
+      "canonical_status": "Canonical supporting evidence"
+    }
+  ]
+}

@@ -1,0 +1,164 @@
+{
+  "lesson_number": 14,
+  "unit_title": "Past Tense Verbs Part 1",
+  "proficiency_band": "A2",
+  "english_lesson_title": "Tlamachtiliztli 14 Tlachīhualiztli tlen panoc Part 1 (Past Tense Verbs Part 1)",
+  "spanish_lesson_title": "Tlamachtiliztli 14 Tlachīhualiztli tlen panoc. Parte 1 (Verbos en tiempo pretérito Parte 1)",
+  "lesson_overview": {
+    "communicative_goal": "Practice the lesson’s core construction set through controlled production tasks for Past Tense Verbs Part 1.",
+    "grammar_focus": "Past-tense verbal morphology.",
+    "theme_focus": "Past Tense Verbs Part 1",
+    "output_task": "Produce a short descriptive or transactional exchange built around Past Tense Verbs Part 1.",
+    "domain_label": "grammar"
+  },
+  "target_vocab": [
+    {
+      "priority_id": "FCN-VP-00001",
+      "headword": "tlen",
+      "gloss_en": "alternative spelling of tlein",
+      "part_of_speech": "pron",
+      "first_lesson_number": 1,
+      "lesson_frequency": 32,
+      "occurrence_count": 32,
+      "linked_entry_count": 1,
+      "avg_confidence": 0.9,
+      "lessons_json": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32]",
+      "lesson_number": 14
+    },
+    {
+      "priority_id": "FCN-VP-00003",
+      "headword": "nahuatl",
+      "gloss_en": "something having a clear and pleasant sound.",
+      "part_of_speech": "noun",
+      "first_lesson_number": 1,
+      "lesson_frequency": 16,
+      "occurrence_count": 16,
+      "linked_entry_count": 1,
+      "avg_confidence": 0.9,
+      "lessons_json": "[1, 2, 3, 4, 5, 6, 7, 9, 11, 12, 14, 15, 16, 20, 28, 29]",
+      "lesson_number": 14
+    },
+    {
+      "priority_id": "FCN-VP-00008",
+      "headword": "tlachīhualiztli",
+      "gloss_en": "",
+      "part_of_speech": "",
+      "first_lesson_number": 6,
+      "lesson_frequency": 12,
+      "occurrence_count": 12,
+      "linked_entry_count": 0,
+      "avg_confidence": 0.4,
+      "lessons_json": "[6, 12, 14, 15, 16, 17, 19, 23, 24, 25, 28, 31]",
+      "lesson_number": 14
+    },
+    {
+      "priority_id": "FCN-VP-00009",
+      "headword": "tlamanēxtilli",
+      "gloss_en": "",
+      "part_of_speech": "",
+      "first_lesson_number": 12,
+      "lesson_frequency": 12,
+      "occurrence_count": 12,
+      "linked_entry_count": 0,
+      "avg_confidence": 0.4,
+      "lessons_json": "[12, 13, 14, 15, 16, 17, 19, 20, 23, 24, 25, 32]",
+      "lesson_number": 14
+    },
+    {
+      "priority_id": "FCN-VP-00012",
+      "headword": "ahāhuiltiliztli",
+      "gloss_en": "",
+      "part_of_speech": "",
+      "first_lesson_number": 6,
+      "lesson_frequency": 9,
+      "occurrence_count": 9,
+      "linked_entry_count": 0,
+      "avg_confidence": 0.4,
+      "lessons_json": "[6, 13, 14, 15, 16, 17, 20, 24, 25]",
+      "lesson_number": 14
+    },
+    {
+      "priority_id": "FCN-VP-00160",
+      "headword": "queh",
+      "gloss_en": "",
+      "part_of_speech": "",
+      "first_lesson_number": 14,
+      "lesson_frequency": 2,
+      "occurrence_count": 2,
+      "linked_entry_count": 0,
+      "avg_confidence": 0.4,
+      "lessons_json": "[14, 15]",
+      "lesson_number": 14
+    }
+  ],
+  "target_constructions": [
+    {
+      "priority_id": "FCN-CP-00255",
+      "construction_label": "Construction 295",
+      "pattern_text": "Tlamanēxtilli tlen ahāhuiltiliztli tlen tlachīhualiztli tlen panoc Example of the conjugation of",
+      "proficiency_band": "B1",
+      "first_lesson_number": 14,
+      "lesson_frequency": 1,
+      "occurrence_count": 1,
+      "avg_confidence": 0.95,
+      "lessons_json": "[14]",
+      "example_original": "Tlamanēxtilli tlen ahāhuiltiliztli tlen tlachīhualiztli tlen panoc (Example of the conjugation of verbs)",
+      "lesson_number": 14
+    },
+    {
+      "priority_id": "FCN-CP-00253",
+      "construction_label": "Construction 294",
+      "pattern_text": "in verbal base queh",
+      "proficiency_band": "B1",
+      "first_lesson_number": 14,
+      "lesson_frequency": 1,
+      "occurrence_count": 1,
+      "avg_confidence": 0.7,
+      "lessons_json": "[14]",
+      "example_original": "in – (verbal base) – queh",
+      "lesson_number": 14
+    },
+    {
+      "priority_id": "FCN-CP-00254",
+      "construction_label": "Construction 293",
+      "pattern_text": "ti verbal base queh",
+      "proficiency_band": "B1",
+      "first_lesson_number": 14,
+      "lesson_frequency": 1,
+      "occurrence_count": 1,
+      "avg_confidence": 0.7,
+      "lessons_json": "[14]",
+      "example_original": "ti – (verbal base) – queh",
+      "lesson_number": 14
+    }
+  ],
+  "dialogue_set": [],
+  "exercises": [
+    {
+      "type": "substitution",
+      "prompt": "Use a target construction from Unit 14 with new lexical fills."
+    },
+    {
+      "type": "comprehension",
+      "prompt": "Answer questions about the Unit 14 dialogue set."
+    },
+    {
+      "type": "production",
+      "prompt": "Produce a short response using Unit 14 vocabulary."
+    }
+  ],
+  "quiz_review_items": [
+    {
+      "type": "recall",
+      "prompt": "Recall five Unit 14 vocabulary items."
+    },
+    {
+      "type": "dialogue",
+      "prompt": "Complete one missing line from a Unit 14 dialogue."
+    },
+    {
+      "type": "construction",
+      "prompt": "Transform a sentence using a Unit 14 construction."
+    }
+  ]
+}

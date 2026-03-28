@@ -1,0 +1,333 @@
+{
+  "lesson_number": 1,
+  "unit_title": "The Alphabet",
+  "proficiency_band": "A1",
+  "english_lesson_title": "Tlamachtiliztli 1 Piltlahcuiloltzitzin (The Alphabet)",
+  "spanish_lesson_title": "Tlamachtiliztli 1 Piltlahcuiloltzitzin (El alfabeto).",
+  "lesson_overview": {
+    "communicative_goal": "Recognize and pronounce the core alphabet and basic sound patterns.",
+    "grammar_focus": "Core lesson constructions and reusable sentence patterns.",
+    "theme_focus": "The Alphabet",
+    "output_task": "Complete a short guided dialogue and mini self-introduction on The Alphabet.",
+    "domain_label": "orthography"
+  },
+  "target_vocab": [
+    {
+      "priority_id": "FCN-VP-00001",
+      "headword": "tlen",
+      "gloss_en": "alternative spelling of tlein",
+      "part_of_speech": "pron",
+      "first_lesson_number": 1,
+      "lesson_frequency": 32,
+      "occurrence_count": 32,
+      "linked_entry_count": 1,
+      "avg_confidence": 0.9,
+      "lessons_json": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32]",
+      "lesson_number": 1
+    },
+    {
+      "priority_id": "FCN-VP-00003",
+      "headword": "nahuatl",
+      "gloss_en": "something having a clear and pleasant sound.",
+      "part_of_speech": "noun",
+      "first_lesson_number": 1,
+      "lesson_frequency": 16,
+      "occurrence_count": 16,
+      "linked_entry_count": 1,
+      "avg_confidence": 0.9,
+      "lessons_json": "[1, 2, 3, 4, 5, 6, 7, 9, 11, 12, 14, 15, 16, 20, 28, 29]",
+      "lesson_number": 1
+    },
+    {
+      "priority_id": "FCN-VP-00014",
+      "headword": "tlamānēxtilli",
+      "gloss_en": "",
+      "part_of_speech": "",
+      "first_lesson_number": 1,
+      "lesson_frequency": 8,
+      "occurrence_count": 8,
+      "linked_entry_count": 0,
+      "avg_confidence": 0.4,
+      "lessons_json": "[1, 3, 6, 7, 8, 9, 10, 12]",
+      "lesson_number": 1
+    },
+    {
+      "priority_id": "FCN-VP-00032",
+      "headword": "tlamanextilli",
+      "gloss_en": "",
+      "part_of_speech": "",
+      "first_lesson_number": 1,
+      "lesson_frequency": 4,
+      "occurrence_count": 4,
+      "linked_entry_count": 0,
+      "avg_confidence": 0.4,
+      "lessons_json": "[1, 17, 20, 26]",
+      "lesson_number": 1
+    },
+    {
+      "priority_id": "FCN-VP-00101",
+      "headword": "unique",
+      "gloss_en": "",
+      "part_of_speech": "",
+      "first_lesson_number": 1,
+      "lesson_frequency": 2,
+      "occurrence_count": 2,
+      "linked_entry_count": 0,
+      "avg_confidence": 0.4,
+      "lessons_json": "[1, 21]",
+      "lesson_number": 1
+    },
+    {
+      "priority_id": "FCN-VP-00219",
+      "headword": "atlas",
+      "gloss_en": "",
+      "part_of_speech": "",
+      "first_lesson_number": 1,
+      "lesson_frequency": 1,
+      "occurrence_count": 1,
+      "linked_entry_count": 0,
+      "avg_confidence": 0.4,
+      "lessons_json": "[1]",
+      "lesson_number": 1
+    },
+    {
+      "priority_id": "FCN-VP-00220",
+      "headword": "blitz",
+      "gloss_en": "",
+      "part_of_speech": "",
+      "first_lesson_number": 1,
+      "lesson_frequency": 1,
+      "occurrence_count": 1,
+      "linked_entry_count": 0,
+      "avg_confidence": 0.4,
+      "lessons_json": "[1]",
+      "lesson_number": 1
+    },
+    {
+      "priority_id": "FCN-VP-00221",
+      "headword": "cōhquī",
+      "gloss_en": "",
+      "part_of_speech": "",
+      "first_lesson_number": 1,
+      "lesson_frequency": 1,
+      "occurrence_count": 1,
+      "linked_entry_count": 0,
+      "avg_confidence": 0.4,
+      "lessons_json": "[1]",
+      "lesson_number": 1
+    },
+    {
+      "priority_id": "FCN-VP-00222",
+      "headword": "cōuhqui",
+      "gloss_en": "",
+      "part_of_speech": "",
+      "first_lesson_number": 1,
+      "lesson_frequency": 1,
+      "occurrence_count": 1,
+      "linked_entry_count": 0,
+      "avg_confidence": 0.4,
+      "lessons_json": "[1]",
+      "lesson_number": 1
+    },
+    {
+      "priority_id": "FCN-VP-00223",
+      "headword": "michel",
+      "gloss_en": "",
+      "part_of_speech": "",
+      "first_lesson_number": 1,
+      "lesson_frequency": 1,
+      "occurrence_count": 1,
+      "linked_entry_count": 0,
+      "avg_confidence": 0.4,
+      "lessons_json": "[1]",
+      "lesson_number": 1
+    },
+    {
+      "priority_id": "FCN-VP-00224",
+      "headword": "particular",
+      "gloss_en": "",
+      "part_of_speech": "",
+      "first_lesson_number": 1,
+      "lesson_frequency": 1,
+      "occurrence_count": 1,
+      "linked_entry_count": 0,
+      "avg_confidence": 0.4,
+      "lessons_json": "[1]",
+      "lesson_number": 1
+    },
+    {
+      "priority_id": "FCN-VP-00225",
+      "headword": "quest",
+      "gloss_en": "",
+      "part_of_speech": "",
+      "first_lesson_number": 1,
+      "lesson_frequency": 1,
+      "occurrence_count": 1,
+      "linked_entry_count": 0,
+      "avg_confidence": 0.4,
+      "lessons_json": "[1]",
+      "lesson_number": 1
+    },
+    {
+      "priority_id": "FCN-VP-00226",
+      "headword": "such",
+      "gloss_en": "",
+      "part_of_speech": "",
+      "first_lesson_number": 1,
+      "lesson_frequency": 1,
+      "occurrence_count": 1,
+      "linked_entry_count": 0,
+      "avg_confidence": 0.4,
+      "lessons_json": "[1]",
+      "lesson_number": 1
+    },
+    {
+      "priority_id": "FCN-VP-00227",
+      "headword": "tentzilincayotl",
+      "gloss_en": "",
+      "part_of_speech": "",
+      "first_lesson_number": 1,
+      "lesson_frequency": 1,
+      "occurrence_count": 1,
+      "linked_entry_count": 0,
+      "avg_confidence": 0.4,
+      "lessons_json": "[1]",
+      "lesson_number": 1
+    },
+    {
+      "priority_id": "FCN-VP-00228",
+      "headword": "teuctli",
+      "gloss_en": "Lord.",
+      "part_of_speech": "noun",
+      "first_lesson_number": 1,
+      "lesson_frequency": 1,
+      "occurrence_count": 1,
+      "linked_entry_count": 1,
+      "avg_confidence": 0.9,
+      "lessons_json": "[1]",
+      "lesson_number": 1
+    },
+    {
+      "priority_id": "FCN-VP-00229",
+      "headword": "tēktli",
+      "gloss_en": "",
+      "part_of_speech": "",
+      "first_lesson_number": 1,
+      "lesson_frequency": 1,
+      "occurrence_count": 1,
+      "linked_entry_count": 0,
+      "avg_confidence": 0.4,
+      "lessons_json": "[1]",
+      "lesson_number": 1
+    },
+    {
+      "priority_id": "FCN-VP-00230",
+      "headword": "tēntlatzacuilcayōtl",
+      "gloss_en": "",
+      "part_of_speech": "",
+      "first_lesson_number": 1,
+      "lesson_frequency": 1,
+      "occurrence_count": 1,
+      "linked_entry_count": 0,
+      "avg_confidence": 0.4,
+      "lessons_json": "[1]",
+      "lesson_number": 1
+    }
+  ],
+  "target_constructions": [
+    {
+      "priority_id": "FCN-CP-00002",
+      "construction_label": "Construction 42",
+      "pattern_text": "For example the word cōuhqui she bought something is pronounced as cōhquī",
+      "proficiency_band": "A1",
+      "first_lesson_number": 1,
+      "lesson_frequency": 1,
+      "occurrence_count": 1,
+      "avg_confidence": 0.6,
+      "lessons_json": "[1]",
+      "example_original": "For example, the word “cōuhqui” (she bought something) is pronounced as “cōhquī,” emphazising the first vowel and silencing the “u.”",
+      "lesson_number": 1
+    },
+    {
+      "priority_id": "FCN-CP-00003",
+      "construction_label": "Construction 41",
+      "pattern_text": "For example the word teuctli lord sir is pronounced as tēktli emphasizing",
+      "proficiency_band": "A1",
+      "first_lesson_number": 1,
+      "lesson_frequency": 1,
+      "occurrence_count": 1,
+      "avg_confidence": 0.6079,
+      "lessons_json": "[1]",
+      "example_original": "For example, the word “teuctli” (lord/sir) is pronounced as “tēktli,” emphasizing the first vowel and silencing the “u.”",
+      "lesson_number": 1
+    },
+    {
+      "priority_id": "FCN-CP-00004",
+      "construction_label": "Construction 45",
+      "pattern_text": "Tlamanextilli tlen tentzilincayotl Examples of vowels",
+      "proficiency_band": "A1",
+      "first_lesson_number": 1,
+      "lesson_frequency": 1,
+      "occurrence_count": 1,
+      "avg_confidence": 0.95,
+      "lessons_json": "[1]",
+      "example_original": "Tlamanextilli tlen tentzilincayotl (Examples of vowels)",
+      "lesson_number": 1
+    },
+    {
+      "priority_id": "FCN-CP-00005",
+      "construction_label": "Construction 44",
+      "pattern_text": "Tlamānēxtilli tlen tēntlatzacuilcayōtl Examples of Consonants",
+      "proficiency_band": "A1",
+      "first_lesson_number": 1,
+      "lesson_frequency": 1,
+      "occurrence_count": 1,
+      "avg_confidence": 0.95,
+      "lessons_json": "[1]",
+      "example_original": "Tlamānēxtilli tlen tēntlatzacuilcayōtl (Examples of Consonants)",
+      "lesson_number": 1
+    },
+    {
+      "priority_id": "FCN-CP-00001",
+      "construction_label": "Construction 43",
+      "pattern_text": "ch m n p t y l cu uc qu hu uh",
+      "proficiency_band": "A1",
+      "first_lesson_number": 1,
+      "lesson_frequency": 1,
+      "occurrence_count": 1,
+      "avg_confidence": 0.8618,
+      "lessons_json": "[1]",
+      "example_original": "ch m n p t y l cu uc qu hu uh h x tl tz z",
+      "lesson_number": 1
+    }
+  ],
+  "dialogue_set": [],
+  "exercises": [
+    {
+      "type": "substitution",
+      "prompt": "Use a target construction from Unit 1 with new lexical fills."
+    },
+    {
+      "type": "comprehension",
+      "prompt": "Answer questions about the Unit 1 dialogue set."
+    },
+    {
+      "type": "production",
+      "prompt": "Produce a short response using Unit 1 vocabulary."
+    }
+  ],
+  "quiz_review_items": [
+    {
+      "type": "recall",
+      "prompt": "Recall five Unit 1 vocabulary items."
+    },
+    {
+      "type": "dialogue",
+      "prompt": "Complete one missing line from a Unit 1 dialogue."
+    },
+    {
+      "type": "construction",
+      "prompt": "Transform a sentence using a Unit 1 construction."
+    }
+  ]
+}

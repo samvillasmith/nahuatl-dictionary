@@ -1,0 +1,36 @@
+priority_id,headword,gloss_en,part_of_speech,first_lesson_number,lesson_frequency,occurrence_count,linked_entry_count,avg_confidence,lessons_json,lesson_number
+FCN-VP-00001,tlen,alternative spelling of tlein,pron,1,32,32,1,0.9,"[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32]",32
+FCN-VP-00005,īcā,,,4,14,14,0,0.4,"[4, 6, 7, 8, 9, 11, 12, 19, 22, 23, 27, 29, 31, 32]",32
+FCN-VP-00006,cequin,,,8,14,14,0,0.4,"[8, 9, 11, 17, 19, 21, 24, 25, 26, 27, 29, 30, 31, 32]",32
+FCN-VP-00009,tlamanēxtilli,,,12,12,12,0,0.4,"[12, 13, 14, 15, 16, 17, 19, 20, 23, 24, 25, 32]",32
+FCN-VP-00015,chicontepec,"Chicontepec (the largest city in the state of Veracruz, Mexico)",name,3,7,7,1,0.9,"[3, 7, 11, 21, 22, 27, 32]",32
+FCN-VP-00031,tlahuel,very,adv,19,5,5,1,0.9,"[19, 22, 28, 30, 32]",32
+FCN-VP-00046,tlahtolli,Word; speech; language.,noun,8,4,4,1,0.9,"[8, 10, 19, 32]",32
+FCN-VP-00052,nonanān,,,13,4,4,0,0.4,"[13, 24, 26, 32]",32
+FCN-VP-00060,chicōntepēc,,,3,3,3,0,0.4,"[3, 27, 32]",32
+FCN-VP-00100,human,,,24,3,3,0,0.4,"[24, 29, 32]",32
+FCN-VP-00202,tla-,Object prefix for verbs; it indicates that the object is non-human and indefinite.,prefix,23,2,2,1,0.9,"[23, 32]",32
+FCN-VP-00203,tē-,,,23,2,2,0,0.4,"[23, 32]",32
+FCN-VP-00212,quiāmati,,,28,2,2,0,0.4,"[28, 32]",32
+FCN-VP-01313,cahuayoh,alternative form of cahuallo,noun,32,1,1,1,0.9,[32],32
+FCN-VP-01314,chihchicuēyi,,,32,1,1,0,0.4,[32],32
+FCN-VP-01315,humans,,,32,1,1,0,0.4,[32],32
+FCN-VP-01316,hunt,,,32,1,1,0,0.4,[32],32
+FCN-VP-01317,itlamāmāl,,,32,1,1,0,0.4,[32],32
+FCN-VP-01318,mītztlamāca,,,32,1,1,0,0.4,[32],32
+FCN-VP-01319,nochichi,,,32,1,1,0,0.4,[32],32
+FCN-VP-01320,non-human,,,32,1,1,0,0.4,[32],32
+FCN-VP-01321,quicahcayāhqui,,,32,1,1,0,0.4,[32],32
+FCN-VP-01322,quipalehuia,,,32,1,1,0,0.4,[32],32
+FCN-VP-01323,tla,,,32,1,1,0,0.4,[32],32
+FCN-VP-01324,tlachicuēnia,,,32,1,1,0,0.4,[32],32
+FCN-VP-01325,tlanāmictia,,,32,1,1,0,0.4,[32],32
+FCN-VP-01326,tlapēhuaz,,,32,1,1,0,0.4,[32],32
+FCN-VP-01327,tlaōniz,,,32,1,1,0,0.4,[32],32
+FCN-VP-01328,totahtzin,,,32,1,1,0,0.4,[32],32
+FCN-VP-01329,tēcahcayāhqui,,,32,1,1,0,0.4,[32],32
+FCN-VP-01330,tēpalehuia,,,32,1,1,0,0.4,[32],32
+FCN-VP-01331,tētlamāca,,,32,1,1,0,0.4,[32],32
+FCN-VP-01332,xicchīhua,,,32,1,1,0,0.4,[32],32
+FCN-VP-01333,xiquitta,,,32,1,1,0,0.4,[32],32
+FCN-VP-01334,xiquittacān,,,32,1,1,0,0.4,[32],32
