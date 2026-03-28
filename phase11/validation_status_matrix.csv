@@ -1,0 +1,11 @@
+status,meaning
+unvalidated,No validation decision recorded yet
+documentary_supported,Supported by documentary evidence but not fully validated for all uses
+editorially_accepted,Accepted by editorial policy for intended use
+provisionally_accepted,Usable with caution pending stronger review
+accepted_for_internal_use,Approved for internal instructional/editorial use
+accepted_for_public_use,Approved for public-facing release
+restricted_to_note_only,Preserved as evidence or note-only material
+needs_further_review,Insufficient clarity or unresolved issue remains
+disputed,Recorded disagreement remains unresolved
+rejected,Not accepted for intended role

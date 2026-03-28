@@ -1,0 +1,10 @@
+checklist,check_item,required
+lexical,headword present,yes
+lexical,register status marked,yes
+lexical,source reference present,yes
+grammar,example matches claim,yes
+grammar,evidence status marked,yes
+style,orthography consistent,yes
+register,source register and target register explicit,yes
+source,rights / provenance posture known,yes
+publication,version metadata present,yes

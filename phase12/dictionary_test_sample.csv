@@ -1,0 +1,5 @@
+entry_id,ehn_spoken_form,msn_headword,msn_poetic_form,classical_citation_form,part_of_speech,register,variety,gloss_en,gloss_es,root_family,source_reference,validation_status,editorial_status,cross_references
+FCN-DICT-0001,siwatl,siwatl,siwatl,cihuatl,noun,spoken_safe / neutral,EHN / MSN,woman,mujer,N/A,Kaikki / FCN curation,accepted_for_internal_use,curated,see family / person terms
+FCN-DICT-0002,kuāwtli,kuāwtli,kuāwtli,cuauhtli,noun,neutral_high / poetic_high,MSN / classical-supported,eagle,águila,N/A,Classical / editorial normalization,editorially_accepted,curated,see elevated diction / symbolic imagery
+FCN-DICT-0003,noyōllo,noyōllo,noyōllo,noyollo,noun,poetic_high,MSN-P,my heart,mi corazón,yōl,Poetic inventory / FCN literary curation,editorially_accepted,curated,see vocatives / refrain use / elevated diction
+FCN-DICT-0004,Ximoquētza!,moquētza,,,verb,spoken_safe,EHN,stand up!,¡levántate!,quētza,Instructional corpus / primer,accepted_for_public_use,primer_safe,see imperatives / classroom interaction
