@@ -1,0 +1,93 @@
+example_id,example_ehn,example_msn,translation_en,example_type,evidence_status,beginner_flag,source_entry_ids_json,notes
+FCN-EX-P7-0001,axtle,axtle,"no, negative response",attested_phrase,attested_lexical_item,safe,"[""kw::axtle::1""]",
+FCN-EX-P7-0002,axtlen,axtlen,"think nothing of it, you're welcome, don't mention it",attested_phrase,attested_lexical_item,safe,"[""kw::axtlen::1""]",
+FCN-EX-P7-0003,quena,kena,"yes, positive response",attested_phrase,attested_lexical_item,safe,"[""kw::quena::1""]",
+FCN-EX-P7-0004,pialli,pialli,hello (greeting),attested_phrase,attested_lexical_item,safe,"[""kw::pialli::1""]",
+FCN-EX-P7-0005,tonalti,tonalti,good morning (greeting),attested_phrase,attested_lexical_item,safe,"[""kw::tonalti::1""]",
+FCN-EX-P7-0006,quehatza tiitztoc,kehatsa tiitstok,how are you?,attested_phrase,attested_lexical_item,safe,"[""kw::quehatza-tiitztoc::1""]",
+FCN-EX-P7-0007,quehatza tiya,kehatsa tiya,how's it going?,attested_phrase,attested_lexical_item,safe,"[""kw::quehatza-tiya::1""]",
+FCN-EX-P7-0008,tiotlaquilti,tiotlakilti,good afternoon (greeting),attested_phrase,attested_lexical_item,safe,"[""kw::tiotlaquilti::1""]",
+FCN-EX-P7-0009,tlapoyahualti,tlapoyawalti,good night (greeting),attested_phrase,attested_lexical_item,safe,"[""kw::tlapoyahualti::1""]",
+FCN-EX-P7-0010,tlazcamati,tlaskamati,thanks,attested_phrase,attested_lexical_item,safe,"[""kw::tlazcamati::1""]",
+FCN-EX-P7-0011,ax tleno,ax tleno,you're welcome,attested_phrase,attested_lexical_item,safe,"[""kw::ax-tleno::1""]",
+FCN-EX-P7-0012,cualtitoc,kualtitok,"fine, ok",attested_phrase,attested_lexical_item,safe,"[""kw::cualtitoc::1""]",
+FCN-EX-P7-0013,pampa,pampa,because,attested_token,attested_lexical_item,safe,"[""kw::pampa::1""]",
+FCN-EX-P7-0014,achtohui,achtowi,before,attested_token,attested_lexical_item,safe,"[""kw::achtohui::2""]",
+FCN-EX-P7-0015,ahqueya,ahkeya,who?,attested_token,attested_lexical_item,safe,"[""kw::ahqueya::1""]",
+FCN-EX-P7-0016,ama,ama,now,attested_token,attested_lexical_item,safe,"[""kw::ama::1""]",
+FCN-EX-P7-0017,amantzi,amantsi,right now,attested_token,attested_lexical_item,safe,"[""kw::amantzi::1""]",
+FCN-EX-P7-0018,ax,ax,not,attested_token,attested_lexical_item,safe,"[""kw::ax::1""]",
+FCN-EX-P7-0019,aya,aya,not yet,attested_token,attested_lexical_item,safe,"[""kw::aya::1""]",
+FCN-EX-P7-0020,campa,kampa,where,attested_token,attested_lexical_item,safe,"[""kw::campa::4""]",
+FCN-EX-P7-0021,canque,kanke,where,attested_token,attested_lexical_item,safe,"[""kw::canque::1""]",
+FCN-EX-P7-0022,queha,keha,how,attested_token,attested_lexical_item,safe,"[""kw::queha::1""]",
+FCN-EX-P7-0023,quehatza,kehatsa,how,attested_token,attested_lexical_item,safe,"[""kw::quehatza::1""]",
+FCN-EX-P7-0024,quezqui,keski,how much?,attested_token,attested_lexical_item,safe,"[""kw::quezqui::1""]",
+FCN-EX-P7-0025,moztla,mostla,tomorrow,attested_token,attested_lexical_item,safe,"[""kw::moztla::2""]",
+FCN-EX-P7-0026,neca,neka,there,attested_token,attested_lexical_item,safe,"[""kw::neca::1""]",
+FCN-EX-P7-0027,nepa,nepa,there,attested_token,attested_lexical_item,safe,"[""kw::nepa::1""]",
+FCN-EX-P7-0028,nica,nika,here,attested_token,attested_lexical_item,safe,"[""kw::nica::1""]",
+FCN-EX-P7-0029,nicani,nikani,here,attested_token,attested_lexical_item,safe,"[""kw::nicani::1""]",
+FCN-EX-P7-0030,nopano,nopano,there,attested_token,attested_lexical_item,safe,"[""kw::nopano::1""]",
+FCN-EX-P7-0031,tlen,tlen,what,attested_token,attested_lexical_item,safe,"[""kw::tlen::2""]",
+FCN-EX-P7-0032,yalhuaya,yalwaya,yesterday,attested_token,attested_lexical_item,safe,"[""kw::yalhuaya::1""]",
+FCN-EX-P7-0033,ni calli,ni kalli,this house,editorial_demonstrative_phrase,editorial_generated_phrase,safe,"[""kw::ni::1"", ""kw::calli::5""]",Conservative nominal phrase built from attested EHN determiner + noun.
+FCN-EX-P7-0034,ni amatl,ni amatl,this paper,editorial_demonstrative_phrase,editorial_generated_phrase,safe,"[""kw::ni::1"", ""kw::amatl::6""]",Conservative nominal phrase built from attested EHN determiner + noun.
+FCN-EX-P7-0035,ni tamalli,ni tamalli,this tamale,editorial_demonstrative_phrase,editorial_generated_phrase,safe,"[""kw::ni::1"", ""kw::tamalli::3""]",Conservative nominal phrase built from attested EHN determiner + noun.
+FCN-EX-P7-0036,ni tlaxcalli,ni tlaxkalli,this tortilla,editorial_demonstrative_phrase,editorial_generated_phrase,safe,"[""kw::ni::1"", ""kw::tlaxcalli::4""]",Conservative nominal phrase built from attested EHN determiner + noun.
+FCN-EX-P7-0037,ni amigo,ni amigo,this friend,editorial_demonstrative_phrase,editorial_generated_phrase,safe,"[""kw::ni::1"", ""kw::amigo::1""]",Conservative nominal phrase built from attested EHN determiner + noun.
+FCN-EX-P7-0038,ni libro,ni libro,this book,editorial_demonstrative_phrase,editorial_generated_phrase,safe,"[""kw::ni::1"", ""kw::libro::1""]",Conservative nominal phrase built from attested EHN determiner + noun.
+FCN-EX-P7-0039,ni amacamanalli,ni amakamanalli,this map,editorial_demonstrative_phrase,editorial_generated_phrase,safe,"[""kw::ni::1"", ""kw::amacamanalli::1""]",Conservative nominal phrase built from attested EHN determiner + noun.
+FCN-EX-P7-0040,ni amatlahcuilolli,ni amatlahkuilolli,this a letter,editorial_demonstrative_phrase,editorial_generated_phrase,safe,"[""kw::ni::1"", ""kw::amatlahcuilolli::2""]",Conservative nominal phrase built from attested EHN determiner + noun.
+FCN-EX-P7-0041,ni altepetl,ni altepetl,"this altepetl, city, town",editorial_demonstrative_phrase,editorial_generated_phrase,safe,"[""kw::ni::1"", ""kw::altepetl::5""]",Conservative nominal phrase built from attested EHN determiner + noun.
+FCN-EX-P7-0042,ni huicatl,ni wikatl,this song,editorial_demonstrative_phrase,editorial_generated_phrase,safe,"[""kw::ni::1"", ""kw::huicatl::1""]",Conservative nominal phrase built from attested EHN determiner + noun.
+FCN-EX-P7-0043,ni siwatl,ni siwatl,this woman,editorial_demonstrative_phrase,editorial_generated_phrase,safe,"[""kw::ni::1"", ""kw::siwatl::1""]",Conservative nominal phrase built from attested EHN determiner + noun.
+FCN-EX-P7-0044,ni tlacatl,ni tlakatl,this man,editorial_demonstrative_phrase,editorial_generated_phrase,safe,"[""kw::ni::1"", ""kw::tlacatl::6""]",Conservative nominal phrase built from attested EHN determiner + noun.
+FCN-EX-P7-0045,ni pilconetzi,ni pilkonetsi,this child,editorial_demonstrative_phrase,editorial_generated_phrase,safe,"[""kw::ni::1"", ""kw::pilconetzi::1""]",Conservative nominal phrase built from attested EHN determiner + noun.
+FCN-EX-P7-0046,ni komalli,ni komalli,this a pan used to grill tortillas,editorial_demonstrative_phrase,editorial_generated_phrase,safe,"[""kw::ni::1"", ""kw::komalli::2""]",Conservative nominal phrase built from attested EHN determiner + noun.
+FCN-EX-P7-0047,ni atemitl,ni atemitl,this river,editorial_demonstrative_phrase,editorial_generated_phrase,safe,"[""kw::ni::1"", ""kw::atemitl::2""]",Conservative nominal phrase built from attested EHN determiner + noun.
+FCN-EX-P7-0048,ne calli,ne kalli,that house,editorial_demonstrative_phrase,editorial_generated_phrase,safe,"[""kw::ne::1"", ""kw::calli::5""]",Conservative nominal phrase built from attested EHN determiner + noun.
+FCN-EX-P7-0049,ne amatl,ne amatl,that paper,editorial_demonstrative_phrase,editorial_generated_phrase,safe,"[""kw::ne::1"", ""kw::amatl::6""]",Conservative nominal phrase built from attested EHN determiner + noun.
+FCN-EX-P7-0050,ne tamalli,ne tamalli,that tamale,editorial_demonstrative_phrase,editorial_generated_phrase,safe,"[""kw::ne::1"", ""kw::tamalli::3""]",Conservative nominal phrase built from attested EHN determiner + noun.
+FCN-EX-P7-0051,ne tlaxcalli,ne tlaxkalli,that tortilla,editorial_demonstrative_phrase,editorial_generated_phrase,safe,"[""kw::ne::1"", ""kw::tlaxcalli::4""]",Conservative nominal phrase built from attested EHN determiner + noun.
+FCN-EX-P7-0052,ne amigo,ne amigo,that friend,editorial_demonstrative_phrase,editorial_generated_phrase,safe,"[""kw::ne::1"", ""kw::amigo::1""]",Conservative nominal phrase built from attested EHN determiner + noun.
+FCN-EX-P7-0053,ne libro,ne libro,that book,editorial_demonstrative_phrase,editorial_generated_phrase,safe,"[""kw::ne::1"", ""kw::libro::1""]",Conservative nominal phrase built from attested EHN determiner + noun.
+FCN-EX-P7-0054,ne amacamanalli,ne amakamanalli,that map,editorial_demonstrative_phrase,editorial_generated_phrase,safe,"[""kw::ne::1"", ""kw::amacamanalli::1""]",Conservative nominal phrase built from attested EHN determiner + noun.
+FCN-EX-P7-0055,ne amatlahcuilolli,ne amatlahkuilolli,that a letter,editorial_demonstrative_phrase,editorial_generated_phrase,safe,"[""kw::ne::1"", ""kw::amatlahcuilolli::2""]",Conservative nominal phrase built from attested EHN determiner + noun.
+FCN-EX-P7-0056,ne altepetl,ne altepetl,"that altepetl, city, town",editorial_demonstrative_phrase,editorial_generated_phrase,safe,"[""kw::ne::1"", ""kw::altepetl::5""]",Conservative nominal phrase built from attested EHN determiner + noun.
+FCN-EX-P7-0057,ne huicatl,ne wikatl,that song,editorial_demonstrative_phrase,editorial_generated_phrase,safe,"[""kw::ne::1"", ""kw::huicatl::1""]",Conservative nominal phrase built from attested EHN determiner + noun.
+FCN-EX-P7-0058,ne siwatl,ne siwatl,that woman,editorial_demonstrative_phrase,editorial_generated_phrase,safe,"[""kw::ne::1"", ""kw::siwatl::1""]",Conservative nominal phrase built from attested EHN determiner + noun.
+FCN-EX-P7-0059,ne tlacatl,ne tlakatl,that man,editorial_demonstrative_phrase,editorial_generated_phrase,safe,"[""kw::ne::1"", ""kw::tlacatl::6""]",Conservative nominal phrase built from attested EHN determiner + noun.
+FCN-EX-P7-0060,ne pilconetzi,ne pilkonetsi,that child,editorial_demonstrative_phrase,editorial_generated_phrase,safe,"[""kw::ne::1"", ""kw::pilconetzi::1""]",Conservative nominal phrase built from attested EHN determiner + noun.
+FCN-EX-P7-0061,ne komalli,ne komalli,that a pan used to grill tortillas,editorial_demonstrative_phrase,editorial_generated_phrase,safe,"[""kw::ne::1"", ""kw::komalli::2""]",Conservative nominal phrase built from attested EHN determiner + noun.
+FCN-EX-P7-0062,ne atemitl,ne atemitl,that river,editorial_demonstrative_phrase,editorial_generated_phrase,safe,"[""kw::ne::1"", ""kw::atemitl::2""]",Conservative nominal phrase built from attested EHN determiner + noun.
+FCN-EX-P7-0063,ce tamalli,se tamalli,one tamale,editorial_number_phrase,editorial_generated_phrase,safe,"[""kw::ce::3"", ""kw::tamalli::3""]",Conservative numeral + noun phrase for beginner practice.
+FCN-EX-P7-0064,ce tlaxcalli,se tlaxkalli,one tortilla,editorial_number_phrase,editorial_generated_phrase,safe,"[""kw::ce::3"", ""kw::tlaxcalli::4""]",Conservative numeral + noun phrase for beginner practice.
+FCN-EX-P7-0065,ce amigo,se amigo,one friend,editorial_number_phrase,editorial_generated_phrase,safe,"[""kw::ce::3"", ""kw::amigo::1""]",Conservative numeral + noun phrase for beginner practice.
+FCN-EX-P7-0066,ce calli,se kalli,one house,editorial_number_phrase,editorial_generated_phrase,safe,"[""kw::ce::3"", ""kw::calli::5""]",Conservative numeral + noun phrase for beginner practice.
+FCN-EX-P7-0067,ce amatl,se amatl,one paper,editorial_number_phrase,editorial_generated_phrase,safe,"[""kw::ce::3"", ""kw::amatl::6""]",Conservative numeral + noun phrase for beginner practice.
+FCN-EX-P7-0068,ce chilli,se chilli,one chili pepper,editorial_number_phrase,editorial_generated_phrase,safe,"[""kw::ce::3"", ""kw::chilli::3""]",Conservative numeral + noun phrase for beginner practice.
+FCN-EX-P7-0069,ome tamalli,ome tamalli,two tamale,editorial_number_phrase,editorial_generated_phrase,safe,"[""kw::ome::4"", ""kw::tamalli::3""]",Conservative numeral + noun phrase for beginner practice.
+FCN-EX-P7-0070,ome tlaxcalli,ome tlaxkalli,two tortilla,editorial_number_phrase,editorial_generated_phrase,safe,"[""kw::ome::4"", ""kw::tlaxcalli::4""]",Conservative numeral + noun phrase for beginner practice.
+FCN-EX-P7-0071,ome amigo,ome amigo,two friend,editorial_number_phrase,editorial_generated_phrase,safe,"[""kw::ome::4"", ""kw::amigo::1""]",Conservative numeral + noun phrase for beginner practice.
+FCN-EX-P7-0072,ome calli,ome kalli,two house,editorial_number_phrase,editorial_generated_phrase,safe,"[""kw::ome::4"", ""kw::calli::5""]",Conservative numeral + noun phrase for beginner practice.
+FCN-EX-P7-0073,ome amatl,ome amatl,two paper,editorial_number_phrase,editorial_generated_phrase,safe,"[""kw::ome::4"", ""kw::amatl::6""]",Conservative numeral + noun phrase for beginner practice.
+FCN-EX-P7-0074,ome chilli,ome chilli,two chili pepper,editorial_number_phrase,editorial_generated_phrase,safe,"[""kw::ome::4"", ""kw::chilli::3""]",Conservative numeral + noun phrase for beginner practice.
+FCN-EX-P7-0075,eyi tamalli,eyi tamalli,three tamale,editorial_number_phrase,editorial_generated_phrase,safe,"[""kw::eyi::4"", ""kw::tamalli::3""]",Conservative numeral + noun phrase for beginner practice.
+FCN-EX-P7-0076,eyi tlaxcalli,eyi tlaxkalli,three tortilla,editorial_number_phrase,editorial_generated_phrase,safe,"[""kw::eyi::4"", ""kw::tlaxcalli::4""]",Conservative numeral + noun phrase for beginner practice.
+FCN-EX-P7-0077,eyi amigo,eyi amigo,three friend,editorial_number_phrase,editorial_generated_phrase,safe,"[""kw::eyi::4"", ""kw::amigo::1""]",Conservative numeral + noun phrase for beginner practice.
+FCN-EX-P7-0078,eyi calli,eyi kalli,three house,editorial_number_phrase,editorial_generated_phrase,safe,"[""kw::eyi::4"", ""kw::calli::5""]",Conservative numeral + noun phrase for beginner practice.
+FCN-EX-P7-0079,eyi amatl,eyi amatl,three paper,editorial_number_phrase,editorial_generated_phrase,safe,"[""kw::eyi::4"", ""kw::amatl::6""]",Conservative numeral + noun phrase for beginner practice.
+FCN-EX-P7-0080,eyi chilli,eyi chilli,three chili pepper,editorial_number_phrase,editorial_generated_phrase,safe,"[""kw::eyi::4"", ""kw::chilli::3""]",Conservative numeral + noun phrase for beginner practice.
+FCN-EX-P7-0081,nahui tamalli,nawi tamalli,four tamale,editorial_number_phrase,editorial_generated_phrase,safe,"[""kw::nahui::3"", ""kw::tamalli::3""]",Conservative numeral + noun phrase for beginner practice.
+FCN-EX-P7-0082,nahui tlaxcalli,nawi tlaxkalli,four tortilla,editorial_number_phrase,editorial_generated_phrase,safe,"[""kw::nahui::3"", ""kw::tlaxcalli::4""]",Conservative numeral + noun phrase for beginner practice.
+FCN-EX-P7-0083,nahui amigo,nawi amigo,four friend,editorial_number_phrase,editorial_generated_phrase,safe,"[""kw::nahui::3"", ""kw::amigo::1""]",Conservative numeral + noun phrase for beginner practice.
+FCN-EX-P7-0084,nahui calli,nawi kalli,four house,editorial_number_phrase,editorial_generated_phrase,safe,"[""kw::nahui::3"", ""kw::calli::5""]",Conservative numeral + noun phrase for beginner practice.
+FCN-EX-P7-0085,nahui amatl,nawi amatl,four paper,editorial_number_phrase,editorial_generated_phrase,safe,"[""kw::nahui::3"", ""kw::amatl::6""]",Conservative numeral + noun phrase for beginner practice.
+FCN-EX-P7-0086,nahui chilli,nawi chilli,four chili pepper,editorial_number_phrase,editorial_generated_phrase,safe,"[""kw::nahui::3"", ""kw::chilli::3""]",Conservative numeral + noun phrase for beginner practice.
+FCN-EX-P7-0087,macuilli tamalli,makuilli tamalli,five tamale,editorial_number_phrase,editorial_generated_phrase,safe,"[""kw::macuilli::3"", ""kw::tamalli::3""]",Conservative numeral + noun phrase for beginner practice.
+FCN-EX-P7-0088,macuilli tlaxcalli,makuilli tlaxkalli,five tortilla,editorial_number_phrase,editorial_generated_phrase,safe,"[""kw::macuilli::3"", ""kw::tlaxcalli::4""]",Conservative numeral + noun phrase for beginner practice.
+FCN-EX-P7-0089,macuilli amigo,makuilli amigo,five friend,editorial_number_phrase,editorial_generated_phrase,safe,"[""kw::macuilli::3"", ""kw::amigo::1""]",Conservative numeral + noun phrase for beginner practice.
+FCN-EX-P7-0090,macuilli calli,makuilli kalli,five house,editorial_number_phrase,editorial_generated_phrase,safe,"[""kw::macuilli::3"", ""kw::calli::5""]",Conservative numeral + noun phrase for beginner practice.
+FCN-EX-P7-0091,macuilli amatl,makuilli amatl,five paper,editorial_number_phrase,editorial_generated_phrase,safe,"[""kw::macuilli::3"", ""kw::amatl::6""]",Conservative numeral + noun phrase for beginner practice.
+FCN-EX-P7-0092,macuilli chilli,makuilli chilli,five chili pepper,editorial_number_phrase,editorial_generated_phrase,safe,"[""kw::macuilli::3"", ""kw::chilli::3""]",Conservative numeral + noun phrase for beginner practice.
